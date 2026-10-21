@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+ "chain": 14,
+ "explorer_host": "flarescan.com",
+ "asset_description": "USDT0 Flare",
+ "asset_url": "https://flarescan.com/address/0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+ "files": 14
+}

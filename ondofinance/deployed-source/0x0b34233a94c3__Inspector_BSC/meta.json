@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/Inspector.sol:Inspector",
+ "compiler": "0.8.22+commit.4fc1097e",
+ "address": "0x0b34233a94c3433092009d8903080553039bb7a1",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "Inspector (BSC)",
+ "asset_url": "https://bscscan.com/address/0x0b34233a94c3433092009d8903080553039bb7a1",
+ "files": 4
+}

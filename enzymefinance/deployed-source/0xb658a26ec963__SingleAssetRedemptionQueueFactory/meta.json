@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/single-asset-redemption-queue/SingleAssetRedemptionQueueFactory.sol:SingleAssetRedemptionQueueFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xb658a26ec9638051a42160bb02319fed12299b25",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "SingleAssetRedemptionQueueFactory",
+ "asset_url": "https://arbiscan.io/address/0xb658a26ec9638051a42160bb02319fed12299b25",
+ "files": 4
+}

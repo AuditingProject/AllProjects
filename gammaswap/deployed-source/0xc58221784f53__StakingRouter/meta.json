@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-staking/contracts/StakingRouter.sol:StakingRouter",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xc58221784f53b09f5ca2fa2d575e7a0f9af24ae4",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "StakingRouter",
+ "asset_url": "https://arbiscan.io/address/0xc58221784f53b09f5ca2fa2d575e7a0f9af24ae4#code",
+ "files": 26
+}

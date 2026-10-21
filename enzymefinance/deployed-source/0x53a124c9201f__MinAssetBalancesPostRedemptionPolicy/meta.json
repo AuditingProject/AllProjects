@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/current-shareholders/MinAssetBalancesPostRedemptionPolicy.sol:MinAssetBalancesPostRedemptionPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x53a124c9201f0d00470cd4245946d2bbb98210ba",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "MinAssetBalancesPostRedemptionPolicy",
+ "asset_url": "https://arbiscan.io/address/0x53a124c9201f0d00470cd4245946d2bbb98210ba",
+ "files": 15
+}

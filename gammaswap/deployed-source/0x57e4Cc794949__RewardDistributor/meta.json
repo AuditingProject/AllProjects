@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-staking/contracts/RewardDistributor.sol:RewardDistributor",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x57e4Cc794949FaA564521352f816dd13B14227C8",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "RewardDistributor",
+ "asset_url": "https://arbiscan.io/address/0x57e4Cc794949FaA564521352f816dd13B14227C8#code",
+ "files": 12
+}

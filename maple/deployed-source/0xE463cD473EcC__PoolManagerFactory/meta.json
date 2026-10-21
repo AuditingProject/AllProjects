@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "modules/pool-v2/contracts/proxy/PoolManagerFactory.sol:PoolManagerFactory",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xE463cD473EcC1d1A4ecF20b62624D84DD20a8339",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PoolManagerFactory",
+ "asset_url": "https://etherscan.io/address/0xE463cD473EcC1d1A4ecF20b62624D84DD20a8339",
+ "files": 12
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "LiquidLockerDepositor.vy:LiquidLockerDepositor",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0x3d4Ced97ADb0ae3A53DA95a47fFc749aAd26BC8f",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Liquid Locker Depositor Cove",
+ "asset_url": "https://etherscan.io/address/0x3d4Ced97ADb0ae3A53DA95a47fFc749aAd26BC8f#code",
+ "files": 1
+}

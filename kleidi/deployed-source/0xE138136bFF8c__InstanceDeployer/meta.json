@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "InstanceDeployer",
+ "compiler": "v0.8.25+commit.b61c2a91",
+ "address": "0xE138136bFF8c6A9337805DE19177E3b29fef2783",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "InstanceDeployer",
+ "asset_url": "https://etherscan.io/address/0xE138136bFF8c6A9337805DE19177E3b29fef2783",
+ "files": 38
+}

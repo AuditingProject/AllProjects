@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/portfolioToken/portfolioVault/PortfolioVault.sol:PortfolioVault",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0xC246D6619C30CbC7AFF319019761cC49D20b937E",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "PortfolioVault - MAG7Xon (BSC)",
+ "asset_url": "https://bscscan.com/address/0xC246D6619C30CbC7AFF319019761cC49D20b937E",
+ "files": 15
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/OneInchV5Adapter.sol:OneInchV5Adapter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x6C62b8F7b2fd1c60fFD3Afc1A2B15d4318745677",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OneInchV5Adapter",
+ "asset_url": "https://etherscan.io/address/0x6C62b8F7b2fd1c60fFD3Afc1A2B15d4318745677",
+ "files": 15
+}

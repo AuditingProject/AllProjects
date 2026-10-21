@@ -1,0 +1,12 @@
+{
+ "source": "routescan",
+ "match": "verified",
+ "name": "WethGate",
+ "compiler": "v0.8.7+commit.e28d00a7",
+ "address": "0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+ "chain": 43114,
+ "explorer_host": "snowtrace.io",
+ "asset_description": "WethGate AVAX",
+ "asset_url": "https://snowtrace.io/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+ "files": 3
+}

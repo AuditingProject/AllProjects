@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/cash/Proxy.sol:TokenProxy",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xbA11C5effA33c4D6F8f593CFA394241CfE925811",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "OUSG Token (Polygon)",
+ "asset_url": "https://polygonscan.com/address/0xbA11C5effA33c4D6F8f593CFA394241CfE925811",
+ "files": 9
+}

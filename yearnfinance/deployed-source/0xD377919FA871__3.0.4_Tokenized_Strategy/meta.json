@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TokenizedStrategy.sol:TokenizedStrategy",
+ "compiler": "0.8.18+commit.87f61d96",
+ "address": "0xD377919FA87120584B21279a491F82D5265A139c",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "3.0.4 Tokenized Strategy",
+ "asset_url": "https://etherscan.io/address/0xD377919FA87120584B21279a491F82D5265A139c",
+ "files": 1
+}

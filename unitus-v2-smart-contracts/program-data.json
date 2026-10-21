@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/UnitusLabs/Contracts/wiki/Deployments#base-contracts",
+   "type": "smart_contract",
+   "description": "This bounty program is limited to contracts and their corresponding functions that have already been deployed on-chain and are currently active. Unitus reserves the right of final interpretation regarding the scope."
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "unitus-v2-smart-contracts",
+ "maxBounty": "50000.0",
+ "kyc": false
+}

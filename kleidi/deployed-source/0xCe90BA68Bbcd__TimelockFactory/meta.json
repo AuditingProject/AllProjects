@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TimelockFactory",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0xCe90BA68BbcdCCe9aed1fCDDcb114d1DCdBc68C9",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "TimelockFactory",
+ "asset_url": "https://etherscan.io/address/0xCe90BA68BbcdCCe9aed1fCDDcb114d1DCdBc68C9",
+ "files": 32
+}

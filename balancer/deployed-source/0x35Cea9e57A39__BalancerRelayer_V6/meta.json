@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "BalancerRelayer",
+ "compiler": "0.7.1+commit.f4a555be",
+ "address": "0x35Cea9e57A393ac66Aaa7E25C391D52C74B5648f",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BalancerRelayer (V6)",
+ "asset_url": "https://etherscan.io/address/0x35Cea9e57A393ac66Aaa7E25C391D52C74B5648f",
+ "files": 17
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Guard",
+ "compiler": "v0.8.25+commit.b61c2a91",
+ "address": "0xFE49DD6d0CD41C4EC8F151C79f2d4019f5C5AD18",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Guard",
+ "asset_url": "https://etherscan.io/address/0xFE49DD6d0CD41C4EC8F151C79f2d4019f5C5AD18",
+ "files": 18
+}

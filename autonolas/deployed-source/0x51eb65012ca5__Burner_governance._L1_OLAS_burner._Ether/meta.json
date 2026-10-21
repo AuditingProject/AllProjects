@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Burner",
+ "compiler": "v0.8.28+commit.7893614a",
+ "address": "0x51eb65012ca5cEB07320c497F4151aC207FEa4E0",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Burner \u2014 governance. L1 OLAS burner. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x51eb65012ca5cEB07320c497F4151aC207FEa4E0#code",
+ "files": 1
+}

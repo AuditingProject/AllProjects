@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "Accountant.sol:Accountant",
+ "compiler": "0.8.18+commit.87f61d96",
+ "address": "0x5A74Cb32D36f2f517DB6f7b0A0591e09b22cDE69",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Accountant",
+ "asset_url": "https://etherscan.io/address/0x5A74Cb32D36f2f517DB6f7b0A0591e09b22cDE69#code",
+ "files": 1
+}

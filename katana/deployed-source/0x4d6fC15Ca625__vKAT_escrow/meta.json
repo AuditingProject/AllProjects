@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "lib/ve-governance/lib/openzeppelin-contracts/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.24+commit.e11b9ed9",
+ "address": "0x4d6fC15Ca6258b168225D283262743C623c13Ead",
+ "chain": 747474,
+ "explorer_host": "katanascan.com",
+ "asset_description": "vKAT escrow",
+ "asset_url": "https://katanascan.com/address/0x4d6fC15Ca6258b168225D283262743C623c13Ead",
+ "files": 8
+}

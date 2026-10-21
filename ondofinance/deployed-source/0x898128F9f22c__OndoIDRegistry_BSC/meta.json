@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "COProxy.sol:COProxy",
+ "compiler": "0.8.17+commit.8df45f5f",
+ "address": "0x898128F9f22c0192da0c5acD394D9eeAc461D911",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "OndoIDRegistry (BSC)",
+ "asset_url": "https://bscscan.com/address/0x898128F9f22c0192da0c5acD394D9eeAc461D911",
+ "files": 9
+}

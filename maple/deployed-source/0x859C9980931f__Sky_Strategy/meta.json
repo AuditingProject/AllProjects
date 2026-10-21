@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "modules/maple-proxy-factory/modules/proxy-factory/contracts/Proxy.sol:Proxy",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x859C9980931fa0A63765fD8EF2e29918Af5b038C",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Sky Strategy",
+ "asset_url": "https://etherscan.io/address/0x859C9980931fa0A63765fD8EF2e29918Af5b038C",
+ "files": 3
+}

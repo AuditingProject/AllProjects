@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/infrastructure/price-feeds/primitives/UsdEthSimulatedAggregator.sol:UsdEthSimulatedAggregator",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x51e75b5e0eef2d40b4d70c5daa2666e1ea30f0bd",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "UsdEthSimulatedAggregator",
+ "asset_url": "https://polygonscan.com/address/0x51e75b5e0eef2d40b4d70c5daa2666e1ea30f0bd",
+ "files": 2
+}

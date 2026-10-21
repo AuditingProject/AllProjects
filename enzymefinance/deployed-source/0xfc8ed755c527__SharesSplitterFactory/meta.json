@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "SharesSplitterFactory",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xfc8ed755c52782fa1a4ba9193b566e775701e511",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "SharesSplitterFactory",
+ "asset_url": "https://etherscan.io/address/0xfc8ed755c52782fa1a4ba9193b566e775701e511",
+ "files": 13
+}

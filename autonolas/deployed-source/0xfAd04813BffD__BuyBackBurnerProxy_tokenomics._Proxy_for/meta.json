@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/utils/BuyBackBurnerProxy.sol:BuyBackBurnerProxy",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0xfAd04813BffD759a308A2BEaAcEf587720ba743F",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BuyBackBurnerProxy \u2014 tokenomics. Proxy for BuyBackBurner. Deployed on: Ethereum 0xfAd04813BffD759a308A2BEaAcEf587720ba743F; Polygon 0x88943F63E29cd436B62cFfE332aD54De92AdCE98; Gnosis 0x153196110040A0c729227C603Db3A6c6D91851B2; Arbitrum 0xd2ff4Cf0927c3cFbF3BB27391044dBaf6f4ca7b9; Optimism 0x4891f5894634DcD6d11644fe8E56756EF2681582; Base 0x3FD8C757dE190bcc82cF69Df3Cd9Ab15bCec1426; Celo 0x847bBE8b474e0820215f818858e23F5f5591855A.",
+ "asset_url": "https://etherscan.io/address/0xfAd04813BffD759a308A2BEaAcEf587720ba743F#code",
+ "files": 1
+}

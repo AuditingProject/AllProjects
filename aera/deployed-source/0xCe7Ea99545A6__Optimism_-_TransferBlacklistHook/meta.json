@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/periphery/hooks/transfer/TransferBlacklistHook.sol:TransferBlacklistHook",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0xCe7Ea99545A6d0744a52Da9017729451Ec92A62C",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "Optimism - TransferBlacklistHook",
+ "asset_url": "https://optimistic.etherscan.io/address/0xCe7Ea99545A6d0744a52Da9017729451Ec92A62C",
+ "files": 7
+}

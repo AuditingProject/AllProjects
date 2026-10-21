@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.optimism.io",
+ "match": "verified",
+ "name": "LendingPool",
+ "compiler": "0.8.18+commit.87f61d96",
+ "address": "0xbb505c54d71e9e599cb8435b4f0ceec05fc71cbd",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "LendingPool (LYF)",
+ "asset_url": "https://optimistic.etherscan.io/address/0xbb505c54d71e9e599cb8435b4f0ceec05fc71cbd",
+ "files": 33
+}

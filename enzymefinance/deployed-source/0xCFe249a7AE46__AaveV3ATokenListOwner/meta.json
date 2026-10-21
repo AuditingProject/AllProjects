@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "AaveV3ATokenListOwner",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xCFe249a7AE4619980eeA1A2d83a26a5E7281EbB0",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AaveV3ATokenListOwner",
+ "asset_url": "https://etherscan.io/address/0xCFe249a7AE4619980eeA1A2d83a26a5E7281EbB0",
+ "files": 7
+}

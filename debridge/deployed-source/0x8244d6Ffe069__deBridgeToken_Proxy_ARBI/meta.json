@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "deBridgeToken Proxy ARBI",
+ "asset_url": "https://arbiscan.io/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+ "files": 1
+}

@@ -1,0 +1,98 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/L1/starkware/solidity/stake/RewardSupplierStorage.sol",
+   "type": "smart_contract",
+   "description": "RewardSupplierStorage.sol"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/L1/starkware/solidity/stake/RewardSupplierExternalInterfaces.sol",
+   "type": "smart_contract",
+   "description": "RewardSupplierExternalInterfaces.sol"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/tree/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/L1/starkware/solidity/stake/RewardSupplier.sol",
+   "type": "smart_contract",
+   "description": "RewardSupplier.sol"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/tree/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/L1/starkware/solidity/stake/MintManager.sol",
+   "type": "smart_contract",
+   "description": "MintManager.sol"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/tree/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/L1/starkware/solidity/libraries",
+   "type": "smart_contract",
+   "description": "L1 Solidity Libraries"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/tree/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/L1/starkware/solidity/interfaces",
+   "type": "smart_contract",
+   "description": "L1 Solidity Interfaces"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/tree/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/L1/starkware/solidity/components",
+   "type": "smart_contract",
+   "description": "L1 Solidity Components"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/L1/starkware/solidity/upgrade/ProxySupportImpl.sol",
+   "type": "smart_contract",
+   "description": "Upgrade_ProxySupportImpl.sol"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/L1/starkware/solidity/stake/PeriodMintLimit.sol",
+   "type": "smart_contract",
+   "description": "PeriodMintLimit.sol"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/contracts/src/utils.cairo",
+   "type": "smart_contract",
+   "description": "utils.cairo"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/contracts/src/staking/staking.cairo",
+   "type": "smart_contract",
+   "description": "staking.cairo"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/contracts/src/staking/interface.cairo",
+   "type": "smart_contract",
+   "description": "staking_interface.cairo"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/contracts/src/reward_supplier/reward_supplier.cairo",
+   "type": "smart_contract",
+   "description": "reward_supplier.cairo"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/contracts/src/reward_supplier/interface.cairo",
+   "type": "smart_contract",
+   "description": "reward_supplier_interface.cairo"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/contracts/src/pool/pool.cairo",
+   "type": "smart_contract",
+   "description": "Pool.cairo"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/contracts/src/pool/interface.cairo",
+   "type": "smart_contract",
+   "description": "Pool_interface.cairo"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/contracts/src/minting_curve/minting_curve.cairo",
+   "type": "smart_contract",
+   "description": "minting_curve.cairo"
+  },
+  {
+   "url": "https://github.com/starkware-libs/starknet-staking/blob/%40staking/contracts-v1.0.1-dev.854/workspace/apps/staking/contracts/src/minting_curve/interface.cairo",
+   "type": "smart_contract",
+   "description": "minting_curve_interface,cairo"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "starknet-staking",
+ "maxBounty": "100000.0",
+ "kyc": true
+}

@@ -1,0 +1,172 @@
+{
+ "assets": [
+  {
+   "id": "5mUVD7W2sZtIhl2Y3K1zjY",
+   "url": "https://github.com/charmfinance/alpha-vaults-v2-contracts/blob/main/contracts/AlphaProVault.sol",
+   "type": "smart_contract",
+   "addedAt": "2022-02-18T12:09:23.024Z",
+   "revision": 0,
+   "description": null,
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "2pYIfndfVifzo5ik4MSt5c",
+   "url": "https://github.com/charmfinance/alpha-vaults-v2-contracts/blob/main/contracts/AlphaProVaultFactory.sol",
+   "type": "smart_contract",
+   "addedAt": "2023-08-10T18:47:53.483Z",
+   "revision": 0,
+   "description": null,
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "6d87rRrXhC3pwsnVeel4JI",
+   "url": "https://github.com/charmfinance/alpha-vaults-v2-contracts/blob/main/contracts/CloneFactory.sol",
+   "type": "smart_contract",
+   "addedAt": "2023-08-10T18:48:31.746Z",
+   "revision": 0,
+   "description": null,
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  }
+ ],
+ "rewards": [
+  {
+   "id": 50645,
+   "primacy": null,
+   "severity": "critical",
+   "assetType": "smart_contract",
+   "fixedReward": 6000,
+   "rewardModel": "fixed",
+   "rewardCalculationPercentage": 0
+  },
+  {
+   "id": 50646,
+   "primacy": null,
+   "severity": "high",
+   "assetType": "smart_contract",
+   "fixedReward": 3000,
+   "rewardModel": "fixed"
+  },
+  {
+   "id": 50647,
+   "primacy": null,
+   "severity": "medium",
+   "assetType": "smart_contract",
+   "fixedReward": 1500,
+   "rewardModel": "fixed"
+  },
+  {
+   "id": 50648,
+   "primacy": null,
+   "severity": "low",
+   "assetType": "smart_contract",
+   "fixedReward": 1000,
+   "rewardModel": "fixed"
+  }
+ ],
+ "impacts": [
+  {
+   "id": 34,
+   "type": "smart_contract",
+   "severity": "low",
+   "title": "Contract fails to deliver promised returns, but doesn't lose value"
+  },
+  {
+   "id": 23,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Theft of unclaimed yield"
+  },
+  {
+   "id": 25,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Permanent freezing of unclaimed yield"
+  },
+  {
+   "id": 27,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Temporary freezing of funds"
+  },
+  {
+   "id": 29,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Smart contract unable to operate due to lack of token funds"
+  },
+  {
+   "id": 96,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Block stuffing for profit"
+  },
+  {
+   "id": 31,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
+  },
+  {
+   "id": 32,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Theft of gas"
+  },
+  {
+   "id": 33,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Unbounded gas consumption"
+  },
+  {
+   "id": 97,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Any governance voting result manipulation"
+  },
+  {
+   "id": 15,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
+  },
+  {
+   "id": 17,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Permanent freezing of funds"
+  },
+  {
+   "id": 98,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Miner-extractable value (MEV)"
+  },
+  {
+   "id": 22,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Protocol insolvency"
+  }
+ ],
+ "knownIssues": null,
+ "programCodebases": null,
+ "maxBounty": 6000,
+ "kyc": false,
+ "updatedDate": "2026-09-02T09:51:18.648Z",
+ "launchDate": "2021-02-05T07:00:00.000Z",
+ "programOverview": "Charm\u2019s Alpha Vaults creates permissionless vaults to manage Uniswap liquidity. It uses Charm\u2019s expertise in Decentralized Market Making Strategies to help anyone increase the liquidity of any Uniswap V3 pool. Using the vault, anyone can launch liquidity mining campaigns just like Uniswap V2, have full control over the vault\u2019s strategy, increase token liquidity using concentrated liquidity, guarantee tokens will always be tradable, and achieve full decentralization. In addition, the vault\u2019s shares are tokenized and ERC-20 compliant, which means LPs can deposit, withdraw, earn yield, and stake just like regular tokens.\n\nThe core contracts of Alpha Vaults version 2 are included within the scope of this bug bounty program.",
+ "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on\nthe [Immunefi Vulnerability Severity Classification System](/severity-system/). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nPayouts are handled by the **Charm** team directly and are denominated in\n**USD**. However, payouts are done in **ETH or USDC**.",
+ "customOutOfScopeInformation": "- Best practice critiques",
+ "assetsBodyV2": null,
+ "impactsBody": null
+}

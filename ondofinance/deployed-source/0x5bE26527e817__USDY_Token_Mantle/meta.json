@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "UsdyTokenProxy.sol:TokenProxy",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x5bE26527e817998A7206475496fDE1E68957c5A6",
+ "chain": 5000,
+ "explorer_host": "explorer.mantle.xyz",
+ "asset_description": "USDY Token (Mantle)",
+ "asset_url": "https://explorer.mantle.xyz/address/0x5bE26527e817998A7206475496fDE1E68957c5A6",
+ "files": 9
+}

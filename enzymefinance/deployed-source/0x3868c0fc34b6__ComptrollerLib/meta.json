@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/core/fund/comptroller/ComptrollerLib.sol:ComptrollerLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x3868c0fc34b6ece124c6ab122f6f29e978be6661",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ComptrollerLib",
+ "asset_url": "https://arbiscan.io/address/0x3868c0fc34b6ece124c6ab122f6f29e978be6661",
+ "files": 32
+}

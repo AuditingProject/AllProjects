@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "Team.vy:Team",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0xa59B34c87f97Bdf95Ab3E532FD9b7D1Fcd23BF43",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Team Implementation",
+ "asset_url": "https://etherscan.io/address/0xa59B34c87f97Bdf95Ab3E532FD9b7D1Fcd23BF43",
+ "files": 1
+}

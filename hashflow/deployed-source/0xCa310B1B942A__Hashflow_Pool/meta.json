@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/pools/HashflowPool.sol:HashflowPool",
+ "compiler": "0.8.18+commit.87f61d96",
+ "address": "0xCa310B1B942A30Ff4b40a5E1b69AB4607eC79Bc1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Hashflow Pool",
+ "asset_url": "https://etherscan.io/address/0xCa310B1B942A30Ff4b40a5E1b69AB4607eC79Bc1",
+ "files": 16
+}

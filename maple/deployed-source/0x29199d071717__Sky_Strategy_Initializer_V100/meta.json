@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/proxy/skyStrategy/MapleSkyStrategyInitializer.sol:MapleSkyStrategyInitializer",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x29199d071717c72baab50eEf9adD6736A18A1d1d",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Sky Strategy Initializer (V100)",
+ "asset_url": "https://etherscan.io/address/0x29199d071717c72baab50eEf9adD6736A18A1d1d",
+ "files": 11
+}

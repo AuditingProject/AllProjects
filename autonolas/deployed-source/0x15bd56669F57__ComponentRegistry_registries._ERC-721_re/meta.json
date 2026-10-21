@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ComponentRegistry",
+ "compiler": "0.8.15+commit.e14f2714",
+ "address": "0x15bd56669F57192a97dF41A2aa8f4403e9491776",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ComponentRegistry \u2014 registries. ERC-721 registry of code components. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x15bd56669F57192a97dF41A2aa8f4403e9491776#code",
+ "files": 5
+}

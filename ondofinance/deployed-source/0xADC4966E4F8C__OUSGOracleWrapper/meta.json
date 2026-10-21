@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/xManager/OndoOracle/OUSGOracleWrapper.sol:OUSGOracleWrapper",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xADC4966E4F8CAAf12C777f07AA7A0Ae8D894cDf3",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OUSGOracleWrapper",
+ "asset_url": "https://etherscan.io/address/0xADC4966E4F8CAAf12C777f07AA7A0Ae8D894cDf3",
+ "files": 7
+}

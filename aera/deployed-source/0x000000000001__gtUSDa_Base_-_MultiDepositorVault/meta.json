@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/MultiDepositorVault.sol:MultiDepositorVault",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0x000000000001CdB57E58Fa75Fe420a0f4D6640D5",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "gtUSDa (Base) - MultiDepositorVault",
+ "asset_url": "https://basescan.org/address/0x000000000001CdB57E58Fa75Fe420a0f4D6640D5",
+ "files": 48
+}

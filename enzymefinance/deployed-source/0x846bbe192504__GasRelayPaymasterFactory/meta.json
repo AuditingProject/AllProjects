@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "GasRelayPaymasterFactory",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x846bbe1925047023651de7ec289f329c24ded3a8",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GasRelayPaymasterFactory",
+ "asset_url": "https://etherscan.io/address/0x846bbe1925047023651de7ec289f329c24ded3a8",
+ "files": 6
+}

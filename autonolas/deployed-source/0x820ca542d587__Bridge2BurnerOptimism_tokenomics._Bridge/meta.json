@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/utils/Bridge2BurnerOptimism.sol:Bridge2BurnerOptimism",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x820ca542d5876FDEf240584F6f3924852D527FED",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "Bridge2BurnerOptimism \u2014 tokenomics. Bridge-then-burn for OP-stack L2s. Deployed on: Optimism 0x820ca542d5876FDEf240584F6f3924852D527FED; Base 0xd856Dc50d65541C131f28BE5CE59644d74E1b523; Celo 0x0e998DaAedaCD59ba2F65558a29417b69f05D972.",
+ "asset_url": "https://optimistic.etherscan.io/address/0x820ca542d5876FDEf240584F6f3924852D527FED#code",
+ "files": 2
+}

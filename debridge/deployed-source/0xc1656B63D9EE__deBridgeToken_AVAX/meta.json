@@ -1,0 +1,12 @@
+{
+ "source": "routescan",
+ "match": "verified",
+ "name": "DeBridgeToken",
+ "compiler": "v0.8.7+commit.e28d00a7",
+ "address": "0xc1656B63D9EEBa6d114f6bE19565177893e5bCBF",
+ "chain": 43114,
+ "explorer_host": "snowtrace.io",
+ "asset_description": "deBridgeToken AVAX",
+ "asset_url": "https://snowtrace.io/address/0xc1656B63D9EEBa6d114f6bE19565177893e5bCBF",
+ "files": 15
+}

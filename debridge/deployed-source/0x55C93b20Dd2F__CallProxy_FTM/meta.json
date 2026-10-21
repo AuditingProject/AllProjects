@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/periphery/CallProxy.sol:CallProxy",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x55C93b20Dd2F790AC429D6341a022A781791654A",
+ "chain": 250,
+ "explorer_host": "ftmscan.com",
+ "asset_description": "CallProxy FTM",
+ "asset_url": "https://ftmscan.com/address/0x55C93b20Dd2F790AC429D6341a022A781791654A",
+ "files": 15
+}

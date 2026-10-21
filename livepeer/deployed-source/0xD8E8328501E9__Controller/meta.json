@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/Controller.sol:Controller",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xD8E8328501E9645d16Cf49539efC04f734606ee4",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "Controller",
+ "asset_url": "https://arbiscan.io/address/0xD8E8328501E9645d16Cf49539efC04f734606ee4#code",
+ "files": 5
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/OndoOwner.sol:OndoOwner",
+ "compiler": "0.8.22+commit.4fc1097e",
+ "address": "0x4D4E562D6882Dc523B8d629d2E9dF9230B699933",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "OndoOwner (BSC)",
+ "asset_url": "https://bscscan.com/address/0x4D4E562D6882Dc523B8d629d2E9dF9230B699933",
+ "files": 40
+}

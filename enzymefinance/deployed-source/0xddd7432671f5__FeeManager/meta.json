@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/fee-manager/FeeManager.sol:FeeManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xddd7432671f5adc1c82c7c875624c1b0bc461deb",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "FeeManager",
+ "asset_url": "https://polygonscan.com/address/0xddd7432671f5adc1c82c7c875624c1b0bc461deb",
+ "files": 15
+}

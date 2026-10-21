@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/base/Roles/BoringQueue/BoringSolver.sol:BoringSolver",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xe3F8fa039fF7A8Fe42fA2C6e9DC8565EcE6f7042",
+ "chain": 534352,
+ "explorer_host": "scrollscan.com",
+ "asset_description": "LiquidETH - boring_solver",
+ "asset_url": "https://scrollscan.com/address/0xe3F8fa039fF7A8Fe42fA2C6e9DC8565EcE6f7042",
+ "files": 25
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-implementations/contracts/pools/VaultGammaPool.sol:VaultGammaPool",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xbd6e02c05a274d77ba2958e4db93692ee12b311c",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "VaultGammaPool",
+ "asset_url": "https://arbiscan.io/address/0xbd6e02c05a274d77ba2958e4db93692ee12b311c#code",
+ "files": 47
+}

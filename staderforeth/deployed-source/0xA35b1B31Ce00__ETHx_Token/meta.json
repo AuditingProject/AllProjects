@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ETHx Token",
+ "asset_url": "https://etherscan.io/address/0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
+ "files": 9
+}

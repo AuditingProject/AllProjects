@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/transfers/DeBridgeTokenDeployer.sol:DeBridgeTokenDeployer",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "deBridgeTokenDeployer MATIC",
+ "asset_url": "https://polygonscan.com/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+ "files": 22
+}

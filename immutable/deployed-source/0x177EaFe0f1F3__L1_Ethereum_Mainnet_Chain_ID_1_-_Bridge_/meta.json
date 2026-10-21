@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "RootERC20BridgeFlowRate",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x177EaFe0f1F3359375B1728dae0530a75C83E154",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "L1 Ethereum Mainnet Chain ID 1 - Bridge Implementation",
+ "asset_url": "https://etherscan.io/address/0x177EaFe0f1F3359375B1728dae0530a75C83E154",
+ "files": 28
+}

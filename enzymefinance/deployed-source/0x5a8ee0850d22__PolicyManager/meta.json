@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/PolicyManager.sol:PolicyManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x5a8ee0850d22ffef4169dbd348c1b0d7d5f5546f",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "PolicyManager",
+ "asset_url": "https://polygonscan.com/address/0x5a8ee0850d22ffef4169dbd348c1b0d7d5f5546f",
+ "files": 20
+}

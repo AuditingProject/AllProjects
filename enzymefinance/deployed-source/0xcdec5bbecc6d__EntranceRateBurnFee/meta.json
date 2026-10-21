@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/fee-manager/fees/EntranceRateBurnFee.sol:EntranceRateBurnFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xcdec5bbecc6d2c004d5378a63a3c484c2643ed9d",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "EntranceRateBurnFee",
+ "asset_url": "https://etherscan.io/address/0xcdec5bbecc6d2c004d5378a63a3c484c2643ed9d",
+ "files": 6
+}

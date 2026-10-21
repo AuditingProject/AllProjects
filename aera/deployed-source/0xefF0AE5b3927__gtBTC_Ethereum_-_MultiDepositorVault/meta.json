@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MultiDepositorVault",
+ "compiler": "v0.8.29+commit.ab55807c",
+ "address": "0xefF0AE5b39271b33f448cD408b51DC8aA72a672b",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "gtBTC (Ethereum) - MultiDepositorVault",
+ "asset_url": "https://etherscan.io/address/0xefF0AE5b39271b33f448cD408b51DC8aA72a672b",
+ "files": 48
+}

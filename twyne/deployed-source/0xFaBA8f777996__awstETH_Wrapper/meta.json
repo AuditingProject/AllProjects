@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ERC1967Proxy",
+ "compiler": "v0.8.28+commit.7893614a",
+ "address": "0xFaBA8f777996C0C28fe9e6554D84cB30ca3e1881",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "awstETH Wrapper",
+ "asset_url": "https://etherscan.io/address/0xFaBA8f777996C0C28fe9e6554D84cB30ca3e1881",
+ "files": 8
+}

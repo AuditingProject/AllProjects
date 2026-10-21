@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/infrastructure/price-feeds/derivatives/feeds/EtherFiEthPriceFeed.sol:EtherFiEthPriceFeed",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x31103db5639ad1d5351b83409fdf7e575e26774b",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "EtherFiEthPriceFeed",
+ "asset_url": "https://etherscan.io/address/0x31103db5639ad1d5351b83409fdf7e575e26774b",
+ "files": 3
+}

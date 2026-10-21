@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "BatchRelayerLibrary",
+ "compiler": "0.7.1+commit.f4a555be",
+ "address": "0xeA66501dF1A00261E3bB79D1E90444fc6A186B62",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BatchRelayerLibrary (V6)",
+ "asset_url": "https://etherscan.io/address/0xeA66501dF1A00261E3bB79D1E90444fc6A186B62",
+ "files": 67
+}

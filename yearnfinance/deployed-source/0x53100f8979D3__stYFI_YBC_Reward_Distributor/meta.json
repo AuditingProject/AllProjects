@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "YBCRewardDistributor.vy:YBCRewardDistributor",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0x53100f8979D3655a2E95465f583b0f4A11c8bbe1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI YBC Reward Distributor",
+ "asset_url": "https://etherscan.io/address/0x53100f8979D3655a2E95465f583b0f4A11c8bbe1",
+ "files": 1
+}

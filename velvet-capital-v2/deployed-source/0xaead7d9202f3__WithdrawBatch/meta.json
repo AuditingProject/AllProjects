@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/bundle/WithdrawBatch.sol:WithdrawBatch",
+ "compiler": "0.8.17+commit.8df45f5f",
+ "address": "0xaead7d9202f3efb73657ca031f645c6b46cfe177",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "WithdrawBatch",
+ "asset_url": "https://basescan.org/address/0xaead7d9202f3efb73657ca031f645c6b46cfe177",
+ "files": 16
+}

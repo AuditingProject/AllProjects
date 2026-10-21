@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/ServiceRegistryL2.sol:ServiceRegistryL2",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xE3607b00E75f6405248323A9417ff6b39B244b50",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ServiceRegistryL2 \u2014 registries. ERC-721 registry of services (L2). Deployed on: Polygon 0xE3607b00E75f6405248323A9417ff6b39B244b50; Gnosis 0x9338b5153AE39BB89f50468E608eD9d764B755fD; Arbitrum 0xE3607b00E75f6405248323A9417ff6b39B244b50; Optimism 0x3d77596beb0f130a4415df3D2D8232B3d3D31e44; Base 0x3C1fF68f5aa342D296d4DEe4Bb1cACCA912D95fE; Celo 0xE3607b00E75f6405248323A9417ff6b39B244b50; Mode 0x3C1fF68f5aa342D296d4DEe4Bb1cACCA912D95fE.",
+ "asset_url": "https://polygonscan.com/address/0xE3607b00E75f6405248323A9417ff6b39B244b50#code",
+ "files": 5
+}

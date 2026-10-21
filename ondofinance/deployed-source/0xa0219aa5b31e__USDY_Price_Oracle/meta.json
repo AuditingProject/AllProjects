@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "RWADynamicOracle",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xa0219aa5b31e65bc920b5b6dfb8edf0988121de0",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "USDY Price Oracle",
+ "asset_url": "https://etherscan.io/address/0xa0219aa5b31e65bc920b5b6dfb8edf0988121de0",
+ "files": 12
+}

@@ -1,0 +1,38 @@
+[
+ {
+  "url": "https://etherscan.io/address/0xfCEF2Fe72413b65d3F393d278A714caD87512bcd#code",
+  "desc": "MetaRouterGateway",
+  "status": "fetched",
+  "dir": "0xfCEF2Fe72413__MetaRouterGateway",
+  "name": "MetaRouterGateway",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 2
+ },
+ {
+  "url": "https://bscscan.com/address/0x5c97D726bf5130AE15408cE32bc764e458320D2f#code",
+  "desc": "MetaRouterGateway",
+  "status": "fetched",
+  "dir": "0x5c97D726bf51__MetaRouterGateway",
+  "name": "contracts/synth-core/metarouter/MetaRouterGateway.sol:MetaRouterGateway",
+  "source": "sourcify",
+  "files": 2
+ },
+ {
+  "url": "https://snowtrace.io/address/0x4cfA66497Fa84D739a0f785FBcEe9196f1C64e4a#code",
+  "desc": "MetaRouterGateway",
+  "status": "fetched",
+  "dir": "0x4cfA66497Fa8__MetaRouterGateway",
+  "name": "MetaRouterGateway",
+  "source": "routescan",
+  "files": 2
+ },
+ {
+  "url": "https://polygonscan.com/address/0xAb83653fd41511D638b69229afBf998Eb9B0F30c#code",
+  "desc": "MetaRouterGateway",
+  "status": "fetched",
+  "dir": "0xAb83653fd415__MetaRouterGateway",
+  "name": "contracts/synth-core/metarouter/MetaRouterGateway.sol:MetaRouterGateway",
+  "source": "sourcify",
+  "files": 2
+ }
+]

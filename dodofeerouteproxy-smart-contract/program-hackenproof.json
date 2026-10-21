@@ -1,0 +1,143 @@
+{
+ "title": "DODOFeeRouteProxy Smart Contract",
+ "logo": "/uploads/bounty_program/logo/63b3e975fd180475b4c17860/logo.png?timestamp=1781797279",
+ "logoPresent": true,
+ "companyName": "DODOEX",
+ "companySlug": "dodoex",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "06 Mar 2023",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/dodofeerouteproxy-smart-contract/reports/new",
+ "kycRequired": false,
+ "pocRequired": true,
+ "reputationRequired": null,
+ "minReputation": 100,
+ "submissionFee": 5,
+ "programOfTheWeek": false,
+ "depositAvailable": false,
+ "maxReward": "$10,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 4,
+   "reputation": 15,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/696e07c440041c000d746bff/avatar.png?timestamp=1778771255",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "HarvestoOrlando",
+    "verified": true
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 3,
+   "reputation": 12,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/69a85d1040041ce76d7a0040/avatar.png?timestamp=1780040730",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "Nahmstay",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 3,
+   "reputation": 10,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/67b72ee840041c02666dab4d/avatar.png?timestamp=1792093512",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "barelia",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 3,
+   "reputation": 10,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/69abca7b40041c99f37a035b/avatar.png?timestamp=1778186717",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "jabirfirdaus",
+    "verified": true
+   }
+  },
+  {
+   "rank": 5,
+   "reports_amount": 2,
+   "reputation": 10,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/68a354be40041c000d3c11b0/avatar.png?timestamp=1787734829",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "raz-uh",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 65,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 10000,
+  "critical_min": 5000,
+  "high_max": 5000,
+  "high_min": 1000,
+  "low_max": null,
+  "low_min": null,
+  "medium_max": 1000,
+  "medium_min": 500
+ },
+ "description": "Main Contract: ./contracts/SmartRoute/DODORouteProxy.sol\r\n\r\nDODOFeeRouteProxy is a new routeProxy contract with fee rebate to manage all route. It provides three methods to swap, including mixSwap, multiSwap and externalSwap.  Dodo and front-end users could take certain route fee rebate from each swap. \r\n",
+ "sla": {
+  "first_response": 3,
+  "resolution_time": 7,
+  "time_to_reward": 14,
+  "time_to_triage": 3
+ },
+ "totalRewards": 0,
+ "submittedReports": 101,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "63b3eddafd180475b4c1787c",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/DODOEX/dodo-route-contract",
+   "target_description": "",
+   "title": "Smart Contract"
+  }
+ ],
+ "programRules": "* All tests of hardhat are included in github. \r\n* Come up bugs and at least one method to solve the problem\r\n* Better to have hack example\r\n* Any details of found vulnerabilities must not be communicated to anyone who is not a HackenProof Team or an authorized employee of this Company without appropriate permission",
+ "focusArea": "## Impacts in Scope\r\n\r\nOnly the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.\r\n\r\n## Critical\t \r\nSmart Contracts\r\n\r\n* Any governance voting result manipulation\r\n* Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield\r\n* Permanent freezing of funds\r\n* Miner-extractable value (MEV)\r\n* Protocol Insolvency\r\n\r\n## High\t \r\nSmart Contracts\r\n\r\n* Theft of unclaimed yield\r\n* Permanent freezing of unclaimed yield\r\n* Temporary freezing of funds\r\n\r\n## Medium\t \r\nSmart Contracts\r\n\r\n* Smart contract unable to operate due to lack of token funds\r\n* Block stuffing for profit\r\n* Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)\r\n* Theft of gas\r\n* Unbounded gas consumption\r\n\r\n## Low\t \r\nSmart Contracts\r\nContract fails to deliver promised returns, but doesn't lose value\r\n\r\nThese accepted impacts are then based on the severity classification system of this bug bounty program. When submitting a bug report, please select the severity level you feel best corresponds to the severity classification system as long as the impact itself is one of the listed items. \r\n\r\n\r\n\r\n## Out of Scope & Rules \r\n\r\nThe following vulnerabilities are excluded from the rewards for this bug bounty program:\r\n\r\n* Attacks that the reporter has already exploited themselves, leading to damage\r\n* Attacks requiring access to leaked keys/credentials\r\n* Attacks requiring access to privileged addresses (governance, strategist)\r\n* Incorrect data supplied by third party oracles\r\n* Not to exclude oracle manipulation/flash loan attacks\r\n* Basic economic governance attacks (e.g. 51% attack)\r\n* Lack of liquidity\r\n* Best practice critiques\r\n* Sybil attacks\r\n* Arbitrary token sweep in DODOFeeRouteProxy is a known risk, it isn't an issue as the DODORouteProxy should not contain any ERC20 tokens.\r\n\r\nFeeRouteProxy exclusions: FeeRouteProxy.sol won't left any tokens in normal swap, so we don't abandon using tokens in the proxy through specific swap method\r\n \r\n\r\nThe following activities are prohibited by this bug bounty program:\r\n\r\n\r\n* Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\r\n* Any testing with pricing oracles or third party smart contracts\r\n* Attempting phishing or other social engineering attacks against our employees and/or customers\r\n* Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\r\n* Any denial of service attacks\r\n* Automated testing of services that generates significant amounts of traffic\r\n* Public disclosure of an unpatched vulnerability in an embargoed bounty\r\n",
+ "disclosureGuidelines": "* Do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization\r\n* No vulnerability disclosure, including partial is allowed for the moment.\r\n* Please do NOT publish/discuss bugs",
+ "eligibilityAndCoordinateDisclosure": "We are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:\r\n\r\n* You must be the first reporter of a vulnerability.\r\n* The vulnerability must be a qualifying vulnerability\r\n* Any vulnerability found must be reported no later than 24 hours after discovery and exclusively through hackenproof.com\r\n* You must send a clear textual description of the report along with steps to reproduce the issue, include attachments such as screenshots or proof of concept code as necessary.\r\n* You must not be a former or current employee of us or one of its contractor.\r\nONLY USE YOUR HackenProof ADDRESS (in case of violation, no bounty can be awarded)\r\n* Provide detailed but to-the point reproduction steps",
+ "labels": {
+  "types": [
+   "smart contract"
+  ],
+  "languages": [
+   "Solidity"
+  ],
+  "platforms": [],
+  "project_types": [
+   "DEX"
+  ]
+ },
+ "customBlocks": [],
+ "scopeReview": 284004,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "10000.0",
+ "minBounty": "500.0"
+}

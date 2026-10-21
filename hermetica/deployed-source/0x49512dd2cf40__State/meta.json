@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.state-hbtc-v1",
+ "compiler": "clarity4",
+ "address": "0x49512dd2cf400a9b1ace64687d386b3d3d1ad40444de83f6dda1c29cebe01919",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "State",
+ "asset_url": "https://explorer.hiro.so/txid/0x49512dd2cf400a9b1ace64687d386b3d3d1ad40444de83f6dda1c29cebe01919?chain=mainnet",
+ "files": 1
+}

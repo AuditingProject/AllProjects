@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/staking/GnosisTargetDispenserL2.sol:GnosisTargetDispenserL2",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x5b6c538C7b2E0b44Fa8A3B7a0532EF797b07d0E9",
+ "chain": 100,
+ "explorer_host": "gnosisscan.io",
+ "asset_description": "GnosisTargetDispenserL2 \u2014 tokenomics. L2 staking incentive target dispenser. Gnosis.",
+ "asset_url": "https://gnosisscan.io/address/0x5b6c538C7b2E0b44Fa8A3B7a0532EF797b07d0E9#code",
+ "files": 3
+}

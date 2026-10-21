@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OneTokenFactory",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0xd0092632b9ac5a7856664eec1abb6e3403a6a36a",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OneTokenFactory",
+ "asset_url": "https://etherscan.io/address/0xd0092632b9ac5a7856664eec1abb6e3403a6a36a",
+ "files": 24
+}

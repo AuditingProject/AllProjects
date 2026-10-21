@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/token/Minter.sol:Minter",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xc20DE37170B45774e6CD3d2304017fc962f27252",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "Minter",
+ "asset_url": "https://arbiscan.io/address/0xc20DE37170B45774e6CD3d2304017fc962f27252",
+ "files": 13
+}

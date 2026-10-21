@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/fee-manager/fees/PerformanceFee.sol:PerformanceFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xfedc73464dfd156d30f6524654a5d56e766da0c3",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PerformanceFee",
+ "asset_url": "https://etherscan.io/address/0xfedc73464dfd156d30f6524654a5d56e766da0c3",
+ "files": 49
+}

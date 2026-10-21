@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/wombat/WombatPoolHelper.sol:WombatPoolHelper",
+ "compiler": "0.8.4+commit.c7e474f2",
+ "address": "0xb68F5247f31fe28FDe0b0F7543F635a4d6EDbD7F",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "Main Pool USDC Deposit Helper",
+ "asset_url": "https://bscscan.com/address/0xb68F5247f31fe28FDe0b0F7543F635a4d6EDbD7F",
+ "files": 16
+}

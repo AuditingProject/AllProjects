@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/Provisioner.sol:Provisioner",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0x18cf8d963e1a727f9bbf3aeffa0bd04fb4dbda07",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "gtUSDa (Base) - Provisioner",
+ "asset_url": "https://basescan.org/address/0x18cf8d963e1a727f9bbf3aeffa0bd04fb4dbda07",
+ "files": 28
+}

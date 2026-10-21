@@ -1,0 +1,110 @@
+[
+ {
+  "url": "https://etherscan.io/address/0x9Bd2177027edEE300DC9F1fb88F24DB6e5e1edC6",
+  "desc": "ipUSDT",
+  "status": "fetched",
+  "dir": "0x9Bd2177027ed__ipUSDT",
+  "name": "IpTokenUsdt.sol:IpTokenUsdt",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xB3d1c1aB4D30800162da40eb18B3024154924ba5",
+  "desc": "AmmStorageUsdcProx",
+  "status": "fetched",
+  "dir": "0xB3d1c1aB4D30__AmmStorageUsdcProx",
+  "name": "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://etherscan.io/address/0xcC2fF2D38666723ea56c122097F6215B90d74196",
+  "desc": "Ethereum - AmmTreasuryWeEthProxy",
+  "status": "fetched",
+  "dir": "0xcC2fF2D38666__Ethereum_-_AmmTreasuryWeEthProxy",
+  "name": "ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xaC5B04988BC71bEE96f8D93040777Db3ef166125",
+  "desc": "Ethereum - ipweETH",
+  "status": "fetched",
+  "dir": "0xaC5B04988BC7__Ethereum_-_ipweETH",
+  "name": "IpToken.sol:IpToken",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x16d104009964e694761C0bf09d7Be49B7E3C26fd",
+  "desc": "IporProtocolRouterProxy",
+  "status": "fetched",
+  "dir": "0x16d104009964__IporProtocolRouterProxy",
+  "name": "ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x364f116352EB95033D73822bA81257B8c1f5B1CE",
+  "desc": "AmmStorageUsdtProx",
+  "status": "fetched",
+  "dir": "0x364f116352EB__AmmStorageUsdtProx",
+  "name": "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://etherscan.io/address/0x137000352B4ed784e8fa8815d225c713AB2e7Dc9",
+  "desc": "AmmTreasuryUsdcProxy",
+  "status": "fetched",
+  "dir": "0x137000352B4e__AmmTreasuryUsdcProxy",
+  "name": "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://etherscan.io/address/0x63395EDAF74a80aa1155dB7Cd9BBA976a88DeE4E",
+  "desc": "AmmTreasuryEthProxy",
+  "status": "fetched",
+  "dir": "0x63395EDAF74a__AmmTreasuryEthProxy",
+  "name": "ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x28BC58e600eF718B9E97d294098abecb8c96b687",
+  "desc": "AmmTreasuryUsdtProxy",
+  "status": "fetched",
+  "dir": "0x28BC58e600eF__AmmTreasuryUsdtProxy",
+  "name": "ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x7c0e72f431FD69560D951e4C04A4de3657621a88",
+  "desc": "ipUSDC",
+  "status": "fetched",
+  "dir": "0x7c0e72f431FD__ipUSDC",
+  "name": "IpTokenUsdt.sol:IpTokenUsdt",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x77Fe3a8E8d1d73Df54Ca07674Bf1bD6C5841e3b5",
+  "desc": "Ethereum - AmmStorageWeEthProxy",
+  "status": "fetched",
+  "dir": "0x77Fe3a8E8d1d__Ethereum_-_AmmStorageWeEthProxy",
+  "name": "ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xc40431b6C510AeB45Fbb5e21E40D49F12b0c1F0c",
+  "desc": "ipstETH",
+  "status": "fetched",
+  "dir": "0xc40431b6C510__ipstETH",
+  "name": "IpToken.sol:IpToken",
+  "source": "sourcify",
+  "files": 1
+ }
+]

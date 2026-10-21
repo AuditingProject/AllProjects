@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/ParaSwapV6Adapter.sol:ParaSwapV6Adapter",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x4c8026a88f1da2d299c539b8c070c1c44372d53c",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ParaSwapV6Adapter",
+ "asset_url": "https://polygonscan.com/address/0x4c8026a88f1da2d299c539b8c070c1c44372d53c",
+ "files": 14
+}

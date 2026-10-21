@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/proxy/ProtectedTransparentProxy.sol:ProtectedTransparentProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x85f86ef7E72e86BdEAb5F65e2B76A2c551f22109",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "PoolFactory",
+ "asset_url": "https://bscscan.com/address/0x85f86ef7E72e86BdEAb5F65e2B76A2c551f22109",
+ "files": 14
+}

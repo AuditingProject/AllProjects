@@ -1,0 +1,186 @@
+{
+ "title": "1inch Aqua",
+ "logo": "/uploads/bounty_program/logo/6917098b40041c000dbd5cf6/logo.png?timestamp=1791803088",
+ "logoPresent": true,
+ "companyName": "1inch",
+ "companySlug": "1inch",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "17 Nov 2025",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/1inch-aqua/reports/new",
+ "kycRequired": false,
+ "pocRequired": true,
+ "reputationRequired": null,
+ "minReputation": 100,
+ "submissionFee": null,
+ "programOfTheWeek": false,
+ "depositAvailable": false,
+ "maxReward": "$100,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 7,
+   "reputation": 109,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a0f67f640041c0010c25063/avatar.png?timestamp=1791252033",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "sky399",
+    "verified": false
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 11,
+   "reputation": 62,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6918aa7940041c000fbd6373/avatar.png?timestamp=1791298806",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "Z3rco",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 10,
+   "reputation": 44,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a09e14d40041c000e45a46f/avatar.png?timestamp=1790243126",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "CL-Nightmare",
+    "verified": true
+   }
+  },
+  {
+   "rank": 4,
+   "reports_amount": 3,
+   "reputation": 34,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/5d5d2b52b6fa1e79c18c0370/avatar.png?timestamp=1792152004",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "charingane",
+    "verified": true
+   }
+  },
+  {
+   "rank": 5,
+   "reports_amount": 7,
+   "reputation": 30,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/66127ebefd1804732708a1bf/avatar.png?timestamp=1789389925",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "Bz",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 278,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 100000,
+  "critical_min": 20000,
+  "high_max": 20000,
+  "high_min": 5000,
+  "low_max": 2000,
+  "low_min": 100,
+  "medium_max": 5000,
+  "medium_min": 2000
+ },
+ "description": "1inch Aqua is a decentralized protocol for creating and managing custom liquidity positions with flexible strategies and advanced features.",
+ "sla": {
+  "first_response": 3,
+  "resolution_time": 14,
+  "time_to_reward": 90,
+  "time_to_triage": 3
+ },
+ "totalRewards": 21800,
+ "submittedReports": 616,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "6a68721c40041c4a77167db6",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/1inch/aqua",
+   "target_description": "/blob/v1.0.0/src/Aqua.sol\n/blob/v1.0.0/src/AquaRouter.sol\n/blob/v1.0.0/src/libs/Balance.sol",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "6a68721c40041c4a77167db7",
+   "out_of_scope": false,
+   "position": 1,
+   "target": "https://github.com/1inch/swap-vm",
+   "target_description": "/blob/v1.0.2/src/SwapVM.sol\n/blob/v1.0.2/src/instructions/Balances.sol\n/blob/v1.0.2/src/instructions/Controls.sol\n/blob/v1.0.2/src/instructions/Decay.sol\n/blob/v1.0.2/src/instructions/Extruction.sol\n/blob/v1.0.2/src/instructions/Fee.sol\n/blob/v1.0.2/src/instructions/PeggedSwap.sol\n/blob/v1.0.2/src/instructions/XYCConcentrate.sol\n/blob/v1.0.2/src/instructions/XYCSwap.sol\n/blob/v1.0.2/src/libs/MakerTraits.sol\n/blob/v1.0.2/src/libs/PeggedSwapMath.sol\n/blob/v1.0.2/src/libs/TakerTraits.sol\n/blob/v1.0.2/src/libs/VM.sol\n/blob/v1.0.2/src/opcodes/AquaOpcodes.sol\n/blob/v1.0.2/src/routers/AquaSwapVMRouter.sol",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "6a68721c40041c4a77167db8",
+   "out_of_scope": false,
+   "position": 2,
+   "target": "https://github.com/1inch/solidity-utils/",
+   "target_description": "/blob/6.9.16/contracts/libraries/Calldata.sol\n/blob/7.0.0/contracts/libraries/CalldataPtr.sol\n/blob/7.0.0/contracts/libraries/ECDSA.sol\n/blob/7.0.0/contracts/libraries/RevertReasonForwarder.sol\n/blob/7.0.0/contracts/libraries/SafeERC20.sol\n/blob/7.0.0/contracts/libraries/StringUtil.sol\n/blob/7.0.0/contracts/libraries/Transient.sol\n/blob/7.0.0/contracts/libraries/TransientLock.sol\n/blob/7.0.0/contracts/libraries/UniERC20.sol\n/blob/7.0.0/contracts/mixins/EthReceiver.sol\n/blob/7.0.0/contracts/mixins/Multicall.sol\n/blob/7.0.0/contracts/mixins/OnlyWethReceiver.sol\n/blob/7.0.0/contracts/mixins/Rescuable.sol\n/blob/7.0.0/contracts/mixins/Simulator.sol",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "6a68721c40041c4a77167db9",
+   "out_of_scope": true,
+   "position": 3,
+   "target": "https://github.com/1inch/sdks",
+   "target_description": "",
+   "title": "SDK"
+  },
+  {
+   "criticality": "Low",
+   "id": "6a68721c40041c4a77167dba",
+   "out_of_scope": true,
+   "position": 4,
+   "target": "https://github.com/1inch/swap-vm/src/strategies/AquaAMM.sol",
+   "target_description": "",
+   "title": "Web"
+  }
+ ],
+ "programRules": "* AI-generated reports will not be considered\n* Automated scanning results will not be considered\n* The program applies only to the latest tag/release\n* Do not access or modify data belonging to other users\n* Non-production vulnerabilities are limited to High severity\n* Perform testing only within the scope described in this program\n* Do not spam forms or account creation flows using automated tools\n* Avoid compromising any personal data, interruption, or degradation of any service\n* Do not exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam methods\n* Remain compliant with all applicable laws and operate strictly within the defined testing scope\n* Avoid causing any disruption to the availability of products, services, or infrastructure\n* Bounty reward is determined by the proportion of potential damage and is limited by a severity rewards range\n* Do not share details of any vulnerabilities with anyone outside the authorized team without explicit written permission from the organization",
+ "focusArea": "## In-scope vulnerabilities\nThe following vulnerabilities are considered in-scope:\n* Reordering\n* Reentrancy\n* Stealing or loss of funds\n* Unauthorized transaction\n* Transaction manipulation\n* Overflows and underflows\n* Attacks on logic (the behavior of the code is different from the business description)\n\nAll in-scope vulnerability reports must include a Proof of Concept (PoC) that demonstrates real-world impact. Submissions without a PoC will not be considered.\n\n## Out-of-scope vulnerabilities\nVulnerabilities identified in out-of-scope resources are generally not eligible for rewards unless they present a significant business risk, as determined at our sole discretion.\n\nThe following items are generally excluded from reward eligibility due to insufficient severity or lack of relevance to the program\u2019s defined scope:\n* Redundant code\n* TWAP-related issues\n* Best-practice issues\n* Old compiler version\n* Code style guide violations\n* The compiler version is not locked\n* Vulnerabilities in imported contracts\n* Lack of support for Fee-on-Transfer (FoT) tokens\n* Known third-party bugs (except for our misconfiguration issues)\n* Theoretical or purely speculative exploits without demonstrated business impact\n\n## In-scope improvement proposals\nThe following proposals are in scope for this program:\n* Enhancements to existing protocol mechanics that materially improve user value, safety, or capital efficiency without introducing fundamentally new functionality\n* Integration fixes where 1inch-specific configuration/initialization of third-party libraries creates risk\n* MEV/price-manipulation resistance (oracle usage, slippage/deadline handling, sandwich protection, excluding TWAP)\n* Substantial gas efficiency improvements (\u22651k gas net savings per typical user transaction on hot paths)\n* Security hardening of existing contracts (tighter authorization/roles, reentrancy mitigations, invariant enforcement)\n\nImprovement proposals are accepted only for the aqua and swap-vm repositories. The solidity-utils repository is excluded from improvement proposals. Improvement proposal reports must target the current release. Accepted proposals may be implemented on the `main` branch.\n\nWe invite contributors to submit thoughtful and constructive proposals. Each proposal should describe the rationale and expected impact, identify affected contracts or components, outline minimal tests and benchmarks, and, if relevant, note any migration considerations. A good PoC typically includes clear before/after evidence, a minimal reproducible example, and a brief implementation outline demonstrating how the change would be applied.\n\nWhile we reserve the right to decline proposals, our aim is to encourage constructive discussion and contribution from the community.\n\nRegardless of the severity ranges listed in the Rewards section, the maximum reward payable for any accepted improvement proposal is $25,000. The severity ranges below apply only to vulnerability reports.\n\n## Out-of-scope improvement proposals\nThe following proposals are out of scope for this program:\n* Changes that weaken security/correctness or materially increase complexity risk\n* Pure refactors (style/naming/comments) without measurable security or cost impact\n* Compiler/pragma/lint/config changes that do not demonstrably improve safety or efficiency\n* New features or protocol mechanics (feature requests) rather than improvements to existing contracts\n* Duplicates of known issues/roadmap items, unless providing substantial new insight or a materially better solution\n* Micro gas optimizations (< 1k gas net savings per typical user transaction on hot paths) or changes that merely shift costs between paths without net benefit\n* Proposals dependent on third-party code we do not control, or targeting imported libraries, except where 1inch-specific integration/initialization causes the issue\n* Off-chain only suggestions (UI, backend, indexers, docs) unless they directly and materially improve on-chain security\n* Improvement proposals targeting the solidity-utils repository are out of scope\n\n## Known issues \nhttps://github.com/1inch/1inch-audits/tree/master",
+ "disclosureGuidelines": "* All information related to this program, including any discovered vulnerabilities (resolved or unresolved), must be kept strictly confidential. Public disclosure \u2014 including partial disclosure or discussion in any public forum, channel, or platform \u2014 is strictly prohibited without the organization's explicit written consent",
+ "eligibilityAndCoordinateDisclosure": "We value all valid reports that help us strengthen our security. To qualify for a monetary reward, the following eligibility conditions must be fulfilled:\r\n* You must be the first reporter of a vulnerability or proposer of an improvement\r\n* The submission must be a qualifying (in-scope) vulnerability or improvement proposal\r\n* Any vulnerability or improvement found must be reported no later than 24 hours after discovery or completion\r\n* You must send a clear textual description of the report and detailed steps to reproduce the issue. Include attachments such as screenshots or code if necessary\r\n* Include clear and concise reproduction steps to help us verify and assess the impact of the reported issue efficiently\r\n* Reports and payout details may be checked against OFAC/EU/UK sanctions lists. Payment may be withheld or delayed if prohibited by applicable law or sanctions\r\n* Keep all report details strictly confidential until a fix is deployed. After coordinated disclosure, only minimal technical details may be shared. Publishing modified core source code or binaries is prohibited",
+ "labels": {
+  "types": [
+   "smart contract"
+  ],
+  "languages": [
+   "Solidity"
+  ],
+  "platforms": [],
+  "project_types": [
+   "DEX"
+  ]
+ },
+ "customBlocks": [
+  {
+   "description": "* Grant participants a limited license to compile, deploy, and test Aqua Core solely for bounty purposes, on testnets/local forks only; no production, no redistribution, no commercial use; safe harbor from ARSL/EULA/DMCA/CFAA claims if rules are followed; auto-terminate on breach",
+   "id": "6a68721c40041c4a77167dbb",
+   "position": 0,
+   "title": "Research License"
+  }
+ ],
+ "scopeReview": 319594,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "100000.0",
+ "minBounty": "100.0"
+}

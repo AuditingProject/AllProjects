@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/infrastructure/price-feeds/derivatives/feeds/AavePriceFeed.sol:AavePriceFeed",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xe9cfe0f99b8a01fd80f110da4d8f08f6bf3dd6a6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AavePriceFeed",
+ "asset_url": "https://etherscan.io/address/0xe9cfe0f99b8a01fd80f110da4d8f08f6bf3dd6a6",
+ "files": 11
+}

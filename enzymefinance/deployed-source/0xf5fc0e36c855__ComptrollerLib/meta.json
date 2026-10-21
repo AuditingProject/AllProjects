@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/core/fund/comptroller/ComptrollerLib.sol:ComptrollerLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xf5fc0e36c85552e44354132d188c33d9361eb441",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ComptrollerLib",
+ "asset_url": "https://polygonscan.com/address/0xf5fc0e36c85552e44354132d188c33d9361eb441",
+ "files": 28
+}

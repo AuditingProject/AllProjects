@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/ember-protocol/Ember-Vaults",
+   "type": "smart_contract",
+   "description": "!! Only smart contracts residing in the sources folder are in scope. Functions which are marked with [test_only] are not in scope. The rest is there to make testing easier !!\r\n\r\nPlease contact our support team in Discord to get access to scope."
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "ember-vaults-smart-contracts",
+ "maxBounty": "15000.0",
+ "kyc": true
+}

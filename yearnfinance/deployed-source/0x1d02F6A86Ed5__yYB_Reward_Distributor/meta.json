@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "SingleTokenRewardDistributor.sol:SingleTokenRewardDistributor",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x1d02F6A86Ed5650f93E40FCD62fa5727c32ad746",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "yYB Reward Distributor",
+ "asset_url": "https://etherscan.io/address/0x1d02F6A86Ed5650f93E40FCD62fa5727c32ad746#code",
+ "files": 7
+}

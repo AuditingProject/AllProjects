@@ -1,0 +1,12 @@
+{
+ "source": "routescan",
+ "match": "verified",
+ "name": "CallProxy",
+ "compiler": "v0.8.7+commit.e28d00a7",
+ "address": "0xD34c2302F497b8A7fe2d07865f31dBE04d5044d6",
+ "chain": 43114,
+ "explorer_host": "snowtrace.io",
+ "asset_description": "CallProxy AVAX",
+ "asset_url": "https://snowtrace.io/address/0xD34c2302F497b8A7fe2d07865f31dBE04d5044d6",
+ "files": 15
+}

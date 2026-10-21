@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.inkonchain.com",
+ "match": "verified",
+ "name": "TellerWithYieldStreaming",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0xC151E263d5c890FD0Bceb33a6525F1A76a8329fC",
+ "chain": 57073,
+ "explorer_host": "explorer.inkonchain.com",
+ "asset_description": "TellerWithYieldStreaming",
+ "asset_url": "https://explorer.inkonchain.com/address/0xC151E263d5c890FD0Bceb33a6525F1A76a8329fC",
+ "files": 23
+}

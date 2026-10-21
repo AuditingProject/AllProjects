@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "CraftsmanAdmin.sol:CraftsmanAdmin",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x0A3e766c364D180A4cDB75E97390067ef8063d66",
+ "chain": 25,
+ "explorer_host": "explorer.cronos.com",
+ "asset_description": "Smart Contract - VVS - CraftmanAdmin",
+ "asset_url": "https://explorer.cronos.com/address/0x0A3e766c364D180A4cDB75E97390067ef8063d66",
+ "files": 1
+}

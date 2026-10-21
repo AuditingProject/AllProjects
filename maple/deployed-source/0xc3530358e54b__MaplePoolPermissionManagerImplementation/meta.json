@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "modules/pool-permission-manager/contracts/MaplePoolPermissionManager.sol:MaplePoolPermissionManager",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xc3530358e54bc81efce4a2e12a898e996b091753",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MaplePoolPermissionManagerImplementation (v100)",
+ "asset_url": "https://etherscan.io/address/0xc3530358e54bc81efce4a2e12a898e996b091753",
+ "files": 7
+}

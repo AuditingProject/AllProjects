@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "AaveV3DebtPositionParser",
+ "compiler": "v0.8.19+commit.7dd6d404",
+ "address": "0x40108b712f0d8051ac5af7f155e63de73f5fdd27",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AaveV3DebtPositionParser",
+ "asset_url": "https://etherscan.io/address/0x40108b712f0d8051ac5af7f155e63de73f5fdd27",
+ "files": 11
+}

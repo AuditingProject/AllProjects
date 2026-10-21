@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "Vyper_contract.vy:Vyper_contract",
+ "compiler": "0.3.7+commit.6020b8bb",
+ "address": "0xe28fCC9FB2998ba57754789F6666DAa8C815614D",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Splitter Factory",
+ "asset_url": "https://etherscan.io/address/0xe28fCC9FB2998ba57754789F6666DAa8C815614D#code",
+ "files": 1
+}

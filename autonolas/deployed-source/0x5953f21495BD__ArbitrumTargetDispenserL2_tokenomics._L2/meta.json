@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/staking/ArbitrumTargetDispenserL2.sol:ArbitrumTargetDispenserL2",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x5953f21495BD9aF1D78e87bb42AcCAA55C1e896C",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ArbitrumTargetDispenserL2 \u2014 tokenomics. L2 staking incentive target dispenser. Arbitrum.",
+ "asset_url": "https://arbiscan.io/address/0x5953f21495BD9aF1D78e87bb42AcCAA55C1e896C#code",
+ "files": 3
+}

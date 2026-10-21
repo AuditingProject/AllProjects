@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/portfolioToken/portfolioTokenFactory/registrars/PortfolioTokenRegistrar.sol:PortfolioTokenRegistrar",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0x3e8Aa5A0Da924F6F7471D3DACc420a3Dd6999bC5",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "PortfolioTokenRegistrar (BSC)",
+ "asset_url": "https://bscscan.com/address/0x3e8Aa5A0Da924F6F7471D3DACc420a3Dd6999bC5",
+ "files": 15
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/tokenFactory/registrars/BridgeRegistrarStub.sol:BridgeRegistrarStub",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x7a17Ad297b79f1fA7e40FF4F81A332bE85D10f29",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BridgeRegistrarStub",
+ "asset_url": "https://etherscan.io/address/0x7a17Ad297b79f1fA7e40FF4F81A332bE85D10f29",
+ "files": 2
+}

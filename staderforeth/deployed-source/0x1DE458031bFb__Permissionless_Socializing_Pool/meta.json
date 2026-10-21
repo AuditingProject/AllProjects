@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.9+commit.e5eed63a",
+ "address": "0x1DE458031bFbe5689deD5A8b9ed57e1E79EaB2A4",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Permissionless Socializing Pool",
+ "asset_url": "https://etherscan.io/address/0x1DE458031bFbe5689deD5A8b9ed57e1E79EaB2A4",
+ "files": 14
+}

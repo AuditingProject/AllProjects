@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-implementations/contracts/strategies/vault/VaultShortStrategy.sol:VaultShortStrategy",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xa9379431C71c276411D9b838e70A50BBa274a363",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "VaultShortStrategy",
+ "asset_url": "https://arbiscan.io/address/0xa9379431C71c276411D9b838e70A50BBa274a363",
+ "files": 27
+}

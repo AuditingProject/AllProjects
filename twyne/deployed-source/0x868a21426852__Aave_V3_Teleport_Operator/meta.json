@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/operators/AaveV3TeleportOperator.sol:AaveV3TeleportOperator",
+ "compiler": "0.8.28+commit.7893614a",
+ "address": "0x868a21426852A775395d4b90De23B3e3E662bd78",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Aave V3 Teleport Operator",
+ "asset_url": "https://etherscan.io/address/0x868a21426852A775395d4b90De23B3e3E662bd78",
+ "files": 75
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/infrastructure/price-feeds/primitives/factories/ConvertedQuoteAggregatorFactory.sol:ConvertedQuoteAggregatorFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x8f1e6f61323bf64a47ffbfca99e9e2bd4f982c07",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ConvertedQuoteAggregatorFactory",
+ "asset_url": "https://etherscan.io/address/0x8f1e6f61323bf64a47ffbfca99e9e2bd4f982c07",
+ "files": 6
+}

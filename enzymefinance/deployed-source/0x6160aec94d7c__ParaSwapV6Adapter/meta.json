@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/ParaSwapV6Adapter.sol:ParaSwapV6Adapter",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x6160aec94d7cc74ec9bea2eef431460c7b719c39",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "ParaSwapV6Adapter",
+ "asset_url": "https://basescan.org/address/0x6160aec94d7cc74ec9bea2eef431460c7b719c39",
+ "files": 14
+}

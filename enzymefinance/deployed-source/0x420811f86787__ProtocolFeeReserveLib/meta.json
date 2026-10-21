@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/persistent/protocol-fee-reserve/ProtocolFeeReserveLib.sol:ProtocolFeeReserveLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x420811f86787ae5f4070dcf85c74d8a5a2aaad5b",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ProtocolFeeReserveLib",
+ "asset_url": "https://polygonscan.com/address/0x420811f86787ae5f4070dcf85c74d8a5a2aaad5b",
+ "files": 13
+}

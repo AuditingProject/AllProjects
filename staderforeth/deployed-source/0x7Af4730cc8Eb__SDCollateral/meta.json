@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.9+commit.e5eed63a",
+ "address": "0x7Af4730cc8EbAd1a050dcad5c03c33D2793EE91f",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "SDCollateral",
+ "asset_url": "https://etherscan.io/address/0x7Af4730cc8EbAd1a050dcad5c03c33D2793EE91f",
+ "files": 14
+}

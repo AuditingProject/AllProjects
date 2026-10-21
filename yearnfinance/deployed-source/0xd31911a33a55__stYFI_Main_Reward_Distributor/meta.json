@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "RewardDistributor.vy:RewardDistributor",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0xd31911a33a5577Be233Dc096F6F5a7e496fF5934",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Main Reward Distributor",
+ "asset_url": "https://etherscan.io/address/0xd31911a33a5577Be233Dc096F6F5a7e496fF5934#code",
+ "files": 1
+}

@@ -1,0 +1,249 @@
+{
+ "title": "Ample Smart Contracts",
+ "logo": "/uploads/bounty_program/logo/69cbc58240041c5c34fc3059/logo.png?timestamp=1788531615",
+ "logoPresent": true,
+ "companyName": "Ample",
+ "companySlug": "ample",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "01 Apr 2026",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/ample-smart-contracts/reports/new",
+ "kycRequired": false,
+ "pocRequired": true,
+ "reputationRequired": null,
+ "minReputation": 150,
+ "submissionFee": null,
+ "programOfTheWeek": false,
+ "depositAvailable": false,
+ "maxReward": "$20,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 4,
+   "reputation": 20,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6854a68840041c000d2a794f/avatar.png?timestamp=1791915302",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "Artorias",
+    "verified": true
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 8,
+   "reputation": 11,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a0c3d1040041c00206f8d70/avatar.png?timestamp=1790599522",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "0xZ1Z0E",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 5,
+   "reputation": 10,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/64c8640dfd18042fd9aa9ead/avatar.png?timestamp=1790131108",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "jonscott",
+    "verified": true
+   }
+  },
+  {
+   "rank": 4,
+   "reports_amount": 3,
+   "reputation": 10,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/67b72ee840041c02666dab4d/avatar.png?timestamp=1792093512",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "barelia",
+    "verified": true
+   }
+  },
+  {
+   "rank": 5,
+   "reports_amount": 2,
+   "reputation": 10,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/692c82ca40041c000d73014a/avatar.png?timestamp=1781171121",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "cymans",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 96,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 20000,
+  "critical_min": 0,
+  "high_max": 5000,
+  "high_min": 0,
+  "low_max": 500,
+  "low_min": 0,
+  "medium_max": 1000,
+  "medium_min": 0
+ },
+ "description": "A new way to compound onchain assets.\r\n\r\nDeposit supported assets, retain full principal ownership, and earn variable upside.",
+ "sla": {
+  "first_response": 3,
+  "resolution_time": 14,
+  "time_to_reward": 3,
+  "time_to_triage": 3
+ },
+ "totalRewards": 0,
+ "submittedReports": 187,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "69cbc58240041c5c34fc3058",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://monadscan.com/address/0x4b8057e5cdFAf53222580DFAc54f327fE11C2078#code",
+   "target_description": "Monad: `AmplePerspective`",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "69cbc75a40041c5c34fc30d4",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://monadscan.com/address/0x9881464ade08eaea838d1ba06073a0c8f972b185#code",
+   "target_description": "Monad: `AmpleEarnFactory`",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "69cbc75a40041c5c34fc30d5",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://monadscan.com/address/0xc9086278b317d6316151945d720ce7b602fbe463#code",
+   "target_description": "Monad: `AmpleEarnCrossChainRouter`",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "69cbc75a40041c5c34fc30d6",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://basescan.org/address/0x801ad3167d1578d5035a25425796b79cb4a31cba#code",
+   "target_description": "Base: `AmplePerspective`",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "69cbc75a40041c5c34fc30d7",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://basescan.org/address/0x62b304519ee30e205621920454c2802fb99dca67#code",
+   "target_description": "Base: `AmpleEarnFactory`",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "69cbc75a40041c5c34fc30d8",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://basescan.org/address/0xf132654d677034c804cfb6432d27526088deb0c5#code",
+   "target_description": "Base: `AmpleEarnCrossChainRouter`",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "69cbc89440041c5c34fc3115",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://arbiscan.io/address/0x4b8057e5cdfaf53222580dfac54f327fe11c2078#code",
+   "target_description": "Arbitrum: `AmplePerspective`",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "69cbc89440041c5c34fc3116",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://arbiscan.io/address/0x9881464ade08eaea838d1ba06073a0c8f972b185#code",
+   "target_description": " Arbitrum: ``AmpleEarnFactory`",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "69cbc89440041c5c34fc3117",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://arbiscan.io/address/0xcab6a41090e274efe7fe64cf0ec906f413686d36#code",
+   "target_description": "Arbitrum: `AmpleEarnCrossChainRouter`",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "69cbc89440041c5c34fc3118",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://katanascan.com/address/0x4b8057e5cdfaf53222580dfac54f327fe11c2078#code",
+   "target_description": "Katana: `AmplePerspective`",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "69cbc89440041c5c34fc3119",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://katanascan.com/address/0x9881464ade08eaea838d1ba06073a0c8f972b185#code",
+   "target_description": "Katana: `AmpleEarnFactory`",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "69cbc89440041c5c34fc311a",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://katanascan.com/address/0x7beb2204fd629bf686ce85c640a5bcd66b392e65#code",
+   "target_description": "Katana: `AmpleEarnCrossChainRouter`",
+   "title": "Smart Contract"
+  }
+ ],
+ "programRules": "* Avoid using web application scanners for automatic vulnerability searching which generates massive traffic\r\n* Make every effort not to damage or restrict the availability of products, services, or infrastructure\r\n* Avoid compromising any personal data, interruption, or degradation of any service\r\n* Don\u2019t access or modify other user data, localize all tests to your accounts\r\n* Perform testing only within the scope\r\n* Don\u2019t exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam\r\n* Don\u2019t spam forms or account creation flows using automated scanners\r\n* In case you find chain vulnerabilities we\u2019ll pay only for vulnerability with the highest severity.\r\n* Don\u2019t break any law and stay in the defined scope\r\n* Any details of found vulnerabilities must not be communicated to anyone who is not a HackenProof Team or an authorized employee of this Company without appropriate permission\r\n* **All communication regarding the program must take place exclusively through the HackenProof platform.\r\nContacting the project team directly through support channels, social media, or any other external communication channels is strictly prohibited.\r\nResearchers who violate this rule may be disqualified from the program and may face account suspension.**",
+ "focusArea": "## IN SCOPE VULNERABILITIES: Smart Contracts\r\n We are looking for evidence and reasons for incorrect behavior of the smart contract, which could cause unintended functionality:\r\n* Stealing or loss of funds\r\n* Unauthorized transaction\r\n* Transaction manipulation\r\n* Attacks on logic (behavior of the code is different from the business description)\r\n* Reentrancy\r\n* Reordering\r\n* Over and underflows\r\n\r\n\r\n## OUT OF SCOPE VULNERABILITIES: Smart Contracts\r\n* Theoretical vulnerabilities without any proof or demonstration\r\n* Old compiler version\r\n* The compiler version is not locked\r\n* Vulnerabilities in imported contracts\r\n* Code style guide violations\r\n* Redundant code\r\n* Gas optimizations\r\n* Best practice issues\r\n* Vulnerabilities that can be exploited through front-run attacks only\r\n\r\n\r\n",
+ "disclosureGuidelines": "* Do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization.\r\n* No vulnerability disclosure, including partial is allowed for the moment.\r\n* Platform-Only Disclosure: Disclosure is only possible through the HackenProof Disclosure function. \r\n * Researchers may request disclosure (Limited or Full) within the report ticket;\r\n * We reserve the right to approve, redact, or deny disclosure requests at our sole discretion.\r\n* Mutual Required: Any publication requires explicit mutual agreement. Reports must remain Private until the status is officially changed to \"Public\" on the HackenProof platform by the team.\r\n\r\n",
+ "eligibilityAndCoordinateDisclosure": "We are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:\r\n\r\n* You must be the first reporter of a vulnerability.\r\n* The vulnerability must be a qualifying vulnerability.\r\n* Any vulnerability found must be reported no later than 24 hours after discovery and exclusively through hackenproof.com\r\n* You must send a clear textual description of the report along with steps to reproduce the issue, include attachments such as screenshots or proof of concept code as necessary.\r\n* You must not be a former or current employee of us or one of its contractor.\r\n* ONLY USE the EMAIL under which you registered your HackenProof account (in case of violation, no bounty can be awarded).\r\n* Provide detailed but to-the point reproduction steps.\r\n* AI-generated reports without runable PoC are not accepted under this program.\r\n",
+ "labels": {
+  "types": [
+   "smart contract"
+  ],
+  "languages": [
+   "Solidity"
+  ],
+  "platforms": [],
+  "project_types": [
+   "DeFi"
+  ]
+ },
+ "customBlocks": [
+  {
+   "description": "Ample Earn has been audited twice by the Pashov Audit Group. All findings from these audits are acknowledged as known issues:\r\n\r\n- [First Security Review](https://github.com/hackenproof-public/Ample-Earn-Audits/blob/main/AmpleEarn-security-review_2025-12-12.pdf)\r\n- [Second Security Review](https://github.com/hackenproof-public/Ample-Earn-Audits/blob/main/Pashov_Audit_Group_report_v2.pdf)\r\n\r\nAlso Issues regarding known issues and mechanisms of third parties are acknowledged:\r\n\r\n- [Euler earn](https://docs.euler.finance/developers/euler-earn)\r\n- [Euler audits](https://docs.euler.finance/security/earn-audits)",
+   "id": "69ce8c8f40041c0011d29f65",
+   "position": 0,
+   "title": "Known Issues"
+  }
+ ],
+ "scopeReview": 303301,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "20000.0",
+ "minBounty": "0.0"
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ParaSwapV6Adapter",
+ "compiler": "v0.8.19+commit.7dd6d404",
+ "address": "0xb3ec98d4a608577289e442474832b7f69540e169",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ParaSwapV6Adapter",
+ "asset_url": "https://etherscan.io/address/0xb3ec98d4a608577289e442474832b7f69540e169",
+ "files": 14
+}

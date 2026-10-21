@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/mechs/nevermined/BalanceTrackerNvmSubscriptionNative.sol:BalanceTrackerNvmSubscriptionNative",
+ "compiler": "0.8.28+commit.7893614a",
+ "address": "0x7D686bD1fD3CFF6E45a40165154D61043af7D67c",
+ "chain": 100,
+ "explorer_host": "gnosisscan.io",
+ "asset_description": "BalanceTrackerNvmSubscriptionNative (currently deployed) \u2014 marketplace. Balance tracker for Nevermined-subscription native-token payments. Deployed on: Gnosis 0x7D686bD1fD3CFF6E45a40165154D61043af7D67c; Base 0x3d79737f05966c5925a04d1b04110006F5a072bE. These deployed instances predate the v0.4.2 fixes (notably the depositFor() direct-deposit hardening; see Vulnerabilities_marketplace.md item #16) and are being transitioned to the new implementation. Issues already addressed in the v0.4.2 implementation are out of scope for the deployed addresses.",
+ "asset_url": "https://gnosisscan.io/address/0x7D686bD1fD3CFF6E45a40165154D61043af7D67c#code",
+ "files": 4
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/xManager/tokenManagers/PauseManager.sol:PauseManager",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xe28AfEC27C50096B4e98cd5546eAE8414b5e7542",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PauseManager",
+ "asset_url": "https://etherscan.io/address/0xe28AfEC27C50096B4e98cd5546eAE8414b5e7542",
+ "files": 11
+}

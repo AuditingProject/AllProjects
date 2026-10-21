@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/Proxy.sol:TokenProxy",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x54cD901491AeF397084453F4372B93c33260e2A6",
+ "chain": 1329,
+ "explorer_host": "seiscan.io",
+ "asset_description": "USDY Token (Sei)",
+ "asset_url": "https://seiscan.io/address/0x54cD901491AeF397084453F4372B93c33260e2A6",
+ "files": 9
+}

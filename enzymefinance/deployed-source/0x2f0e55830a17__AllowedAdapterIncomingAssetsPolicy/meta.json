@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "AllowedAdapterIncomingAssetsPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x2f0e55830a173d845a886fd574f01a039a07fc37",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AllowedAdapterIncomingAssetsPolicy",
+ "asset_url": "https://etherscan.io/address/0x2f0e55830a173d845a886fd574f01a039a07fc37",
+ "files": 33
+}

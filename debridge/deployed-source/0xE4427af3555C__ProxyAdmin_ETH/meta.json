@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ProxyAdmin",
+ "compiler": "v0.8.2+commit.661d1103",
+ "address": "0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ProxyAdmin ETH",
+ "asset_url": "https://etherscan.io/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+ "files": 10
+}

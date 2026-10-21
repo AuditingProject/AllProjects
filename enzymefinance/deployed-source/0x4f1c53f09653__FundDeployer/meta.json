@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/core/fund-deployer/FundDeployer.sol:FundDeployer",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x4f1c53f096533c04d8157efb6bca3eb22ddc6360",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "FundDeployer",
+ "asset_url": "https://etherscan.io/address/0x4f1c53f096533c04d8157efb6bca3eb22ddc6360",
+ "files": 20
+}

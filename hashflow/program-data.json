@@ -1,0 +1,110 @@
+{
+ "assets": [
+  {
+   "id": "100001",
+   "url": "https://etherscan.io/address/0xdE828fdc3F497F16416D1bB645261C7C6a62DAb5",
+   "type": "smart_contract",
+   "addedAt": "2026-06-08T16:27:20.458Z",
+   "revision": 0,
+   "description": "Hashflow Factory",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "100002",
+   "url": "https://etherscan.io/address/0xCa310B1B942A30Ff4b40a5E1b69AB4607eC79Bc1",
+   "type": "smart_contract",
+   "addedAt": "2026-06-08T16:27:20.458Z",
+   "revision": 0,
+   "description": "Hashflow Pool",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "100003",
+   "url": "https://etherscan.io/address/0x55084eE0fEf03f14a305cd24286359A35D735151",
+   "type": "smart_contract",
+   "addedAt": "2026-06-08T16:27:20.458Z",
+   "revision": 0,
+   "description": "Hashflow Router",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "100004",
+   "url": "https://etherscan.io/address/0x0a09B370950f69ADC4c2FbF8677C7b0047599c9F",
+   "type": "smart_contract",
+   "addedAt": "2026-06-08T16:27:20.458Z",
+   "revision": 0,
+   "description": "Hashflow Wormhole Messenger",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  }
+ ],
+ "rewards": [
+  {
+   "id": 47010,
+   "primacy": null,
+   "severity": "critical",
+   "assetType": "smart_contract",
+   "maxReward": 50000,
+   "minReward": 5000,
+   "rewardModel": "range",
+   "rewardCalculationPercentage": 20
+  },
+  {
+   "id": 47011,
+   "primacy": null,
+   "severity": "low",
+   "assetType": "smart_contract",
+   "maxReward": 2500,
+   "minReward": 1000,
+   "rewardModel": "range"
+  }
+ ],
+ "impacts": [
+  {
+   "id": 15,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
+  },
+  {
+   "id": 16,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties"
+  },
+  {
+   "id": 22,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Protocol insolvency"
+  },
+  {
+   "id": 34,
+   "type": "smart_contract",
+   "severity": "low",
+   "title": "Contract fails to deliver promised returns, but doesn't lose value"
+  }
+ ],
+ "knownIssues": null,
+ "programCodebases": null,
+ "maxBounty": 50000,
+ "kyc": false,
+ "updatedDate": "2026-06-08T16:27:20.536Z",
+ "launchDate": "2022-03-29T20:00:00.000Z",
+ "programOverview": "Hashflow is the most powerful DeFi trading experience that gives you tight spreads, zero slippage and MEV-resistance.\n\nFor more information about Hashflow, please visit [https://www.hashflow.com/](https://www.hashflow.com/). \n\nThis bug bounty program is focused on their website and app, and is focused on preventing:\n\n  - Ability to execute system commands\n  - Extract Sensitive data/files from the server such as /etc/passwd\n  - Stealing User Cookies\n  - Taking Down the application/website\n  - Bypassing Authentication\n  - Signing transactions for other users\n  - Redirection of user deposits and withdrawals\n  - Subdomain takeover resulting in financial loss (applicable for subdomains with addresses published)\n  - Wallet interaction modification resulting in financial loss\n  - Direct theft of user funds \n  - Tampering with transactions submitted to the user\u2019s wallet\n  - Submitting malicious transactions to an already-connected wallet",
+ "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll web/app bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nPayouts are handled by the __Hashflow__ team directly and are denominated in USD. However, payouts are done in __USDC__, __USDT__ __and__ __DAI__, with the choice of the ratio at the discretion of the team.",
+ "customOutOfScopeInformation": null,
+ "assetsBodyV2": "If an impact can be caused to any other asset managed by Hashflow that isn\u2019t on this table but for which the impact is in the Impacts in Scope section, you are encouraged to submit it for the consideration of the project. However the submitted bug for out of scope subdomains is not subject to this program impact ranking and bounty amount listed below",
+ "impactsBody": null
+}

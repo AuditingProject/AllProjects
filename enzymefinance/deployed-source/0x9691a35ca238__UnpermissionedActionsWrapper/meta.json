@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/peripheral/UnpermissionedActionsWrapper.sol:UnpermissionedActionsWrapper",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x9691a35ca238ac01de7413493fa434eb90bc28a9",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "UnpermissionedActionsWrapper",
+ "asset_url": "https://basescan.org/address/0x9691a35ca238ac01de7413493fa434eb90bc28a9",
+ "files": 9
+}

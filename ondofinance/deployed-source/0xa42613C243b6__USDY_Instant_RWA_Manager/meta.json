@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/xManager/rwaManagers/USDY_InstantManager.sol:USDY_InstantManager",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xa42613C243b67BF6194Ac327795b926B4b491f15",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "USDY Instant RWA Manager",
+ "asset_url": "https://etherscan.io/address/0xa42613C243b67BF6194Ac327795b926B4b491f15",
+ "files": 51
+}

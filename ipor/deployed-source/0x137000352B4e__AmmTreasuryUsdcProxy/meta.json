@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0x137000352B4ed784e8fa8815d225c713AB2e7Dc9",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AmmTreasuryUsdcProxy",
+ "asset_url": "https://etherscan.io/address/0x137000352B4ed784e8fa8815d225c713AB2e7Dc9",
+ "files": 15
+}

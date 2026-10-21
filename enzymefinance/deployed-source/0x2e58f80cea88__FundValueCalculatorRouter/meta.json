@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/off-chain/fund-value-calculator/FundValueCalculatorRouter.sol:FundValueCalculatorRouter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x2e58f80cea88f0787cadf1bb30acc23d8ac81982",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "FundValueCalculatorRouter",
+ "asset_url": "https://arbiscan.io/address/0x2e58f80cea88f0787cadf1bb30acc23d8ac81982",
+ "files": 3
+}

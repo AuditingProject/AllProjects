@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "RevenueRecipient.vy:RevenueRecipient",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0x5B5AB518F532Ce260A5d2795E1eEc544FC159587",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Revenue Recipient",
+ "asset_url": "https://etherscan.io/address/0x5B5AB518F532Ce260A5d2795E1eEc544FC159587",
+ "files": 1
+}

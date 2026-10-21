@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "DelegatedStakedYFI.vy:DelegatedStakedYFI",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0x9C42461AA8422926e3AEF7B1C6e3743597149d79",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFIx",
+ "asset_url": "https://etherscan.io/address/0x9C42461AA8422926e3AEF7B1C6e3743597149d79",
+ "files": 1
+}

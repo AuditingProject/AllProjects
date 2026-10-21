@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/AaveV3Adapter.sol:AaveV3Adapter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x9cfb64D91Ce4eB821fF8EdC1C2fdA2E89E256707",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AaveV3Adapter",
+ "asset_url": "https://etherscan.io/address/0x9cfb64D91Ce4eB821fF8EdC1C2fdA2E89E256707",
+ "files": 20
+}

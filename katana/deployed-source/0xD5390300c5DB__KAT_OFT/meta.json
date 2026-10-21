@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.10+commit.fc410830",
+ "address": "0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "KAT OFT",
+ "asset_url": "https://basescan.org/address/0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da",
+ "files": 16
+}

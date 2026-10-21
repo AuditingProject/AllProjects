@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.optimism.io",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x0bCa65bf4b4c8803d2f0B49353ed57CAAF3d66Dc",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "Smart-Contract Optimism Bridge",
+ "asset_url": "https://optimistic.etherscan.io/address/0x0bCa65bf4b4c8803d2f0B49353ed57CAAF3d66Dc",
+ "files": 13
+}

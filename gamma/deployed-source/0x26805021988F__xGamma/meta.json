@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "xGamma",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x26805021988F1a45dC708B5FB75Fc75F21747D8c",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "xGamma",
+ "asset_url": "https://etherscan.io/address/0x26805021988F1a45dC708B5FB75Fc75F21747D8c",
+ "files": 1
+}

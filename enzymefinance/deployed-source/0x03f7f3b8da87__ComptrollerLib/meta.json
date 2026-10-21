@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/core/fund/comptroller/ComptrollerLib.sol:ComptrollerLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x03f7f3b8da875881206655d8099b9dacf721f1ef",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ComptrollerLib",
+ "asset_url": "https://etherscan.io/address/0x03f7f3b8da875881206655d8099b9dacf721f1ef",
+ "files": 28
+}

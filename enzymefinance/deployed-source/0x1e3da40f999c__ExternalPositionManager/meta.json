@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/external-position-manager/ExternalPositionManager.sol:ExternalPositionManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x1e3da40f999cf47091f869ebac477d84b0827cf4",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ExternalPositionManager",
+ "asset_url": "https://etherscan.io/address/0x1e3da40f999cf47091f869ebac477d84b0827cf4",
+ "files": 19
+}

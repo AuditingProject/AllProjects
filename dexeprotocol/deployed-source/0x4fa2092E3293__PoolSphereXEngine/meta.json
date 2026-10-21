@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/SphereXEngine.sol:SphereXEngine",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x4fa2092E32934Dd3823E58C79ceD0e410a5B0D4b",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "PoolSphereXEngine",
+ "asset_url": "https://bscscan.com/address/0x4fa2092E32934Dd3823E58C79ceD0e410a5B0D4b",
+ "files": 14
+}

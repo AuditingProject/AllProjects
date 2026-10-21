@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/arbitrary-value-oracles/manual-value/ManualValueOracleFactory.sol:ManualValueOracleFactory",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x671ed11497e8fe5c98ed45e699639cf081ee0a5f",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ManualValueOracleFactory",
+ "asset_url": "https://arbiscan.io/address/0x671ed11497e8fe5c98ed45e699639cf081ee0a5f",
+ "files": 6
+}

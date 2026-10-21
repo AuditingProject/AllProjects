@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/infrastructure/price-feeds/primitives/UsdEthSimulatedAggregator.sol:UsdEthSimulatedAggregator",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x9579f735d0c93b5eef064fe312ca3509bd695206",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "UsdEthSimulatedAggregator",
+ "asset_url": "https://etherscan.io/address/0x9579f735d0c93b5eef064fe312ca3509bd695206",
+ "files": 2
+}

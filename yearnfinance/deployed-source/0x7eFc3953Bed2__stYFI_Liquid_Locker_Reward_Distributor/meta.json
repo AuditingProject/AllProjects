@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "LiquidLockerRewardDistributor.vy:LiquidLockerRewardDistributor",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0x7eFc3953Bed2fc20b9f825eBffaB1cC8B072a000",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Liquid Locker Reward Distributor",
+ "asset_url": "https://etherscan.io/address/0x7eFc3953Bed2fc20b9f825eBffaB1cC8B072a000",
+ "files": 1
+}

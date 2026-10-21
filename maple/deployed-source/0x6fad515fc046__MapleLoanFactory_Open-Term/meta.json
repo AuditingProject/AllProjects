@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MapleLoanFactory",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x6fad515fc046dd17166453a79725f50b917b7cf6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MapleLoanFactory (Open-Term)",
+ "asset_url": "https://etherscan.io/address/0x6fad515fc046dd17166453a79725f50b917b7cf6",
+ "files": 12
+}

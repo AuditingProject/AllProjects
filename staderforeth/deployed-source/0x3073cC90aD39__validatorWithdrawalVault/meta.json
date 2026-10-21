@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/ValidatorWithdrawalVault.sol:ValidatorWithdrawalVault",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x3073cC90aD39E0C30bb0d4c70F981FbD00f3458f",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "validatorWithdrawalVault",
+ "asset_url": "https://etherscan.io/address/0x3073cC90aD39E0C30bb0d4c70F981FbD00f3458f",
+ "files": 14
+}

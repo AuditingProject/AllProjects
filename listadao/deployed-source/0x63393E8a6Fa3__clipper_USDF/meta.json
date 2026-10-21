@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x63393E8a6Fa3dab6874729AE680B370c0Ca96b2b",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "clipper(USDF)",
+ "asset_url": "https://bscscan.com/address/0x63393E8a6Fa3dab6874729AE680B370c0Ca96b2b",
+ "files": 112
+}

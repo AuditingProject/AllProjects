@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/infrastructure/price-feeds/primitives/SmarDexUsdnNativeRateUsdAggregator.sol:SmarDexUsdnNativeRateUsdAggregator",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xd5004c5d3017862839e83981b110f27ee7b36eaa",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "SmarDexUsdnNativeRateUsdAggregator",
+ "asset_url": "https://etherscan.io/address/0xd5004c5d3017862839e83981b110f27ee7b36eaa",
+ "files": 8
+}

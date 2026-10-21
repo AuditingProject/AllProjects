@@ -1,0 +1,12 @@
+{
+ "source": "routescan",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.10+commit.fc410830",
+ "address": "0x02ca37966753bDdDf11216B73B16C1dE756A7CF9",
+ "chain": 9745,
+ "explorer_host": "plasmascan.to",
+ "asset_description": "OApp Plasma",
+ "asset_url": "https://plasmascan.to/address/0x02ca37966753bDdDf11216B73B16C1dE756A7CF9",
+ "files": 8
+}

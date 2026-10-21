@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/tokenPauseManager/TokenPauseManager.sol:TokenPauseManager",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x6334924c787Ebd21C881740Ef6237Ef51962638F",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "TokenPauseManager (BSC)",
+ "asset_url": "https://bscscan.com/address/0x6334924c787Ebd21C881740Ef6237Ef51962638F",
+ "files": 11
+}

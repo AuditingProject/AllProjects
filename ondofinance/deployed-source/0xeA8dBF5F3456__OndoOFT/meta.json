@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OndoOFT",
+ "compiler": "v0.8.22+commit.4fc1097e",
+ "address": "0xeA8dBF5F3456FaB742fc11b977330A58069758eF",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoOFT",
+ "asset_url": "https://etherscan.io/address/0xeA8dBF5F3456FaB742fc11b977330A58069758eF",
+ "files": 29
+}

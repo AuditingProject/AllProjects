@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TokenProxy",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xAcE8E719899F6E91831B18AE746C9A965c2119F1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "USDon",
+ "asset_url": "https://etherscan.io/address/0xAcE8E719899F6E91831B18AE746C9A965c2119F1",
+ "files": 9
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "modules/globals/modules/non-transparent-proxy/contracts/NonTransparentProxy.sol:NonTransparentProxy",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xbe10adce8b6e3e02db384e7fada5395dd113d8b3",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MaplePoolPermissionManagerProxy (v100)",
+ "asset_url": "https://etherscan.io/address/0xbe10adce8b6e3e02db384e7fada5395dd113d8b3",
+ "files": 2
+}

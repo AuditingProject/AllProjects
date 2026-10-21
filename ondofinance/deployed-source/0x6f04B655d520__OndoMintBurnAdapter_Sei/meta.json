@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/layerZeroBridge/OndoMintBurnAdapter.sol:OndoMintBurnAdapter",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x6f04B655d5209E85E47D3920A2EF407A66e83f6c",
+ "chain": 1329,
+ "explorer_host": "seiscan.io",
+ "asset_description": "OndoMintBurnAdapter (Sei)",
+ "asset_url": "https://seiscan.io/address/0x6f04B655d5209E85E47D3920A2EF407A66e83f6c",
+ "files": 44
+}

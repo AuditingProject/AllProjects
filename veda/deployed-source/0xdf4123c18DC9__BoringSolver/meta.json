@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.inkonchain.com",
+ "match": "verified",
+ "name": "BoringSolver",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0xdf4123c18DC985ed94061f2C08cE17b7b17f21fF",
+ "chain": 57073,
+ "explorer_host": "explorer.inkonchain.com",
+ "asset_description": "BoringSolver",
+ "asset_url": "https://explorer.inkonchain.com/address/0xdf4123c18DC985ed94061f2C08cE17b7b17f21fF",
+ "files": 25
+}

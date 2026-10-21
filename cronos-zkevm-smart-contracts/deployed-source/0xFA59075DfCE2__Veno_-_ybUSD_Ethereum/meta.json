@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xFA59075DfCE274E028b58BdDFcC3D709960F594a",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Veno - ybUSD (Ethereum)",
+ "asset_url": "https://etherscan.io/address/0xFA59075DfCE274E028b58BdDFcC3D709960F594a",
+ "files": 13
+}

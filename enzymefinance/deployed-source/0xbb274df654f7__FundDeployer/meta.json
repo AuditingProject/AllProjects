@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/core/fund-deployer/FundDeployer.sol:FundDeployer",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xbb274df654f71827cca120e0b916aec1f2ceaaeb",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "FundDeployer",
+ "asset_url": "https://basescan.org/address/0xbb274df654f71827cca120e0b916aec1f2ceaaeb",
+ "files": 21
+}

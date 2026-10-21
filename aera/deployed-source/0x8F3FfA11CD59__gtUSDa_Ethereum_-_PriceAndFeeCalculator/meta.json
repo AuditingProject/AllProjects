@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/PriceAndFeeCalculator.sol:PriceAndFeeCalculator",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0x8F3FfA11CD5915f0E869192663b905504A2Ef4a5",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "gtUSDa (Ethereum) - PriceAndFeeCalculator",
+ "asset_url": "https://etherscan.io/address/0x8F3FfA11CD5915f0E869192663b905504A2Ef4a5",
+ "files": 22
+}

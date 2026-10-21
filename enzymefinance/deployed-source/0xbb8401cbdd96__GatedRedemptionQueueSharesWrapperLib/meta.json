@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "GatedRedemptionQueueSharesWrapperLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xbb8401cbdd96174762ae451039595d934cb61357",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GatedRedemptionQueueSharesWrapperLib",
+ "asset_url": "https://etherscan.io/address/0xbb8401cbdd96174762ae451039595d934cb61357",
+ "files": 17
+}

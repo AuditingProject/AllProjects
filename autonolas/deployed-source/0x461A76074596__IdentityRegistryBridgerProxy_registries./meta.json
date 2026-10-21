@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "IdentityRegistryBridgerProxy",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x461A76074596F080dfba414532Ab51280611B8e6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "IdentityRegistryBridgerProxy \u2014 registries. Proxy for IdentityRegistryBridger. Deployed on: Ethereum 0x461A76074596F080dfba414532Ab51280611B8e6; Polygon 0x6F121552765424f0B2331B541C0938480cA314Db; Gnosis 0x6e8F740F23f07cE129Daa59786926fecA8C2D2F3; Arbitrum 0x22bE6fDcd3e29851B29b512F714C328A00A96B83; Optimism 0x7fc0ddf4DFB61CfA5519db2A5eE7B2Eb02De0140; Base 0x67722c823010CEb4BED5325fE109196C0f67D053; Celo 0x7fc0ddf4DFB61CfA5519db2A5eE7B2Eb02De0140.",
+ "asset_url": "https://etherscan.io/address/0x461A76074596F080dfba414532Ab51280611B8e6#code",
+ "files": 1
+}

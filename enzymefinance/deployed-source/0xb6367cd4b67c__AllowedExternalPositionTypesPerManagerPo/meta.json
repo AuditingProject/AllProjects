@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/AllowedExternalPositionTypesPerManagerPolicy.sol:AllowedExternalPositionTypesPerManagerPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xb6367cd4b67c44e963ae81e9c1757a1c08ede28c",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "AllowedExternalPositionTypesPerManagerPolicy",
+ "asset_url": "https://polygonscan.com/address/0xb6367cd4b67c44e963ae81e9c1757a1c08ede28c",
+ "files": 46
+}

@@ -1,0 +1,23 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/1inch/aqua",
+   "type": "smart_contract",
+   "description": "/blob/v1.0.0/src/Aqua.sol\n/blob/v1.0.0/src/AquaRouter.sol\n/blob/v1.0.0/src/libs/Balance.sol"
+  },
+  {
+   "url": "https://github.com/1inch/swap-vm",
+   "type": "smart_contract",
+   "description": "/blob/v1.0.2/src/SwapVM.sol\n/blob/v1.0.2/src/instructions/Balances.sol\n/blob/v1.0.2/src/instructions/Controls.sol\n/blob/v1.0.2/src/instructions/Decay.sol\n/blob/v1.0.2/src/instructions/Extruction.sol\n/blob/v1.0.2/src/instructions/Fee.sol\n/blob/v1.0.2/src/instructions/PeggedSwap.sol\n/blob/v1.0.2/src/instructions/XYCConcentrate.sol\n/blob/v1.0.2/src/instructions/XYCSwap.sol\n/blob/v1.0.2/src/libs/MakerTraits.sol\n/blob/v1.0.2/src/libs/PeggedSwapMath.sol\n/blob/v1.0.2/src/libs/TakerTraits.sol\n/blob/v1.0.2/src/libs/VM.sol\n/blob/v1.0.2/src/opcodes/AquaOpcodes.sol\n/blob/v1.0.2/src/routers/AquaSwapVMRouter.sol"
+  },
+  {
+   "url": "https://github.com/1inch/solidity-utils/",
+   "type": "smart_contract",
+   "description": "/blob/6.9.16/contracts/libraries/Calldata.sol\n/blob/7.0.0/contracts/libraries/CalldataPtr.sol\n/blob/7.0.0/contracts/libraries/ECDSA.sol\n/blob/7.0.0/contracts/libraries/RevertReasonForwarder.sol\n/blob/7.0.0/contracts/libraries/SafeERC20.sol\n/blob/7.0.0/contracts/libraries/StringUtil.sol\n/blob/7.0.0/contracts/libraries/Transient.sol\n/blob/7.0.0/contracts/libraries/TransientLock.sol\n/blob/7.0.0/contracts/libraries/UniERC20.sol\n/blob/7.0.0/contracts/mixins/EthReceiver.sol\n/blob/7.0.0/contracts/mixins/Multicall.sol\n/blob/7.0.0/contracts/mixins/OnlyWethReceiver.sol\n/blob/7.0.0/contracts/mixins/Rescuable.sol\n/blob/7.0.0/contracts/mixins/Simulator.sol"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "1inch-aqua",
+ "maxBounty": "100000.0",
+ "kyc": false
+}

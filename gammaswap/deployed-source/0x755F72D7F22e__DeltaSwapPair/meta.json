@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/DeltaSwapPair.sol:DeltaSwapPair",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x755F72D7F22eFaeD6E00E589a8C7bD95A666fEF0",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "DeltaSwapPair",
+ "asset_url": "https://arbiscan.io/address/0x755F72D7F22eFaeD6E00E589a8C7bD95A666fEF0#code",
+ "files": 9
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x8B35291ecF29fD36BA405A03C9832725f2E9e164",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "gemJoin(USDF)",
+ "asset_url": "https://bscscan.com/address/0x8B35291ecF29fD36BA405A03C9832725f2E9e164",
+ "files": 112
+}

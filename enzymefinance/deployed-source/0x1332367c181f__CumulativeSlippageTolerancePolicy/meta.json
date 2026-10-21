@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/CumulativeSlippageTolerancePolicy.sol:CumulativeSlippageTolerancePolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x1332367c181f1157f751b160187dcaa219706bf2",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "CumulativeSlippageTolerancePolicy",
+ "asset_url": "https://polygonscan.com/address/0x1332367c181f1157f751b160187dcaa219706bf2",
+ "files": 52
+}

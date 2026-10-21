@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Vyper_contract",
+ "compiler": "v0.2.12+commit.2c6842cd",
+ "address": "0xd0660cd418a64a1d44e9214ad8e459324d8157f1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Woofy Token",
+ "asset_url": "https://etherscan.io/address/0xd0660cd418a64a1d44e9214ad8e459324d8157f1#code",
+ "files": 1
+}

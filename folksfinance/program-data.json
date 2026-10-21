@@ -1,0 +1,373 @@
+{
+ "assets": [
+  {
+   "id": "101324",
+   "url": "https://lora.algokit.io/mainnet/application/971350278",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "Pool Manager",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101325",
+   "url": "https://lora.algokit.io/mainnet/application/971353536",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "Deposits Escrow",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101326",
+   "url": "https://lora.algokit.io/mainnet/application/971368268",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "ALGO Pool",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101327",
+   "url": "https://lora.algokit.io/mainnet/application/2611131944",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "xALGO Pool",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101328",
+   "url": "https://lora.algokit.io/mainnet/application/971372237",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "USDC Pool",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101329",
+   "url": "https://lora.algokit.io/mainnet/application/971373361",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "goBTC Pool",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101330",
+   "url": "https://lora.algokit.io/mainnet/application/1258524099",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "SILVER$ Pool",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101331",
+   "url": "https://lora.algokit.io/mainnet/application/1258515734",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "GOLD$ Pool",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101332",
+   "url": "https://lora.algokit.io/mainnet/application/971373611",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "goETH Pool",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101333",
+   "url": "https://lora.algokit.io/mainnet/application/3343137163",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "FOLKS Pool (Isolated)",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101334",
+   "url": "https://lora.algokit.io/mainnet/application/3514794123",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "WBTC Pool",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101335",
+   "url": "https://lora.algokit.io/mainnet/application/3514795114",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "WETH POOL",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101336",
+   "url": "https://lora.algokit.io/mainnet/application/3184317016",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "ALGO Pool (Isolated)",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101337",
+   "url": "https://lora.algokit.io/mainnet/application/3184324594",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "USDC Pool (Isolated)",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101338",
+   "url": "https://lora.algokit.io/mainnet/application/3184325123",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "TINY Pool (Isolated)",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101339",
+   "url": "https://lora.algokit.io/mainnet/application/971388781",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "General Loan Type",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101340",
+   "url": "https://lora.algokit.io/mainnet/application/971389489",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "ALGO Efficiency Loan Type",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101343",
+   "url": "https://lora.algokit.io/mainnet/application/3184333108",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "Algorand Ecosystem Loan Type",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101344",
+   "url": "https://lora.algokit.io/mainnet/application/971333964",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "Oracle Adapter",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101345",
+   "url": "https://lora.algokit.io/mainnet/application/1040271396",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "Oracle",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "101346",
+   "url": "https://lora.algokit.io/mainnet/application/1134695678",
+   "type": "smart_contract",
+   "addedAt": "2026-10-05T21:07:47.360Z",
+   "revision": 0,
+   "description": "xALGO",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  }
+ ],
+ "rewards": [
+  {
+   "id": 51518,
+   "primacy": null,
+   "severity": "critical",
+   "assetType": "smart_contract",
+   "maxReward": 100000,
+   "minReward": 25000,
+   "rewardModel": "range",
+   "rewardCalculationPercentage": 10
+  },
+  {
+   "id": 51519,
+   "primacy": null,
+   "severity": "high",
+   "assetType": "smart_contract",
+   "maxReward": 50000,
+   "minReward": 5000,
+   "rewardModel": "range"
+  },
+  {
+   "id": 51520,
+   "primacy": null,
+   "severity": "medium",
+   "assetType": "smart_contract",
+   "fixedReward": 2500,
+   "rewardModel": "fixed"
+  },
+  {
+   "id": 51521,
+   "primacy": null,
+   "severity": "low",
+   "assetType": "smart_contract",
+   "fixedReward": 1000,
+   "rewardModel": "fixed"
+  }
+ ],
+ "impacts": [
+  {
+   "id": 6392,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol) - excludes freezing of funds"
+  },
+  {
+   "id": 6393,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Protocol unable to operate due to lack of token funds"
+  },
+  {
+   "id": 15,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
+  },
+  {
+   "id": 17,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Permanent freezing of funds"
+  },
+  {
+   "id": 22,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Protocol insolvency"
+  },
+  {
+   "id": 23,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Theft of unclaimed yield"
+  },
+  {
+   "id": 25,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Permanent freezing of unclaimed yield"
+  },
+  {
+   "id": 34,
+   "type": "smart_contract",
+   "severity": "low",
+   "title": "Contract fails to deliver promised returns, but doesn't lose value"
+  },
+  {
+   "id": 5368,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Temporary freezing of funds for at least 48 hours"
+  },
+  {
+   "id": 5369,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Temporary freezing of funds for at least 24 hours"
+  }
+ ],
+ "knownIssues": [
+  {
+   "description": "An attacker sends some fAsset, whose pool's collateral cap is zero, to a loan such that it prevents the loan from being closed out. Other similar examples such as when an escrow has opted into a different asset prior to being used",
+   "link": "https://lora.algokit.io/mainnet/application/971388781",
+   "lastUpdatedAt": "2023-01-01T00:00:00.000Z",
+   "relatedImpactInScope": "smart_contract"
+  }
+ ],
+ "programCodebases": null,
+ "maxBounty": 100000,
+ "kyc": true,
+ "updatedDate": "2026-10-08T11:43:29.084Z",
+ "launchDate": "2022-03-31T17:00:00.000Z",
+ "programOverview": "Folks Finance is a community-driven DeFi protocol offering a variety of tools for digital asset management\n\nFor more information about Folks Finance, please visit [https://folks.finance/](https://folks.finance/). \n\nThis bounty program will expire on 31.12.2026",
+ "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported. \n\nSmart Contract bug reports require a PoC and a suggestion for a fix to be eligible for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nHigh and Critical smart contract vulnerabilities are capped at 10% of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects, at the discretion of the team. However, there is a minimum reward of __USD 50 000__ for Critical and __USD 10 000__ for High. \n\nAll vulnerabilities marked in the following Github repository [https://github.com/Folks-Finance/audits](https://github.com/Folks-Finance/audits) are ineligible for a reward\n\nBug reports related solely to external incentives distributed on top of the protocol are downgraded in severity by one level. \n\nBug reports covering previously-discovered bugs are not eligible for any reward through the bug bounty program. If a bug report covers a known issue, it may be rejected together with proof of the issue being known before escalation of the bug report via Immunefi.\n\n__KYC__ shall be completed for bug bounty hunters submitting a vulnerability report and requesting a reward for Critical and High Smart Contracts vulnerabilities. The basic information needed is full name, residential address, and passport details (DOB, issuing country and passport number). Based on the basic information submitted, Folks Finance team may request further information at its sole discretion for compliance with applicable\nLaws.\n\nAdditionally, all levels of bug bounty hunters submitting a vulnerability report and requesting a reward need to submit certification that \n- (i) they are not acting, directly or indirectly, for or on behalf of any person, group entity, or nation named by any Executive Order or the United States Treasury Department as a terrorist, \u201cSpecially Designated National and Blocked Person,\u201d or other banned or blocked person, entity, nation, or transaction pursuant to any law, order, rule or regulation that is\nenforced or administered by the Office of Foreign Assets Control; and  \n- (ii) they are not engaging in, instigating or facilitating this transaction, directly or indirectly, on behalf of any such person, group,\nentity, or nation. They also need to submit an attestation that all information provided is true, correct, up-to-date and not misleading. The collection of this information will be done by the Folks Finance team.\n\nPayouts are handled by the __Folks Finance__ team directly and are denominated in USD. However, payouts are done in __USDC__.c:[\"",
+ "customOutOfScopeInformation": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n- Attacks that the reporter has already exploited themselves, leading to damage\n- Attacks requiring access to leaked keys/credentials\n- Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n- Any smart contracts or logic related to incentives\n- Incorrect data supplied by third party oracles and market manipulation\n    - Not to exclude oracle manipulation/flash loan attacks\n- Impacts relying on the depegging of an external token where the attacker does not directly cause the depegging from a bug in the in-scope contracts\n- Basic economic governance attacks (e.g. 51% attack)\n- Lack of liquidity\n- Best practice critiques\n- Sybil attacks\n- Centralization risks",
+ "assetsBodyV2": null,
+ "impactsBody": null
+}

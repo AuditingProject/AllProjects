@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x16d104009964e694761C0bf09d7Be49B7E3C26fd",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "IporProtocolRouterProxy",
+ "asset_url": "https://etherscan.io/address/0x16d104009964e694761C0bf09d7Be49B7E3C26fd",
+ "files": 1
+}

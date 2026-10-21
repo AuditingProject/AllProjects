@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "YBC_Bonus_Recipient.vy:YBC_Bonus_Recipient",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0xf03a919a59f8381bE220511eCf788b15FB039e4C",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Bonus Recipient",
+ "asset_url": "https://etherscan.io/address/0xf03a919a59f8381bE220511eCf788b15FB039e4C",
+ "files": 1
+}

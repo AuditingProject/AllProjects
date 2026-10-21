@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/off-chain/FundValueCalculator.sol:FundValueCalculator",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xea609eeb38d1ee8e8719597d47cc9276df9f8707",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "FundValueCalculator",
+ "asset_url": "https://arbiscan.io/address/0xea609eeb38d1ee8e8719597d47cc9276df9f8707",
+ "files": 18
+}

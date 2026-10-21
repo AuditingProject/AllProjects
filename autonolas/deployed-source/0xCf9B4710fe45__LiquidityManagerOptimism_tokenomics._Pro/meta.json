@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/pol/LiquidityManagerOptimism.sol:LiquidityManagerOptimism",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0xCf9B4710fe450Dca52374f28e4917FDCd44F9487",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "LiquidityManagerOptimism \u2014 tokenomics. Protocol-owned-liquidity manager implementation (OP-stack). Deployed on: Optimism 0xCf9B4710fe450Dca52374f28e4917FDCd44F9487; Base 0x1D64516E7654F23dB7cE2ddaD00FFb3E765cf5ce.",
+ "asset_url": "https://optimistic.etherscan.io/address/0xCf9B4710fe450Dca52374f28e4917FDCd44F9487#code",
+ "files": 13
+}

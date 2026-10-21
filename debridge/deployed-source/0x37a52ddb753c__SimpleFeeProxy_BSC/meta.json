@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/periphery/SimpleFeeProxy.sol:SimpleFeeProxy",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "SimpleFeeProxy BSC",
+ "asset_url": "https://bscscan.com/address/0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+ "files": 13
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "GMTokenManager",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x2c158BC456e027b2AfFCCadF1BDBD9f5fC4c5C8c",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GMTokenManager",
+ "asset_url": "https://etherscan.io/address/0x2c158BC456e027b2AfFCCadF1BDBD9f5fC4c5C8c",
+ "files": 24
+}

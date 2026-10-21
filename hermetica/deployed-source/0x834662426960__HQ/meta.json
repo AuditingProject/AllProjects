@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.hq-v1",
+ "compiler": "clarity4",
+ "address": "0x834662426960938e9d483ebfb7ecae90a6c5c0d4327e2cb4011700387d2167bf",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "HQ",
+ "asset_url": "https://explorer.hiro.so/txid/0x834662426960938e9d483ebfb7ecae90a6c5c0d4327e2cb4011700387d2167bf?chain=mainnet",
+ "files": 1
+}

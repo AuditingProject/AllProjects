@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/Messenger.sol:Messenger",
+ "compiler": "0.8.22+commit.4fc1097e",
+ "address": "0x5f7d50242206993A4476C76b21950219a4ED2c91",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "Messenger (BSC)",
+ "asset_url": "https://bscscan.com/address/0x5f7d50242206993A4476C76b21950219a4ED2c91",
+ "files": 34
+}

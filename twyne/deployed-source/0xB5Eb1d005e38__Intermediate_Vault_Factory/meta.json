@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "GenericFactory",
+ "compiler": "v0.8.24+commit.e11b9ed9",
+ "address": "0xB5Eb1d005e389Bef38161691E2083b4d86FF647a",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Intermediate Vault Factory",
+ "asset_url": "https://etherscan.io/address/0xB5Eb1d005e389Bef38161691E2083b4d86FF647a",
+ "files": 3
+}

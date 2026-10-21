@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Timelock",
+ "compiler": "0.8.15+commit.e14f2714",
+ "address": "0x3C1fF68f5aa342D296d4DEe4Bb1cACCA912D95fE",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Timelock \u2014 governance. DAO timelock controller; protocol admin. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x3C1fF68f5aa342D296d4DEe4Bb1cACCA912D95fE#code",
+ "files": 10
+}

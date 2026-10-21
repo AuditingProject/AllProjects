@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MaplePoolDeployer",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x12fB5dbBDB06ab973f047cC46D6bB33ba4d03b96",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PoolDeployer",
+ "asset_url": "https://etherscan.io/address/0x12fB5dbBDB06ab973f047cC46D6bB33ba4d03b96",
+ "files": 7
+}

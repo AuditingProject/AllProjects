@@ -1,0 +1,18 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/naviprotocol/navi-smart-contracts/tree/main/lending_core",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  },
+  {
+   "url": "https://github.com/naviprotocol/navi-smart-contracts/tree/main/oracle",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "navi-protocol",
+ "maxBounty": "300000.0",
+ "kyc": false
+}

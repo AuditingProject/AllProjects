@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/new-shareholders/AllowedSharesTransferRecipientsPolicy.sol:AllowedSharesTransferRecipientsPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xb5ef1f5e549ad46603bec9011b99a96a6cfd993e",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "AllowedSharesTransferRecipientsPolicy",
+ "asset_url": "https://arbiscan.io/address/0xb5ef1f5e549ad46603bec9011b99a96a6cfd993e",
+ "files": 12
+}

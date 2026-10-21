@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.zest-interface-hbtc-v1",
+ "compiler": "clarity4",
+ "address": "0x570b90c20a3b63e431a387a50ee3c9f6a3a709527731a8cbde75b731e9c7369a",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Zest Interface",
+ "asset_url": "https://explorer.hiro.so/txid/0x570b90c20a3b63e431a387a50ee3c9f6a3a709527731a8cbde75b731e9c7369a?chain=mainnet",
+ "files": 1
+}

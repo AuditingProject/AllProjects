@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/core/OffChainIndexSwap.sol:OffChainIndexSwap",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x577d56b755f5904184abE5792477a57f9CE37463",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "OffChainIndexSwap",
+ "asset_url": "https://bscscan.com/address/0x577d56b755f5904184abE5792477a57f9CE37463",
+ "files": 32
+}

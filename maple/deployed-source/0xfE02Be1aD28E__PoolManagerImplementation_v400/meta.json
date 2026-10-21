@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/MaplePoolManager.sol:MaplePoolManager",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0xfE02Be1aD28EdFd8e3dD6F29C402B244C2A258B8",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PoolManagerImplementation (v400)",
+ "asset_url": "https://etherscan.io/address/0xfE02Be1aD28EdFd8e3dD6F29C402B244C2A258B8",
+ "files": 14
+}

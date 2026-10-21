@@ -1,0 +1,165 @@
+{
+ "title": "Zynk Protocol",
+ "logo": "/uploads/bounty_program/logo/6a315bcc40041c3901e66b33/logo.png?timestamp=1791035066",
+ "logoPresent": true,
+ "companyName": "Zynk",
+ "companySlug": "zynk",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "06 Jul 2026",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/zynk-protocol/reports/new",
+ "kycRequired": true,
+ "pocRequired": true,
+ "reputationRequired": null,
+ "minReputation": 100,
+ "submissionFee": 1,
+ "programOfTheWeek": false,
+ "depositAvailable": false,
+ "maxReward": "$5,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 1,
+   "reputation": 7,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/69c1565a40041c000e39bb0d/avatar.png?timestamp=1786220314",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "Scheggia89",
+    "verified": true
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 2,
+   "reputation": 5,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6625a2c3fd1804151f0a1673/avatar.png?timestamp=1788183905",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "0nyx",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 1,
+   "reputation": 5,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/698062f240041c000dfd3f13/avatar.png?timestamp=1785257128",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "MasterCode",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 1,
+   "reputation": 5,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/689c640c40041c000f9467ef/avatar.png?timestamp=1790894727",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "pelz",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 1,
+   "reputation": 5,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a03109240041c000efbe4b1/avatar.png?timestamp=1785236411",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "miyagi45588",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 17,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 5000,
+  "critical_min": 0,
+  "high_max": 0,
+  "high_min": 0,
+  "low_max": 0,
+  "low_min": 0,
+  "medium_max": 0,
+  "medium_min": 0
+ },
+ "description": "Zynk is a just-in-time liquidity and settlement infrastructure layer for cross-border payment companies. Payment companies often need to pre-fund transactions to provide fast settlements \u2014 this ties up capital, slows growth, and makes treasury operations unnecessarily complex. Zynk removes that bottleneck by providing liquidity on a transaction-by-transaction basis, allowing companies to settle faster without locking up idle capital.",
+ "sla": {
+  "first_response": 3,
+  "resolution_time": 45,
+  "time_to_reward": 10,
+  "time_to_triage": 5
+ },
+ "totalRewards": 0,
+ "submittedReports": 17,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "6a47bb9940041c001901665e",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/Zynklabs/zynk-protocol-solana-programs.public/tree/main/programs/zynk-core",
+   "target_description": "The **Zynk Core** Solana Program is the primary on-chain component responsible for liquidity deployment, settlement, and governance within the Zynk Protocol.\n\nThe program manages:\n\n- Beneficiary and assets whitelisting\n- Liquidity deployment to beneficiaries\n- Partner settlement flows\n- Order lifecycle tracking\n- Governance and administrative actions\n- Protocol safety mechanisms\n\nAll operational logic is enforced through deterministic account constraints, cryptographic signature verification, and strict role-based authorization.",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "6a47bb9940041c001901665f",
+   "out_of_scope": false,
+   "position": 1,
+   "target": "https://github.com/Zynklabs/zynk-protocol-solana-programs.public/tree/main/programs/zynk-orbit",
+   "target_description": "**Zynk Orbit** is a Solana program responsible for managing liquidity provider (LP) fund flows within the Zynk Protocol. Its primary function is to securely move liquidity in and out of the Zynk ecosystem, bridging LP wallets and the ICV vaults or Zynk Operational Vault (ZOV) (and further whitelisted beneficiaries) in a controlled and auditable manner.\n\nThe yield computation logic resides off-chain (out-of-scope) and hence, there's no on-chain counterpart to it.",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "None",
+   "id": "6a47bb9940041c0019016660",
+   "out_of_scope": true,
+   "position": 2,
+   "target": "https://github.com/Zynklabs/audit-reports",
+   "target_description": "- Any and all issues already disclosed in the previous audit reports won't be considered.",
+   "title": "Other"
+  }
+ ],
+ "programRules": "- Avoid using web application scanners for automatic vulnerability searching which generates massive traffic\r\n- Make every effort not to damage or restrict the availability of products, services, or infrastructure\r\n- Avoid compromising any personal data, interruption, or degradation of any service\r\n- Don\u2019t access or modify other user data, localize all tests to your accounts\r\n- Perform testing only within the scope\r\n- Don\u2019t exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam\r\n- Don\u2019t spam forms or account creation flows using automated scanners\r\n- In case you find chain vulnerabilities we\u2019ll pay only for vulnerability with the highest severity.\r\n- Don\u2019t break any law and stay in the defined scope\r\n- Any details of found vulnerabilities must not be communicated to anyone who is not a HackenProof Team or an authorized employee of this Company without appropriate permission\r\n- **All communication regarding the program must take place exclusively through the HackenProof platform.\r\nContacting the project team directly through support channels, social media, or any other external communication channels is strictly prohibited.\r\nResearchers who violate this rule may be disqualified from the program and may face account suspension.**",
+ "focusArea": "## IN SCOPE:\nAll targets are deployed on Solana. Only the Solana programs' code is in scope. Everything else (tests, mocks, scripts, deployment tooling, and third-party dependencies/imports) is out of scope.\n\n## DISCLAIMERS:\n- **Mode of operations** With the exception of few orbit functions, all entry points are restricted to protocol-controlled signers. The Admin and Guardian roles are protected by multisig wallets with an appropriate security threshold. Any vulnerability disclosure must take this architectural constraint into account.\n- **Recoverable/reversible is never Critical, and recoverable/temporary DoS is Low.** If funds can be recovered or the impact reversed (admin action, pausing, timelock, rescue), or a lock/DoS is cleared by a trusted-role action, ordinary protocol operation or any remedy, it is not \"permanent.\" Critical requires permanent, irreversible, systemic user-fund loss.\n- **Single-user vs. systemic.** Loss confined to a single user will not be considered. Critical requires loss across all/many users or protocol insolvency.\n- **Version alignment** Any vulnerabilities resulting from the use of toolchain or third-party dependency versions other than those specified by the protocol will not be considered. Researchers are advised to use the exact versions specified.\n- **Off-chain dependencies** Certain off-chain components \u2014 most notably the yield computation engine for Zynk Orbit \u2014 affect the on-chain state. These components are explicitly out of scope but should be considered when evaluating protocol behavior.\n    LP deposits land in the ZOV, LP withdrawals are paid from the Ovault. There's no direct visible path in-program for funds to flow from ZOV to Ovault, we take care of this off-chain, during the time of LP withdrawal approval by admin.\n- **Intended design decisions**\n    - mint whitelisting is an admin/guadian controlled operation and is performed under strict scrutiny by the team. Being said that, even in cases of whitelisting an invalid/unexpected mint, we do not execute fund transfer operations without verification, plus we do have a removal mechanism for whitelisted_mints.\n    - `close_orders` function has been deliberately implemented to close orders without the need of replenishing the full amount, in emergency situations, hence, it is accessible by the admin/guardian only.\n    - Replenish amount from a partner's PDV is uncapped. Repay forwards the raw amount, Core moves it all from PDV to ZOV but credits only `repay_amount`. A partner's vault can be swept entirely into the shared ZOV. For such cases, we do monitor all our transactions and refund the delta to the partner, if needed.\n    - Updating User's `wallets` is solely an admin-controlled operation currently. We intend to extend a user approval function in our later releases.\n- **These program rules may be clarified and/or amended at any time, every submission is evaluated against the rules in effect at the time of judging.**\n\n## INVARIANTS:\n- Only admin or manager may pause immediately.\n- Only admin or guardian can manage beneficiary and mint whitelists.\n- All transactions should adhere to the mint whitelisting.\n- An order created with a certain token, can only be replenished/closed with the same token.\n- `zynk-orbit` does not have any governance, it totally depends on `zynk-core`'s config, except for the `pause` state. Said so, `zynk-orbit` doesn't consist of any pause/unpause mechanism, means LP activities need not be paused, however, the borrow/repay path gets blocked due to `zynk-core`'s pause state.\n- For Core transactions, `amount_in` must be greater than or equal to `amount_out`\n- A single signer (`manager/admin/guardian`) cannot perform more than one governance operation.\n- Guardian update strictly requires both the timelock to be elapsed and the consent of the current Guardian.\n- Users (as in LP/ICV/NCW) can interact with the protocol only using the whitelisted `wallets` (max 3).\n- Orbit user's net principal (`principal_in` - `principal_out`) must never exceed stored  `max_principal`.\n- If `whitelisted_partners` is non-empty, a borrow can only happen for approved partners (extracted numeric code from `partner_id`). If empty, all partners are permitted.\n- For CCTP, funds cannot flow from the user PDAs to any other addresses not whitelisted in their `cctp_recipients` list.\n- Core orders cannot be created for any other beneficiaries not whitelisted (involves partner mapping)\n- Transient orders can be created only if `transient_allowed` for certain beneficiaries. Transient `pull_and_create_order`s are permitted, irrespective of the `transient_allowed` state.\n- Within Solana: Funds cannot move out of ICV without an order that comes from allowed partner.\n  For CCTP: Funds can only move to a whitelisted recipient (which when the EVM contract goes live, will be a vault created dedicatedly for allowed partners of this ICV). This vault can be separately verified on EVM for the ownership against the declared partners\n- Borrow from several ICVs is permissible (total number of PDAs is subject to the transaction size limit). Each borrow can create multiple position PDAs, each for the ICVs involved - which define the share of that specific ICV.\n- If multiple ICVs do not suffice the required amount to create an order, the remaining must be facilitated from the ZOV itself. Hence, the borrow shares must take this into consideration.\n- Only Orbit can invoke the `replenish_and_repay` function in Core.",
+ "disclosureGuidelines": "- Do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization\r\n- No vulnerability disclosure, including partial is allowed for the moment\r\n- Platform-Only Disclosure: Disclosure is only possible through the HackenProof Disclosure function\r\n- Researchers must not contact the project team directly regarding any findings, questions, or bounty-related matters. All communication must be conducted through the HackenProof platform only\r\n- Researchers may request disclosure (Limited or Full) within the report ticket\r\n- We reserve the right to approve, redact, or deny disclosure requests at our sole discretion\r\n- Mutual Required: Any publication requires explicit mutual agreement. Reports must remain Private until the status is officially changed to \"Public\" on the HackenProof platform by the team.",
+ "eligibilityAndCoordinateDisclosure": "We are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:\r\n\r\n- You must be the first reporter of a vulnerability\r\n- The vulnerability must be a qualifying vulnerability\r\n- Any vulnerability found must be reported no later than 24 hours after discovery and exclusively through hackenproof.com\r\n- You must send a clear textual description of the report along with steps to reproduce the issue, include attachments such as screenshots or proof of concept code as necessary\r\n- You must not be a former or current employee of us or one of its contractor\r\n- ONLY USE the EMAIL under which you registered your HackenProof account (in case of violation, no bounty can be awarded)\r\n- Provide detailed but to-the point reproduction steps\r\n- AI-generated reports without runable PoC are not accepted under this program.",
+ "labels": {
+  "types": [
+   "smart contract"
+  ],
+  "languages": [
+   "Rust"
+  ],
+  "platforms": [
+   "Solana"
+  ],
+  "project_types": [
+   "Lending",
+   "Stablecoin",
+   "DeFi"
+  ]
+ },
+ "customBlocks": [],
+ "scopeReview": 206777,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "5000.0",
+ "minBounty": "0.0"
+}

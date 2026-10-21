@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/MapleAaveStrategy.sol:MapleAaveStrategy",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0xFc8F7F97165d446B02Cc95363d2cA31154BBe9F9",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Aave Strategy Implementation (V100)",
+ "asset_url": "https://etherscan.io/address/0xFc8F7F97165d446B02Cc95363d2cA31154BBe9F9",
+ "files": 14
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/handler/ApeSwap/ApeSwapLPHandler.sol:ApeSwapLPHandler",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xb0a7f3da89634F31E904a369F83241744B5c2a7d",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "ApeSwapLPHandler",
+ "asset_url": "https://bscscan.com/address/0xb0a7f3da89634F31E904a369F83241744B5c2a7d",
+ "files": 27
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+ "chain": 21000000,
+ "explorer_host": "cornscan.io",
+ "asset_description": "USDT0 Corn",
+ "asset_url": "https://cornscan.io/address/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb/contract/21000000/readContract",
+ "files": 14
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OptimismDepositProcessorL1",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x990aBa4b05adc3761EfAf38FB871b93C7b162D03",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OptimismDepositProcessorL1 \u2014 tokenomics. L1 staking incentive deposit processor for OP-stack L2s. Deployed on Ethereum: for Optimism 0x990aBa4b05adc3761EfAf38FB871b93C7b162D03; for Base 0x16d24D9A9c73133262d2Db83e1bB34FF7cB952Da; for Celo 0x85d4E442225E04bb7822a87366831F0b2720DA1b; for Mode 0x6A5F38aAdCc1c049E39D80147b64a9Ff947d208B.",
+ "asset_url": "https://etherscan.io/address/0x990aBa4b05adc3761EfAf38FB871b93C7b162D03#code",
+ "files": 3
+}

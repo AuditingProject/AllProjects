@@ -1,0 +1,13 @@
+{
+ "source": "tronscan",
+ "match": "name-only",
+ "name": "Timelock",
+ "compiler": null,
+ "note": "TRONScan does not expose source for this contract; name only.",
+ "address": "TRWNvb15NmfNKNLhQpxefFz7cNjrYjEw7x",
+ "chain": 728126428,
+ "explorer_host": "tronscan.org",
+ "asset_description": "Timelock",
+ "asset_url": "https://tronscan.org/#/contract/TRWNvb15NmfNKNLhQpxefFz7cNjrYjEw7x/code",
+ "files": 0
+}

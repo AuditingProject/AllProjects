@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.10+commit.fc410830",
+ "address": "0xe3119e23fC2371d1E6b01775ba312035425A53d6",
+ "chain": 295,
+ "explorer_host": "hashscan.io",
+ "asset_description": "OApp Hedera",
+ "asset_url": "https://hashscan.io/mainnet/contract/0xe3119e23fC2371d1E6b01775ba312035425A53d6",
+ "files": 16
+}

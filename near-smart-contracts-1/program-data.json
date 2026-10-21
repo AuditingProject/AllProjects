@@ -1,0 +1,38 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/near/core-contracts/tree/master/lockup",
+   "type": "smart_contract",
+   "description": "lockup"
+  },
+  {
+   "url": "https://github.com/near/core-contracts/tree/master/staking-pool",
+   "type": "smart_contract",
+   "description": "staking pool"
+  },
+  {
+   "url": "https://github.com/near/core-contracts/tree/master/staking-pool-factory",
+   "type": "smart_contract",
+   "description": "staking pool factory"
+  },
+  {
+   "url": "https://github.com/near/core-contracts/tree/master/whitelist",
+   "type": "smart_contract",
+   "description": "whitelist"
+  },
+  {
+   "url": "https://github.com/near/core-contracts/tree/master/multisig",
+   "type": "smart_contract",
+   "description": "multisig"
+  },
+  {
+   "url": "https://github.com/near-daos/sputnik-dao-contract",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "near-smart-contracts-1",
+ "maxBounty": "300000.0",
+ "kyc": true
+}

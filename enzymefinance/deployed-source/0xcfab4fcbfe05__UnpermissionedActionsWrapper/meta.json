@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "UnpermissionedActionsWrapper",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xcfab4fcbfe059d5c1840d9dc285a9bfa0f96a118",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "UnpermissionedActionsWrapper",
+ "asset_url": "https://etherscan.io/address/0xcfab4fcbfe059d5c1840d9dc285a9bfa0f96a118",
+ "files": 34
+}

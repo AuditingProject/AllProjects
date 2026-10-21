@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/DisallowedAdapterIncomingAssetsPolicy.sol:DisallowedAdapterIncomingAssetsPolicy",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x5c9348fbedb75c39f0e84396618accab6c01f847",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "DisallowedAdapterIncomingAssetsPolicy",
+ "asset_url": "https://arbiscan.io/address/0x5c9348fbedb75c39f0e84396618accab6c01f847",
+ "files": 12
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/utils/0.8.19/dispatcher-owned-beacon/DispatcherOwnedBeaconFactory.sol:DispatcherOwnedBeaconFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xa825861dd852a9aae44612228bf72e9b14048017",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "SingleAssetDepositQueueFactory",
+ "asset_url": "https://polygonscan.com/address/0xa825861dd852a9aae44612228bf72e9b14048017",
+ "files": 12
+}

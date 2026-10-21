@@ -1,0 +1,20 @@
+[
+ {
+  "url": "https://docs.sushi.com/contracts/red-snwapper#deployments",
+  "desc": "Red Snwapper",
+  "status": "skipped-unsupported",
+  "host": "docs.sushi.com"
+ },
+ {
+  "url": "https://docs.sushi.com/contracts/cpamm#deployments",
+  "desc": "cpAMM (SuhiSwap V2)",
+  "status": "skipped-unsupported",
+  "host": "docs.sushi.com"
+ },
+ {
+  "url": "https://docs.sushi.com/contracts/clamm#deployments",
+  "desc": "clAMM (SuhiSwap V3)",
+  "status": "skipped-unsupported",
+  "host": "docs.sushi.com"
+ }
+]

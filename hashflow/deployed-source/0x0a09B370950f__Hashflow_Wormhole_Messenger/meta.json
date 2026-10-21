@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/xchain/HashflowWormholeMessenger.sol:HashflowWormholeMessenger",
+ "compiler": "0.8.18+commit.87f61d96",
+ "address": "0x0a09B370950f69ADC4c2FbF8677C7b0047599c9F",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Hashflow Wormhole Messenger",
+ "asset_url": "https://etherscan.io/address/0x0a09B370950f69ADC4c2FbF8677C7b0047599c9F",
+ "files": 18
+}

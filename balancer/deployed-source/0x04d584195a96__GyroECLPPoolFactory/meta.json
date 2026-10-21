@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "GyroECLPPoolFactory",
+ "compiler": "v0.8.27+commit.40a35a09",
+ "address": "0x04d584195a96DFfc7F8B695aA3C9D3c1606b69d1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GyroECLPPoolFactory",
+ "asset_url": "https://etherscan.io/address/0x04d584195a96DFfc7F8B695aA3C9D3c1606b69d1#code",
+ "files": 65
+}

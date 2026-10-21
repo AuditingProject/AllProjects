@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:scroll.blockscout.com",
+ "match": "verified",
+ "name": "ManagerWithMerkleVerification",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0x227975088C28DBBb4b421c6d96781a53578f19a8",
+ "chain": 534352,
+ "explorer_host": "scrollscan.com",
+ "asset_description": "LiquidETH - manager",
+ "asset_url": "https://scrollscan.com/address/0x227975088C28DBBb4b421c6d96781a53578f19a8",
+ "files": 31
+}

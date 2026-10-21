@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "StableSurgePoolFactory",
+ "compiler": "v0.8.27+commit.40a35a09",
+ "address": "0x187a05fb9e4234Dd310ae74215743560D1BAA6Ac",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "V3 StableSurgePoolFactory (V3)",
+ "asset_url": "https://etherscan.io/address/0x187a05fb9e4234Dd310ae74215743560D1BAA6Ac#code",
+ "files": 81
+}

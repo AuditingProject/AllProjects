@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/naviprotocol/astros-contracts/tree/main/perp_vault",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "astros-smart-contracts",
+ "maxBounty": "150000.0",
+ "kyc": false
+}

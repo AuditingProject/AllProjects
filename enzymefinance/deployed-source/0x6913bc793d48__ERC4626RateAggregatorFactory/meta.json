@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/infrastructure/price-feeds/primitives/factories/ERC4626RateAggregatorFactory.sol:ERC4626RateAggregatorFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x6913bc793d486f8f80a9dc31a8fa2bf8bf09f866",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "ERC4626RateAggregatorFactory",
+ "asset_url": "https://basescan.org/address/0x6913bc793d486f8f80a9dc31a8fa2bf8bf09f866",
+ "files": 8
+}

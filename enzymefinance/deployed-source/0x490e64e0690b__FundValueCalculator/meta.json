@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "FundValueCalculator",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x490e64e0690b4aa481fb02255aed3d052bad7bf1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "FundValueCalculator",
+ "asset_url": "https://etherscan.io/address/0x490e64e0690b4aa481fb02255aed3d052bad7bf1",
+ "files": 54
+}

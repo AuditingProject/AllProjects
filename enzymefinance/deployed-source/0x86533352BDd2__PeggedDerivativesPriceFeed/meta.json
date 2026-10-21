@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/infrastructure/price-feeds/derivatives/feeds/PeggedDerivativesPriceFeed.sol:PeggedDerivativesPriceFeed",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x86533352BDd201c89f184f7ebbFeBea3E31c8Bb3",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PeggedDerivativesPriceFeed",
+ "asset_url": "https://etherscan.io/address/0x86533352BDd201c89f184f7ebbFeBea3E31c8Bb3",
+ "files": 10
+}

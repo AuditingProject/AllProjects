@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xDF5A8e190CF63D74a4Ec743253fA26D4C7539Be8",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "Oracle(STONE)",
+ "asset_url": "https://bscscan.com/address/0xDF5A8e190CF63D74a4Ec743253fA26D4C7539Be8",
+ "files": 112
+}

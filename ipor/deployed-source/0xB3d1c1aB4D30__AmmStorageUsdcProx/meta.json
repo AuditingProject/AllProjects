@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0xB3d1c1aB4D30800162da40eb18B3024154924ba5",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AmmStorageUsdcProx",
+ "asset_url": "https://etherscan.io/address/0xB3d1c1aB4D30800162da40eb18B3024154924ba5",
+ "files": 15
+}

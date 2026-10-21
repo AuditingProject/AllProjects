@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "EclpLPOracleFactory",
+ "compiler": "v0.8.27+commit.40a35a09",
+ "address": "0x301EDe5Fd4f9d7266B09c3A2E38F97776447154B",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "EclpLPOracleFactory",
+ "asset_url": "https://etherscan.io/address/0x301EDe5Fd4f9d7266B09c3A2E38F97776447154B#code",
+ "files": 68
+}

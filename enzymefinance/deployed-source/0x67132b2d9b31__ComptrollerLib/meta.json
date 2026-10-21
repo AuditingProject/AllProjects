@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/core/fund/comptroller/ComptrollerLib.sol:ComptrollerLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x67132b2d9b31ffcab67c9216f3fa937b259673b8",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "ComptrollerLib",
+ "asset_url": "https://basescan.org/address/0x67132b2d9b31ffcab67c9216f3fa937b259673b8",
+ "files": 32
+}

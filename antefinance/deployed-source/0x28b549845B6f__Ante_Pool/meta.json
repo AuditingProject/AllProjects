@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/AntePool.sol:AntePool",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0x28b549845B6fE1939783ba0bDb3ba1a598da0394",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Ante Pool",
+ "asset_url": "https://etherscan.io/address/0x28b549845B6fE1939783ba0bDb3ba1a598da0394",
+ "files": 7
+}

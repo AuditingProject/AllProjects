@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-implementations/contracts/strategies/vault/rebalance/VaultExternalRebalanceStrategy.sol:VaultExternalRebalanceStrategy",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x5CfB6Fc76e270e35Da7aB9bDEB8B97f64b4A59bf",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "VaultExternalRebalanceStrategy",
+ "asset_url": "https://arbiscan.io/address/0x5CfB6Fc76e270e35Da7aB9bDEB8B97f64b4A59bf#code",
+ "files": 32
+}

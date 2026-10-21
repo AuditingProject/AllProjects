@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/OneInchV5Adapter.sol:OneInchV5Adapter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xea8f3990fc7357e1835cbe75dcf04d20391a06f9",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "OneInchV5Adapter",
+ "asset_url": "https://basescan.org/address/0xea8f3990fc7357e1835cbe75dcf04d20391a06f9",
+ "files": 15
+}

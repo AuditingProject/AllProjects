@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/OnlyUntrackDustOrPricelessAssetsPolicy.sol:OnlyUntrackDustOrPricelessAssetsPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x747beaee139fba4a89fa71bebb5f21231530292b",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OnlyUntrackDustOrPricelessAssetsPolicy",
+ "asset_url": "https://etherscan.io/address/0x747beaee139fba4a89fa71bebb5f21231530292b",
+ "files": 52
+}

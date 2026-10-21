@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/external-position-manager/external-positions/uniswap-v3-liquidity/UniswapV3LiquidityPositionParser.sol:UniswapV3LiquidityPositionParser",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0xc6ece1bff7a7b16def7e2a6956b7c75189240671",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "UniswapV3LiquidityPositionParser",
+ "asset_url": "https://arbiscan.io/address/0xc6ece1bff7a7b16def7e2a6956b7c75189240671",
+ "files": 22
+}

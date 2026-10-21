@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:megaeth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.10+commit.fc410830",
+ "address": "0x9151434b16b9763660705744891fA906F660EcC5",
+ "chain": 6342,
+ "explorer_host": "megaeth.blockscout.com",
+ "asset_description": "OApp MegaEth",
+ "asset_url": "https://megaeth.blockscout.com/address/0x9151434b16b9763660705744891fA906F660EcC5",
+ "files": 16
+}

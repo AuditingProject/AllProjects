@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/core/fund/vault/VaultLib.sol:VaultLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xddb8ebe5361ca93614e5efb34049e842912e1612",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "VaultLib",
+ "asset_url": "https://polygonscan.com/address/0xddb8ebe5361ca93614e5efb34049e842912e1612",
+ "files": 33
+}

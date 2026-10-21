@@ -1,0 +1,18 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/hackenproof-public/cetus-contract-bounty",
+   "type": "smart_contract",
+   "description": "!! Only smart contracts residing in the sources folder and dependencies are in scope. The rest is there to make testing easier !!\n\nPlease contact our support team in Discord to get access to scope. KYC required."
+  },
+  {
+   "url": "https://github.com/CetusProtocol/cetus-contracts",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "cetus-smart-contracts",
+ "maxBounty": "1000000.0",
+ "kyc": true
+}

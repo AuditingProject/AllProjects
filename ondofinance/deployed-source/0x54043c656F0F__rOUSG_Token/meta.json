@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TokenProxy",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x54043c656F0FAd0652D9Ae2603cDF347c5578d00",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "rOUSG Token",
+ "asset_url": "https://etherscan.io/address/0x54043c656F0FAd0652D9Ae2603cDF347c5578d00",
+ "files": 9
+}

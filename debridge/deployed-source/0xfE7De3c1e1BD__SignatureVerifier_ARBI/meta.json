@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/transfers/SignatureVerifier.sol:SignatureVerifier",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "SignatureVerifier ARBI",
+ "asset_url": "https://arbiscan.io/address/0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+ "files": 12
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "SingleTokenRewardDistributor.sol:SingleTokenRewardDistributor",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0xB226c52EB411326CdB54824a88aBaFDAAfF16D3d",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "yCRV Boosted Staker Reward Distributor",
+ "asset_url": "https://etherscan.io/address/0xB226c52EB411326CdB54824a88aBaFDAAfF16D3d#code",
+ "files": 7
+}

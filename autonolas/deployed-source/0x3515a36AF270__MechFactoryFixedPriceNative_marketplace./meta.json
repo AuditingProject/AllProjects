@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MechFactoryFixedPriceNative",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x3515a36AF270070635Fa3E957e006aaF6078e658",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MechFactoryFixedPriceNative \u2014 marketplace. Factory deploying native-token fixed-price mech instances. Deployed on: Ethereum 0x3515a36AF270070635Fa3E957e006aaF6078e658; Gnosis 0x8b299c20F87e3fcBfF0e1B86dC0acC06AB6993EF; Base 0x2E008211f34b25A7d7c102403c6C2C3B665a1abe; Polygon 0x87f89F94033305791B6269AE2F9cF4e09983E56e; Optimism 0xf76953444C35F1FcE2F6CA1b167173357d3F5C17; Arbitrum 0x4Cd816ce806FF1003ee459158A093F02AbF042a8; Celo 0xDd1252c5a75be568B5E6e50bA542680b38dbd68f.",
+ "asset_url": "https://etherscan.io/address/0x3515a36AF270070635Fa3E957e006aaF6078e658#code",
+ "files": 29
+}

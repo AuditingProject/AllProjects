@@ -1,0 +1,16 @@
+{
+ "source": "osec-verify",
+ "match": "not-verified",
+ "name": null,
+ "compiler": null,
+ "repo_url": "",
+ "commit": "",
+ "on_chain_hash": "0e60fe7ad86f24485f6daccd8c1671055d426e9c8500345ee0ce4f5fe076f934",
+ "note": "Solana program: no on-chain source. This records the OtterSec verified-build repo/commit and the on-chain program hash.",
+ "address": "6EZAJVrNQdnBJU6ULxXSDaEoK6fN7C3iXTCkZKRWDdGM",
+ "chain": null,
+ "explorer_host": "explorer.solana.com",
+ "asset_description": "Solana staker and whitelist contracts on testnet",
+ "asset_url": "https://explorer.solana.com/address/6EZAJVrNQdnBJU6ULxXSDaEoK6fN7C3iXTCkZKRWDdGM?cluster=devnet",
+ "files": 0
+}

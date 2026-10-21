@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "PolygonDepositProcessorL1",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x7EB5824Bb78e971284e2140059f8755B3d2BB525",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PolygonDepositProcessorL1 \u2014 tokenomics. L1 staking incentive deposit processor for Polygon. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x7EB5824Bb78e971284e2140059f8755B3d2BB525#code",
+ "files": 9
+}

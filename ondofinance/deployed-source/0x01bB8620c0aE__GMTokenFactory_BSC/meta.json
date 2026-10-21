@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/tokenFactory/GMTokenFactory.sol:GMTokenFactory",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x01bB8620c0aEF4390c983A5A792d178AF2733e82",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "GMTokenFactory (BSC)",
+ "asset_url": "https://bscscan.com/address/0x01bB8620c0aEF4390c983A5A792d178AF2733e82",
+ "files": 42
+}

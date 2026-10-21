@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Router",
+ "compiler": "0.8.27+commit.40a35a09",
+ "address": "0xAE563E3f8219521950555F5962419C8919758Ea2",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "V3 Router (V2)",
+ "asset_url": "https://etherscan.io/address/0xAE563E3f8219521950555F5962419C8919758Ea2#code",
+ "files": 41
+}

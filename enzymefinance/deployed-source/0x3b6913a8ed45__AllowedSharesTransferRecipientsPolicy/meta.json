@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/new-shareholders/AllowedSharesTransferRecipientsPolicy.sol:AllowedSharesTransferRecipientsPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x3b6913a8ed4595919a6b4a9022208cede20194bd",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "AllowedSharesTransferRecipientsPolicy",
+ "asset_url": "https://polygonscan.com/address/0x3b6913a8ed4595919a6b4a9022208cede20194bd",
+ "files": 33
+}

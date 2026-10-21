@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://sonicscan.org/address/0xE83fDb15b5efeD3E3D3FD2a086219c33686b7231",
+  "desc": "ShareDebtToken.sol - Silo Lending",
+  "status": "no-verified-source",
+  "host": "sonicscan.org",
+  "chain": 146,
+  "address": "0xE83fDb15b5efeD3E3D3FD2a086219c33686b7231"
+ },
+ {
+  "url": "https://sonicscan.org/address/0x1a36C81756d09950AcBd1aBDC522C0DD41363353",
+  "desc": "ShareProtectedCollateralToken.sol - Silo Lending",
+  "status": "no-verified-source",
+  "host": "sonicscan.org",
+  "chain": 146,
+  "address": "0x1a36C81756d09950AcBd1aBDC522C0DD41363353"
+ },
+ {
+  "url": "https://sonicscan.org/address/0x435Ab368F5fCCcc71554f4A8ac5F5b922bC4Dc06",
+  "desc": "Silo.sol - Silo Lending",
+  "status": "no-verified-source",
+  "host": "sonicscan.org",
+  "chain": 146,
+  "address": "0x435Ab368F5fCCcc71554f4A8ac5F5b922bC4Dc06"
+ },
+ {
+  "url": "https://sonicscan.org/address/0x4e9dE3a64c911A37f7EB2fCb06D1e68c3cBe9203",
+  "desc": "SiloFactory.sol - Silo Lending",
+  "status": "no-verified-source",
+  "host": "sonicscan.org",
+  "chain": 146,
+  "address": "0x4e9dE3a64c911A37f7EB2fCb06D1e68c3cBe9203"
+ },
+ {
+  "url": "https://sonicscan.org/address/0x1D9289efd4424F50c9155cf8b591944B0fba0fD0",
+  "desc": "SiloHookV1.sol - Silo Lending",
+  "status": "no-verified-source",
+  "host": "sonicscan.org",
+  "chain": 146,
+  "address": "0x1D9289efd4424F50c9155cf8b591944B0fba0fD0"
+ },
+ {
+  "url": "https://sonicscan.org/address/0xff1d0359CAd3BC603584A63D852D884BF5b17A67",
+  "desc": "SiloRouterV2.sol",
+  "status": "no-verified-source",
+  "host": "sonicscan.org",
+  "chain": 146,
+  "address": "0xff1d0359CAd3BC603584A63D852D884BF5b17A67"
+ },
+ {
+  "url": "https://sonicscan.org/address/0x4e125E605FDcf3B07BDE441DECf8EDAd423D5DC6",
+  "desc": "SiloVaultsFactory.sol - Silo Vaults",
+  "status": "no-verified-source",
+  "host": "sonicscan.org",
+  "chain": 146,
+  "address": "0x4e125E605FDcf3B07BDE441DECf8EDAd423D5DC6"
+ },
+ {
+  "url": "https://sonicscan.org/address/0xDED4aC8645619334186f28B8798e07ca354CFa0e",
+  "desc": "Example of SiloVault.sol - Silo Vaults",
+  "status": "no-verified-source",
+  "host": "sonicscan.org",
+  "chain": 146,
+  "address": "0xDED4aC8645619334186f28B8798e07ca354CFa0e"
+ }
+]

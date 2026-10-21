@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/new-shareholders/AllowedDepositRecipientsPolicy.sol:AllowedDepositRecipientsPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xa66baaa0ccb6468c5a2cb61f5d672c7ba0440ee1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AllowedDepositRecipientsPolicy",
+ "asset_url": "https://etherscan.io/address/0xa66baaa0ccb6468c5a2cb61f5d672c7ba0440ee1",
+ "files": 33
+}

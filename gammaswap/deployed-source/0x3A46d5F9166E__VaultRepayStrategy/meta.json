@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-implementations/contracts/strategies/vault/lending/VaultRepayStrategy.sol:VaultRepayStrategy",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x3A46d5F9166EBd7844758a9c3525a84B824cFcA9",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "VaultRepayStrategy",
+ "asset_url": "https://arbiscan.io/address/0x3A46d5F9166EBd7844758a9c3525a84B824cFcA9#code",
+ "files": 36
+}

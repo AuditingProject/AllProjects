@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "EternalStorageProxy",
+ "compiler": "v0.4.24+commit.e67f0147",
+ "address": "0x7301CFA0e1756B71869E93d4e4Dca5c7d0eb0AA6",
+ "chain": 1,
+ "explorer_host": "blockscout.com",
+ "asset_description": "HomeBridgeErcToNative: DAI-xDAI TokenBridge contract on the Gnosis chain",
+ "asset_url": "https://blockscout.com/xdai/mainnet/address/0x7301CFA0e1756B71869E93d4e4Dca5c7d0eb0AA6",
+ "files": 1
+}

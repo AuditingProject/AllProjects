@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/synth-core/metarouter/MetaRouterGateway.sol:MetaRouterGateway",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x5c97D726bf5130AE15408cE32bc764e458320D2f",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "MetaRouterGateway",
+ "asset_url": "https://bscscan.com/address/0x5c97D726bf5130AE15408cE32bc764e458320D2f#code",
+ "files": 2
+}

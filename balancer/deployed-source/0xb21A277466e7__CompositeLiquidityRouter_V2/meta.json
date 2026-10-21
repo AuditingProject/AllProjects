@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "CompositeLiquidityRouter",
+ "compiler": "0.8.27+commit.40a35a09",
+ "address": "0xb21A277466e7dB6934556a1Ce12eb3F032815c8A",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "CompositeLiquidityRouter (V2)",
+ "asset_url": "https://etherscan.io/address/0xb21A277466e7dB6934556a1Ce12eb3F032815c8A#code",
+ "files": 41
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/fee-manager/fees/EntranceRateBurnFee.sol:EntranceRateBurnFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x6180b98d85afbd904016c7ea08eb41cba77a1c08",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "EntranceRateBurnFee",
+ "asset_url": "https://arbiscan.io/address/0x6180b98d85afbd904016c7ea08eb41cba77a1c08",
+ "files": 6
+}

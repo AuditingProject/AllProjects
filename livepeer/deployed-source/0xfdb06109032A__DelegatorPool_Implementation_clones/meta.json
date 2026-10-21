@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/L2/pool/DelegatorPool.sol:DelegatorPool",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xfdb06109032AD3671a8f14f5f2E78f4B9E81b567",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "DelegatorPool (Implementation + clones)",
+ "asset_url": "https://arbiscan.io/address/0xfdb06109032AD3671a8f14f5f2E78f4B9E81b567#code",
+ "files": 3
+}

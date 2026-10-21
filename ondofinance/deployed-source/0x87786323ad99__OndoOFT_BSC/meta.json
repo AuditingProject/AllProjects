@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/OndoOFT.sol:OndoOFT",
+ "compiler": "0.8.22+commit.4fc1097e",
+ "address": "0x87786323ad9997924B22eac3AA9f71f562795633",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "OndoOFT (BSC)",
+ "asset_url": "https://bscscan.com/address/0x87786323ad9997924B22eac3AA9f71f562795633",
+ "files": 29
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/YBUSDBridge.sol:YBUSDBridge",
+ "compiler": "0.8.24+commit.e11b9ed9",
+ "address": "0x17dacAD8AA962963830136422E2EAa8d27D014f8",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Veno - ybUSDBridge (Ethereum)",
+ "asset_url": "https://etherscan.io/address/0x17dacAD8AA962963830136422E2EAa8d27D014f8",
+ "files": 12
+}

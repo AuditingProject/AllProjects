@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/xManager/tokenManagers/tokenSources/BasicSource.sol:BasicSource",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x27370016A46fF10255b8DAAbE7035f5203ce280E",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BasicSource - PYUSD",
+ "asset_url": "https://etherscan.io/address/0x27370016A46fF10255b8DAAbE7035f5203ce280E",
+ "files": 16
+}

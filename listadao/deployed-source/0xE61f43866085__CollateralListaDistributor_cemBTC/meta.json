@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xE61f4386608578199471747E4654Ae450adEE39A",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "CollateralListaDistributor(cemBTC)",
+ "asset_url": "https://bscscan.com/address/0xE61f4386608578199471747E4654Ae450adEE39A",
+ "files": 112
+}

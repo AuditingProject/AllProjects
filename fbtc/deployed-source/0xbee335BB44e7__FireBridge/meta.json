@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "lib/openzeppelin-contracts/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xbee335BB44e75C4794a0b9B54E8027b111395943",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "FireBridge",
+ "asset_url": "https://etherscan.io/address/0xbee335BB44e75C4794a0b9B54E8027b111395943",
+ "files": 6
+}

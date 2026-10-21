@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/FBTCGovernorModule.sol:FBTCGovernorModule",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x0d771823c72CcCa4D74695934d5a346938914547",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "GovernorModule",
+ "asset_url": "https://arbiscan.io/address/0x0d771823c72CcCa4D74695934d5a346938914547",
+ "files": 29
+}

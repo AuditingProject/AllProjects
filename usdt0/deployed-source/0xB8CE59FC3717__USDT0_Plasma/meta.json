@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+ "chain": 9745,
+ "explorer_host": "plasmascan.to",
+ "asset_description": "USDT0 Plasma",
+ "asset_url": "https://plasmascan.to/address/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+ "files": 14
+}

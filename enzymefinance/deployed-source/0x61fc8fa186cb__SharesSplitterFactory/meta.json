@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/shares-splitter/SharesSplitterFactory.sol:SharesSplitterFactory",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x61fc8fa186cb14e2fd19a9650e31ab4dcc60a95a",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "SharesSplitterFactory",
+ "asset_url": "https://arbiscan.io/address/0x61fc8fa186cb14e2fd19a9650e31ab4dcc60a95a",
+ "files": 12
+}

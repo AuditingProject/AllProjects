@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/external-position-manager/external-positions/arbitrary-loan/ArbitraryLoanPositionLib.sol:ArbitraryLoanPositionLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xf45071Ea30AfA81BE89430f3d0f334E98aF206D3",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ArbitraryLoanPositionLib",
+ "asset_url": "https://polygonscan.com/address/0xf45071Ea30AfA81BE89430f3d0f334E98aF206D3",
+ "files": 19
+}

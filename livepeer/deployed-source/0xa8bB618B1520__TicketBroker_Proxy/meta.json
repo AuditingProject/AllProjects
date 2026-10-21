@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/ManagerProxy.sol:ManagerProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xa8bB618B1520E284046F3dFc448851A1Ff26e41B",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "TicketBroker (Proxy)",
+ "asset_url": "https://arbiscan.io/address/0xa8bB618B1520E284046F3dFc448851A1Ff26e41B#code",
+ "files": 7
+}

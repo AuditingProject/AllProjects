@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/rwaOracles/SyntheticSharesOracle.sol:SyntheticSharesOracle",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x9BC39DB6fbB44B91a48b8D5A6C208B82B1741bE6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "SyntheticSharesOracle",
+ "asset_url": "https://etherscan.io/address/0x9BC39DB6fbB44B91a48b8D5A6C208B82B1741bE6",
+ "files": 11
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:scroll.blockscout.com",
+ "match": "verified",
+ "name": "ManagerWithMerkleVerification",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0xaFa8c08bedB2eC1bbEb64A7fFa44c604e7cca68d",
+ "chain": 534352,
+ "explorer_host": "scrollscan.com",
+ "asset_description": "LiquidBTC - manager",
+ "asset_url": "https://scrollscan.com/address/0xaFa8c08bedB2eC1bbEb64A7fFa44c604e7cca68d",
+ "files": 19
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/staking/OptimismTargetDispenserL2.sol:OptimismTargetDispenserL2",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0xaea9ef993d8a1A164397642648DF43F053d43D85",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "OptimismTargetDispenserL2 \u2014 tokenomics. L2 staking incentive target dispenser (OP-stack). Deployed on: Optimism 0xaea9ef993d8a1A164397642648DF43F053d43D85; Base 0x9Ec97Be9FF55ff11606ce7c589956f7Bf3D0b241; Celo 0x4891f5894634DcD6d11644fe8E56756EF2681582; Mode 0xEB5638eefE289691EcE01943f768EDBF96258a80.",
+ "asset_url": "https://optimistic.etherscan.io/address/0xaea9ef993d8a1A164397642648DF43F053d43D85#code",
+ "files": 3
+}

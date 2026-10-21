@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "GovernorBravoDelegator",
+ "compiler": "v0.5.17+commit.d19bba13",
+ "address": "0x336505EC1BcC1A020EeDe459f57581725D23465A",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GovernorBravoDelegator",
+ "asset_url": "https://etherscan.io/address/0x336505EC1BcC1A020EeDe459f57581725D23465A",
+ "files": 2
+}

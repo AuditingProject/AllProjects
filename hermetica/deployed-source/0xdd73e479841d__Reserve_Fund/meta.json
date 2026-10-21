@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.reserve-fund-hbtc-v1",
+ "compiler": "clarity4",
+ "address": "0xdd73e479841dbedba4fa6eee29be9dcef5d64e6093b905016ec1ba74dabba2ba",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Reserve Fund",
+ "asset_url": "https://explorer.hiro.so/txid/0xdd73e479841dbedba4fa6eee29be9dcef5d64e6093b905016ec1ba74dabba2ba?chain=mainnet",
+ "files": 1
+}

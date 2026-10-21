@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/address-list-registry/address-list-owners/AaveV3ATokenListOwner.sol:AaveV3ATokenListOwner",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xeffb0467247b01e944203246694afb64d4af69ce",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "AaveV3ATokenListOwner",
+ "asset_url": "https://polygonscan.com/address/0xeffb0467247b01e944203246694afb64d4af69ce",
+ "files": 13
+}

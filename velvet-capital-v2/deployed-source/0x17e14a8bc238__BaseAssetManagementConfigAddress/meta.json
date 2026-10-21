@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/config/assetManagement/AssetManagementConfig.sol:AssetManagementConfig",
+ "compiler": "0.8.17+commit.8df45f5f",
+ "address": "0x17e14a8bc2380096f9e9eafea47fe1015502a09d",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "BaseAssetManagementConfigAddress",
+ "asset_url": "https://basescan.org/address/0x17e14a8bc2380096f9e9eafea47fe1015502a09d",
+ "files": 23
+}

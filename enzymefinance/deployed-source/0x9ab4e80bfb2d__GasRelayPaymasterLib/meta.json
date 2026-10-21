@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/infrastructure/gas-relayer/GasRelayPaymasterLib.sol:GasRelayPaymasterLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x9ab4e80bfb2d6ad0b52fa22e8fe3d9fd3846bbb4",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "GasRelayPaymasterLib",
+ "asset_url": "https://arbiscan.io/address/0x9ab4e80bfb2d6ad0b52fa22e8fe3d9fd3846bbb4",
+ "files": 38
+}

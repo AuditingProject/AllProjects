@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/staking/ArbitrumDepositProcessorL1.sol:ArbitrumDepositProcessorL1",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0xFceFB015372e84FC465Cf2778889ee231a6E2e67",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ArbitrumDepositProcessorL1 \u2014 tokenomics. L1 staking incentive deposit processor for Arbitrum. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0xFceFB015372e84FC465Cf2778889ee231a6E2e67#code",
+ "files": 3
+}

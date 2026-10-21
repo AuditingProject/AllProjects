@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/ZeroExV4Adapter.sol:ZeroExV4Adapter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xce663e0ae43f5bf213207a6f0a16dad7c8f1448a",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ZeroExV4Adapter",
+ "asset_url": "https://polygonscan.com/address/0xce663e0ae43f5bf213207a6f0a16dad7c8f1448a",
+ "files": 17
+}

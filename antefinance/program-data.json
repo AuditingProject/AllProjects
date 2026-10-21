@@ -1,0 +1,240 @@
+{
+ "assets": [
+  {
+   "id": "kjatSliFYzXPjM91YTTTz",
+   "url": "https://etherscan.io/address/0xa03492a9a663f04c51684a3c172fc9c4d7e02edc",
+   "type": "smart_contract",
+   "addedAt": "2022-02-10T10:42:34.917Z",
+   "revision": 1,
+   "description": "Ante Pool Factory",
+   "isPrimacyOfImpact": null,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "3O6fIsIkfj3N5ZCFWeuQbF",
+   "url": "https://etherscan.io/address/0xE48f6A36f3712E389ce666BCEcD88BA60c30aE50",
+   "type": "smart_contract",
+   "addedAt": "2022-02-10T10:43:28.448Z",
+   "revision": 1,
+   "description": "Ante Pool",
+   "isPrimacyOfImpact": null,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "5a4ngCk05RJaiF5CjSS9Wk",
+   "url": "https://etherscan.io/address/0x5f3555Febf9bF4930ad581dB008f8b0F6239C6Fc",
+   "type": "smart_contract",
+   "addedAt": "2022-02-10T10:43:14.101Z",
+   "revision": 1,
+   "description": "Ante Pool",
+   "isPrimacyOfImpact": null,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "3oHD6NFcwNbCpzJmXn3Inv",
+   "url": "https://etherscan.io/address/0xFc2Bd420ae071a812Ea238C5916198024E00fE33",
+   "type": "smart_contract",
+   "addedAt": "2022-02-10T10:45:15.904Z",
+   "revision": 1,
+   "description": "Ante Pool",
+   "isPrimacyOfImpact": null,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "OIg9vGoEfyx60C3SzkLAJ",
+   "url": "https://etherscan.io/address/0x28b549845B6fE1939783ba0bDb3ba1a598da0394",
+   "type": "smart_contract",
+   "addedAt": "2022-02-10T10:44:15.428Z",
+   "revision": 1,
+   "description": "Ante Pool",
+   "isPrimacyOfImpact": null,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "Mk5i7yVqTO9gGOi41CxnP",
+   "url": "https://etherscan.io/address/0x6e1000a6088Eb3dD1493492626E556F6d9A17BD1",
+   "type": "smart_contract",
+   "addedAt": "2022-02-10T10:44:39.713Z",
+   "revision": 1,
+   "description": "Ante Pool",
+   "isPrimacyOfImpact": null,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "6TJAyo9dduqCbWgArpkWwn",
+   "url": "https://etherscan.io/address/0x22075f4cD76299822Eb8D1546f5DcF775c90AA87",
+   "type": "smart_contract",
+   "addedAt": "2022-02-10T10:45:08.930Z",
+   "revision": 1,
+   "description": "Ante Pool",
+   "isPrimacyOfImpact": null,
+   "fund": null,
+   "info": null
+  }
+ ],
+ "rewards": [
+  {
+   "id": 8920,
+   "severity": "critical",
+   "assetType": "smart_contract",
+   "fixedReward": 25000,
+   "rewardModel": "fixed",
+   "rewardCalculationPercentage": 0
+  },
+  {
+   "id": 8921,
+   "severity": "high",
+   "assetType": "smart_contract",
+   "fixedReward": 5000,
+   "rewardModel": "fixed"
+  },
+  {
+   "id": 8922,
+   "severity": "medium",
+   "assetType": "smart_contract",
+   "fixedReward": 2500,
+   "rewardModel": "fixed"
+  },
+  {
+   "id": 8923,
+   "severity": "low",
+   "assetType": "smart_contract",
+   "fixedReward": 500,
+   "rewardModel": "fixed"
+  }
+ ],
+ "impacts": [
+  {
+   "id": 1360,
+   "type": "smart_contract",
+   "severity": "low",
+   "title": "Smart contract fails to deliver promised returns, but doesn\u2019t lose value"
+  },
+  {
+   "id": 23,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Theft of unclaimed yield"
+  },
+  {
+   "id": 25,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Permanent freezing of unclaimed yield"
+  },
+  {
+   "id": 1361,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Incorrect payment to stakers from challenger decay mechanism (aside from inaccuracy described above)"
+  },
+  {
+   "id": 1362,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Incorrect loss of funds from challengers due to challenger decay mechanism  (aside from inaccuracy described above)"
+  },
+  {
+   "id": 1363,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Incorrect payout to challengers on settlement following a failed Ante Test"
+  },
+  {
+   "id": 1364,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Withdrawal of staked funds by stakers without waiting for 24 hr window to pass following initialization of unstake"
+  },
+  {
+   "id": 1365,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Smart contract unable to operate due to lack of funds"
+  },
+  {
+   "id": 1366,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Block stuffing for profit"
+  },
+  {
+   "id": 31,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
+  },
+  {
+   "id": 32,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Theft of gas"
+  },
+  {
+   "id": 33,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Unbounded gas consumption"
+  },
+  {
+   "id": 15,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
+  },
+  {
+   "id": 17,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Permanent freezing of funds"
+  },
+  {
+   "id": 1367,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Insolvency"
+  },
+  {
+   "id": 1368,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Loss of funds in Ante Pool that is not triggered by a valid withdrawal of funds by the user who deposited or settlement (in the case of a failed Ante Test)"
+  },
+  {
+   "id": 1369,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Inability for stakers or challengers to withdraw funds from the pool (except in the case of a failed Ante Test)"
+  },
+  {
+   "id": 1370,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "AntePool triggers test failure workflow when underlying AnteTest did not revert or fail"
+  }
+ ],
+ "knownIssues": null,
+ "programCodebases": [
+  {
+   "id": 290,
+   "url": "https://github.com/antefinance/ante-v0-core/blob/v0.5/contracts/AntePool.sol",
+   "title": "Ante Finance Smart Contracts",
+   "description": "Program Smart Contracts"
+  }
+ ],
+ "maxBounty": 25000,
+ "kyc": true,
+ "updatedDate": "2024-12-02T18:33:01.800Z",
+ "launchDate": "2022-01-05T18:00:00.000Z",
+ "programOverview": "Ante Finance enables blockchain protocols and developers to create incentivized, real-time, and autonomous guarantees for any smart contract system on any blockchain. Ante envisions becoming the global Schelling point for decentralized trust.\n\nFor more information about Ante, please visit [https://www.ante.finance/](https://www.ante.finance/). \n\nThis bug bounty program is focused on their smart contracts and is focused on preventing:\n\n  - Theft or freezing of user funds aside from normal functioning of AntePool contract\n  - Incorrect calculation of rewards for stakers/challengers beyond error bounds described in technical doc\n  - Incorrect calculation of decay payments beyond error bounds described in technical doc\n  - False positive triggering of test failure on AntePool even if underlying test did not fail or revert",
+ "rewardsBody": "$63",
+ "customOutOfScopeInformation": "  - Best practice critiquesAttacks that are already known or outlined in any audits, https://github.com/antefinance/ante-v05-core/tree/v0.5/audit",
+ "assetsBodyV2": "However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.",
+ "impactsBody": null
+}

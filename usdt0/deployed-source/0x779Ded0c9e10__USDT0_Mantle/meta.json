@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+ "chain": 5000,
+ "explorer_host": "mantlescan.xyz",
+ "asset_description": "USDT0 Mantle",
+ "asset_url": "https://mantlescan.xyz/address/0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+ "files": 14
+}

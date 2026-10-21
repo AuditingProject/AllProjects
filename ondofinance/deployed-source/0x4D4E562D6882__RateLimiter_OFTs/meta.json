@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "RateLimiter",
+ "compiler": "v0.8.22+commit.4fc1097e",
+ "address": "0x4D4E562D6882Dc523B8d629d2E9dF9230B699933",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "RateLimiter (OFTs)",
+ "asset_url": "https://etherscan.io/address/0x4D4E562D6882Dc523B8d629d2E9dF9230B699933",
+ "files": 4
+}

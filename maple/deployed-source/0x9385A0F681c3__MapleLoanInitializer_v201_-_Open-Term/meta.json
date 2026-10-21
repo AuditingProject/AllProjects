@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MapleLoanInitializer",
+ "compiler": "v0.8.7+commit.e28d00a7",
+ "address": "0x9385A0F681c3D4b39c2780cD69777Dd97a681485",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MapleLoanInitializer (v201 - Open-Term)",
+ "asset_url": "https://etherscan.io/address/0x9385A0F681c3D4b39c2780cD69777Dd97a681485",
+ "files": 6
+}

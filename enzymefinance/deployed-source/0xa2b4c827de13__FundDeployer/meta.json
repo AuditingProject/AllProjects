@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/core/fund-deployer/FundDeployer.sol:FundDeployer",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xa2b4c827de13d4e9801ea1ca837524a1a148dec3",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "FundDeployer",
+ "asset_url": "https://arbiscan.io/address/0xa2b4c827de13d4e9801ea1ca837524a1a148dec3",
+ "files": 21
+}

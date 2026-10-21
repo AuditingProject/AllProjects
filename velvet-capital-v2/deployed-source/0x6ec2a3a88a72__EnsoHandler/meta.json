@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/handler/ExternalSwapHandler/EnsoHandler.sol:EnsoHandler",
+ "compiler": "0.8.17+commit.8df45f5f",
+ "address": "0x6ec2a3a88a72943d2e87ed05cdf25914983ab7f6",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "EnsoHandler",
+ "asset_url": "https://basescan.org/address/0x6ec2a3a88a72943d2e87ed05cdf25914983ab7f6",
+ "files": 8
+}

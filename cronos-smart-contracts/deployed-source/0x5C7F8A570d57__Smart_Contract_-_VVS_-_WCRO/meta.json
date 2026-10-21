@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "WCRO.sol:WCRO",
+ "compiler": "0.6.6+commit.6c089d02",
+ "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+ "chain": 25,
+ "explorer_host": "explorer.cronos.com",
+ "asset_description": "Smart Contract - VVS - WCRO",
+ "asset_url": "https://explorer.cronos.com/address/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+ "files": 1
+}

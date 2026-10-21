@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/multisigs/PolySafeCreatorWithRecoveryModule.sol:PolySafeCreatorWithRecoveryModule",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0xA749f605D93B3efcc207C54270d83C6E8fa70fF8",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "PolySafeCreatorWithRecoveryModule \u2014 registries. Polygon service multisig creator with recovery module. Polygon.",
+ "asset_url": "https://polygonscan.com/address/0xA749f605D93B3efcc207C54270d83C6E8fa70fF8#code",
+ "files": 1
+}

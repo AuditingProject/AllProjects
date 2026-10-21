@@ -1,0 +1,153 @@
+{
+ "title": "Haedal Smart Contracts",
+ "logo": "/uploads/bounty_program/logo/6877690b40041c1f63f33001/logo.png?timestamp=1786106977",
+ "logoPresent": true,
+ "companyName": "Haedal",
+ "companySlug": "haedal",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "25 Aug 2025",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/haedal-smart-contracts/reports/new",
+ "kycRequired": true,
+ "pocRequired": true,
+ "reputationRequired": null,
+ "minReputation": 100,
+ "submissionFee": null,
+ "programOfTheWeek": false,
+ "depositAvailable": false,
+ "maxReward": "$200,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 2,
+   "reputation": 32,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/684cbabe40041c000ddac4fa/avatar.png?timestamp=1779122954",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "0xKillua",
+    "verified": true
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 8,
+   "reputation": 22,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/67b72ee840041c02666dab4d/avatar.png?timestamp=1792093512",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "barelia",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 3,
+   "reputation": 22,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6857f9fb40041c745422b81e/avatar.png?timestamp=1790168416",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "cmoxiu",
+    "verified": true
+   }
+  },
+  {
+   "rank": 4,
+   "reports_amount": 5,
+   "reputation": 19,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/699b9b1040041c000d7a1c3c/avatar.png?timestamp=1790930717",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "kalialucard",
+    "verified": true
+   }
+  },
+  {
+   "rank": 5,
+   "reports_amount": 5,
+   "reputation": 17,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/67b5118740041cc9376daa95/avatar.png?timestamp=1786220238",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "edoscoba",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 124,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 200000,
+  "critical_min": 20000,
+  "high_max": 20000,
+  "high_min": 1000,
+  "low_max": 50,
+  "low_min": 5,
+  "medium_max": 1000,
+  "medium_min": 50
+ },
+ "description": "Haedal is a prime liquid staking protocol natively built on Sui. It provides users with robust liquid staking infrastructure, allowing people to stake their SUI and Walrus token into validators to earn continual consensus rewards while unleashing LST liquidity to be used in DeFi. Haedal aims to become the ultimate place for users to stake and earn on Sui. \r\n\r\nHaedal helps secure the Sui blockchain, contributing to its long-term sustainability, governance and decentralization. Additionally, Haedal is building a series of wingman products around its liquid staking infra, including Haedal Market Maker, haeVault and more. Its systematic product matrix can help Haedal capture significant value from the active on-chain trading flows on Sui, further optimizing its advantage in yield performance and providing stronger liquidity depth and efficiency to Sui users.",
+ "sla": {
+  "first_response": 3,
+  "resolution_time": 14,
+  "time_to_reward": 3,
+  "time_to_triage": 3
+ },
+ "totalRewards": 1590,
+ "submittedReports": 310,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "6877690b40041c1f63f33000",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/hackenproof-public/hasui-bug-bounty",
+   "target_description": "* Participation: Invite-only - https://discord.gg/g7u4afaYu7\r\n* KYC Required",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "68a4881140041c000f3b31cf",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/hackenproof-public/hawal-bug-bounty",
+   "target_description": "* Participation: Invite-only - https://discord.gg/g7u4afaYu7\r\n* KYC Required",
+   "title": "Smart Contract"
+  }
+ ],
+ "programRules": "* Avoid using web application scanners for automatic vulnerability searching which generates massive traffic\r\n* Make every effort not to damage or restrict the availability of products, services, or infrastructure\r\n* Avoid compromising any personal data, interruption, or degradation of any service\r\n* Don\u2019t access or modify other user data, localize all tests to your accounts\r\n* Perform testing only within the scope\r\n* Don\u2019t exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam\r\n* Don\u2019t spam forms or account creation flows using automated scanners\r\n* In case you find chain vulnerabilities we\u2019ll pay only for vulnerability with the highest severity.\r\n* Don\u2019t break any law and stay in the defined scope\r\n* Any details of found vulnerabilities must not be communicated to anyone who is not a HackenProof Team or an authorized employee of this Company without appropriate permission",
+ "focusArea": "## IN SCOPE VULNERABILITIES (Smart Contracts)\r\n We are looking for evidence and reasons for incorrect behavior of the smart contract, which could cause unintended functionality:\r\n* Stealing or loss of funds\r\n* Unauthorized transaction\r\n* Transaction manipulation\r\n* Attacks on logic (behavior of the code is different from the business description)\r\n* Reentrancy\r\n* Reordering\r\n* Over and underflows\r\n\r\n\r\n## OUT OF SCOPE VULNERABILITIES (Smart Contracts)\r\n* Theoretical vulnerabilities without any proof or demonstration\r\n* Old compiler version\r\n* The compiler version is not locked\r\n* Vulnerabilities in imported contracts\r\n* Code style guide violations\r\n* Redundant code\r\n* Gas optimizations\r\n* Best practice issues\r\n* Vulnerabilities that can be exploited through front-run attacks only\r\n\r\n\r\n",
+ "disclosureGuidelines": "* Do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization\r\n* No vulnerability disclosure, including partial is allowed for the moment.\r\n* Please do NOT publish/discuss bugs ",
+ "eligibilityAndCoordinateDisclosure": "We are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:\r\n\r\n* You must be the first reporter of a vulnerability.\r\n* The vulnerability must be a qualifying vulnerability\r\n* Any vulnerability found must be reported no later than 24 hours after discovery and exclusively through hackenproof.com\r\n* You must send a clear textual description of the report along with steps to reproduce the issue, include attachments such as screenshots or proof of concept code as necessary.\r\n* You must not be a former or current employee of us or one of its contractor.\r\n* ONLY USE the EMAIL under which you registered your HackenProof account (in case of violation, no bounty can be awarded)\r\n* Provide detailed but to-the point reproduction steps\r\n",
+ "labels": {
+  "types": [
+   "smart contract"
+  ],
+  "languages": [
+   "Move"
+  ],
+  "platforms": [],
+  "project_types": [
+   "dApp",
+   "Sui Ecosystem"
+  ]
+ },
+ "customBlocks": [],
+ "scopeReview": 299579,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "200000.0",
+ "minBounty": "5.0"
+}

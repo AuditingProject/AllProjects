@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "BalanceTrackerFixedPriceNative",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x528befb0F8c6a988C9F42345DA6d053d66b3B9B6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BalanceTrackerFixedPriceNative \u2014 marketplace. Balance tracker for native-token fixed-price payments. Deployed on: Ethereum 0x528befb0F8c6a988C9F42345DA6d053d66b3B9B6; Gnosis 0x21cE6799A22A3Da84B7c44a814a9c79ab1d2A50D; Base 0xB3921F8D8215603f0Bd521341Ac45eA8f2d274c1; Polygon 0xc096362fa6f4A4B1a9ea68b1043416f3381ce300; Optimism 0x4Cd816ce806FF1003ee459158A093F02AbF042a8; Arbitrum 0x26Ea2dC7ce1b41d0AD0E0521535655d7a94b684c.",
+ "asset_url": "https://etherscan.io/address/0x528befb0F8c6a988C9F42345DA6d053d66b3B9B6#code",
+ "files": 3
+}

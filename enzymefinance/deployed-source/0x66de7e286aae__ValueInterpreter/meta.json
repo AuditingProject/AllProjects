@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/infrastructure/value-interpreter/ValueInterpreter.sol:ValueInterpreter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x66de7e286aae66f7f3daf693c22d16eea48a0f45",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ValueInterpreter",
+ "asset_url": "https://polygonscan.com/address/0x66de7e286aae66f7f3daf693c22d16eea48a0f45",
+ "files": 13
+}

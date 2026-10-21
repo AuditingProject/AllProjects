@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "FundingDistributor.vy:FundingDistributor",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0xbCc932e4750C3E465A7E54A06A34F9EdF8f6116b",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Funding Distributor",
+ "asset_url": "https://etherscan.io/address/0xbCc932e4750C3E465A7E54A06A34F9EdF8f6116b#code",
+ "files": 1
+}

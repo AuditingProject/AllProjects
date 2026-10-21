@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "BatchRouter",
+ "compiler": "0.8.26+commit.8a97fa7a",
+ "address": "0x136f1EFcC3f8f88516B9E94110D56FDBfB1778d1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BatchRouter",
+ "asset_url": "https://etherscan.io/address/0x136f1EFcC3f8f88516B9E94110D56FDBfB1778d1",
+ "files": 41
+}

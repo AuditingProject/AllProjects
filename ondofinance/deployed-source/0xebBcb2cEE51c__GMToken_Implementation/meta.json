@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/GMToken.sol:GMToken",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xebBcb2cEE51c2FeE4062c9C1270dcb98B0b22250",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GMToken Implementation",
+ "asset_url": "https://etherscan.io/address/0xebBcb2cEE51c2FeE4062c9C1270dcb98B0b22250",
+ "files": 20
+}

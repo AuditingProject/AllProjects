@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "AuthorizerAdaptor",
+ "compiler": "0.7.1+commit.f4a555be",
+ "address": "0x8F42aDBbA1B16EaAE3BB5754915E0D06059aDd75",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AuthorizerAdaptor",
+ "asset_url": "https://etherscan.io/address/0x8F42aDBbA1B16EaAE3BB5754915E0D06059aDd75#code",
+ "files": 15
+}

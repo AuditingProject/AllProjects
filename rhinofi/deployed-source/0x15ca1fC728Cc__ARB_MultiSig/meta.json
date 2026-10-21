@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "GnosisSafeProxy.sol:GnosisSafeProxy",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0x15ca1fC728Cce7cd06151C8007e89dEe70260228",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ARB MultiSig",
+ "asset_url": "https://arbiscan.io/address/0x15ca1fC728Cce7cd06151C8007e89dEe70260228#code",
+ "files": 1
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/PolicyManager.sol:PolicyManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xadf5a8db090627b153ef0c5726ccfdc1c7aed7bd",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PolicyManager",
+ "asset_url": "https://etherscan.io/address/0xadf5a8db090627b153ef0c5726ccfdc1c7aed7bd",
+ "files": 20
+}

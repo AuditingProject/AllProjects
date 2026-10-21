@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks",
+ "match": "on-chain",
+ "name": "dao-traits",
+ "compiler": "clarity",
+ "address": "SP3YCQZYWQR0CA6TT35301B28DV9D926VBZBBJWR7.dao-traits",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Smart Contract - dao-traits",
+ "asset_url": "https://explorer.hiro.so/txid/SP3YCQZYWQR0CA6TT35301B28DV9D926VBZBBJWR7.dao-traits?chain=mainnet",
+ "files": 1
+}

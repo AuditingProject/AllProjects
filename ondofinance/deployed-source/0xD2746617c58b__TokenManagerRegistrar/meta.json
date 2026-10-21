@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TokenManagerRegistrar",
+ "compiler": "v0.8.16+commit.07a7930e",
+ "address": "0xD2746617c58b72254785BDb483e04f311c858d5f",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "TokenManagerRegistrar",
+ "asset_url": "https://etherscan.io/address/0xD2746617c58b72254785BDb483e04f311c858d5f",
+ "files": 28
+}

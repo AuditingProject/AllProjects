@@ -1,0 +1,11 @@
+[
+ {
+  "url": "https://explorer.solana.com/address/6EZAJVrNQdnBJU6ULxXSDaEoK6fN7C3iXTCkZKRWDdGM?cluster=devnet",
+  "desc": "Solana staker and whitelist contracts on testnet",
+  "status": "metadata-only",
+  "dir": "6EZAJVrNQdnBJU__Solana_staker_and_whitelist_contracts_on",
+  "name": null,
+  "source": "osec-verify",
+  "files": 0
+ }
+]

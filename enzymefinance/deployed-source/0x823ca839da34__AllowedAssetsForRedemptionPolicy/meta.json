@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "AllowedAssetsForRedemptionPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x823ca839da344da59d517b84ce3bab9ffc9f54ee",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AllowedAssetsForRedemptionPolicy",
+ "asset_url": "https://etherscan.io/address/0x823ca839da344da59d517b84ce3bab9ffc9f54ee",
+ "files": 33
+}

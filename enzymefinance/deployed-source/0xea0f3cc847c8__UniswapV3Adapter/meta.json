@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/UniswapV3Adapter.sol:UniswapV3Adapter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xea0f3cc847c8e388bd2f7adac130b64b6754f5e2",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "UniswapV3Adapter",
+ "asset_url": "https://arbiscan.io/address/0xea0f3cc847c8e388bd2f7adac130b64b6754f5e2",
+ "files": 14
+}

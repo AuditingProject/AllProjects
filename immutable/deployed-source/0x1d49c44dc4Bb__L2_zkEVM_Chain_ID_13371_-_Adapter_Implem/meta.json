@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.immutable.com",
+ "match": "verified",
+ "name": "ChildAxelarBridgeAdaptor",
+ "compiler": "v0.8.19+commit.7dd6d404",
+ "address": "0x1d49c44dc4BbDE68D8D51a9C5732f3a24e48EFA6",
+ "chain": 13371,
+ "explorer_host": "explorer.immutable.com",
+ "asset_description": "L2 zkEVM Chain ID 13371 - Adapter Implementation",
+ "asset_url": "https://explorer.immutable.com/address/0x1d49c44dc4BbDE68D8D51a9C5732f3a24e48EFA6",
+ "files": 1
+}

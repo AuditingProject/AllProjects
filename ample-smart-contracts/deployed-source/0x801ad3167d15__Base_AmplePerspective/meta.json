@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/ample/AmplePerspective.sol:AmplePerspective",
+ "compiler": "0.8.26+commit.8a97fa7a",
+ "address": "0x801ad3167d1578d5035a25425796b79cb4a31cba",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "Base: `AmplePerspective`",
+ "asset_url": "https://basescan.org/address/0x801ad3167d1578d5035a25425796b79cb4a31cba#code",
+ "files": 14
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:megaeth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.9+commit.e5eed63a",
+ "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+ "chain": 6342,
+ "explorer_host": "megaeth.blockscout.com",
+ "asset_description": "USDT0 MegaEth",
+ "asset_url": "https://megaeth.blockscout.com/address/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+ "files": 14
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/smart-accounts/aave-v3-flash-loan-asset-manager/AaveV3FlashLoanAssetManagerLib.sol:AaveV3FlashLoanAssetManagerLib",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x89898c38d584166a8ed5c10cbd0ce7f4b0058c6c",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "AaveV3FlashLoanAssetManagerLib",
+ "asset_url": "https://basescan.org/address/0x89898c38d584166a8ed5c10cbd0ce7f4b0058c6c",
+ "files": 11
+}

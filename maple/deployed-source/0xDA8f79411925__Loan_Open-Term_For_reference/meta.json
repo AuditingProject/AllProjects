@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "Proxy.sol:Proxy",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xDA8f7941192590408DCe701A60FB3892455669Ce",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Loan (Open-Term For reference)",
+ "asset_url": "https://etherscan.io/address/0xDA8f7941192590408DCe701A60FB3892455669Ce",
+ "files": 1
+}

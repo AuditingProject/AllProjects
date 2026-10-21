@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "PriceAndFeeCalculator",
+ "compiler": "v0.8.29+commit.ab55807c",
+ "address": "0x811C6f0eF2E8f8A409306DAE242ba70Bd4f2467D",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "gtBTC (Ethereum) - PriceAndFeeCalculator",
+ "asset_url": "https://etherscan.io/address/0x811C6f0eF2E8f8A409306DAE242ba70Bd4f2467D",
+ "files": 22
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/infrastructure/price-feeds/derivatives/feeds/AavePriceFeed.sol:AavePriceFeed",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x3116cab784d30a07ff1bb370222290160a9eba1f",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "AavePriceFeed",
+ "asset_url": "https://polygonscan.com/address/0x3116cab784d30a07ff1bb370222290160a9eba1f",
+ "files": 11
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/TransferAssetsAdapter.sol:TransferAssetsAdapter",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x466c05433fa5a417c290e7eeed729dba9e1280e3",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "TransferAssetsAdapter",
+ "asset_url": "https://basescan.org/address/0x466c05433fa5a417c290e7eeed729dba9e1280e3",
+ "files": 13
+}

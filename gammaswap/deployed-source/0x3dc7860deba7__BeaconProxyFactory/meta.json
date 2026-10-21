@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-staking/contracts/BeaconProxyFactory.sol:BeaconProxyFactory",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x3dc7860deba77aa3a49b4d65c056156012067477",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "BeaconProxyFactory",
+ "asset_url": "https://arbiscan.io/address/0x3dc7860deba77aa3a49b4d65c056156012067477#code",
+ "files": 13
+}

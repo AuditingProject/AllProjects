@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "mETH Token L1",
+ "asset_url": "https://etherscan.io/address/0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa",
+ "files": 9
+}

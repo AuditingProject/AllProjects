@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "AssetManager/contracts/release/extensions/policy-manager/PolicyManager.sol:PolicyManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xbde1e8c4a061cd28f4871860ddf22200b85ee9ec",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "PolicyManager",
+ "asset_url": "https://arbiscan.io/address/0xbde1e8c4a061cd28f4871860ddf22200b85ee9ec",
+ "files": 42
+}

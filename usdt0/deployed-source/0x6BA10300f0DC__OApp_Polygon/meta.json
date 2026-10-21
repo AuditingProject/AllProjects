@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.10+commit.fc410830",
+ "address": "0x6BA10300f0DC58B7a1e4c0e41f5daBb7D7829e13",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "OApp Polygon",
+ "asset_url": "https://polygonscan.com/address/0x6BA10300f0DC58B7a1e4c0e41f5daBb7D7829e13",
+ "files": 16
+}

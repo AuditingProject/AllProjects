@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xEB995ff652da728E7B0EBC31Ab543c39e054b1eA",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "clipCE(SolvBTC.BBN)",
+ "asset_url": "https://bscscan.com/address/0xEB995ff652da728E7B0EBC31Ab543c39e054b1eA",
+ "files": 112
+}

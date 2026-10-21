@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/Provisioner.sol:Provisioner",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0x74C4A66CE4F4779B11E7c63D42e51EEef3A80D11",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "gtUSDa (Ethereum) - Provisioner",
+ "asset_url": "https://etherscan.io/address/0x74C4A66CE4F4779B11E7c63D42e51EEef3A80D11",
+ "files": 28
+}

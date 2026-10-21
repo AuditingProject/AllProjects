@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/MultiDepositorVault.sol:MultiDepositorVault",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0x000000001DC8bd45d7E7829fb1c969cbe4D0D1eC",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "gtUSDa (Optimism) - MultiDepositorVault",
+ "asset_url": "https://optimistic.etherscan.io/address/0x000000001DC8bd45d7E7829fb1c969cbe4D0D1eC",
+ "files": 48
+}

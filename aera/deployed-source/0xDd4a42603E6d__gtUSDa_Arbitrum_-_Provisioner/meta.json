@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/Provisioner.sol:Provisioner",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0xDd4a42603E6d8E515C3468789375A98c376821b3",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "gtUSDa (Arbitrum) - Provisioner",
+ "asset_url": "https://arbiscan.io/address/0xDd4a42603E6d8E515C3468789375A98c376821b3",
+ "files": 28
+}

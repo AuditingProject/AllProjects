@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.reserve-hbtc-v1",
+ "compiler": "clarity4",
+ "address": "0xb8ce9c1fb139bc4338ae3b6d6c5fa4525fafb87ed9f9ce515b213a0cc0022449",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Reserve",
+ "asset_url": "https://explorer.hiro.so/txid/0xb8ce9c1fb139bc4338ae3b6d6c5fa4525fafb87ed9f9ce515b213a0cc0022449?chain=mainnet",
+ "files": 1
+}

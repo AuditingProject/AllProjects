@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/mechs/native/celo/BalanceTrackerFixedPriceNativeCelo.sol:BalanceTrackerFixedPriceNativeCelo",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x2E008211f34b25A7d7c102403c6C2C3B665a1abe",
+ "chain": 42220,
+ "explorer_host": "celoscan.io",
+ "asset_description": "BalanceTrackerFixedPriceNativeCelo \u2014 marketplace. Celo-specific balance tracker for native-token fixed-price payments (Solidity 0.8.30 variant). Celo 0x2E008211f34b25A7d7c102403c6C2C3B665a1abe.",
+ "asset_url": "https://celoscan.io/address/0x2E008211f34b25A7d7c102403c6C2C3B665a1abe#code",
+ "files": 4
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0xba4eee20f434bc3908a0b18da496348657133a7e",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "MATIC Bridge",
+ "asset_url": "https://polygonscan.com/address/0xba4eee20f434bc3908a0b18da496348657133a7e#code",
+ "files": 15
+}

@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/hackenproof-public/bucket-protocol",
+   "type": "smart_contract",
+   "description": "* Participation: Invite-only - https://discord.gg/g7u4afaYu7\n* KYC Required"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "bucket-protocol-smart-contracts",
+ "maxBounty": "15000.0",
+ "kyc": true
+}

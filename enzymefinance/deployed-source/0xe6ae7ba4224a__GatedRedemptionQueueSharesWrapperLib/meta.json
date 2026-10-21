@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/shares-wrappers/gated-redemption-queue/GatedRedemptionQueueSharesWrapperLib.sol:GatedRedemptionQueueSharesWrapperLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xe6ae7ba4224a40adb10d2eac2fa7b1e5a069586f",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "GatedRedemptionQueueSharesWrapperLib",
+ "asset_url": "https://polygonscan.com/address/0xe6ae7ba4224a40adb10d2eac2fa7b1e5a069586f",
+ "files": 17
+}

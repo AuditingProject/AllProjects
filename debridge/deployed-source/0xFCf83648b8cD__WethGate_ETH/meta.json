@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "WethGate",
+ "compiler": "v0.8.7+commit.e28d00a7",
+ "address": "0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "WethGate ETH",
+ "asset_url": "https://etherscan.io/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+ "files": 3
+}

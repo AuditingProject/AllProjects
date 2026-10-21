@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "LendingRateOracle.sol:LendingRateOracle",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x8A32f49FFbA88aba6EFF96F45D8BD1D4b3f35c7D",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Aave v2 Lending Rate Oracle",
+ "asset_url": "https://etherscan.io/address/0x8A32f49FFbA88aba6EFF96F45D8BD1D4b3f35c7D",
+ "files": 1
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/proxy/MaplePoolManagerInitializer.sol:MaplePoolManagerInitializer",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0xB33Bfa00E1d92fDaC5AeCB2976d6998C2ecca759",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PoolManagerInitializer (v400)",
+ "asset_url": "https://etherscan.io/address/0xB33Bfa00E1d92fDaC5AeCB2976d6998C2ecca759",
+ "files": 14
+}

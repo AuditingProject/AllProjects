@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/new-shareholders/AllowedSharesTransferRecipientsPolicy.sol:AllowedSharesTransferRecipientsPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xebe37e43bc6b3aacfe318d6906fc80c4a2a7505a",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AllowedSharesTransferRecipientsPolicy",
+ "asset_url": "https://etherscan.io/address/0xebe37e43bc6b3aacfe318d6906fc80c4a2a7505a",
+ "files": 33
+}

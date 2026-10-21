@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/TransferAssetsAdapter.sol:TransferAssetsAdapter",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xe8db4924569a3c61aadfb721bbb009e3127196bd",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "TransferAssetsAdapter",
+ "asset_url": "https://arbiscan.io/address/0xe8db4924569a3c61aadfb721bbb009e3127196bd",
+ "files": 13
+}

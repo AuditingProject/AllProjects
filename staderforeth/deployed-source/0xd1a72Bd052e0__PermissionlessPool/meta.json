@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.9+commit.e5eed63a",
+ "address": "0xd1a72Bd052e0d65B7c26D3dd97A98B74AcbBb6c5",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PermissionlessPool",
+ "asset_url": "https://etherscan.io/address/0xd1a72Bd052e0d65B7c26D3dd97A98B74AcbBb6c5",
+ "files": 14
+}

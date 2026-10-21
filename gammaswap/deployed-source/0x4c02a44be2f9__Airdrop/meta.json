@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/airdrop/contracts/Airdrop.sol:Airdrop",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x4c02a44be2f9e808bd0728b2e52c616138180f98",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "Airdrop",
+ "asset_url": "https://arbiscan.io/address/0x4c02a44be2f9e808bd0728b2e52c616138180f98#code",
+ "files": 17
+}

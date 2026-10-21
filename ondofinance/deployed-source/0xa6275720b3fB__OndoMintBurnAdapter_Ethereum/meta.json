@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OndoMintBurnAdapter",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xa6275720b3fB1Efe3E6EF2b5BF2293148852307D",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoMintBurnAdapter (Ethereum)",
+ "asset_url": "https://etherscan.io/address/0xa6275720b3fB1Efe3E6EF2b5BF2293148852307D#code",
+ "files": 43
+}

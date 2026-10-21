@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.immutable.com",
+ "match": "verified",
+ "name": "ChildERC20",
+ "compiler": "v0.8.19+commit.7dd6d404",
+ "address": "0x8804A8aA1F18f23aE8A456dD73806FdA3219FaD1",
+ "chain": 13371,
+ "explorer_host": "explorer.immutable.com",
+ "asset_description": "L2 zkEVM Chain ID 13371 - ChildERC20 Token Template",
+ "asset_url": "https://explorer.immutable.com/address/0x8804A8aA1F18f23aE8A456dD73806FdA3219FaD1",
+ "files": 1
+}

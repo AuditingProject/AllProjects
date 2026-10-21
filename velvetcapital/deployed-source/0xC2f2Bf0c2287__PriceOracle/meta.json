@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/oracle/PriceOracle.sol:PriceOracle",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xC2f2Bf0c228714d038c2495343224c0d9199cC82",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "PriceOracle",
+ "asset_url": "https://bscscan.com/address/0xC2f2Bf0c228714d038c2495343224c0d9199cC82",
+ "files": 10
+}

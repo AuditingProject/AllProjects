@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.10+commit.fc410830",
+ "address": "0x9151434b16b9763660705744891fA906F660EcC5",
+ "chain": 143,
+ "explorer_host": "monadscan.com",
+ "asset_description": "OApp Monad",
+ "asset_url": "https://monadscan.com/address/0x9151434b16b9763660705744891fA906F660EcC5",
+ "files": 16
+}

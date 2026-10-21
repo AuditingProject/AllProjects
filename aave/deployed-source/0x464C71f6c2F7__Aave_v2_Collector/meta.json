@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "browser/tests/Proxy.sol:InitializableAdminUpgradeabilityProxy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Aave v2 Collector",
+ "asset_url": "https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c",
+ "files": 1
+}

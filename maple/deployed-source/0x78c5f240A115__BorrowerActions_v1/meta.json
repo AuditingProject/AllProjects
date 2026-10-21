@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/MapleBorrowerActions.sol:MapleBorrowerActions",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x78c5f240A1150c3c2ebDBDe559d04a0418DFCFF3",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BorrowerActions (v1)",
+ "asset_url": "https://etherscan.io/address/0x78c5f240A1150c3c2ebDBDe559d04a0418DFCFF3",
+ "files": 5
+}

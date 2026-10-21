@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.10+commit.fc410830",
+ "address": "0x6c96de32cea08842dcc4058c14d3aaad7fa41dee",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OApp Adapter Ethereum",
+ "asset_url": "https://etherscan.io/address/0x6c96de32cea08842dcc4058c14d3aaad7fa41dee",
+ "files": 16
+}

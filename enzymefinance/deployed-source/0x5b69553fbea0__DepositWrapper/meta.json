@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/peripheral/DepositWrapper.sol:DepositWrapper",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x5b69553fbea09a4e7585b02221b9884f5bd2af40",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "DepositWrapper",
+ "asset_url": "https://basescan.org/address/0x5b69553fbea09a4e7585b02221b9884f5bd2af40",
+ "files": 17
+}

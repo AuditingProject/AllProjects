@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/fee/FeeLibrary.sol:FeeLibrary",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x0Fb11066768e7775e1b9dAC3C6022F17D893853f",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "FeeLibrary",
+ "asset_url": "https://bscscan.com/address/0x0Fb11066768e7775e1b9dAC3C6022F17D893853f",
+ "files": 1
+}

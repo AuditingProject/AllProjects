@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.inkonchain.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.10+commit.fc410830",
+ "address": "0x1cB6De532588fCA4a21B7209DE7C456AF8434A65",
+ "chain": 57073,
+ "explorer_host": "explorer.inkonchain.com",
+ "asset_description": "OApp INKSmart Contract",
+ "asset_url": "https://explorer.inkonchain.com/address/0x1cB6De532588fCA4a21B7209DE7C456AF8434A65",
+ "files": 8
+}

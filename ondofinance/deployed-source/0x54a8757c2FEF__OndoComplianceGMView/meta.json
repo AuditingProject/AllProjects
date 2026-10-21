@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OndoComplianceGMView",
+ "compiler": "v0.8.16+commit.07a7930e",
+ "address": "0x54a8757c2FEF8649830b158a8C19D3a670e80318",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoComplianceGMView",
+ "asset_url": "https://etherscan.io/address/0x54a8757c2FEF8649830b158a8C19D3a670e80318",
+ "files": 6
+}

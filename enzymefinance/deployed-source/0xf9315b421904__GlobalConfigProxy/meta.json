@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/global-config/GlobalConfigProxy.sol:GlobalConfigProxy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xf9315b421904eadf2f8fce776958c147ee9bc880",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "GlobalConfigProxy",
+ "asset_url": "https://arbiscan.io/address/0xf9315b421904eadf2f8fce776958c147ee9bc880",
+ "files": 3
+}

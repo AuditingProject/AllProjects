@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks",
+ "match": "on-chain",
+ "name": "v0-8-market",
+ "compiler": "clarity",
+ "address": "SP1A27KFY4XERQCCRCARCYD1CC5N7M6688BSYADJ7.v0-8-market",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Smart contract - v0-8-market",
+ "asset_url": "https://explorer.hiro.so/txid/SP1A27KFY4XERQCCRCARCYD1CC5N7M6688BSYADJ7.v0-8-market?chain=mainnet&tab=availableFunctions",
+ "files": 1
+}

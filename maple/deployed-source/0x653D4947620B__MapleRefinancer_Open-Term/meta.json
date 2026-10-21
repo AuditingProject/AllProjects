@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/MapleRefinancer.sol:MapleRefinancer",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x653D4947620B73a433cAbBc9DFb068c3e9c18984",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MapleRefinancer (Open-Term)",
+ "asset_url": "https://etherscan.io/address/0x653D4947620B73a433cAbBc9DFb068c3e9c18984",
+ "files": 5
+}

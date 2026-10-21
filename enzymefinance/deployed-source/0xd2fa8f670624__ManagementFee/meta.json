@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/fee-manager/fees/ManagementFee.sol:ManagementFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xd2fa8f6706241dfdf8069d05e1d6f6c4a439aa86",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ManagementFee",
+ "asset_url": "https://arbiscan.io/address/0xd2fa8f6706241dfdf8069d05e1d6f6c4a439aa86",
+ "files": 17
+}

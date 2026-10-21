@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "modules/maple-proxy-factory/modules/proxy-factory/contracts/Proxy.sol:Proxy",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x7aD5fFa5fdF509E30186F4609c2f6269f4B6158F",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PoolManager (For reference)",
+ "asset_url": "https://etherscan.io/address/0x7aD5fFa5fdF509E30186F4609c2f6269f4B6158F",
+ "files": 3
+}

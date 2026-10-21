@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/WrappedTokenGatewayV2.sol:WrappedTokenGatewayV2",
+ "compiler": "0.8.10+commit.fc410830",
+ "address": "0xEFFC18fC3b7eb8E676dac549E0c693ad50D1Ce31",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Aave v2 WrappedTokenGatewayV2",
+ "asset_url": "https://etherscan.io/address/0xEFFC18fC3b7eb8E676dac549E0c693ad50D1Ce31",
+ "files": 17
+}

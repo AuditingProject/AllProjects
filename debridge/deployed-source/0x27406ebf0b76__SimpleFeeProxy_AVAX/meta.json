@@ -1,0 +1,12 @@
+{
+ "source": "routescan",
+ "match": "verified",
+ "name": "SimpleFeeProxy",
+ "compiler": "v0.8.7+commit.e28d00a7",
+ "address": "0x27406ebf0b76923d93b4c6c6224bcab7fff11f87",
+ "chain": 43114,
+ "explorer_host": "snowtrace.io",
+ "asset_description": "SimpleFeeProxy AVAX",
+ "asset_url": "https://snowtrace.io/address/0x27406ebf0b76923d93b4c6c6224bcab7fff11f87",
+ "files": 13
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/fee-manager/FeeManager.sol:FeeManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x2c46503d4a0313c7161a5593b6865baa194b466f",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "FeeManager",
+ "asset_url": "https://arbiscan.io/address/0x2c46503d4a0313c7161a5593b6865baa194b466f",
+ "files": 16
+}

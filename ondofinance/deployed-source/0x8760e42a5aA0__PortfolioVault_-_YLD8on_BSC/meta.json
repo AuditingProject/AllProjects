@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/portfolioToken/portfolioVault/PortfolioVault.sol:PortfolioVault",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0x8760e42a5aA004969AbfdDc97a6cbbB6241e5728",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "PortfolioVault - YLD8on (BSC)",
+ "asset_url": "https://bscscan.com/address/0x8760e42a5aA004969AbfdDc97a6cbbB6241e5728",
+ "files": 15
+}

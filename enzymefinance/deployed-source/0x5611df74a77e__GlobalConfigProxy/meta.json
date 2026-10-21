@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "GlobalConfigProxy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x5611df74a77efd198de5fc7f83a482dcfe0c7a7a",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GlobalConfigProxy",
+ "asset_url": "https://etherscan.io/address/0x5611df74a77efd198de5fc7f83a482dcfe0c7a7a",
+ "files": 3
+}

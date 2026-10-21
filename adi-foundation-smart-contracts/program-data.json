@@ -1,0 +1,23 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/ADI-Foundation-Labs/ADI-Stack-Contracts/tree/9ddc915c85d1f44c79b5d55e160d384138ed5105/l1-contracts",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  },
+  {
+   "url": "https://github.com/ADI-Foundation-Labs/ADI-Stack-Contracts/tree/9ddc915c85d1f44c79b5d55e160d384138ed5105/l2-contracts",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  },
+  {
+   "url": "https://github.com/ADI-Foundation-Labs/ADI-Stack-Contracts/tree/9ddc915c85d1f44c79b5d55e160d384138ed5105/da-contracts",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "adi-foundation-smart-contracts",
+ "maxBounty": "10000.0",
+ "kyc": true
+}

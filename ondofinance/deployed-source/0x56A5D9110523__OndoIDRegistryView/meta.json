@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OndoIDRegistryView",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x56A5D911052323D688C731d516530878557463e7",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoIDRegistryView",
+ "asset_url": "https://etherscan.io/address/0x56A5D911052323D688C731d516530878557463e7",
+ "files": 24
+}

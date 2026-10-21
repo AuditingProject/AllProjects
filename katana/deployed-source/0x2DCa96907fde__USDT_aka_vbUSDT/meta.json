@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/v2/lib/TokenWrappedTransparentProxy.sol:TokenWrappedTransparentProxy",
+ "compiler": "0.8.28+commit.7893614a",
+ "address": "0x2DCa96907fde857dd3D816880A0df407eeB2D2F2",
+ "chain": 747474,
+ "explorer_host": "katanascan.com",
+ "asset_description": "USDT (aka vbUSDT)",
+ "asset_url": "https://katanascan.com/address/0x2DCa96907fde857dd3D816880A0df407eeB2D2F2",
+ "files": 10
+}

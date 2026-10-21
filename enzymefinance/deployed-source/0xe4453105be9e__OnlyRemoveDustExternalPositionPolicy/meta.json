@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/OnlyRemoveDustExternalPositionPolicy.sol:OnlyRemoveDustExternalPositionPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xe4453105be9e579896a3ed73df9a1e285c8c95c2",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "OnlyRemoveDustExternalPositionPolicy",
+ "asset_url": "https://arbiscan.io/address/0xe4453105be9e579896a3ed73df9a1e285c8c95c2",
+ "files": 20
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/mechs/token/usdc/MechFactoryFixedPriceTokenUSDC.sol:MechFactoryFixedPriceTokenUSDC",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0xF95BfBBA428dfb454Cd59C9c2d309bd6452d12A8",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MechFactoryFixedPriceToken \u2014 marketplace. Factory deploying ERC-20 fixed-price mech instances (deployed once per supported token). Deployed on: Ethereum USDC 0xF95BfBBA428dfb454Cd59C9c2d309bd6452d12A8; Gnosis 0x31ffDC795FDF36696B8eDF7583A3D115995a45FA; Arbitrum USDC 0x694e62BDF7Ff510A4EE66662cf4866A961a31653; Celo USDC 0xE3e5Df46060370af5Fd37B2aA11e7dac3cCB4bd0.",
+ "asset_url": "https://etherscan.io/address/0xF95BfBBA428dfb454Cd59C9c2d309bd6452d12A8#code",
+ "files": 29
+}

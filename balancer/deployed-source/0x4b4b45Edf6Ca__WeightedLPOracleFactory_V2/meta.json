@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "WeightedLPOracleFactory",
+ "compiler": "v0.8.27+commit.40a35a09",
+ "address": "0x4b4b45Edf6Ca26ae894377Cf4FeD1FA9F82D85C6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "WeightedLPOracleFactory (V2)",
+ "asset_url": "https://etherscan.io/address/0x4b4b45Edf6Ca26ae894377Cf4FeD1FA9F82D85C6#code",
+ "files": 61
+}

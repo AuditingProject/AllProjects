@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Messenger",
+ "compiler": "0.8.22+commit.4fc1097e",
+ "address": "0xff2BABA46Df92919705E60120C477Ae5b7341Eb3",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Messenger",
+ "asset_url": "https://etherscan.io/address/0xff2BABA46Df92919705E60120C477Ae5b7341Eb3",
+ "files": 34
+}

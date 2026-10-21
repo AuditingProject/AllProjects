@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/Sui-Volo/volo-smart-contracts",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "volo-smart-contracts",
+ "maxBounty": "150000.0",
+ "kyc": false
+}

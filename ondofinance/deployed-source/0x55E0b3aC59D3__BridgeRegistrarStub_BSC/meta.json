@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/tokenFactory/registrars/BridgeRegistrarStub.sol:BridgeRegistrarStub",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x55E0b3aC59D3F6A924483B25A9F3D83C0Dd7C31c",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "BridgeRegistrarStub (BSC)",
+ "asset_url": "https://bscscan.com/address/0x55E0b3aC59D3F6A924483B25A9F3D83C0Dd7C31c",
+ "files": 2
+}

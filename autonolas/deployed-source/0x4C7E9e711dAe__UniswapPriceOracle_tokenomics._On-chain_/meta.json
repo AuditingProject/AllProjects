@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "UniswapPriceOracle",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x4C7E9e711dAe61F93846D5CfC64CF0d1BCf78F0F",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "UniswapPriceOracle \u2014 tokenomics. On-chain TWAP price oracle for OLAS (Uniswap). Ethereum. (The Celo deployment 0xa987Fe40034AaD2EbB0E01B22DFc57f20C87F949 is out of scope: it predates the current source and cannot be redeployed for now \u2014 see \u00a77.3 D9.)",
+ "asset_url": "https://etherscan.io/address/0x4C7E9e711dAe61F93846D5CfC64CF0d1BCf78F0F#code",
+ "files": 2
+}

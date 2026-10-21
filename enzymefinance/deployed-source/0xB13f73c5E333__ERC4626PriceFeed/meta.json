@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/infrastructure/price-feeds/derivatives/feeds/ERC4626PriceFeed.sol:ERC4626PriceFeed",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xB13f73c5E333fb760a5BED668b1ff04432CAdab0",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ERC4626PriceFeed",
+ "asset_url": "https://polygonscan.com/address/0xB13f73c5E333fb760a5BED668b1ff04432CAdab0",
+ "files": 12
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/AllowedAdapterIncomingAssetsPolicy.sol:AllowedAdapterIncomingAssetsPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xc192fd3b13549ad5bc3c0a0118a29556d0cdd482",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "AllowedAdapterIncomingAssetsPolicy",
+ "asset_url": "https://polygonscan.com/address/0xc192fd3b13549ad5bc3c0a0118a29556d0cdd482",
+ "files": 33
+}

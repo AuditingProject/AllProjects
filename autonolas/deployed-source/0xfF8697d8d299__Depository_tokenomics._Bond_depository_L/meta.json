@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/Depository.sol:Depository",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xfF8697d8d2998d6AA2e09B405795C6F4BEeB0C81",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Depository \u2014 tokenomics. Bond depository (LP tokens to OLAS). Ethereum.",
+ "asset_url": "https://etherscan.io/address/0xfF8697d8d2998d6AA2e09B405795C6F4BEeB0C81#code",
+ "files": 6
+}

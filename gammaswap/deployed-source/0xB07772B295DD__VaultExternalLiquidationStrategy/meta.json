@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-implementations/contracts/strategies/vault/liquidation/VaultExternalLiquidationStrategy.sol:VaultExternalLiquidationStrategy",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xB07772B295DD04398C1aaF39E57E04527a92b2E8",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "VaultExternalLiquidationStrategy",
+ "asset_url": "https://arbiscan.io/address/0xB07772B295DD04398C1aaF39E57E04527a92b2E8#code",
+ "files": 46
+}

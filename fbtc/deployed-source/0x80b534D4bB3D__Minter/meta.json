@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/FBTCMinter.sol:FBTCMinter",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x80b534D4bB3D809FbDA809DCB26D3f220634AED7",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Minter",
+ "asset_url": "https://etherscan.io/address/0x80b534D4bB3D809FbDA809DCB26D3f220634AED7",
+ "files": 27
+}

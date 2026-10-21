@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "IssuanceHours",
+ "compiler": "v0.8.16+commit.07a7930e",
+ "address": "0xE59dbF08CccF8D1ab90156b9664d31Fd20BB2AC7",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoIssuanceHours",
+ "asset_url": "https://etherscan.io/address/0xE59dbF08CccF8D1ab90156b9664d31Fd20BB2AC7",
+ "files": 6
+}

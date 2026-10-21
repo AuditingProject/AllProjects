@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/ample/AmpleEarnCrossChainRouter.sol:AmpleEarnCrossChainRouter",
+ "compiler": "0.8.26+commit.8a97fa7a",
+ "address": "0xf132654d677034c804cfb6432d27526088deb0c5",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "Base: `AmpleEarnCrossChainRouter`",
+ "asset_url": "https://basescan.org/address/0xf132654d677034c804cfb6432d27526088deb0c5#code",
+ "files": 29
+}

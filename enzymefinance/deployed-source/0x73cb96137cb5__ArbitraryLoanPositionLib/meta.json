@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/external-position-manager/external-positions/arbitrary-loan/ArbitraryLoanPositionLib.sol:ArbitraryLoanPositionLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x73cb96137cb5455e77275a6ab3411d0d52d545a9",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ArbitraryLoanPositionLib",
+ "asset_url": "https://etherscan.io/address/0x73cb96137cb5455e77275a6ab3411d0d52d545a9",
+ "files": 18
+}

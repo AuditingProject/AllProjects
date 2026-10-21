@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/utils/LockableMinimalBeacon.sol:LockableMinimalBeacon",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xad64702F5556Bf897d4BA30Cc8e6e54891095cCC",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "LockableMinimalBeacon",
+ "asset_url": "https://arbiscan.io/address/0xad64702F5556Bf897d4BA30Cc8e6e54891095cCC#code",
+ "files": 2
+}

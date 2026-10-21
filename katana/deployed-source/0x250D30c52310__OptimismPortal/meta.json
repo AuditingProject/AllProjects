@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Proxy",
+ "compiler": "v0.8.15+commit.e14f2714",
+ "address": "0x250D30c523104bf0a06825e7eAdE4Dc46EdfE40E",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OptimismPortal",
+ "asset_url": "https://etherscan.io/address/0x250D30c523104bf0a06825e7eAdE4Dc46EdfE40E",
+ "files": 3
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ServiceManager",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x4443ddD8EC67CbCf7E291ee3198f81dD0326b3A1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ServiceManager \u2014 registries. Manager for service registry operations. Deployed on: Ethereum 0x4443ddD8EC67CbCf7E291ee3198f81dD0326b3A1; Polygon 0xC720f1Ada2a882a4B375dCCd0aAc3F3B3e58bc84; Gnosis 0xe8a85A78E11F4AD8D48d94f90e45827de54Ff2D6; Arbitrum 0x1c80bDBeD23dBb4ACEdCA136382bEa0162550515; Optimism 0xA749f605D93B3efcc207C54270d83C6E8fa70fF8; Base 0x1eAccD29c86fFc52Bd7cC0117C03D089306Cbc29; Celo 0x46C0D07F55d4F9B5Eed2Fc9680B5953e5fd7b461; Mode 0x984cf72FDe8B5aA910e9e508aC5e007ae5BDcC9C.",
+ "asset_url": "https://etherscan.io/address/0x4443ddD8EC67CbCf7E291ee3198f81dD0326b3A1#code",
+ "files": 6
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/fee-manager/fees/ExitRateDirectFee.sol:ExitRateDirectFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xc5c7f7c6e5e2db074d96b440d30d7aab2c99b848",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ExitRateDirectFee",
+ "asset_url": "https://polygonscan.com/address/0xc5c7f7c6e5e2db074d96b440d30d7aab2c99b848",
+ "files": 46
+}

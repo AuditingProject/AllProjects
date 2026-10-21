@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "IdentityRegistryBridger",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x6bC86C3d44a8b2EF9993E1DA53152293Fa1fF6ec",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "IdentityRegistryBridger \u2014 registries. ERC-8004 identity registry bridger. Deployed on: Ethereum 0x6bC86C3d44a8b2EF9993E1DA53152293Fa1fF6ec; Polygon 0xf78b3C22A204Da5d9a0B080C5D3d695AF4918886; Gnosis 0x1e9d56730530e9fD9446aBb2eC2E68Dbb3356435; Arbitrum 0x379451B13e4900C7005Bf57467770b2EE4e62a86; Optimism 0x88943F63E29cd436B62cFfE332aD54De92AdCE98; Base 0xb0228CA253A88Bc8eb4ca70BCAC8f87b381f4700; Celo 0x88943F63E29cd436B62cFfE332aD54De92AdCE98.",
+ "asset_url": "https://etherscan.io/address/0x6bC86C3d44a8b2EF9993E1DA53152293Fa1fF6ec#code",
+ "files": 3
+}

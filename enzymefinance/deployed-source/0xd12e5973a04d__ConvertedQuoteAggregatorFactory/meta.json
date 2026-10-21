@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/infrastructure/price-feeds/primitives/factories/ConvertedQuoteAggregatorFactory.sol:ConvertedQuoteAggregatorFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xd12e5973a04dabe5bbc2d05b2598310217bd2640",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ConvertedQuoteAggregatorFactory",
+ "asset_url": "https://arbiscan.io/address/0xd12e5973a04dabe5bbc2d05b2598310217bd2640",
+ "files": 6
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/persistent/off-chain/fund-value-calculator/FundValueCalculatorRouter.sol:FundValueCalculatorRouter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x7c728cd0cfa92401e01a4849a01b57ee53f5b2b9",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "FundValueCalculatorRouter",
+ "asset_url": "https://etherscan.io/address/0x7c728cd0cfa92401e01a4849a01b57ee53f5b2b9",
+ "files": 3
+}

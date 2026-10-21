@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MechMarketplace",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x6B149a00E40cC6C148992C6AADd232d958C35Fa3",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MechMarketplace (implementation) \u2014 marketplace. Core marketplace contract that registers mechs and routes off-chain compute requests (implementation behind MechMarketplaceProxy). Deployed on: Ethereum 0x6B149a00E40cC6C148992C6AADd232d958C35Fa3; Gnosis 0xE035dcD99F7A8cE0b1d72C3141f100C5B0E9e3bd; Base 0x155547857680A6D51bebC5603397488988DEb1c8; Polygon 0xE85791B18F5df42163092Acc5C9da1c479AFEa9d; Optimism 0x8Bc0a5c5B1612A16983B01ecd7ae130E728390CB; Arbitrum 0x46C0D07F55d4F9B5Eed2Fc9680B5953e5fd7b461; Celo 0x1a0bFCC27051BCcDDc444578f56A4F5920e0E083.",
+ "asset_url": "https://etherscan.io/address/0x6B149a00E40cC6C148992C6AADd232d958C35Fa3#code",
+ "files": 30
+}

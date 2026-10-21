@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/HashflowFactory.sol:HashflowFactory",
+ "compiler": "0.8.18+commit.87f61d96",
+ "address": "0xdE828fdc3F497F16416D1bB645261C7C6a62DAb5",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Hashflow Factory",
+ "asset_url": "https://etherscan.io/address/0xdE828fdc3F497F16416D1bB645261C7C6a62DAb5",
+ "files": 12
+}

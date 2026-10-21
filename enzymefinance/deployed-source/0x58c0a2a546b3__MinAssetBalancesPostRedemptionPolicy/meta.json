@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/current-shareholders/MinAssetBalancesPostRedemptionPolicy.sol:MinAssetBalancesPostRedemptionPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x58c0a2a546b3903fa68a53e34ee0c8a02aabfad0",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MinAssetBalancesPostRedemptionPolicy",
+ "asset_url": "https://etherscan.io/address/0x58c0a2a546b3903fa68a53e34ee0c8a02aabfad0",
+ "files": 31
+}

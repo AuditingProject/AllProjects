@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/ample/AmpleEarnFactory.sol:AmpleEarnFactory",
+ "compiler": "0.8.26+commit.8a97fa7a",
+ "address": "0x62b304519ee30e205621920454c2802fb99dca67",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "Base: `AmpleEarnFactory`",
+ "asset_url": "https://basescan.org/address/0x62b304519ee30e205621920454c2802fb99dca67#code",
+ "files": 48
+}

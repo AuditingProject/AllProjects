@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/persistent/off-chain/fund-value-calculator/FundValueCalculatorRouter.sol:FundValueCalculatorRouter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xd70389a7d6171e1dba6c3df4db7331811fd93f08",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "FundValueCalculatorRouter",
+ "asset_url": "https://polygonscan.com/address/0xd70389a7d6171e1dba6c3df4db7331811fd93f08",
+ "files": 3
+}

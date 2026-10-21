@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/Whitelist.sol:Whitelist",
+ "compiler": "0.8.34+commit.80d5c536",
+ "address": "0xBCB62B29a1B982C51d57A44745b694CAA1ed2Bf2",
+ "chain": 2818,
+ "explorer_host": "explorer.morphl2.io",
+ "asset_description": "Morph - Whitelist",
+ "asset_url": "https://explorer.morphl2.io/address/0xBCB62B29a1B982C51d57A44745b694CAA1ed2Bf2",
+ "files": 15
+}

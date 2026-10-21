@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "YearnV3Vault.vy:YearnV3Vault",
+ "compiler": "0.3.10+commit.91361694",
+ "address": "0xdD3FA86409658d207A9BE0141eE560C8db557824",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Vault V3.1.0",
+ "asset_url": "https://etherscan.io/address/0xdD3FA86409658d207A9BE0141eE560C8db557824",
+ "files": 1
+}

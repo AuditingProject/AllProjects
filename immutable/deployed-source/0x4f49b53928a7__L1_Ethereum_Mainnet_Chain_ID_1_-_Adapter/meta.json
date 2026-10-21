@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x4f49b53928a71e553bb1b0f66a5bcb54fd4e8932",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "L1 Ethereum Mainnet Chain ID 1 - Adapter Proxy",
+ "asset_url": "https://etherscan.io/address/0x4f49b53928a71e553bb1b0f66a5bcb54fd4e8932",
+ "files": 9
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/core/management/TokenExclusionManager.sol:TokenExclusionManager",
+ "compiler": "0.8.17+commit.8df45f5f",
+ "address": "0x4f69982392ba29e98c62b07482be190301d12ca7",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "BaseTokenExclusionManagerAddress",
+ "asset_url": "https://basescan.org/address/0x4f69982392ba29e98c62b07482be190301d12ca7",
+ "files": 36
+}

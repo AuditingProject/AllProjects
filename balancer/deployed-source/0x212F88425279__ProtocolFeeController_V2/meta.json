@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ProtocolFeeController",
+ "compiler": "0.8.27+commit.40a35a09",
+ "address": "0x212F884252792ebaaA811FB0678444b21c7C2879",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ProtocolFeeController (V2)",
+ "asset_url": "https://etherscan.io/address/0x212F884252792ebaaA811FB0678444b21c7C2879#code",
+ "files": 28
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/proxy/ProtectedTransparentProxy.sol:ProtectedTransparentProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xaB9d2a2347D5fF5B760C0226C52d5C673b8D9e44",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "CoreProperties",
+ "asset_url": "https://bscscan.com/address/0xaB9d2a2347D5fF5B760C0226C52d5C673b8D9e44",
+ "files": 14
+}

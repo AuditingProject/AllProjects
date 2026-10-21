@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/Proxy.sol:TokenProxy",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x1B19C19393e2d034D8Ff31ff34c81252FcBbee92",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OUSG Token",
+ "asset_url": "https://etherscan.io/address/0x1B19C19393e2d034D8Ff31ff34c81252FcBbee92",
+ "files": 9
+}

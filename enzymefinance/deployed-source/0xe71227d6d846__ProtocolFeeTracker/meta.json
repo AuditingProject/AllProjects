@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/infrastructure/protocol-fees/ProtocolFeeTracker.sol:ProtocolFeeTracker",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xe71227d6d846e0fb3367d020683327031c4c4a3d",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ProtocolFeeTracker",
+ "asset_url": "https://arbiscan.io/address/0xe71227d6d846e0fb3367d020683327031c4c4a3d",
+ "files": 8
+}

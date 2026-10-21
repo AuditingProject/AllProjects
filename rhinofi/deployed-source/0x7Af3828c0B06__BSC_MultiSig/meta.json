@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "GnosisSafeProxy.sol:GnosisSafeProxy",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0x7Af3828c0B061552AF3479806Add982eEf04f0c8",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "BSC MultiSig",
+ "asset_url": "https://bscscan.com/address/0x7Af3828c0B061552AF3479806Add982eEf04f0c8#code",
+ "files": 1
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/proxy/ProtectedTransparentProxy.sol:ProtectedTransparentProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x892B3292cF80CB298b7fA20D04EF4732640db404",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "ERC721Expert",
+ "asset_url": "https://bscscan.com/address/0x892B3292cF80CB298b7fA20D04EF4732640db404",
+ "files": 14
+}

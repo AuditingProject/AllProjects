@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/global-config/GlobalConfigLib.sol:GlobalConfigLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x211e54a2f1e83cabc9d1211a1df0759b7193201a",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "GlobalConfigLib",
+ "asset_url": "https://arbiscan.io/address/0x211e54a2f1e83cabc9d1211a1df0759b7193201a",
+ "files": 10
+}

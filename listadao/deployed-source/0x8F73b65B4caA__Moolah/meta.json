@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "lib/openzeppelin-contracts-upgradeable/lib/openzeppelin-contracts/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.28+commit.7893614a",
+ "address": "0x8F73b65B4caAf64FBA2aF91cC5D4a2A1318E5D8C",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "Moolah",
+ "asset_url": "https://bscscan.com/address/0x8F73b65B4caAf64FBA2aF91cC5D4a2A1318E5D8C",
+ "files": 8
+}

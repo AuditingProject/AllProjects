@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "PeggedRateDeviationAggregatorFactory",
+ "compiler": "v0.8.19+commit.7dd6d404",
+ "address": "0xd71894348d0b068af066a6f7b093809a8ad10d98",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PeggedRateDeviationAggregatorFactory",
+ "asset_url": "https://etherscan.io/address/0xd71894348d0b068af066a6f7b093809a8ad10d98",
+ "files": 7
+}

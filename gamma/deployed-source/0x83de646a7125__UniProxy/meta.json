@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "UniProxy",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0x83de646a7125ac04950fea7e322481d4be66c71d",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "UniProxy",
+ "asset_url": "https://etherscan.io/address/0x83de646a7125ac04950fea7e322481d4be66c71d",
+ "files": 17
+}

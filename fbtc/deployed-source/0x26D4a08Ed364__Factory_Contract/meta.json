@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "lib/openzeppelin-contracts/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x26D4a08Ed364Cf07142127aeC202Df910aB33455",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "Factory Contract",
+ "asset_url": "https://basescan.org/address/0x26D4a08Ed364Cf07142127aeC202Df910aB33455",
+ "files": 17
+}

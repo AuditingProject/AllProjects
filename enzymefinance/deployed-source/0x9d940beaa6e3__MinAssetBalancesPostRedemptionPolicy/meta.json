@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/current-shareholders/MinAssetBalancesPostRedemptionPolicy.sol:MinAssetBalancesPostRedemptionPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x9d940beaa6e3cfb441d49787fdf1db18d7f8251e",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "MinAssetBalancesPostRedemptionPolicy",
+ "asset_url": "https://polygonscan.com/address/0x9d940beaa6e3cfb441d49787fdf1db18d7f8251e",
+ "files": 31
+}

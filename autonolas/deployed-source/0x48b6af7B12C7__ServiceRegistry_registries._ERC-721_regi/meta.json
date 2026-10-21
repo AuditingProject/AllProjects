@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ServiceRegistry",
+ "compiler": "0.8.15+commit.e14f2714",
+ "address": "0x48b6af7B12C71f09e2fC8aF4855De4Ff54e775cA",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ServiceRegistry \u2014 registries. ERC-721 registry of services (L1). Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x48b6af7B12C71f09e2fC8aF4855De4Ff54e775cA#code",
+ "files": 6
+}

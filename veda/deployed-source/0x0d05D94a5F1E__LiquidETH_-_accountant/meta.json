@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/base/Roles/AccountantWithRateProviders.sol:AccountantWithRateProviders",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x0d05D94a5F1E76C18fbeB7A13d17C8a314088198",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "LiquidETH - accountant",
+ "asset_url": "https://etherscan.io/address/0x0d05D94a5F1E76C18fbeB7A13d17C8a314088198",
+ "files": 15
+}

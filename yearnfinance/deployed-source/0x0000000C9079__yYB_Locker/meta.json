@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/Locker.sol:Locker",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x0000000C90799449af8eE0B240Da639144a36C6A",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "yYB Locker",
+ "asset_url": "https://etherscan.io/address/0x0000000C90799449af8eE0B240Da639144a36C6A",
+ "files": 15
+}

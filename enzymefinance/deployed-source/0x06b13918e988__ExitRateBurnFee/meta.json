@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ExitRateBurnFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x06b13918e988d1314da1a9da4c0cde5fe994364a",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ExitRateBurnFee",
+ "asset_url": "https://etherscan.io/address/0x06b13918e988d1314da1a9da4c0cde5fe994364a",
+ "files": 6
+}

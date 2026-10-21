@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "BalanceTrackerFixedPriceToken",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x897aee2e6F3d37740D334C55Caea2e0caC82aa14",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BalanceTrackerFixedPriceToken \u2014 marketplace. Balance tracker for ERC-20 fixed-price payments (deployed once per supported token). Deployed on: Ethereum USDC 0x897aee2e6F3d37740D334C55Caea2e0caC82aa14; Gnosis 0x53Bd432516707a5212A70216284a99A563aAC1D1; Base USDC 0x0443C55e151dBA13fae079518F9dd01ff9c21CB2; Polygon USDC 0x5C50ebc17d002A4484585C8fbf62f51953493c0B; Optimism USDC 0xA123748Ce7609F507060F947b70298D0bde621E6; Arbitrum USDC 0xa987Fe40034AaD2EbB0E01B22DFc57f20C87F949; Celo USDC 0x97371B1C0cDA1D04dFc43DFb50a04645b7Bc9BEe.",
+ "asset_url": "https://etherscan.io/address/0x897aee2e6F3d37740D334C55Caea2e0caC82aa14#code",
+ "files": 3
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "BonusPriceOracle.vy:BonusPriceOracle",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0x7e417e19fe3f72798E1094E8dF185378370cb416",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Bonus Price Oracle",
+ "asset_url": "https://etherscan.io/address/0x7e417e19fe3f72798E1094E8dF185378370cb416",
+ "files": 1
+}

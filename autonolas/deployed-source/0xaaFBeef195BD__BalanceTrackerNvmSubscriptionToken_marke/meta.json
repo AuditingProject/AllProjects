@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/mechs/nevermined_token/BalanceTrackerNvmSubscriptionToken.sol:BalanceTrackerNvmSubscriptionToken",
+ "compiler": "0.8.28+commit.7893614a",
+ "address": "0xaaFBeef195BDAb1Bb6f3Dc9cEbA875Cd72499230",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "BalanceTrackerNvmSubscriptionToken \u2014 marketplace. Balance tracker for Nevermined-subscription USDC payments. Deployed on: Base 0xaaFBeef195BDAb1Bb6f3Dc9cEbA875Cd72499230; Polygon 0xd00Cb760Bf30183EAFE67f0E590BEeE190F35Cf3; Optimism 0x1a0bFCC27051BCcDDc444578f56A4F5920e0E083.",
+ "asset_url": "https://basescan.org/address/0xaaFBeef195BDAb1Bb6f3Dc9cEbA875Cd72499230#code",
+ "files": 4
+}

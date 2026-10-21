@@ -1,0 +1,424 @@
+[
+ {
+  "url": "https://etherscan.io/address/0x1d02F6A86Ed5650f93E40FCD62fa5727c32ad746#code",
+  "desc": "yYB Reward Distributor",
+  "status": "fetched",
+  "dir": "0x1d02F6A86Ed5__yYB_Reward_Distributor",
+  "name": "SingleTokenRewardDistributor.sol:SingleTokenRewardDistributor",
+  "source": "sourcify",
+  "files": 7
+ },
+ {
+  "url": "https://etherscan.io/address/0x5A74Cb32D36f2f517DB6f7b0A0591e09b22cDE69#code",
+  "desc": "Accountant",
+  "status": "fetched",
+  "dir": "0x5A74Cb32D36f__Accountant",
+  "name": "Accountant.sol:Accountant",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xbC587a495420aBB71Bbd40A0e291B64e80117526",
+  "desc": "Auction Factory",
+  "status": "fetched",
+  "dir": "0xbC587a495420__Auction_Factory",
+  "name": "src/Auctions/AuctionFactory.sol:AuctionFactory",
+  "source": "sourcify",
+  "files": 17
+ },
+ {
+  "url": "https://etherscan.io/address/0x22222222aEA0076fCA927a3f44dc0B4FdF9479D6#code",
+  "desc": "yYB Token",
+  "status": "fetched",
+  "dir": "0x22222222aEA0__yYB_Token",
+  "name": "src/YToken.sol:YToken",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://etherscan.io/address/0xE9A115b77A1057C918F997c32663FdcE24FB873f#code",
+  "desc": "yCRV Boosted Staker",
+  "status": "fetched",
+  "dir": "0xE9A115b77A10__yCRV_Boosted_Staker",
+  "name": "YearnBoostedStaker.sol:YearnBoostedStaker",
+  "source": "sourcify",
+  "files": 6
+ },
+ {
+  "url": "https://etherscan.io/address/0x770D0d1Fb036483Ed4AbB6d53c1C88fb277D812F",
+  "desc": "3.0.4 Vault V3 Factory",
+  "status": "fetched",
+  "dir": "0x770D0d1Fb036__3.0.4_Vault_V3_Factory",
+  "name": "YearnVaultFactory.vy:YearnVaultFactory",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xB226c52EB411326CdB54824a88aBaFDAAfF16D3d#code",
+  "desc": "yCRV Boosted Staker Reward Distributor",
+  "status": "fetched",
+  "dir": "0xB226c52EB411__yCRV_Boosted_Staker_Reward_Distributor",
+  "name": "SingleTokenRewardDistributor.sol:SingleTokenRewardDistributor",
+  "source": "sourcify",
+  "files": 7
+ },
+ {
+  "url": "https://etherscan.io/address/0xFCc5c47bE19d06BF83eB04298b026F81069ff65b#code",
+  "desc": "yCRV contract",
+  "status": "fetched",
+  "dir": "0xFCc5c47bE19d__yCRV_contract",
+  "name": "Vyper_contract.vy:Vyper_contract",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xD377919FA87120584B21279a491F82D5265A139c",
+  "desc": "3.0.4 Tokenized Strategy",
+  "status": "fetched",
+  "dir": "0xD377919FA871__3.0.4_Tokenized_Strategy",
+  "name": "TokenizedStrategy.sol:TokenizedStrategy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x1111111Ecd5Ae05422aeCe517072ec33Dbf34af9#code",
+  "desc": "yYB Operator",
+  "status": "fetched",
+  "dir": "0x1111111Ecd5A__yYB_Operator",
+  "name": "src/Operator.sol:Operator",
+  "source": "sourcify",
+  "files": 11
+ },
+ {
+  "url": "https://etherscan.io/address/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e#code",
+  "desc": "YFI Token",
+  "status": "fetched",
+  "dir": "0x0bc529c00c64__YFI_Token",
+  "name": "YFI.sol:YFI",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xd0660cd418a64a1d44e9214ad8e459324d8157f1#code",
+  "desc": "Woofy Token",
+  "status": "fetched",
+  "dir": "0xd0660cd418a6__Woofy_Token",
+  "name": "Vyper_contract",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x5D2eA33449A60a70E8FCdc5251FDd86a030fAD91#code",
+  "desc": "yYB Boosted Staker",
+  "status": "fetched",
+  "dir": "0x5D2eA33449A6__yYB_Boosted_Staker",
+  "name": "YearnBoostedStaker.sol:YearnBoostedStaker",
+  "source": "sourcify",
+  "files": 6
+ },
+ {
+  "url": "https://etherscan.io/address/0xe28fCC9FB2998ba57754789F6666DAa8C815614D#code",
+  "desc": "Splitter Factory",
+  "status": "fetched",
+  "dir": "0xe28fCC9FB299__Splitter_Factory",
+  "name": "Vyper_contract.vy:Vyper_contract",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xd8063123BBA3B480569244AE66BFE72B6c84b00d",
+  "desc": "3.0.4 Vault V3",
+  "status": "fetched",
+  "dir": "0xd8063123BBA3__3.0.4_Vault_V3",
+  "name": "YearnV3Vault.vy:YearnV3Vault",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x0000000C90799449af8eE0B240Da639144a36C6A",
+  "desc": "yYB Locker",
+  "status": "fetched",
+  "dir": "0x0000000C9079__yYB_Locker",
+  "name": "src/Locker.sol:Locker",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://etherscan.io/address/0xd31911a33a5577Be233Dc096F6F5a7e496fF5934#code",
+  "desc": "stYFI Main Reward Distributor",
+  "status": "fetched",
+  "dir": "0xd31911a33a55__stYFI_Main_Reward_Distributor",
+  "name": "RewardDistributor.vy:RewardDistributor",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xc32bd1A70e831c43956Ff2f5F23f2Ee45a04C020",
+  "desc": "stYFI Staking Middleware",
+  "status": "fetched",
+  "dir": "0xc32bd1A70e83__stYFI_Staking_Middleware",
+  "name": "StakingMiddleware.vy:StakingMiddleware",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xA82454009E01Ae697012a73cB232d85e61B05e50",
+  "desc": "stYFI Reward Claimer",
+  "status": "fetched",
+  "dir": "0xA82454009E01__stYFI_Reward_Claimer",
+  "name": "RewardClaimer.vy:RewardClaimer",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xA16F6FC7380300525C812ea2733Ad62DDA58143B",
+  "desc": "stYFI Liquid Locker Depositor StakeDAO",
+  "status": "fetched",
+  "dir": "0xA16F6FC73803__stYFI_Liquid_Locker_Depositor_StakeDAO",
+  "name": "LiquidLockerDepositor.vy:LiquidLockerDepositor",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x9C42461AA8422926e3AEF7B1C6e3743597149d79",
+  "desc": "stYFIx",
+  "status": "fetched",
+  "dir": "0x9C42461AA842__stYFIx",
+  "name": "DelegatedStakedYFI.vy:DelegatedStakedYFI",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x95547ede56cf74b73dd78a37f547127dffda6113",
+  "desc": "stYFI Reward Distributor",
+  "status": "fetched",
+  "dir": "0x95547ede56cf__stYFI_Reward_Distributor",
+  "name": "StakingRewardDistributor.vy:StakingRewardDistributor",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x952B31960C97E76362Ac340D07D183aDa15e3d6E",
+  "desc": "stYFIx Reward Distributor",
+  "status": "fetched",
+  "dir": "0x952B31960C97__stYFIx_Reward_Distributor",
+  "name": "DelegatedStakingRewardDistributor.vy:DelegatedStakingRewardDistributor",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x7eFc3953Bed2fc20b9f825eBffaB1cC8B072a000",
+  "desc": "stYFI Liquid Locker Reward Distributor",
+  "status": "fetched",
+  "dir": "0x7eFc3953Bed2__stYFI_Liquid_Locker_Reward_Distributor",
+  "name": "LiquidLockerRewardDistributor.vy:LiquidLockerRewardDistributor",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x52Aa16860E0D42B6a7b6ecC15688472eb20135c9",
+  "desc": "stYFI Liquid Locker Depositor 1up",
+  "status": "fetched",
+  "dir": "0x52Aa16860E0D__stYFI_Liquid_Locker_Depositor_1up",
+  "name": "LiquidLockerDepositor.vy:LiquidLockerDepositor",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x42b25284E8ae427D79da78b65DFFC232aAECc016#code",
+  "desc": "stYFI",
+  "status": "fetched",
+  "dir": "0x42b25284E8ae__stYFI",
+  "name": "StakedYFI.vy:StakedYFI",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x3d4Ced97ADb0ae3A53DA95a47fFc749aAd26BC8f#code",
+  "desc": "stYFI Liquid Locker Depositor Cove",
+  "status": "fetched",
+  "dir": "0x3d4Ced97ADb0__stYFI_Liquid_Locker_Depositor_Cove",
+  "name": "LiquidLockerDepositor.vy:LiquidLockerDepositor",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x2548BF65916fdABB5A5673fC4225011FF29ee884",
+  "desc": "stYFI veYFI Reward Distributor",
+  "status": "fetched",
+  "dir": "0x2548BF65916f__stYFI_veYFI_Reward_Distributor",
+  "name": "VotingEscrowRewardDistributor.vy:VotingEscrowRewardDistributor",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://yearn.fi/vaults/1/0x696d02Db93291651ED510704c9b286841d506987",
+  "desc": "yvUSD",
+  "status": "no-verified-source",
+  "host": "yearn.fi",
+  "chain": null,
+  "address": "0x696d02Db93291651ED510704c9b286841d506987"
+ },
+ {
+  "url": "https://etherscan.io/address/0xdD3FA86409658d207A9BE0141eE560C8db557824",
+  "desc": "Vault V3.1.0",
+  "status": "fetched",
+  "dir": "0xdD3FA8640965__Vault_V3.1.0",
+  "name": "YearnV3Vault.vy:YearnV3Vault",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x310f5Db015E9d6E542fd41bd4542640790791e76",
+  "desc": "Tokenized Strategy V3.1.0",
+  "status": "fetched",
+  "dir": "0x310f5Db015E9__Tokenized_Strategy_V3.1.0",
+  "name": "src/TokenizedStrategy.sol:TokenizedStrategy",
+  "source": "sourcify",
+  "files": 11
+ },
+ {
+  "url": "https://etherscan.io/address/0x310aC28ACF5E514abDbFF9Ab25e21f1bfe22bcAC",
+  "desc": "Vault V3.1.0 Factory",
+  "status": "fetched",
+  "dir": "0x310aC28ACF5E__Vault_V3.1.0_Factory",
+  "name": "YearnVaultFactory.vy:YearnVaultFactory",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x6973CF85d479b9253E13E71F377E8CD2c2dfECd7",
+  "desc": "stYFI Weight Aggregator",
+  "status": "fetched",
+  "dir": "0x6973CF85d479__stYFI_Weight_Aggregator",
+  "name": "Weight_aggregator.vy:Weight_aggregator",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xADB7228a85fCD24E3Cfc8C58E2d4b9F03E1468D9#code",
+  "desc": "stYFI YBC Weight Aggregator",
+  "status": "fetched",
+  "dir": "0xADB7228a85fC__stYFI_YBC_Weight_Aggregator",
+  "name": "YBC_Weight_Aggregator.vy:YBC_Weight_Aggregator",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xd6AFd78C05f0d425F2b46359746dD44991dCB315",
+  "desc": "stYFI YBC",
+  "status": "fetched",
+  "dir": "0xd6AFd78C05f0__stYFI_YBC",
+  "name": "Yearn_Builder_Collective.vy:Yearn_Builder_Collective",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x53100f8979D3655a2E95465f583b0f4A11c8bbe1",
+  "desc": "stYFI YBC Reward Distributor",
+  "status": "fetched",
+  "dir": "0x53100f8979D3__stYFI_YBC_Reward_Distributor",
+  "name": "YBCRewardDistributor.vy:YBCRewardDistributor",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xe16608758c11322d407745927d2D033f1BFB206C",
+  "desc": "stYFI YBC Election",
+  "status": "fetched",
+  "dir": "0xe16608758c11__stYFI_YBC_Election",
+  "name": "YBC_Membership_Election.vy:YBC_Membership_Election",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xf03a919a59f8381bE220511eCf788b15FB039e4C",
+  "desc": "stYFI Bonus Recipient",
+  "status": "fetched",
+  "dir": "0xf03a919a59f8__stYFI_Bonus_Recipient",
+  "name": "YBC_Bonus_Recipient.vy:YBC_Bonus_Recipient",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x9da431b8A5b5962ebFF1d1876DdB0f336a372F29#code",
+  "desc": "stYFI Team Registry",
+  "status": "fetched",
+  "dir": "0x9da431b8A5b5__stYFI_Team_Registry",
+  "name": "TeamRegistry.vy:TeamRegistry",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xa59B34c87f97Bdf95Ab3E532FD9b7D1Fcd23BF43",
+  "desc": "stYFI Team Implementation",
+  "status": "fetched",
+  "dir": "0xa59B34c87f97__stYFI_Team_Implementation",
+  "name": "Team.vy:Team",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x1c221980AAb2E52Ccc02180E0c171Ca5E5ffDFD6",
+  "desc": "stYFI Team Accountant",
+  "status": "fetched",
+  "dir": "0x1c221980AAb2__stYFI_Team_Accountant",
+  "name": "TeamAccountant.vy:TeamAccountant",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x5B5AB518F532Ce260A5d2795E1eEc544FC159587",
+  "desc": "stYFI Revenue Recipient",
+  "status": "fetched",
+  "dir": "0x5B5AB518F532__stYFI_Revenue_Recipient",
+  "name": "RevenueRecipient.vy:RevenueRecipient",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xC1f9b548afcBe850f2BEbA8a50E55d86f4ABaE2E",
+  "desc": "stYFI Revenue Price Oracle",
+  "status": "fetched",
+  "dir": "0xC1f9b548afcB__stYFI_Revenue_Price_Oracle",
+  "name": "RevenuePriceOracle.vy:RevenuePriceOracle",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xbCc932e4750C3E465A7E54A06A34F9EdF8f6116b#code",
+  "desc": "stYFI Funding Distributor",
+  "status": "fetched",
+  "dir": "0xbCc932e4750C__stYFI_Funding_Distributor",
+  "name": "FundingDistributor.vy:FundingDistributor",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xA66002E9ab0BABf46882D0E0cd274f46CEb13116#code",
+  "desc": "stYFI Bonus Distributor",
+  "status": "fetched",
+  "dir": "0xA66002E9ab0B__stYFI_Bonus_Distributor",
+  "name": "BonusDistributor",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x7e417e19fe3f72798E1094E8dF185378370cb416",
+  "desc": "stYFI Bonus Price Oracle",
+  "status": "fetched",
+  "dir": "0x7e417e19fe3f__stYFI_Bonus_Price_Oracle",
+  "name": "BonusPriceOracle.vy:BonusPriceOracle",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x24b267AA3946209ca19231d0f17110577be00A86",
+  "desc": "stYFI Staking Middleware",
+  "status": "fetched",
+  "dir": "0x24b267AA3946__stYFI_Staking_Middleware",
+  "name": "StakingMiddleware",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 1
+ }
+]

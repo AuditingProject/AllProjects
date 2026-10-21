@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/VVSToken.sol:VVSToken",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
+ "chain": 25,
+ "explorer_host": "explorer.cronos.com",
+ "asset_description": "Smart Contract - VVS - Token",
+ "asset_url": "https://explorer.cronos.com/token/0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
+ "files": 7
+}

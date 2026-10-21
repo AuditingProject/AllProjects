@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/DODOEX/dodo-route-contract",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "dodofeerouteproxy-smart-contract",
+ "maxBounty": "10000.0",
+ "kyc": false
+}

@@ -1,0 +1,180 @@
+{
+ "title": "Whitechain Bridge",
+ "logo": "/uploads/bounty_program/logo/695248ea40041c000f7815a2/logo.png?timestamp=1778659500",
+ "logoPresent": true,
+ "companyName": "WhiteBIT",
+ "companySlug": "whitebit",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "29 Dec 2025",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/whitechain-bridge/reports/new",
+ "kycRequired": false,
+ "pocRequired": true,
+ "reputationRequired": null,
+ "minReputation": 50,
+ "submissionFee": null,
+ "programOfTheWeek": false,
+ "depositAvailable": false,
+ "maxReward": "$10,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 15,
+   "reputation": 61,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a02fa5140041c30fffbe0e8/avatar.png?timestamp=1780398045",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "BossSonti22",
+    "verified": true
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 6,
+   "reputation": 30,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a02ef4640041c000efbe3b7/avatar.png?timestamp=1792385105",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "AxiosCapex",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 4,
+   "reputation": 17,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/69a87b1940041ce81c7a0050/avatar.png?timestamp=1778795134",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "MrDark0x7",
+    "verified": true
+   }
+  },
+  {
+   "rank": 4,
+   "reports_amount": 4,
+   "reputation": 15,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/69f57cdd40041c000efbbb0a/avatar.png?timestamp=1779187538",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "puujeecoolest9898",
+    "verified": true
+   }
+  },
+  {
+   "rank": 5,
+   "reports_amount": 3,
+   "reputation": 12,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/60fb055eb6fa1e45063d116d/avatar.png?timestamp=1790225124",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "KL4R10N",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 800,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 10000,
+  "critical_min": 2000,
+  "high_max": 2000,
+  "high_min": 500,
+  "low_max": 300,
+  "low_min": 50,
+  "medium_max": 500,
+  "medium_min": 300
+ },
+ "description": "Whitechain Bridge is a centralized cross-chain bridge for moving tokens between WCH-ETH and WCH-TRON. This program rewards vulnerabilities in smart contracts only that affect the safety of user funds. In-scope: on-chain contracts Bridge and Mapper and their direct dependencies as used by these contracts.\r\n",
+ "sla": {
+  "first_response": 3,
+  "resolution_time": 14,
+  "time_to_reward": 14,
+  "time_to_triage": 7
+ },
+ "totalRewards": 150,
+ "submittedReports": 1637,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "695248ea40041c000f7815a1",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/whitechain-labs/bridge-contracts",
+   "target_description": "",
+   "title": "Smart Contract"
+  }
+ ],
+ "programRules": "* Avoid using web application scanners for automatic vulnerability searching which generates massive traffic\r\n* Make every effort not to damage or restrict the availability of products, services, or infrastructure\r\n* Avoid compromising any personal data, interruption, or degradation of any service\r\n* Don\u2019t access or modify other user data, localize all tests to your accounts\r\n* Perform testing only within the scope\r\n* Don\u2019t exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam\r\n* Don\u2019t spam forms or account creation flows using automated scanners\r\n* In case you find chain vulnerabilities we\u2019ll pay only for vulnerability with the highest severity.\r\n* Don\u2019t break any law and stay in the defined scope\r\n* Any details of found vulnerabilities must not be communicated to anyone who is not a HackenProof Team or an authorized employee of this Company without appropriate permission\r\n\r\n",
+ "focusArea": "## IN SCOPE VULNERABILITIES: Smart Contracts\r\n* Bridge contract (all logic: bridgeTokens, receiveTokens, withdrawCoinLiquidity, withdrawTokenLiquidity, gas accounting, usedHashes, setDailyLimit, etc.)\r\n* Mapper contract (registering/removing/enabling mappings, mapInfo, withdraw/deposit types)\r\n* Library and interface contracts only insofar as they affect Bridge/Mapper security (e.g., ECDSAChecks, IERC20, IERC20Mintable)\r\n* UUPS proxy and _authorizeUpgrade flows, in context of possible upgrade capture or storage collision\r\n* Business logic issues\r\n* Unauthorized access / access control bypass (role escalation)\r\n* Signature issues: replay, forgery, malleability, bad domain separation\r\n* Reentrancy and callback attacks\r\n* Bridging daily limits logic\r\n* Upgradeability / proxy risks (UUPS, storage collision, uninitialized proxies)\r\n* Integer arithmetic / overflow / underflow / precision errors\r\n* Token handling issues (for standard ERC-20 tokens)\r\n* External call abuses, delegatecall and arbitrary call execution\r\n* Incorrect ETH/token accounting (gasAccumulated, contract balance errors)\r\n* Denial-of-Service (on-chain) and block gas limit issues\r\n* Oracle / external dependency manipulation (if used on-chain)\r\n* Cryptography & randomness weaknesses\r\n* Access to sensitive data / secrets leaked on-chain\r\n* Incorrect type casting / address conversions (bytes32 \u2194 address)\r\n* Event/logging and monitoring omissions (auditability issues)\r\n* Front-running / race conditions (MEV) affecting protocol invariants\r\n* Self-destruct / funds locked by design mistakes\r\n* Denial via malformed input / improper validation (input sanitization)\r\n* Poor upgrade / governance locking policies (timelocks, multisig weaknesses)\r\n* Any other on-chain issue with clear potential loss.\r\n\r\n\r\n## OUT OF SCOPE VULNERABILITIES: Smart Contracts\r\n* Frontend, backend services, relayer servers, multisig operators, CI/CD, cloud infra, RPC node configuration.\r\n* Social engineering, physical access, compromise of org private keys (unless done by exploiting on-chain code).\r\n* Theoretical or non-reproducible issues without a PoC.\r\n* Architectural criticism of centralization, or design choices that are intentional.\r\n* ERC-20 non-standard, fee-on-transfer.\r\n\r\n\r\n",
+ "disclosureGuidelines": "* Do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization\r\n* No vulnerability disclosure, including partial is allowed for the moment.\r\n* Please do NOT publish/discuss bugs ",
+ "eligibilityAndCoordinateDisclosure": "We are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:\r\n\r\n* You must be the first reporter of a vulnerability.\r\n* The vulnerability must be a qualifying vulnerability\r\n* Any vulnerability found must be reported no later than 24 hours after discovery and exclusively through hackenproof.com\r\n* You must send a clear textual description of the report along with steps to reproduce the issue, include attachments such as screenshots or proof of concept code as necessary.\r\n* You must not be a former or current employee of us or one of its contractor.\r\n* ONLY USE the EMAIL under which you registered your HackenProof account (in case of violation, no bounty can be awarded)\r\n* Provide detailed but to-the point reproduction steps\r\n* AI-generated reports without runable PoC are not accepted under this program.\r\n\r\n\r\n\r\n",
+ "labels": {
+  "types": [
+   "smart contract"
+  ],
+  "languages": [
+   "Solidity"
+  ],
+  "platforms": [],
+  "project_types": [
+   "Bridge"
+  ]
+ },
+ "customBlocks": [
+  {
+   "description": "\r\n![](/screenshots/69524b4540041c000f7815b6)\r\n\r\nFinal payout within the range depends on real exploitability, impact, and report quality.\r\n\r\n\r\n## Not eligible for reward\r\n* Anything outside smart-contract scope.\r\n* Issues that require compromising the organization\u2019s private keys or social engineering.\r\n* Duplicate reports \u2014 reward goes to the first valid reporter.\r\n* Pure style / gas optimization suggestions without security impact.\r\n",
+   "id": "69524cd440041c000d781585",
+   "position": 0,
+   "title": "Severity levels"
+  },
+  {
+   "description": "A valid report must include:\r\n1. **Title** \u2014 concise and specific.\r\n1. **Summary** \u2014 1\u20133 lines describing the impact.\r\n1. **Contracts / addresses / versions** \u2014 exact addresses and versions used.\r\n1. **Reproduction steps** \u2014 step-by-step instructions. For EVM, include a minimal script (Hardhat/Foundry/ethers.js) or exact calldata and RPC calls. Use a mainnet fork for destructive PoC.\r\n1. **PoC** \u2014 runnable proof of concept demonstrating the issue on a fork or testnet; clearly mark commands and expected vs actual outcomes.\r\n1. **Severity assessment**\u2014 your severity and rationale.\r\n1. **Fix recommendations** \u2014 precise code suggestions or logical changes.\r\n1. **Artifacts** \u2014 tx hashes, traces, logs, screenshots if applicable.\r\n1. **Contact** \u2014 HackenProof username / email for follow-up.\r\nMissing PoC or concrete reproduction may reduce reward or cause rejection.\r\n",
+   "id": "69524cd440041c000d781586",
+   "position": 0,
+   "title": "Report requirements (mandatory)"
+  },
+  {
+   "description": "* **Acknowledgement**: within 72 hours.\r\n* **Triage / reproduce**: within 7 business days.\r\n* **Fix & confirmation**: priority given to Critical/High. Time to fix varies with complexity.\r\n* **Payout**: after verification and patch deployment; estimated within 14 business days after fix is merged and deployed (subject to HackenProof procedures).\r\n\r\nTeam may request additional PoC details. The first valid reporter gets priority for reward.\r\n",
+   "id": "69524cd440041c000d781587",
+   "position": 0,
+   "title": "Handling process (SLA)"
+  },
+  {
+   "description": "* Rewards paid through HackenProof in USD or equivalent crypto, following HackenProof\u2019s payout policies.\r\n* **KYC** may be required for large payouts per platform and regulatory requirements. Be prepared to provide identity and invoicing.\r\n* Tax reporting and compliance are the reporter\u2019s responsibility.\r\n",
+   "id": "69524cd440041c000d781588",
+   "position": 0,
+   "title": "Payments, KYC, taxes"
+  },
+  {
+   "description": "* Do not exploit real user funds. Do not perform destructive actions on production. Use a forked mainnet for PoC that would otherwise require real funds.\r\n* Do not publicly disclose vulnerability details before the issue is fixed and coordinated disclosure is approved. Premature publication can disqualify the reporter.\r\n* Do not attempt DoS on mainnet in a way that degrades service for users. Describe DoS vectors and demonstrate on a fork.\r\n* Follow laws and platform rules.\r\n",
+   "id": "69524cd440041c000d781589",
+   "position": 0,
+   "title": "Safe testing rules"
+  },
+  {
+   "description": "### Nature of the Program\r\n* This bug bounty program is a discretionary rewards program and not a competition, lottery, or offer of employment.\r\n* Submitting a report does not create any entitlement to a reward. All rewards (including whether to grant any reward at all and in what amount within the published ranges) are determined at our sole discretion, taking into account severity, impact, exploitability, scope, and report quality.\r\n* We may modify, suspend or terminate this program (including scope, reward ranges, and eligibility criteria) at any time, with prospective effect. Changes do not affect rewards already confirmed and communicated to the reporter.\r\n\r\n\r\n### Eligibility and Restricted Persons\r\nBy participating in the program, you represent and warrant that:\r\n* You are an individual acting on your own behalf, and at least 18 years old (or the age of majority in your jurisdiction, if higher).\r\n* You are not an employee, contractor, or officer of Whitechain or any of its affiliates, and have not been so within the last 12 months.\r\n* You are not involved in the development, auditing, or operation of the in-scope contracts in a professional capacity, and you do not have privileged internal access to their code or infrastructure beyond what is publicly available.\r\n* You are not subject to sanctions or listed on any sanctions list administered by the EU, UN, US, UK, or any other competent sanctions authority, and you are not a resident of a comprehensively sanctioned jurisdiction.\r\n* You are not acting on behalf of any person or entity that would not meet the above conditions.\r\n\r\nWe may require information and documentation to verify your eligibility and compliance with sanctions, anti-money-laundering, and other regulatory requirements. We may decline or revoke any reward if we have reason to believe that participation or payment would violate applicable law or internal compliance rules.\r\n\r\n### Lawful Conduct and Safe Harbor\r\n* You must comply with all applicable laws and regulations when performing any security research or submitting reports under this program.\r\n* You must follow the Scope, Not eligible for reward, and Safe testing rules sections of this policy at all times. In particular, you must avoid any action that:\r\n * causes actual loss of user funds or irreversible damage;\r\n * accesses, exfiltrates, or manipulates personal data of third parties;\r\n * degrades or disrupts production systems beyond what is strictly necessary for proof-of-concept;\r\n * involves social engineering, phishing, physical intrusion, or attacks against third-party services.\r\n\r\n### Safe harbor (to the extent permitted by law):\r\n* Provided that you:\r\n * act in good faith and within the in-scope targets and rules of this policy;\r\n * use non-destructive testing methods (e.g., on forked mainnet) and do not exploit a vulnerability beyond what is necessary to demonstrate impact; \r\n * promptly and confidentially disclose the vulnerability via HackenProof as described in this policy,\r\n\r\nthen Whitechain will not initiate civil action or a complaint to law enforcement against you solely on the basis of your good-faith security research under this program.\r\n\r\nThis safe harbor:\r\n* applies only to activities conducted in compliance with this policy;\r\n* does not protect you from actions by third parties (e.g. regulators, law enforcement, other affected entities); \r\n* does not constitute a waiver of any legal rights we may have in case of non-compliance, abuse, fraud, extortion, or actual harm.\r\n\r\nNothing in this policy shall be interpreted as granting you permission to act unlawfully or to breach any contractual obligations you may have with third parties.\r\n\r\n### Confidentiality and Disclosure\r\n* All information about vulnerabilities, exploits, PoC code, and related technical or business information obtained through this program is considered confidential.\r\n* You must not disclose any such information publicly, or to any third party, without our prior written consent, even after the vulnerability has been fixed, unless we explicitly approve coordinated disclosure.\r\n* You may discuss the vulnerability only with Whitechain and through the HackenProof platform as required for triage and remediation.\r\n* Premature or unauthorized public disclosure, or disclosure in a way that may harm users or the ecosystem, may result in disqualification from rewards and may limit or remove the safe harbor described above.\r\n\r\n### Intellectual Property and Use of Submissions\r\n* By submitting a report, you grant Whitechain and its affiliates a worldwide, irrevocable, non-exclusive, royalty-free, transferable license to use, reproduce, modify, and distribute the contents of the report (including PoC code, scripts, logs, and documentation) for the purposes of verifying, fixing, and communicating about the vulnerability, and improving our systems, products, and documentation.\r\n* You retain any intellectual property rights in your own original PoC code and materials, but you acknowledge that:\r\n * we may independently discover, develop, or obtain similar information; and\r\n * we may use the information in your report without attribution, beyond what we choose to provide as recognition.\r\n* Participation in this program does not give you any ownership or other rights in Whitechain\u2019s smart contracts, code, infrastructure, trademarks, or other intellectual property.\r\n\r\n### Data Protection, KYC and Privacy \r\n* We may collect and process the following categories of data in connection with the program:\r\n * HackenProof username and contact details (e.g. email); \r\n * blockchain addresses used for payouts;\r\n * technical report contents and metadata (logs, tx hashes, timestamps);\r\n * KYC / AML information (such as name, date of birth, nationality, address, identification documents, and tax identifiers) to the extent required by law, payment provider rules, or our internal compliance policies.\r\n\r\n* We process this data for the purposes of:\r\n * administering the bug bounty program;\r\n * triaging and resolving security issues;\r\n * performing KYC/AML and sanctions screening;\r\n * making and recording payments and complying with legal obligations (including accounting and regulatory reporting).\r\n\r\n* Our processing of personal data is further governed by our Privacy Policy, which applies in addition to this program. By participating, you acknowledge that you have read and understood our Privacy Policy.\r\n\r\n### Taxes and Regulatory Compliance\r\n* As stated in Section 9, you are solely responsible for any taxes, duties, or similar charges that may apply to rewards you receive, in your country of residence or any other relevant jurisdiction.\r\n* We may require you to provide tax-related information (such as invoicing details or tax identification numbers) in order to process payments.\r\n* All rewards are subject to applicable laws and regulations, including financial sanctions, anti-money-laundering and counter-terrorist-financing requirements, and any rules of the platforms or payment providers we use. We may withhold, delay, or decline payment if we reasonably believe that doing so is necessary to comply with such requirements.\r\n\r\n### No Employment or Agency Relationship\r\n* Participation in this program does not create any employment, partnership, joint venture, agency, or fiduciary relationship between you and Whitechain or any of its affiliates.\r\n* You act as an independent security researcher, and you are not authorized to represent or bind Whitechain in any way. \r\n\r\n### Priority and Relationship with Other Terms\r\n* This policy applies in addition to the HackenProof platform terms and policies. In case of conflict between this policy and HackenProof\u2019s platform terms on matters relating to the use of the platform itself, the platform terms shall prevail.\r\n* In case of conflict between different language versions of this policy (if any), the English version shall prevail.\r\n\r\n### Governing Law and Jurisdiction\r\n* This bug bounty program and any contractual or non-contractual obligations arising out of or in connection with it shall be governed by and construed in accordance with the laws of England and Wales, excluding its conflict-of-law rules.\r\n* In the event of any dispute or claim arising out of or in connection with this bug bounty program, the parties shall first seek to resolve the dispute or claim amicably through good-faith negotiations. If a dispute or claim can not be resolved by negotiations, it shall be referred to and finally resolved by arbitration under the LCIA Rules, which Rules are deemed to be incorporated by reference into this clause. The number of arbitrators shall be one (1). The seat (legal place) of arbitration shall be London, England. The language of the arbitration shall be English.\r\n* The requirement to attempt amicable settlement through negotiation is a condition precedent to the commencement of arbitration, except where a party seeks interim, conservatory, or injunctive relief.\r\n* Nothing in this clause shall prevent either party from seeking interim, conservatory or injunctive measures from the courts of England and Wales, or any other court of competent jurisdiction, in support of the arbitration.\r\n\r\n\r\n",
+   "id": "69524ecd40041c000d7815ad",
+   "position": 0,
+   "title": "Legal / disclosure terms"
+  }
+ ],
+ "scopeReview": 328449,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "10000.0",
+ "minBounty": "50.0"
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/OnlyRemoveDustExternalPositionPolicy.sol:OnlyRemoveDustExternalPositionPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x3e96363dedc1b5b2dc628399466f7d194cb97706",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "OnlyRemoveDustExternalPositionPolicy",
+ "asset_url": "https://basescan.org/address/0x3e96363dedc1b5b2dc628399466f7d194cb97706",
+ "files": 20
+}

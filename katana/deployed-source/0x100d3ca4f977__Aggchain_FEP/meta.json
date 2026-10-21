@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "PolygonTransparentProxy",
+ "compiler": "v0.8.20+commit.a1b79de6",
+ "address": "0x100d3ca4f97776a40a7d93db4abf0fea34230666",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Aggchain FEP",
+ "asset_url": "https://etherscan.io/address/0x100d3ca4f97776a40a7d93db4abf0fea34230666",
+ "files": 12
+}

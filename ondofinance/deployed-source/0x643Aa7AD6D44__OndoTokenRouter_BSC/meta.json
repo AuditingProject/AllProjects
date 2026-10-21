@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/xManager/tokenRouter/OndoTokenRouter.sol:OndoTokenRouter",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0x643Aa7AD6D443fB25745F4072B169D334a827077",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "OndoTokenRouter (BSC)",
+ "asset_url": "https://bscscan.com/address/0x643Aa7AD6D443fB25745F4072B169D334a827077",
+ "files": 19
+}

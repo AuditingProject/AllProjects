@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "modules/withdrawal-manager-cyclical/contracts/MapleWithdrawalManagerInitializer.sol:MapleWithdrawalManagerInitializer",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x485ba3f5235f150bf8e4afbd3a25c266cdadd9dd",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "WithdrawalManagerInitializer (v110) (Cyclical)",
+ "asset_url": "https://etherscan.io/address/0x485ba3f5235f150bf8e4afbd3a25c266cdadd9dd",
+ "files": 9
+}

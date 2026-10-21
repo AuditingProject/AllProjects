@@ -1,0 +1,74 @@
+[
+ {
+  "url": "https://optimistic.etherscan.io/address/0xf9cfb8a62f50e10adde5aa888b44cf01c5957055",
+  "desc": "VeloPositionManage (LYF)",
+  "status": "fetched",
+  "dir": "0xf9cfb8a62f50__VeloPositionManage_LYF",
+  "name": "VeloPositionManager",
+  "source": "blockscout:explorer.optimism.io",
+  "files": 20
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0xbb505c54d71e9e599cb8435b4f0ceec05fc71cbd",
+  "desc": "LendingPool (LYF)",
+  "status": "fetched",
+  "dir": "0xbb505c54d71e__LendingPool_LYF",
+  "name": "LendingPool",
+  "source": "blockscout:explorer.optimism.io",
+  "files": 33
+ },
+ {
+  "url": "https://optimistic.etherscan.io/token/0x2dad3a13ef0c6366220f989157009e501e7938f8",
+  "desc": "EXTRA (LYF)",
+  "status": "fetched",
+  "dir": "0x2dad3a13ef0c__EXTRA_LYF",
+  "name": "EXTRA",
+  "source": "blockscout:explorer.optimism.io",
+  "files": 6
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0xe0bec4f45aef64cec9dcb9010d4beffb13e91466",
+  "desc": "VeToken (LYF)",
+  "status": "fetched",
+  "dir": "0xe0bec4f45aef__VeToken_LYF",
+  "name": "VeToken",
+  "source": "blockscout:explorer.optimism.io",
+  "files": 1
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0x345D2827f36621b02B783f7D5004B4a2fec00186#code",
+  "desc": "Pool_Proxy (Lending Market)",
+  "status": "fetched",
+  "dir": "0x345D2827f366__Pool_Proxy_Lending_Market",
+  "name": "InitializableImmutableAdminUpgradeabilityProxy",
+  "source": "blockscout:explorer.optimism.io",
+  "files": 6
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0x0353b6221b23b8320202320ca450eeb9fb0de9e5#code",
+  "desc": "Pool_Impl (Lending Market)",
+  "status": "fetched",
+  "dir": "0x0353b6221b23__Pool_Impl_Lending_Market",
+  "name": "Pool",
+  "source": "blockscout:explorer.optimism.io",
+  "files": 46
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0x2B275176804dd01b6a90d61bDa3c80E3A470662E#code",
+  "desc": "A_Token (Lending Market)",
+  "status": "fetched",
+  "dir": "0x2B275176804d__A_Token_Lending_Market",
+  "name": "AToken",
+  "source": "blockscout:explorer.optimism.io",
+  "files": 21
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0xC0C88d2752C58263c2b7F4Ac6ecBedC78eDD5d5E#code",
+  "desc": "Debt_Token (Lending Market)",
+  "status": "fetched",
+  "dir": "0xC0C88d2752C5__Debt_Token_Lending_Market",
+  "name": "VariableDebtToken",
+  "source": "blockscout:explorer.optimism.io",
+  "files": 22
+ }
+]

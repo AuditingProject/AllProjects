@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OndoRateLimiter",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x98Db502215Da1ad9F626D4a0090A8A2f4971003c",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoRateLimiter",
+ "asset_url": "https://etherscan.io/address/0x98Db502215Da1ad9F626D4a0090A8A2f4971003c",
+ "files": 11
+}

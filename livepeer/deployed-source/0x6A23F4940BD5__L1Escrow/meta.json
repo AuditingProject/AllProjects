@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "L1Escrow",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x6A23F4940BD5BA117Da261f98aae51A8BFfa210A",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "L1Escrow",
+ "asset_url": "https://etherscan.io/address/0x6A23F4940BD5BA117Da261f98aae51A8BFfa210A#code",
+ "files": 7
+}

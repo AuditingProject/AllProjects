@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP3YCQZYWQR0CA6TT35301B28DV9D926VBZBBJWR7.market-trait",
+ "compiler": "clarity4",
+ "address": "0x12f3fa6b08d34737610d43a3a1d6b5662a89076f04224c0691ad151f4d8b2e31",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Smart Contract - market-trait",
+ "asset_url": "https://explorer.hiro.so/txid/0x12f3fa6b08d34737610d43a3a1d6b5662a89076f04224c0691ad151f4d8b2e31?chain=mainnet",
+ "files": 1
+}

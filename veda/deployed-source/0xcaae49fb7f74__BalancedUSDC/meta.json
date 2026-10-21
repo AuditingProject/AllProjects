@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.inkonchain.com",
+ "match": "verified",
+ "name": "BoringVault",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0xcaae49fb7f74cCFBE8A05E6104b01c097a78789f",
+ "chain": 57073,
+ "explorer_host": "explorer.inkonchain.com",
+ "asset_description": "BalancedUSDC",
+ "asset_url": "https://explorer.inkonchain.com/address/0xcaae49fb7f74cCFBE8A05E6104b01c097a78789f",
+ "files": 13
+}

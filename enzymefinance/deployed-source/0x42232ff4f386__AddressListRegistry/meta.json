@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/address-list-registry/AddressListRegistry.sol:AddressListRegistry",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x42232ff4f38639ed942e0c76723e76e1a0588899",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "AddressListRegistry",
+ "asset_url": "https://basescan.org/address/0x42232ff4f38639ed942e0c76723e76e1a0588899",
+ "files": 3
+}

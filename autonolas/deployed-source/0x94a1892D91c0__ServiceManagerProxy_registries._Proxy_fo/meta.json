@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ServiceManagerProxy",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x94a1892D91c05D0C61c3f49F42205D2285b914c9",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ServiceManagerProxy \u2014 registries. Proxy for ServiceManager. Deployed on: Ethereum 0x94a1892D91c05D0C61c3f49F42205D2285b914c9; Polygon 0xE3e5Df46060370af5Fd37B2aA11e7dac3cCB4bd0; Gnosis 0x068a4f0946cF8c7f9C1B58a3b5243Ac8843bf473; Arbitrum 0xD421f433e36465B3e558B1121F584ac09Fc33DF8; Optimism 0xA5C7FbCCFf28441b7d250412b0Fb87AA1c8b14AD; Base 0x1262136cac6a06A782DC94eb3a3dF0b4d09FF6A6; Celo 0x84B4DA67B37B1EA1dea9c7044042C1d2297b80a0; Mode 0xcDdD9D9ABaB36fFa882530D69c73FeE5D4001C2d.",
+ "asset_url": "https://etherscan.io/address/0x94a1892D91c05D0C61c3f49F42205D2285b914c9#code",
+ "files": 1
+}

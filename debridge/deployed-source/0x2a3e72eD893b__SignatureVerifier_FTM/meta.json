@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/transfers/SignatureVerifier.sol:SignatureVerifier",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x2a3e72eD893b5958690e16c3BBe1BD92137b6250",
+ "chain": 250,
+ "explorer_host": "ftmscan.com",
+ "asset_description": "SignatureVerifier FTM",
+ "asset_url": "https://ftmscan.com/address/0x2a3e72eD893b5958690e16c3BBe1BD92137b6250",
+ "files": 12
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/infrastructure/price-feeds/derivatives/feeds/PeggedDerivativesPriceFeed.sol:PeggedDerivativesPriceFeed",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xBfA1027Ef1da99C17358CB4719A2297D67fCC5b1",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "PeggedDerivativesPriceFeed",
+ "asset_url": "https://polygonscan.com/address/0xBfA1027Ef1da99C17358CB4719A2297D67fCC5b1",
+ "files": 10
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/Proxy.sol:TokenProxy",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x35e050d3C0eC2d29D269a8EcEa763a183bDF9A9D",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "USDY Token (Arbitrum)",
+ "asset_url": "https://arbiscan.io/address/0x35e050d3C0eC2d29D269a8EcEa763a183bDF9A9D",
+ "files": 9
+}

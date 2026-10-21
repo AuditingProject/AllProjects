@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/persistent/address-list-registry/AddressListRegistry.sol:AddressListRegistry",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x5ae15bf655a8f42b9c7d93e64f4476ec1da248f8",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "AddressListRegistry",
+ "asset_url": "https://polygonscan.com/address/0x5ae15bf655a8f42b9c7d93e64f4476ec1da248f8",
+ "files": 2
+}

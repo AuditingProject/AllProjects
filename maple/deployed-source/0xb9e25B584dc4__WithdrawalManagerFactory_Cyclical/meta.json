@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "modules/withdrawal-manager/contracts/WithdrawalManagerFactory.sol:WithdrawalManagerFactory",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xb9e25B584dc4a7C9d47aEF577f111fBE5705773B",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "WithdrawalManagerFactory (Cyclical)",
+ "asset_url": "https://etherscan.io/address/0xb9e25B584dc4a7C9d47aEF577f111fBE5705773B",
+ "files": 11
+}

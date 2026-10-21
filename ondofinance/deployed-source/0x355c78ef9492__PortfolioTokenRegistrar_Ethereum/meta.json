@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/portfolioToken/portfolioTokenFactory/registrars/PortfolioTokenRegistrar.sol:PortfolioTokenRegistrar",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0x355c78ef949270A32e31174C057562F7469fE831",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PortfolioTokenRegistrar (Ethereum)",
+ "asset_url": "https://etherscan.io/address/0x355c78ef949270A32e31174C057562F7469fE831",
+ "files": 15
+}

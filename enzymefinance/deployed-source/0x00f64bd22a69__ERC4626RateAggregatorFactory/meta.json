@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ERC4626RateAggregatorFactory",
+ "compiler": "v0.8.19+commit.7dd6d404",
+ "address": "0x00f64bd22a69f429632e1469c9c812e9f70e4f11",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ERC4626RateAggregatorFactory",
+ "asset_url": "https://etherscan.io/address/0x00f64bd22a69f429632e1469c9c812e9f70e4f11",
+ "files": 8
+}

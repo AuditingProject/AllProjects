@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/current-shareholders/AllowedRedeemersForSpecificAssetsPolicy.sol:AllowedRedeemersForSpecificAssetsPolicy",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xe7bf2797190fe8c8cf1618bcc348a2ece2bacef4",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "AllowedRedeemersForSpecificAssetsPolicy",
+ "asset_url": "https://basescan.org/address/0xe7bf2797190fe8c8cf1618bcc348a2ece2bacef4",
+ "files": 12
+}

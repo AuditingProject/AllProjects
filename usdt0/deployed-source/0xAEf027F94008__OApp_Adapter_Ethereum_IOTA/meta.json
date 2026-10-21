@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.10+commit.fc410830",
+ "address": "0xAEf027F94008430BF4Fc27FFABB49ea6F1dd3414",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OApp Adapter Ethereum (IOTA)",
+ "asset_url": "https://etherscan.io/address/0xAEf027F94008430BF4Fc27FFABB49ea6F1dd3414",
+ "files": 16
+}

@@ -1,0 +1,452 @@
+[
+ {
+  "url": "https://tronscan.org/#/contract/TGjYzgCyPobsNS9n6WcbdLVR9dH7mWqFx7/code",
+  "desc": "Unitroller",
+  "status": "metadata-only",
+  "dir": "TGjYzgCyPobsNS__Unitroller",
+  "name": "Unitroller",
+  "source": "tronscan",
+  "files": 0
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TCtzg2CQsAuLkSxrGjFGbHVwKvv95W9C8e/code",
+  "desc": "Comptroller",
+  "status": "metadata-only",
+  "dir": "TCtzg2CQsAuLkS__Comptroller",
+  "name": "Comptroller",
+  "source": "tronscan",
+  "files": 0
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TEqiF5JbhDPD77yjEfnEMncGRZNDt2uogD/code",
+  "desc": "GovernorBravoDelegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TEqiF5JbhDPD77yjEfnEMncGRZNDt2uogD"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TRWNvb15NmfNKNLhQpxefFz7cNjrYjEw7x/code",
+  "desc": "Timelock",
+  "status": "metadata-only",
+  "dir": "TRWNvb15NmfNKN__Timelock",
+  "name": "Timelock",
+  "source": "tronscan",
+  "files": 0
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TXk9LnTnLN7oH96H3sKxJayMxLxR9M4ZD6/code",
+  "desc": "WJST",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TXk9LnTnLN7oH96H3sKxJayMxLxR9M4ZD6"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TTetZxp98wcPaciyBMHYvQkS735RZ3tyXY/code",
+  "desc": "jumpRateUSDT",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TTetZxp98wcPaciyBMHYvQkS735RZ3tyXY"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TLScd7kpWnKADtH7ZXKzrJHAxJUnjiiExq/code",
+  "desc": "jumpRateUSDJ",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TLScd7kpWnKADtH7ZXKzrJHAxJUnjiiExq"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TK7WVRz34wUVRCpsgbW1wUCPmh5bSnCqg1/code",
+  "desc": "jumpRateSUN",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TK7WVRz34wUVRCpsgbW1wUCPmh5bSnCqg1"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TBtChPo34CGJkb1QVEwPhxS8HQE2Xp7ir2/code",
+  "desc": "jumpRateWIN",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TBtChPo34CGJkb1QVEwPhxS8HQE2Xp7ir2"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TMNXjQTa8x4wNHBa3X647KRnkRQpSuXBRT/code",
+  "desc": "jumpRateJST",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TMNXjQTa8x4wNHBa3X647KRnkRQpSuXBRT"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TJAfCJdJZa44pG5adQGLMLh27hJqPeLxod/code",
+  "desc": "jumpRateWBTT",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TJAfCJdJZa44pG5adQGLMLh27hJqPeLxod"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TBE9tkWYdZPEHLNeKC6Xn44YFLpieiM3xq/code",
+  "desc": "jumpRateNFT",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TBE9tkWYdZPEHLNeKC6Xn44YFLpieiM3xq"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TF8B4iysAGfrssdQhMJGYsdd9SZoxGsH7M/code",
+  "desc": "WhitePaperModelTRX",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TF8B4iysAGfrssdQhMJGYsdd9SZoxGsH7M"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TYJi9q4qLQWoBiKmMQY3Mn81tmhw7SeCmh/code",
+  "desc": "WhitePaperModelBTC",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TYJi9q4qLQWoBiKmMQY3Mn81tmhw7SeCmh"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TE2RzoSV3wFK99w6J9UnnZ4vLfXYoxvRwP/code",
+  "desc": "TRX CEther",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TE2RzoSV3wFK99w6J9UnnZ4vLfXYoxvRwP"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TLjn59xNM7VEK6VZ3VQ8Y1ipxsdsFka5wZ/code",
+  "desc": "USDT CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TLjn59xNM7VEK6VZ3VQ8Y1ipxsdsFka5wZ"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TXJgMdjVX5dKiQaUi9QobwNxtSQaFqccvd/code",
+  "desc": "USDT CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TXJgMdjVX5dKiQaUi9QobwNxtSQaFqccvd"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TYSHTEq9NFSgst94saeRvt6rAYgWkqMFbj/code",
+  "desc": "USDJ CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TYSHTEq9NFSgst94saeRvt6rAYgWkqMFbj"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TL5x9MtSnDy537FXKx53yAaHRRNdg9TkkA/code",
+  "desc": "USDJ CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TL5x9MtSnDy537FXKx53yAaHRRNdg9TkkA"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TSCpzKvJfXHj1HW5jKg9dZA8z9aMxxGLd8/code",
+  "desc": "SUNOLD CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TSCpzKvJfXHj1HW5jKg9dZA8z9aMxxGLd8"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TGBr8uh9jBVHJhhkwSJvQN2ZAKzVkxDmno/code",
+  "desc": "SUNOLD CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TGBr8uh9jBVHJhhkwSJvQN2ZAKzVkxDmno"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TW3GyD3hYkKwzSGytWwWGXpe2a93zCpRzJ/code",
+  "desc": "WIN CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TW3GyD3hYkKwzSGytWwWGXpe2a93zCpRzJ"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TRg6MnpsFXc82ymUPgf5qbj59ibxiEDWvv/code",
+  "desc": "WIN CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TRg6MnpsFXc82ymUPgf5qbj59ibxiEDWvv"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TVsKSRgRoMcCp798qqRGesXRfzy2MzRjkR/code",
+  "desc": "BTC CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TVsKSRgRoMcCp798qqRGesXRfzy2MzRjkR"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TQ2sbnmxtR7jrNk4nxz2A8f9sneCqmk6SB/code",
+  "desc": "JST CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TQ2sbnmxtR7jrNk4nxz2A8f9sneCqmk6SB"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TWQhCXaWz4eHK4Kd1ErSDHjMFPoPc9czts/code",
+  "desc": "JST CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TWQhCXaWz4eHK4Kd1ErSDHjMFPoPc9czts"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TLkUdtDBLMfJdXni2iTa4u2DKM53XmDJHi/code",
+  "desc": "NFT CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TLkUdtDBLMfJdXni2iTa4u2DKM53XmDJHi"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TFpPyDCKvNFgos3g3WVsAqMrdqhB81JXHE/code",
+  "desc": "NFT CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TFpPyDCKvNFgos3g3WVsAqMrdqhB81JXHE"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TPXDpkg9e3eZzxqxAUyke9S4z4pGJBJw9e/code",
+  "desc": "SUN CErc20Delegator",
+  "status": "metadata-only",
+  "dir": "TPXDpkg9e3eZzx__SUN_CErc20Delegator",
+  "name": "CErc20Delegator",
+  "source": "tronscan",
+  "files": 0
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TM82erAZJSP7NKc17JdTnzVC8WKJHismWB/code",
+  "desc": "SUN CErc20Delegate",
+  "status": "metadata-only",
+  "dir": "TM82erAZJSP7NK__SUN_CErc20Delegate",
+  "name": "CErc20Delegate",
+  "source": "tronscan",
+  "files": 0
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TSXv71Fy5XdL3Rh2QfBoUu3NAaM4sMif8R/code",
+  "desc": "TUSD CErc20Delegator",
+  "status": "metadata-only",
+  "dir": "TSXv71Fy5XdL3R__TUSD_CErc20Delegator",
+  "name": "CErc20Delegator",
+  "source": "tronscan",
+  "files": 0
+ },
+ {
+  "url": "https://tronscan.org/#/contract/THbrSjDsDA2KJRxx8K73tN7vLgaXSUNQFk/code",
+  "desc": "TUSD CErc20Delegate",
+  "status": "metadata-only",
+  "dir": "THbrSjDsDA2KJR__TUSD_CErc20Delegate",
+  "name": "CErc20Delegate",
+  "source": "tronscan",
+  "files": 0
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TNSBA6KvSvMoTqQcEgpVK7VhHT3z7wifxy/code",
+  "desc": "USDCOLD CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TNSBA6KvSvMoTqQcEgpVK7VhHT3z7wifxy"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/THQY8YX19jLFSFg1xhthM5wb7xZvKLCzgq/code",
+  "desc": "USDCOLD CErc20Delegate",
+  "status": "metadata-only",
+  "dir": "THQY8YX19jLFSF__USDCOLD_CErc20Delegate",
+  "name": "CErc20Delegate",
+  "source": "tronscan",
+  "files": 0
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TR7BUFRQeq1w5jAZf1FKx85SHuX6PfMqsV/code",
+  "desc": "ETH CErc20Delegator",
+  "status": "metadata-only",
+  "dir": "TR7BUFRQeq1w5j__ETH_CErc20Delegator",
+  "name": "CErc20Delegator",
+  "source": "tronscan",
+  "files": 0
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TQBvTVisiceDvsQVbLbcYyWQGWP7wtaQnc/code",
+  "desc": "ETH CErc20Delegate",
+  "status": "metadata-only",
+  "dir": "TQBvTVisiceDvs__ETH_CErc20Delegate",
+  "name": "CErc20Delegate",
+  "source": "tronscan",
+  "files": 0
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TX7kybeP6UwTBRHLNPYmswFESHfyjm9bAS/code",
+  "desc": "USDDOLD CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TX7kybeP6UwTBRHLNPYmswFESHfyjm9bAS"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TFdTqrMyb6PMMqTa9vnhmQHDFDU2oUhw9W/code",
+  "desc": "USDDOLD CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TFdTqrMyb6PMMqTa9vnhmQHDFDU2oUhw9W"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TD8bq1aFY8yc9nsD2rfqqJGDtkh7aPpEpr/code",
+  "desc": "Oracle PriceOracle",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TD8bq1aFY8yc9nsD2rfqqJGDtkh7aPpEpr"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TCKp2AzuhzV4B4Ahx1ej4mvQgHZ1kH7F7k/code",
+  "desc": "Oracle proxy PriceOracleProxy",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TCKp2AzuhzV4B4Ahx1ej4mvQgHZ1kH7F7k"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TCiQTkxhzwSeXhRsNdHCvrxHRAvpjQn5Dt/code",
+  "desc": "GovernorBravoDelegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TCiQTkxhzwSeXhRsNdHCvrxHRAvpjQn5Dt"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TWBxQMb6RD3qmkXUXpNwVCYbL8SHNreru6/code",
+  "desc": "ETHB CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TWBxQMb6RD3qmkXUXpNwVCYbL8SHNreru6"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TVyvpmaVmz25z2GaXBDDjzLZi5iR5dBzGd/code",
+  "desc": "WBTC CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TVyvpmaVmz25z2GaXBDDjzLZi5iR5dBzGd"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TUx4cV8FQNR5W4FhtF7mHZwaJMoco2464o/code",
+  "desc": "wstUSDT CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TUx4cV8FQNR5W4FhtF7mHZwaJMoco2464o"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TUaUHU9Dy8x5yNi1pKnFYqHWojot61Jfto/code",
+  "desc": "BTT CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TUaUHU9Dy8x5yNi1pKnFYqHWojot61Jfto"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TS9fVh58y2RMDnpucGXkbfZhAJxmGafGqe/code",
+  "desc": "ETHB CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TS9fVh58y2RMDnpucGXkbfZhAJxmGafGqe"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TRo2exz6ZHn6W3Ey3G93FnzhWvjLPUcR2B/code",
+  "desc": "USD1 CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TRo2exz6ZHn6W3Ey3G93FnzhWvjLPUcR2B"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TLrEfG4QCbax8MTYgZzmjj4gE8RPVNvUn4/code",
+  "desc": "USDD CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TLrEfG4QCbax8MTYgZzmjj4gE8RPVNvUn4"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TKFRELGGoRgiayhwJTNNLqCNjFoLBh3Mnf/code",
+  "desc": "USDD CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TKFRELGGoRgiayhwJTNNLqCNjFoLBh3Mnf"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TJQ9rbVe9ei3nNtyGgBL22Fuu2xYjZaLAQ/code",
+  "desc": "sTRX CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TJQ9rbVe9ei3nNtyGgBL22Fuu2xYjZaLAQ"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TH3x5EqLnPduHNX41MaCCb2UfnfFMLuYwe/code",
+  "desc": "BTT CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TH3x5EqLnPduHNX41MaCCb2UfnfFMLuYwe"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TDwUJqxB1962DSfKHWMnEu1sWMGGRvHDB5/code",
+  "desc": "WBTC CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TDwUJqxB1962DSfKHWMnEu1sWMGGRvHDB5"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TD5SdLw5scR6mXgyMK2xKrFJpauDjpKqrW/code",
+  "desc": "wstUSDT CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TD5SdLw5scR6mXgyMK2xKrFJpauDjpKqrW"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TCyNbCipGbAybb8rG4aatEoEnfuYpVYCPP/code",
+  "desc": "sTRX CErc20Delegate",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TCyNbCipGbAybb8rG4aatEoEnfuYpVYCPP"
+ },
+ {
+  "url": "https://tronscan.org/#/contract/TBEKggwqFkrc4KckQVR9BLucAmQugafEZf/code",
+  "desc": "USD1 CErc20Delegator",
+  "status": "no-verified-source",
+  "host": "tronscan.org",
+  "chain": 728126428,
+  "address": "TBEKggwqFkrc4KckQVR9BLucAmQugafEZf"
+ }
+]

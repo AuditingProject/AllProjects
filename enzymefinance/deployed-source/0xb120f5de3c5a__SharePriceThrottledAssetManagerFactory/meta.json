@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/smart-accounts/share-price-throttled-asset-manager/SharePriceThrottledAssetManagerFactory.sol:SharePriceThrottledAssetManagerFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xb120f5de3c5afd8ddefc938f46a5821980e35d66",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "SharePriceThrottledAssetManagerFactory",
+ "asset_url": "https://basescan.org/address/0xb120f5de3c5afd8ddefc938f46a5821980e35d66",
+ "files": 3
+}

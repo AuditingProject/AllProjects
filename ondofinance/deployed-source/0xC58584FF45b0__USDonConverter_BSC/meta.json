@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "USDonConverter.sol:USDonConverter",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xC58584FF45b06822f49Ec8871BA8af9B8943A689",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "USDonConverter (BSC)",
+ "asset_url": "https://bscscan.com/address/0xC58584FF45b06822f49Ec8871BA8af9B8943A689",
+ "files": 1
+}

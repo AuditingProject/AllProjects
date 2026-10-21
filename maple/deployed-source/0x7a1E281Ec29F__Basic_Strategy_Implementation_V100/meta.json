@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/MapleBasicStrategy.sol:MapleBasicStrategy",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x7a1E281Ec29F3A861f211a28a23161762BD55B73",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Basic Strategy Implementation (V100)",
+ "asset_url": "https://etherscan.io/address/0x7a1E281Ec29F3A861f211a28a23161762BD55B73",
+ "files": 14
+}

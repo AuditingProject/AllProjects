@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0xB80A582fa430645A043bB4f6135321ee01005fEf",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "BSC Bridge",
+ "asset_url": "https://bscscan.com/address/0xB80A582fa430645A043bB4f6135321ee01005fEf#code",
+ "files": 15
+}

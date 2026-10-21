@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/protocol-fee-reserve/ProtocolFeeReserveLib.sol:ProtocolFeeReserveLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x642986a6bc5ec518cfb97d8afa5a7fa8477d3cf5",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ProtocolFeeReserveLib",
+ "asset_url": "https://arbiscan.io/address/0x642986a6bc5ec518cfb97d8afa5a7fa8477d3cf5",
+ "files": 8
+}

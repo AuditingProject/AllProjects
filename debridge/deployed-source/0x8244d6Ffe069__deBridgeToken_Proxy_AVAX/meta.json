@@ -1,0 +1,12 @@
+{
+ "source": "routescan",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.2+commit.661d1103",
+ "address": "0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+ "chain": 43114,
+ "explorer_host": "snowtrace.io",
+ "asset_description": "deBridgeToken Proxy AVAX",
+ "asset_url": "https://snowtrace.io/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+ "files": 1
+}

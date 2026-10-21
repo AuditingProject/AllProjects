@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/utils/0.8.19/dispatcher-owned-beacon/DispatcherOwnedBeaconFactory.sol:DispatcherOwnedBeaconFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xb49f8c0ce9df900e024dab48952bb8a8992c1795",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "DispatcherOwnedBeaconFactory (AaveV3FlashLoanAssetManagerLib)",
+ "asset_url": "https://arbiscan.io/address/0xb49f8c0ce9df900e024dab48952bb8a8992c1795",
+ "files": 12
+}

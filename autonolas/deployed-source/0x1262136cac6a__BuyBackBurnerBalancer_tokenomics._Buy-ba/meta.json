@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/utils/BuyBackBurnerBalancer.sol:BuyBackBurnerBalancer",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x1262136cac6a06A782DC94eb3a3dF0b4d09FF6A6",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "BuyBackBurnerBalancer \u2014 tokenomics. Buy-back-and-burn (Balancer variant) implementation. Deployed on: Polygon 0x1262136cac6a06A782DC94eb3a3dF0b4d09FF6A6; Gnosis 0xa343F8956A039beDdEAcBA4B64A7d36d4784648f; Arbitrum 0xE3e5Df46060370af5Fd37B2aA11e7dac3cCB4bd0; Optimism 0x7F69B6783855772d10A4bc2AFAaE650599F040DB; Base 0x7db6bb33bc6E39cCC4E6a213e8D4D953f6aB1E58.",
+ "asset_url": "https://polygonscan.com/address/0x1262136cac6a06A782DC94eb3a3dF0b4d09FF6A6#code",
+ "files": 5
+}

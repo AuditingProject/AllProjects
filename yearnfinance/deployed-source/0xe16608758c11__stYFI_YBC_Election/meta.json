@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "YBC_Membership_Election.vy:YBC_Membership_Election",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0xe16608758c11322d407745927d2D033f1BFB206C",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI YBC Election",
+ "asset_url": "https://etherscan.io/address/0xe16608758c11322d407745927d2D033f1BFB206C",
+ "files": 1
+}

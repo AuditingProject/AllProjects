@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/Provisioner.sol:Provisioner",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0xCC923371F0d3A9cA75d98E767Df9dE1cdf5799Ef",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "gtUSDa (Optimism) - Provisioner",
+ "asset_url": "https://optimistic.etherscan.io/address/0xCC923371F0d3A9cA75d98E767Df9dE1cdf5799Ef",
+ "files": 28
+}

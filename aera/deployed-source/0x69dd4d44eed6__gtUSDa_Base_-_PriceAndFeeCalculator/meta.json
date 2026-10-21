@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/PriceAndFeeCalculator.sol:PriceAndFeeCalculator",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0x69dd4d44eed6bbc33b8a0bdfe17897ab9044372e",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "gtUSDa (Base) - PriceAndFeeCalculator",
+ "asset_url": "https://basescan.org/address/0x69dd4d44eed6bbc33b8a0bdfe17897ab9044372e",
+ "files": 22
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/USDonManager/USDonManager.sol:USDonManager",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x05CCbB4b74854f8A067b83475E8c34f5a413D7e1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "USDonManager",
+ "asset_url": "https://etherscan.io/address/0x05CCbB4b74854f8A067b83475E8c34f5a413D7e1",
+ "files": 47
+}

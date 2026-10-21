@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.optimism.io",
+ "match": "verified",
+ "name": "InitializableImmutableAdminUpgradeabilityProxy",
+ "compiler": "0.8.24+commit.e11b9ed9",
+ "address": "0x345D2827f36621b02B783f7D5004B4a2fec00186",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "Pool_Proxy (Lending Market)",
+ "asset_url": "https://optimistic.etherscan.io/address/0x345D2827f36621b02B783f7D5004B4a2fec00186#code",
+ "files": 6
+}

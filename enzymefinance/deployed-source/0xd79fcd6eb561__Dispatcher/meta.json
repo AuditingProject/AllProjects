@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/dispatcher/Dispatcher.sol:Dispatcher",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xd79fcd6eb56115f9757ec4c90fc2c5d143f83c16",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "Dispatcher",
+ "asset_url": "https://basescan.org/address/0xd79fcd6eb56115f9757ec4c90fc2c5d143f83c16",
+ "files": 12
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/L2/gateway/L2LPTDataCache.sol:L2LPTDataCache",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xd78b6bD09cd28A83cFb21aFa0DA95c685A6bb0B1",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "L2LPTDataCache",
+ "asset_url": "https://arbiscan.io/address/0xd78b6bD09cd28A83cFb21aFa0DA95c685A6bb0B1#code",
+ "files": 5
+}

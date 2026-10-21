@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OndoPriceOracleV2",
+ "compiler": "v0.8.16+commit.07a7930e",
+ "address": "0xba9b10f90b0ef26711373a0d8b6e7741866a7ef2",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoPriceOracle V2",
+ "asset_url": "https://etherscan.io/address/0xba9b10f90b0ef26711373a0d8b6e7741866a7ef2",
+ "files": 5
+}

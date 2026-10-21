@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/legacy/L1ChugSplashProxy.sol:L1ChugSplashProxy",
+ "compiler": "0.8.15+commit.e14f2714",
+ "address": "0x4082C9647c098a6493fb499EaE63b5ce3259c574",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Aevo Deposit Contract Ethereum",
+ "asset_url": "https://etherscan.io/address/0x4082C9647c098a6493fb499EaE63b5ce3259c574",
+ "files": 20
+}

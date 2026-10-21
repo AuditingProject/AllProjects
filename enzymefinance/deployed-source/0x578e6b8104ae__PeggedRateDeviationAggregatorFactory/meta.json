@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/infrastructure/price-feeds/primitives/factories/PeggedRateDeviationAggregatorFactory.sol:PeggedRateDeviationAggregatorFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x578e6b8104ae0409821f5cdb531f86080d968f49",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "PeggedRateDeviationAggregatorFactory",
+ "asset_url": "https://basescan.org/address/0x578e6b8104ae0409821f5cdb531f86080d968f49",
+ "files": 7
+}

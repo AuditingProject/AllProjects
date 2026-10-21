@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/external-position-manager/ExternalPositionManager.sol:ExternalPositionManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x90b53aefdbd2ba3573d965d2d98951f2aa00507d",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ExternalPositionManager",
+ "asset_url": "https://arbiscan.io/address/0x90b53aefdbd2ba3573d965d2d98951f2aa00507d",
+ "files": 19
+}

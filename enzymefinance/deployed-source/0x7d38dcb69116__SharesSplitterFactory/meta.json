@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/shares-splitter/SharesSplitterFactory.sol:SharesSplitterFactory",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x7d38dcb69116a73ab20aff04b41c22db37b431ad",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "SharesSplitterFactory",
+ "asset_url": "https://basescan.org/address/0x7d38dcb69116a73ab20aff04b41c22db37b431ad",
+ "files": 12
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/cash/kyc/KYCRegistry.sol:KYCRegistry",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x7cd852c0d7613aa869e632929560f310d4059ac1",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "KYCRegistry (Polygon)",
+ "asset_url": "https://polygonscan.com/address/0x7cd852c0d7613aa869e632929560f310d4059ac1",
+ "files": 14
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/DeltaSwapFactory.sol:DeltaSwapFactory",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xCb85E1222f715a81b8edaeB73b28182fa37cffA8",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "DeltaSwapFactory",
+ "asset_url": "https://arbiscan.io/address/0xCb85E1222f715a81b8edaeB73b28182fa37cffA8#code",
+ "files": 13
+}

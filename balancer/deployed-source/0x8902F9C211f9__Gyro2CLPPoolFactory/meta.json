@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Gyro2CLPPoolFactory",
+ "compiler": "v0.8.27+commit.40a35a09",
+ "address": "0x8902F9C211f91c84Da2076f633873F8266dCECC6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Gyro2CLPPoolFactory",
+ "asset_url": "https://etherscan.io/address/0x8902F9C211f91c84Da2076f633873F8266dCECC6#code",
+ "files": 64
+}

@@ -1,0 +1,245 @@
+[
+ {
+  "url": "https://arbiscan.io/address/0xFD513630F697A9C1731F196185fb9ebA6eAAc20B#code",
+  "desc": "GammaPoolFactory",
+  "status": "fetched",
+  "dir": "0xFD513630F697__GammaPoolFactory",
+  "name": "@gammaswap/v1-core/contracts/GammaPoolFactory.sol:GammaPoolFactory",
+  "source": "sourcify",
+  "files": 19
+ },
+ {
+  "url": "https://arbiscan.io/address/0xCb85E1222f715a81b8edaeB73b28182fa37cffA8#code",
+  "desc": "DeltaSwapFactory",
+  "status": "fetched",
+  "dir": "0xCb85E1222f71__DeltaSwapFactory",
+  "name": "contracts/DeltaSwapFactory.sol:DeltaSwapFactory",
+  "source": "sourcify",
+  "files": 13
+ },
+ {
+  "url": "https://arbiscan.io/address/0x5FbE219e88f6c6F214Ce6f5B1fcAa0294F31aE1b#code",
+  "desc": "DeltaSwapRouter02",
+  "status": "fetched",
+  "dir": "0x5FbE219e88f6__DeltaSwapRouter02",
+  "name": "contracts/DeltaSwapRouter02.sol:DeltaSwapRouter02",
+  "source": "sourcify",
+  "files": 12
+ },
+ {
+  "url": "https://arbiscan.io/address/0x755F72D7F22eFaeD6E00E589a8C7bD95A666fEF0#code",
+  "desc": "DeltaSwapPair",
+  "status": "fetched",
+  "dir": "0x755F72D7F22e__DeltaSwapPair",
+  "name": "contracts/DeltaSwapPair.sol:DeltaSwapPair",
+  "source": "sourcify",
+  "files": 9
+ },
+ {
+  "url": "https://arbiscan.io/address/0x63c531ffed7e17f8adca4ed490837838f6fa1b66#code",
+  "desc": "MinimalBeaconProxy",
+  "status": "fetched",
+  "dir": "0x63c531ffed7e__MinimalBeaconProxy",
+  "name": "MinimalBeaconProxy.sol:MinimalBeaconProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://arbiscan.io/address/0xad64702F5556Bf897d4BA30Cc8e6e54891095cCC#code",
+  "desc": "LockableMinimalBeacon",
+  "status": "fetched",
+  "dir": "0xad64702F5556__LockableMinimalBeacon",
+  "name": "contracts/utils/LockableMinimalBeacon.sol:LockableMinimalBeacon",
+  "source": "sourcify",
+  "files": 2
+ },
+ {
+  "url": "https://arbiscan.io/address/0xc58221784f53b09f5ca2fa2d575e7a0f9af24ae4#code",
+  "desc": "StakingRouter",
+  "status": "fetched",
+  "dir": "0xc58221784f53__StakingRouter",
+  "name": "@gammaswap/v1-staking/contracts/StakingRouter.sol:StakingRouter",
+  "source": "sourcify",
+  "files": 26
+ },
+ {
+  "url": "https://arbiscan.io/address/0xd04FBe195Be1313fc816D59E3c457eb6e0aD4088#code",
+  "desc": "RewardTracker",
+  "status": "fetched",
+  "dir": "0xd04FBe195Be1__RewardTracker",
+  "name": "@gammaswap/v1-staking/contracts/RewardTracker.sol:RewardTracker",
+  "source": "sourcify",
+  "files": 13
+ },
+ {
+  "url": "https://arbiscan.io/address/0x57e4Cc794949FaA564521352f816dd13B14227C8#code",
+  "desc": "RewardDistributor",
+  "status": "fetched",
+  "dir": "0x57e4Cc794949__RewardDistributor",
+  "name": "@gammaswap/v1-staking/contracts/RewardDistributor.sol:RewardDistributor",
+  "source": "sourcify",
+  "files": 12
+ },
+ {
+  "url": "https://arbiscan.io/address/0xC4993bf95fB30E5930C7Dc73604829993bb51243#code",
+  "desc": "Vester",
+  "status": "fetched",
+  "dir": "0xC4993bf95fB3__Vester",
+  "name": "@gammaswap/v1-staking/contracts/Vester.sol:Vester",
+  "source": "sourcify",
+  "files": 14
+ },
+ {
+  "url": "https://arbiscan.io/address/0x3dc7860deba77aa3a49b4d65c056156012067477#code",
+  "desc": "BeaconProxyFactory",
+  "status": "fetched",
+  "dir": "0x3dc7860deba7__BeaconProxyFactory",
+  "name": "@gammaswap/v1-staking/contracts/BeaconProxyFactory.sol:BeaconProxyFactory",
+  "source": "sourcify",
+  "files": 13
+ },
+ {
+  "url": "https://arbiscan.io/address/0x878269d2ee6417edcdc030961618cc5259229367#code",
+  "desc": "BonusDistributor",
+  "status": "fetched",
+  "dir": "0x878269d2ee64__BonusDistributor",
+  "name": "@gammaswap/v1-staking/contracts/BonusDistributor.sol:BonusDistributor",
+  "source": "sourcify",
+  "files": 14
+ },
+ {
+  "url": "https://arbiscan.io/address/0xc964d02f1c11e1bb1156e7c270687d6080661e9c#code",
+  "desc": "FeeTracker",
+  "status": "fetched",
+  "dir": "0xc964d02f1c11__FeeTracker",
+  "name": "@gammaswap/v1-staking/contracts/FeeTracker.sol:FeeTracker",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://arbiscan.io/address/0xb08d8becab1bf76a9ce3d2d5fa946f65ec1d3e83#code",
+  "desc": "GSTimelockController",
+  "status": "fetched",
+  "dir": "0xb08d8becab1b__GSTimelockController",
+  "name": "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 8
+ },
+ {
+  "url": "https://arbiscan.io/address/0x3f7cf127bf565d3dba9cb3e69a76b1347ac673f8#code",
+  "desc": "GS",
+  "status": "fetched",
+  "dir": "0x3f7cf127bf56__GS",
+  "name": "@gammaswap/timelock/contracts/GSTimelockController.sol:GSTimelockController",
+  "source": "sourcify",
+  "files": 12
+ },
+ {
+  "url": "https://arbiscan.io/address/0x4c02a44be2f9e808bd0728b2e52c616138180f98#code",
+  "desc": "Airdrop",
+  "status": "fetched",
+  "dir": "0x4c02a44be2f9__Airdrop",
+  "name": "@gammaswap/airdrop/contracts/Airdrop.sol:Airdrop",
+  "source": "sourcify",
+  "files": 17
+ },
+ {
+  "url": "https://arbiscan.io/address/0xFF0C5047C6a96dD211C849fbDADD6729D016Dd04#code",
+  "desc": "VaultBatchLiquidationStrategy",
+  "status": "fetched",
+  "dir": "0xFF0C5047C6a9__VaultBatchLiquidationStrategy",
+  "name": "@gammaswap/v1-implementations/contracts/strategies/vault/liquidation/VaultBatchLiquidationStrategy.sol:VaultBatchLiquidationStrategy",
+  "source": "sourcify",
+  "files": 43
+ },
+ {
+  "url": "https://arbiscan.io/address/0xc5fa429C0492821d928D3ba03EB238E903BeBE03#code",
+  "desc": "CPMMMath",
+  "status": "fetched",
+  "dir": "0xc5fa429C0492__CPMMMath",
+  "name": "@gammaswap/v1-implementations/contracts/libraries/cpmm/CPMMMath.sol:CPMMMath",
+  "source": "sourcify",
+  "files": 4
+ },
+ {
+  "url": "https://arbiscan.io/address/0xbd6e02c05a274d77ba2958e4db93692ee12b311c#code",
+  "desc": "VaultGammaPool",
+  "status": "fetched",
+  "dir": "0xbd6e02c05a27__VaultGammaPool",
+  "name": "@gammaswap/v1-implementations/contracts/pools/VaultGammaPool.sol:VaultGammaPool",
+  "source": "sourcify",
+  "files": 47
+ },
+ {
+  "url": "https://arbiscan.io/address/0xB953CeaDb508e24C6338325980421c8cA4393241#code",
+  "desc": "VaultLiquidationStrategy",
+  "status": "fetched",
+  "dir": "0xB953CeaDb508__VaultLiquidationStrategy",
+  "name": "@gammaswap/v1-implementations/contracts/strategies/vault/liquidation/VaultLiquidationStrategy.sol:VaultLiquidationStrategy",
+  "source": "sourcify",
+  "files": 43
+ },
+ {
+  "url": "https://arbiscan.io/address/0xB07772B295DD04398C1aaF39E57E04527a92b2E8#code",
+  "desc": "VaultExternalLiquidationStrategy",
+  "status": "fetched",
+  "dir": "0xB07772B295DD__VaultExternalLiquidationStrategy",
+  "name": "@gammaswap/v1-implementations/contracts/strategies/vault/liquidation/VaultExternalLiquidationStrategy.sol:VaultExternalLiquidationStrategy",
+  "source": "sourcify",
+  "files": 46
+ },
+ {
+  "url": "https://arbiscan.io/address/0xa9379431C71c276411D9b838e70A50BBa274a363",
+  "desc": "VaultShortStrategy",
+  "status": "fetched",
+  "dir": "0xa9379431C71c__VaultShortStrategy",
+  "name": "@gammaswap/v1-implementations/contracts/strategies/vault/VaultShortStrategy.sol:VaultShortStrategy",
+  "source": "sourcify",
+  "files": 27
+ },
+ {
+  "url": "https://arbiscan.io/address/0x79297AD127f5bA287053789e2FEB4DE5Ba2C71A0#code",
+  "desc": "VaultRebalanceStrategy",
+  "status": "fetched",
+  "dir": "0x79297AD127f5__VaultRebalanceStrategy",
+  "name": "@gammaswap/v1-implementations/contracts/strategies/vault/rebalance/VaultRebalanceStrategy.sol:VaultRebalanceStrategy",
+  "source": "sourcify",
+  "files": 34
+ },
+ {
+  "url": "https://arbiscan.io/address/0x5CfB6Fc76e270e35Da7aB9bDEB8B97f64b4A59bf#code",
+  "desc": "VaultExternalRebalanceStrategy",
+  "status": "fetched",
+  "dir": "0x5CfB6Fc76e27__VaultExternalRebalanceStrategy",
+  "name": "@gammaswap/v1-implementations/contracts/strategies/vault/rebalance/VaultExternalRebalanceStrategy.sol:VaultExternalRebalanceStrategy",
+  "source": "sourcify",
+  "files": 32
+ },
+ {
+  "url": "https://arbiscan.io/address/0x4aA486351a665921175E3ca1C328e90266cC3E10#code",
+  "desc": "VaultBorrowStrategy",
+  "status": "fetched",
+  "dir": "0x4aA486351a66__VaultBorrowStrategy",
+  "name": "@gammaswap/v1-implementations/contracts/strategies/vault/lending/VaultBorrowStrategy.sol:VaultBorrowStrategy",
+  "source": "sourcify",
+  "files": 35
+ },
+ {
+  "url": "https://arbiscan.io/address/0x3b72616376652cc82f17dd7a9b58f71cdb3b98b0",
+  "desc": "PositionManager (Proxy)",
+  "status": "fetched",
+  "dir": "0x3b7261637665__PositionManager_Proxy",
+  "name": "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 8
+ },
+ {
+  "url": "https://arbiscan.io/address/0x3A46d5F9166EBd7844758a9c3525a84B824cFcA9#code",
+  "desc": "VaultRepayStrategy",
+  "status": "fetched",
+  "dir": "0x3A46d5F9166E__VaultRepayStrategy",
+  "name": "@gammaswap/v1-implementations/contracts/strategies/vault/lending/VaultRepayStrategy.sol:VaultRepayStrategy",
+  "source": "sourcify",
+  "files": 36
+ }
+]

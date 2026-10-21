@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Provisioner",
+ "compiler": "v0.8.29+commit.ab55807c",
+ "address": "0xD580c26F7bD8A8a66fd32a97Df2308C083b65d9c",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "gtBTC (Ethereum) - Provisioner",
+ "asset_url": "https://etherscan.io/address/0xD580c26F7bD8A8a66fd32a97Df2308C083b65d9c",
+ "files": 28
+}

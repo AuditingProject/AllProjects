@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/Erc1155/ERC1155CollectionProxy.sol:ERC1155CollectionProxy",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x5763DDeB60c82684F3D0098aEa5076C0Da972ec7",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "VaultManager(USDT)",
+ "asset_url": "https://bscscan.com/address/0x5763DDeB60c82684F3D0098aEa5076C0Da972ec7",
+ "files": 9
+}

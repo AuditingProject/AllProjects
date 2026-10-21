@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/new-shareholders/AllowedDepositRecipientsPolicy.sol:AllowedDepositRecipientsPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xe1853502e2ea2b7c14c5e89169c63065f5a459ff",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "AllowedDepositRecipientsPolicy",
+ "asset_url": "https://polygonscan.com/address/0xe1853502e2ea2b7c14c5e89169c63065f5a459ff",
+ "files": 33
+}

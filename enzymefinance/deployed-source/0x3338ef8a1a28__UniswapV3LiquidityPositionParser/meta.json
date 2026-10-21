@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/external-position-manager/external-positions/uniswap-v3-liquidity/UniswapV3LiquidityPositionParser.sol:UniswapV3LiquidityPositionParser",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0x3338ef8a1a288c3b3b71708e85c7809b46c06776",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "UniswapV3LiquidityPositionParser",
+ "asset_url": "https://polygonscan.com/address/0x3338ef8a1a288c3b3b71708e85c7809b46c06776",
+ "files": 19
+}

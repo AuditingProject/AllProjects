@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.2+commit.661d1103",
+ "address": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "deBridgeGate Proxy ETH",
+ "asset_url": "https://etherscan.io/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+ "files": 7
+}

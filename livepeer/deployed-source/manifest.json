@@ -1,0 +1,209 @@
+[
+ {
+  "url": "https://arbiscan.io/address/0xD9dEd6f9959176F0A04dcf88a0d2306178A736a6#code",
+  "desc": "Governor",
+  "status": "fetched",
+  "dir": "0xD9dEd6f99591__Governor",
+  "name": "contracts/governance/Governor.sol:Governor",
+  "source": "sourcify",
+  "files": 2
+ },
+ {
+  "url": "https://arbiscan.io/address/0xD8E8328501E9645d16Cf49539efC04f734606ee4#code",
+  "desc": "Controller",
+  "status": "fetched",
+  "dir": "0xD8E8328501E9__Controller",
+  "name": "contracts/Controller.sol:Controller",
+  "source": "sourcify",
+  "files": 5
+ },
+ {
+  "url": "https://arbiscan.io/address/0x289ba1701C2F088cf0faf8B3705246331cB8A839#code",
+  "desc": "LivepeerToken",
+  "status": "fetched",
+  "dir": "0x289ba1701C2F__LivepeerToken",
+  "name": "contracts/L2/token/LivepeerToken.sol:LivepeerToken",
+  "source": "sourcify",
+  "files": 16
+ },
+ {
+  "url": "https://arbiscan.io/address/0xc20DE37170B45774e6CD3d2304017fc962f27252",
+  "desc": "Minter",
+  "status": "fetched",
+  "dir": "0xc20DE37170B4__Minter",
+  "name": "contracts/token/Minter.sol:Minter",
+  "source": "sourcify",
+  "files": 13
+ },
+ {
+  "url": "https://arbiscan.io/address/0x35Bcf3c30594191d53231E4FF333E8A770453e40#code",
+  "desc": "Bonding Manager (Proxy)",
+  "status": "fetched",
+  "dir": "0x35Bcf3c30594__Bonding_Manager_Proxy",
+  "name": "contracts/ManagerProxy.sol:ManagerProxy",
+  "source": "sourcify",
+  "files": 7
+ },
+ {
+  "url": "https://arbiscan.io/address/0xa8bB618B1520E284046F3dFc448851A1Ff26e41B#code",
+  "desc": "TicketBroker (Proxy)",
+  "status": "fetched",
+  "dir": "0xa8bB618B1520__TicketBroker_Proxy",
+  "name": "contracts/ManagerProxy.sol:ManagerProxy",
+  "source": "sourcify",
+  "files": 7
+ },
+ {
+  "url": "https://arbiscan.io/address/0xdd6f56DcC28D3F5f27084381fE8Df634985cc39f#code",
+  "desc": "RoundsManager (Proxy)",
+  "status": "fetched",
+  "dir": "0xdd6f56DcC28D__RoundsManager_Proxy",
+  "name": "contracts/ManagerProxy.sol:ManagerProxy",
+  "source": "sourcify",
+  "files": 7
+ },
+ {
+  "url": "https://arbiscan.io/address/0xC92d3A360b8f9e083bA64DE15d95Cf8180897431#code",
+  "desc": "ServiceRegistry (Proxy)",
+  "status": "fetched",
+  "dir": "0xC92d3A360b8f__ServiceRegistry_Proxy",
+  "name": "contracts/ManagerProxy.sol:ManagerProxy",
+  "source": "sourcify",
+  "files": 7
+ },
+ {
+  "url": "https://arbiscan.io/address/0xC45f6918F7Bcac7aBc8fe05302b3cDF39776cdeb#code",
+  "desc": "SortedDoublyLL (Library)",
+  "status": "fetched",
+  "dir": "0xC45f6918F7Bc__SortedDoublyLL_Library",
+  "name": "contracts/libraries/SortedDoublyLL.sol:SortedDoublyLL",
+  "source": "sourcify",
+  "files": 2
+ },
+ {
+  "url": "https://arbiscan.io/address/0x8bb50806D60c492c0004DAD5D9627DAA2d9732E6#code",
+  "desc": "PollCreator",
+  "status": "fetched",
+  "dir": "0x8bb50806D60c__PollCreator",
+  "name": "contracts/polling/PollCreator.sol:PollCreator",
+  "source": "sourcify",
+  "files": 2
+ },
+ {
+  "url": "https://arbiscan.io/address/0x10736ffaCe687658F88a46D042631d182C7757f7#code",
+  "desc": "MerkleSnapshot",
+  "status": "fetched",
+  "dir": "0x10736ffaCe68__MerkleSnapshot",
+  "name": "contracts/snapshots/MerkleSnapshot.sol:MerkleSnapshot",
+  "source": "sourcify",
+  "files": 7
+ },
+ {
+  "url": "https://arbiscan.io/address/0xfdb06109032AD3671a8f14f5f2E78f4B9E81b567#code",
+  "desc": "DelegatorPool (Implementation + clones)",
+  "status": "fetched",
+  "dir": "0xfdb06109032A__DelegatorPool_Implementation_clones",
+  "name": "contracts/L2/pool/DelegatorPool.sol:DelegatorPool",
+  "source": "sourcify",
+  "files": 3
+ },
+ {
+  "url": "https://arbiscan.io/address/0xd78b6bD09cd28A83cFb21aFa0DA95c685A6bb0B1#code",
+  "desc": "L2LPTDataCache",
+  "status": "fetched",
+  "dir": "0xd78b6bD09cd2__L2LPTDataCache",
+  "name": "contracts/L2/gateway/L2LPTDataCache.sol:L2LPTDataCache",
+  "source": "sourcify",
+  "files": 5
+ },
+ {
+  "url": "https://arbiscan.io/address/0x6D2457a4ad276000A615295f7A80F79E48CcD318#code",
+  "desc": "L2LPTGateway",
+  "status": "fetched",
+  "dir": "0x6D2457a4ad27__L2LPTGateway",
+  "name": "contracts/L2/gateway/L2LPTGateway.sol:L2LPTGateway",
+  "source": "sourcify",
+  "files": 13
+ },
+ {
+  "url": "https://arbiscan.io/address/0x148D5b6B4df9530c7C76A810bd1Cdf69EC4c2085#code",
+  "desc": "L2Migrator (Proxy)",
+  "status": "fetched",
+  "dir": "0x148D5b6B4df9__L2Migrator_Proxy",
+  "name": "contracts/proxy/ManagerProxy.sol:ManagerProxy",
+  "source": "sourcify",
+  "files": 5
+ },
+ {
+  "url": "https://etherscan.io/address/0x6A23F4940BD5BA117Da261f98aae51A8BFfa210A#code",
+  "desc": "L1Escrow",
+  "status": "fetched",
+  "dir": "0x6A23F4940BD5__L1Escrow",
+  "name": "L1Escrow",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 7
+ },
+ {
+  "url": "https://etherscan.io/address/0x1d24838b35A9c138Ac157A852e19e948aD6323D7#code",
+  "desc": "L1LPTDataCache",
+  "status": "fetched",
+  "dir": "0x1d24838b35A9__L1LPTDataCache",
+  "name": "L1LPTDataCache",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 6
+ },
+ {
+  "url": "https://etherscan.io/address/0x6142f1C8bBF02E6A6bd074E8d564c9A5420a0676#code",
+  "desc": "L1LPTGateway",
+  "status": "fetched",
+  "dir": "0x6142f1C8bBF0__L1LPTGateway",
+  "name": "L1LPTGateway",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 16
+ },
+ {
+  "url": "https://etherscan.io/address/0x8dDDB96CF36AC8860f1DE5C7c4698fd499FAB405#code",
+  "desc": "BridgeMinter",
+  "status": "fetched",
+  "dir": "0x8dDDB96CF36A__BridgeMinter",
+  "name": "BridgeMinter",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 4
+ },
+ {
+  "url": "https://arbiscan.io/address/0x0B9C254837E72Ebe9Fe04960C43B69782E68169A",
+  "desc": "BondingVotes (Proxy)",
+  "status": "fetched",
+  "dir": "0x0B9C254837E7__BondingVotes_Proxy",
+  "name": "contracts/ManagerProxy.sol:ManagerProxy",
+  "source": "sourcify",
+  "files": 7
+ },
+ {
+  "url": "https://arbiscan.io/address/0xf82C1FF415F1fCf582554fDba790E27019c8E8C4",
+  "desc": "Treasury",
+  "status": "fetched",
+  "dir": "0xf82C1FF415F1__Treasury",
+  "name": "contracts/treasury/Treasury.sol:Treasury",
+  "source": "sourcify",
+  "files": 14
+ },
+ {
+  "url": "https://arbiscan.io/address/0xcFE4E2879B786C3aa075813F0E364bb5acCb6aa0",
+  "desc": "LivepeerGovernor (Proxy)",
+  "status": "fetched",
+  "dir": "0xcFE4E2879B78__LivepeerGovernor_Proxy",
+  "name": "contracts/ManagerProxy.sol:ManagerProxy",
+  "source": "sourcify",
+  "files": 7
+ },
+ {
+  "url": "https://etherscan.io/address/0x2a69191B43c9DB47C927bD7287F9C93838d07759#code",
+  "desc": "L1Migrator",
+  "status": "fetched",
+  "dir": "0x2a69191B43c9__L1Migrator",
+  "name": "L1Migrator",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 17
+ }
+]

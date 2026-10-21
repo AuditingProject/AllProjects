@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/external-positions/ExternalPositionFactory.sol:ExternalPositionFactory",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x097c44da5e720641a60c2c438c0c921d28968a00",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "ExternalPositionFactory",
+ "asset_url": "https://basescan.org/address/0x097c44da5e720641a60c2c438c0c921d28968a00",
+ "files": 7
+}

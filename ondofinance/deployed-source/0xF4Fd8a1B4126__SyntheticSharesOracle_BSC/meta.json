@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/rwaOracles/SyntheticSharesOracle.sol:SyntheticSharesOracle",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xF4Fd8a1B412633e10527454137A29Db7Aa35F15e",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "SyntheticSharesOracle (BSC)",
+ "asset_url": "https://bscscan.com/address/0xF4Fd8a1B412633e10527454137A29Db7Aa35F15e",
+ "files": 11
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/MultiDepositorVault.sol:MultiDepositorVault",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0x3bd9248048df95Db4fBD748C6CD99C1bAa40bAD0",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "gtUSDa (Ethereum) - MultiDepositorVault",
+ "asset_url": "https://etherscan.io/address/0x3bd9248048df95Db4fBD748C6CD99C1bAa40bAD0",
+ "files": 48
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "GovernorOLAS",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x060D0CBdDFb0498d610E2EF55C01516B5B1251E6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GovernorOLAS \u2014 governance. On-chain DAO governor. Deployed on: Ethereum 0x060D0CBdDFb0498d610E2EF55C01516B5B1251E6.",
+ "asset_url": "https://etherscan.io/address/0x060D0CBdDFb0498d610E2EF55C01516B5B1251E6#code",
+ "files": 29
+}

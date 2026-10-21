@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/MapleSkyStrategy.sol:MapleSkyStrategy",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0xBBEe42621499005Ff0dDEF947BBDeFfBBeE77730",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Sky Strategy Implementation (V100)",
+ "asset_url": "https://etherscan.io/address/0xBBEe42621499005Ff0dDEF947BBDeFfBBeE77730",
+ "files": 16
+}

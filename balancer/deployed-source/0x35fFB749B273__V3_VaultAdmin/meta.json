@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "VaultAdmin",
+ "compiler": "0.8.26+commit.8a97fa7a",
+ "address": "0x35fFB749B273bEb20F40f35EdeB805012C539864",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "V3 VaultAdmin",
+ "asset_url": "https://etherscan.io/address/0x35fFB749B273bEb20F40f35EdeB805012C539864",
+ "files": 58
+}

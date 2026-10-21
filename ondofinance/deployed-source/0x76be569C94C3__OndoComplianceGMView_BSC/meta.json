@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/gmTokenCompliance/OndoComplianceGMView.sol:OndoComplianceGMView",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x76be569C94C39a2E2492DE2F4D1C253F348250D0",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "OndoComplianceGMView (BSC)",
+ "asset_url": "https://bscscan.com/address/0x76be569C94C39a2E2492DE2F4D1C253F348250D0",
+ "files": 6
+}

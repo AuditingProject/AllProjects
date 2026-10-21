@@ -1,0 +1,154 @@
+{
+ "title": "Cetus Smart Contracts",
+ "logo": "/uploads/bounty_program/logo/68625b1240041c000fe7c344/logo.png?timestamp=1792060448",
+ "logoPresent": true,
+ "companyName": "Cetus",
+ "companySlug": "cetus",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "07 Jul 2025",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/cetus-smart-contracts/reports/new",
+ "kycRequired": true,
+ "pocRequired": true,
+ "reputationRequired": null,
+ "minReputation": 100,
+ "submissionFee": null,
+ "programOfTheWeek": false,
+ "depositAvailable": true,
+ "maxReward": "$1,000,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 10,
+   "reputation": 13,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/69bbc52f40041c000e8b5f51/avatar.png?timestamp=1780668020",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "kafir",
+    "verified": true
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 6,
+   "reputation": 13,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6851881440041c000f1636dd/avatar.png?timestamp=1792478735",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "kwesi",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 4,
+   "reputation": 11,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/627a0108fd180410948b1f96/avatar.png?timestamp=1792503935",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "bratwork",
+    "verified": true
+   }
+  },
+  {
+   "rank": 4,
+   "reports_amount": 1,
+   "reputation": 10,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/61684862b6fa1e3f18009628/avatar.png?timestamp=1785865516",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "dmxjon",
+    "verified": true
+   }
+  },
+  {
+   "rank": 4,
+   "reports_amount": 1,
+   "reputation": 10,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/691bdcea40041c000f72c460/avatar.png?timestamp=1771844899",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "halfdeveloper",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 203,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 1000000,
+  "critical_min": 30000,
+  "high_max": 30000,
+  "high_min": 3000,
+  "low_max": 100,
+  "low_min": 10,
+  "medium_max": 1000,
+  "medium_min": 100
+ },
+ "description": "Cetus is a leading decentralized exchange in crypto. Live from the first day of Sui mainnet, Cetus is the leading DEX and aggregator on Sui, serving as the key liquidity and swap infra of the Sui ecosystem. The mission of Cetus is building a powerful and flexible underlying liquidity network to make trading easier for any users and assets.",
+ "sla": {
+  "first_response": 3,
+  "resolution_time": 14,
+  "time_to_reward": 3,
+  "time_to_triage": 3
+ },
+ "totalRewards": 310,
+ "submittedReports": 455,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "6a4bcc7240041c000d017647",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/hackenproof-public/cetus-contract-bounty",
+   "target_description": "!! Only smart contracts residing in the sources folder and dependencies are in scope. The rest is there to make testing easier !!\n\nPlease contact our support team in Discord to get access to scope. KYC required.",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "6a4bcc7240041c000d017648",
+   "out_of_scope": false,
+   "position": 1,
+   "target": "https://github.com/CetusProtocol/cetus-contracts",
+   "target_description": "",
+   "title": "Smart Contract"
+  }
+ ],
+ "programRules": "* Avoid using web application scanners for automatic vulnerability searching which generates massive traffic\r\n* Make every effort not to damage or restrict the availability of products, services, or infrastructure\r\n* Avoid compromising any personal data, interruption, or degradation of any service\r\n* Don\u2019t access or modify other user data, localize all tests to your accounts\r\n* Perform testing only within the scope\r\n* Don\u2019t exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam\r\n* Don\u2019t spam forms or account creation flows using automated scanners\r\n* In case you find chain vulnerabilities we\u2019ll pay only for vulnerability with the highest severity.\r\n* Don\u2019t break any law and stay in the defined scope\r\n* Any details of found vulnerabilities must not be communicated to anyone who is not a HackenProof Team or an authorized employee of this Company without appropriate permission",
+ "focusArea": "- Critical bounty: up to 10% of the TVL of the directly affected pool/contract, capped at $1,000,000\n- A finding is considered Critical only if it is directly exploitable, does not depend on additional conditions, and can lead to direct loss of user funds\n\n## IN SCOPE VULNERABILITIES: Smart Contracts\n We are looking for evidence and reasons for incorrect behavior of the smart contract, which could cause unintended functionality:\n* Stealing or loss of funds\n* Unauthorized transaction\n* Transaction manipulation\n* Attacks on logic (behavior of the code is different from the business description)\n* Reentrancy\n* Reordering\n* Over and underflows\n\n\n## OUT OF SCOPE VULNERABILITIES: Smart Contracts\n* Theoretical vulnerabilities without any proof or demonstration\n* Old compiler version\n* The compiler version is not locked\n* Vulnerabilities in imported contracts\n* Code style guide violations\n* Redundant code\n* Gas optimizations\n* Best practice issues\n* Vulnerabilities that can be exploited through front-run attacks only",
+ "disclosureGuidelines": "* Do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization\r\n* No vulnerability disclosure, including partial is allowed for the moment.\r\n* Please do NOT publish/discuss bugs",
+ "eligibilityAndCoordinateDisclosure": "We are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:\r\n\r\n* You must be the first reporter of a vulnerability.\r\n* The vulnerability must be a qualifying vulnerability\r\n* Any vulnerability found must be reported no later than 24 hours after discovery and exclusively through hackenproof.com\r\n* You must send a clear textual description of the report along with steps to reproduce the issue, include attachments such as screenshots or proof of concept code as necessary.\r\n* You must not be a former or current employee of us or one of its contractor.\r\n* ONLY USE the EMAIL under which you registered your HackenProof account (in case of violation, no bounty can be awarded)\r\n* Provide detailed but to-the point reproduction steps\r\n* AI-generated reports without runable PoC are not accepted under this program.",
+ "labels": {
+  "types": [
+   "smart contract"
+  ],
+  "languages": [
+   "Move"
+  ],
+  "platforms": [],
+  "project_types": [
+   "dApp",
+   "Sui Ecosystem",
+   "DEX"
+  ]
+ },
+ "customBlocks": [],
+ "scopeReview": 323226,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "1000000.0",
+ "minBounty": "10.0"
+}

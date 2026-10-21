@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:scroll.blockscout.com",
+ "match": "verified",
+ "name": "BoringVault",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0x08c6F91e2B681FaF5e17227F2a44C307b3C1364C",
+ "chain": 534352,
+ "explorer_host": "scrollscan.com",
+ "asset_description": "LiquidUSD - boring_vault",
+ "asset_url": "https://scrollscan.com/address/0x08c6F91e2B681FaF5e17227F2a44C307b3C1364C",
+ "files": 13
+}

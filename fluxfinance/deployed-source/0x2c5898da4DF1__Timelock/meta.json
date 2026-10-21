@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Timelock",
+ "compiler": "0.5.17+commit.d19bba13",
+ "address": "0x2c5898da4DF1d45EAb2B7B192a361C3b9EB18d9c",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Timelock",
+ "asset_url": "https://etherscan.io/address/0x2c5898da4DF1d45EAb2B7B192a361C3b9EB18d9c",
+ "files": 1
+}

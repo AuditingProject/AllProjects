@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/Integration-manager/IntegrationManager.sol:IntegrationManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x5d8703b4a08fd3f698bafd5389fa25463fb383dd",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "IntegrationManager",
+ "asset_url": "https://basescan.org/address/0x5d8703b4a08fd3f698bafd5389fa25463fb383dd",
+ "files": 29
+}

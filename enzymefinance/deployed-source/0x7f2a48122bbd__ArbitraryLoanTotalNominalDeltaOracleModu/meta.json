@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/external-position-manager/external-positions/arbitrary-loan/modules/ArbitraryLoanTotalNominalDeltaOracleModule.sol:ArbitraryLoanTotalNominalDeltaOracleModule",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x7f2a48122bbd3ffba33ed9d1f5cfabede7caab34",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ArbitraryLoanTotalNominalDeltaOracleModule",
+ "asset_url": "https://etherscan.io/address/0x7f2a48122bbd3ffba33ed9d1f5cfabede7caab34",
+ "files": 5
+}

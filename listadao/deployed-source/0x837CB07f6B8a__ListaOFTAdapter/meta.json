@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/oft/ListaOFTAdapter.sol:ListaOFTAdapter",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x837CB07f6B8a98731856092457524FF37b25E7B3",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "ListaOFTAdapter",
+ "asset_url": "https://bscscan.com/address/0x837CB07f6B8a98731856092457524FF37b25E7B3",
+ "files": 40
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/AaveV3Adapter.sol:AaveV3Adapter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xc16db2e93492e3ea512edc90787538652ec5c099",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "AaveV3Adapter",
+ "asset_url": "https://basescan.org/address/0xc16db2e93492e3ea512edc90787538652ec5c099",
+ "files": 19
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/peripheral/DepositWrapper.sol:DepositWrapper",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x2baa64f0ce9c2e60e91127fc3f40a72529e82c87",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "DepositWrapper",
+ "asset_url": "https://polygonscan.com/address/0x2baa64f0ce9c2e60e91127fc3f40a72529e82c87",
+ "files": 17
+}

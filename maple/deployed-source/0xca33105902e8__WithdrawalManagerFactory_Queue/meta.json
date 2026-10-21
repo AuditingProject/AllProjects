@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "modules/withdrawal-manager-queue/contracts/proxy/MapleWithdrawalManagerFactory.sol:MapleWithdrawalManagerFactory",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xca33105902e8d232ddfb9f71ff3d79c7e7f2c4e5",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "WithdrawalManagerFactory (Queue)",
+ "asset_url": "https://etherscan.io/address/0xca33105902e8d232ddfb9f71ff3d79c7e7f2c4e5",
+ "files": 11
+}

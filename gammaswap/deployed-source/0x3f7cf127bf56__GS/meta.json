@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/timelock/contracts/GSTimelockController.sol:GSTimelockController",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x3f7cf127bf565d3dba9cb3e69a76b1347ac673f8",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "GS",
+ "asset_url": "https://arbiscan.io/address/0x3f7cf127bf565d3dba9cb3e69a76b1347ac673f8#code",
+ "files": 12
+}

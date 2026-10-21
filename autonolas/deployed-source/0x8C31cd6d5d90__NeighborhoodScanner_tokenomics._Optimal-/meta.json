@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "NeighborhoodScanner",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x8C31cd6d5d90BB536e045A59C71b85154De1C190",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "NeighborhoodScanner \u2014 tokenomics. Optimal-tick search helper for LiquidityManager. Deployed on: Ethereum 0x8C31cd6d5d90BB536e045A59C71b85154De1C190; Optimism 0xDC175E77d11246c79B23D7088750eb59160DD6b7; Base 0x96a475Cf364999dE5317d13f66E8e3c072bA1c0a.",
+ "asset_url": "https://etherscan.io/address/0x8C31cd6d5d90BB536e045A59C71b85154De1C190#code",
+ "files": 5
+}

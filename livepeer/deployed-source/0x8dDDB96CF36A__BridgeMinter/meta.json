@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "BridgeMinter",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x8dDDB96CF36AC8860f1DE5C7c4698fd499FAB405",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BridgeMinter",
+ "asset_url": "https://etherscan.io/address/0x8dDDB96CF36AC8860f1DE5C7c4698fd499FAB405#code",
+ "files": 4
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x3b72616376652cc82f17dd7a9b58f71cdb3b98b0",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "PositionManager (Proxy)",
+ "asset_url": "https://arbiscan.io/address/0x3b72616376652cc82f17dd7a9b58f71cdb3b98b0",
+ "files": 8
+}

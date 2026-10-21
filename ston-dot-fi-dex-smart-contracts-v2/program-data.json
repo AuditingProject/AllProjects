@@ -1,0 +1,33 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/ston-fi/dex-core-v2/blob/main/contracts/lp_account.fc",
+   "type": "smart_contract",
+   "description": "LP Account"
+  },
+  {
+   "url": "https://github.com/ston-fi/dex-core-v2/blob/main/contracts/lp_wallet.fc",
+   "type": "smart_contract",
+   "description": "LP Wallet"
+  },
+  {
+   "url": "https://github.com/ston-fi/dex-core-v2/blob/main/contracts/pool.fc",
+   "type": "smart_contract",
+   "description": "Pool"
+  },
+  {
+   "url": "https://github.com/ston-fi/dex-core-v2/blob/main/contracts/router.fc",
+   "type": "smart_contract",
+   "description": "Router"
+  },
+  {
+   "url": "https://github.com/ston-fi/dex-core-v2/blob/main/contracts/vault.fc",
+   "type": "smart_contract",
+   "description": "Vault"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "ston-dot-fi-dex-smart-contracts-v2",
+ "maxBounty": "100000.0",
+ "kyc": true
+}

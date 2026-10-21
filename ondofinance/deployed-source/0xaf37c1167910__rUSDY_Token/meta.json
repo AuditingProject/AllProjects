@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TokenProxy",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xaf37c1167910ebc994e266949387d2c7c326b879",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "rUSDY Token",
+ "asset_url": "https://etherscan.io/address/0xaf37c1167910ebc994e266949387d2c7c326b879",
+ "files": 9
+}

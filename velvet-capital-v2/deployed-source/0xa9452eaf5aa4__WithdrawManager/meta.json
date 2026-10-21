@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/bundle/WithdrawManager.sol:WithdrawManager",
+ "compiler": "0.8.17+commit.8df45f5f",
+ "address": "0xa9452eaf5aa440790e6ca90e38c10b40fb611e59",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "WithdrawManager",
+ "asset_url": "https://basescan.org/address/0xa9452eaf5aa440790e6ca90e38c10b40fb611e59",
+ "files": 21
+}

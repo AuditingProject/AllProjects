@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/oft/ListaOFT.sol:ListaOFT",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xf9B24C9364457Ea85792179D285855753549eBAa",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ListaOFT(Ethereum)",
+ "asset_url": "https://etherscan.io/address/0xf9B24C9364457Ea85792179D285855753549eBAa",
+ "files": 46
+}

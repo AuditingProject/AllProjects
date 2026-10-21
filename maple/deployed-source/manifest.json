@@ -1,0 +1,346 @@
+[
+ {
+  "url": "https://etherscan.io/address/0x90b14505221a24039a2d11ad5862339db97cc160",
+  "desc": "LoanManagerFactory (Open-Term)",
+  "status": "cached",
+  "dir": "0x90b14505221a__LoanManagerFactory_Open-Term",
+  "name": "contracts/LoanManagerFactory.sol:LoanManagerFactory",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xbad003da1e107f537ae2f687f5fe7a7affe9b241",
+  "desc": "LoanManagerImplementation (v100 - Open-Term)",
+  "status": "cached",
+  "dir": "0xbad003da1e10__LoanManagerImplementation_v100_-_Open-Te",
+  "name": "contracts/LoanManager.sol:LoanManager",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x20d0b31c2620c28d22489babfef9445c7d952921",
+  "desc": "LoanManagerInitializer (v100 - Open-Term)",
+  "status": "cached",
+  "dir": "0x20d0b31c2620__LoanManagerInitializer_v100_-_Open-Term",
+  "name": "contracts/LoanManagerInitializer.sol:LoanManagerInitializer",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x9BeAbb1B6F3ad1DdB87b65148BA5Eb6102334956",
+  "desc": "MapleGlobalsImplementation (v301)",
+  "status": "cached",
+  "dir": "0x9BeAbb1B6F3a__MapleGlobalsImplementation_v301",
+  "name": "MapleGlobals",
+  "source": "blockscout:eth.blockscout.com"
+ },
+ {
+  "url": "https://etherscan.io/address/0x804a6F5F667170F545Bf14e5DDB48C70B788390C",
+  "desc": "MapleGlobalsProxy (v2)",
+  "status": "cached",
+  "dir": "0x804a6F5F6671__MapleGlobalsProxy_v2",
+  "name": "NonTransparentProxy",
+  "source": "blockscout:eth.blockscout.com"
+ },
+ {
+  "url": "https://etherscan.io/address/0x6fad515fc046dd17166453a79725f50b917b7cf6",
+  "desc": "MapleLoanFactory (Open-Term)",
+  "status": "cached",
+  "dir": "0x6fad515fc046__MapleLoanFactory_Open-Term",
+  "name": "MapleLoanFactory",
+  "source": "blockscout:eth.blockscout.com"
+ },
+ {
+  "url": "https://etherscan.io/address/0xEeaDb66693d63cFCF3E4D942D2812D4aE9443Fc1",
+  "desc": "MapleLoanImplementation (v201 - Open-Term)",
+  "status": "cached",
+  "dir": "0xEeaDb66693d6__MapleLoanImplementation_v201_-_Open-Term",
+  "name": "MapleLoan",
+  "source": "blockscout:eth.blockscout.com"
+ },
+ {
+  "url": "https://etherscan.io/address/0x9385A0F681c3D4b39c2780cD69777Dd97a681485",
+  "desc": "MapleLoanInitializer (v201 - Open-Term)",
+  "status": "cached",
+  "dir": "0x9385A0F681c3__MapleLoanInitializer_v201_-_Open-Term",
+  "name": "MapleLoanInitializer",
+  "source": "blockscout:eth.blockscout.com"
+ },
+ {
+  "url": "https://etherscan.io/address/0x12fB5dbBDB06ab973f047cC46D6bB33ba4d03b96",
+  "desc": "PoolDeployer",
+  "status": "cached",
+  "dir": "0x12fB5dbBDB06__PoolDeployer",
+  "name": "MaplePoolDeployer",
+  "source": "blockscout:eth.blockscout.com"
+ },
+ {
+  "url": "https://etherscan.io/address/0xE463cD473EcC1d1A4ecF20b62624D84DD20a8339",
+  "desc": "PoolManagerFactory",
+  "status": "cached",
+  "dir": "0xE463cD473EcC__PoolManagerFactory",
+  "name": "modules/pool-v2/contracts/proxy/PoolManagerFactory.sol:PoolManagerFactory",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xfE02Be1aD28EdFd8e3dD6F29C402B244C2A258B8",
+  "desc": "PoolManagerImplementation (v400)",
+  "status": "cached",
+  "dir": "0xfE02Be1aD28E__PoolManagerImplementation_v400",
+  "name": "contracts/MaplePoolManager.sol:MaplePoolManager",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xB33Bfa00E1d92fDaC5AeCB2976d6998C2ecca759",
+  "desc": "PoolManagerInitializer (v400)",
+  "status": "cached",
+  "dir": "0xB33Bfa00E1d9__PoolManagerInitializer_v400",
+  "name": "contracts/proxy/MaplePoolManagerInitializer.sol:MaplePoolManagerInitializer",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x653D4947620B73a433cAbBc9DFb068c3e9c18984",
+  "desc": "MapleRefinancer (Open-Term)",
+  "status": "cached",
+  "dir": "0x653D4947620B__MapleRefinancer_Open-Term",
+  "name": "contracts/MapleRefinancer.sol:MapleRefinancer",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xbe10adce8b6e3e02db384e7fada5395dd113d8b3",
+  "desc": "MaplePoolPermissionManagerProxy (v100)",
+  "status": "cached",
+  "dir": "0xbe10adce8b6e__MaplePoolPermissionManagerProxy_v100",
+  "name": "modules/globals/modules/non-transparent-proxy/contracts/NonTransparentProxy.sol:NonTransparentProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xc3530358e54bc81efce4a2e12a898e996b091753",
+  "desc": "MaplePoolPermissionManagerImplementation (v100)",
+  "status": "cached",
+  "dir": "0xc3530358e54b__MaplePoolPermissionManagerImplementation",
+  "name": "modules/pool-permission-manager/contracts/MaplePoolPermissionManager.sol:MaplePoolPermissionManager",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xb9e25B584dc4a7C9d47aEF577f111fBE5705773B",
+  "desc": "WithdrawalManagerFactory (Cyclical)",
+  "status": "cached",
+  "dir": "0xb9e25B584dc4__WithdrawalManagerFactory_Cyclical",
+  "name": "modules/withdrawal-manager/contracts/WithdrawalManagerFactory.sol:WithdrawalManagerFactory",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xcc4e684916aa7fa0e4faef2359b49a755f89c75b",
+  "desc": "WithdrawalManagerImplementation (v110) (Cyclical)",
+  "status": "cached",
+  "dir": "0xcc4e684916aa__WithdrawalManagerImplementation_v110_Cyc",
+  "name": "modules/withdrawal-manager-cyclical/contracts/MapleWithdrawalManager.sol:MapleWithdrawalManager",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x485ba3f5235f150bf8e4afbd3a25c266cdadd9dd",
+  "desc": "WithdrawalManagerInitializer (v110) (Cyclical)",
+  "status": "cached",
+  "dir": "0x485ba3f5235f__WithdrawalManagerInitializer_v110_Cyclic",
+  "name": "modules/withdrawal-manager-cyclical/contracts/MapleWithdrawalManagerInitializer.sol:MapleWithdrawalManagerInitializer",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xca33105902e8d232ddfb9f71ff3d79c7e7f2c4e5",
+  "desc": "WithdrawalManagerFactory (Queue)",
+  "status": "cached",
+  "dir": "0xca33105902e8__WithdrawalManagerFactory_Queue",
+  "name": "modules/withdrawal-manager-queue/contracts/proxy/MapleWithdrawalManagerFactory.sol:MapleWithdrawalManagerFactory",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x899b57bbd8597aa2d1898476504f479c982c5c2c",
+  "desc": "WithdrawalManagerImplementation (v100) (Queue)",
+  "status": "cached",
+  "dir": "0x899b57bbd859__WithdrawalManagerImplementation_v100_Que",
+  "name": "modules/withdrawal-manager-queue/contracts/MapleWithdrawalManager.sol:MapleWithdrawalManager",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x637f8dc4c4d07d1cc30ae131fa94a060dee6be96",
+  "desc": "WithdrawalManagerInitializer (v100) (Queue)",
+  "status": "cached",
+  "dir": "0x637f8dc4c4d0__WithdrawalManagerInitializer_v100_Queue",
+  "name": "modules/withdrawal-manager-queue/contracts/proxy/MapleWithdrawalManagerInitializer.sol:MapleWithdrawalManagerInitializer",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
+  "desc": "Pool (For reference)",
+  "status": "cached",
+  "dir": "0x80ac24aA929e__Pool_For_reference",
+  "name": "MaplePool.sol:MaplePool",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x7aD5fFa5fdF509E30186F4609c2f6269f4B6158F",
+  "desc": "PoolManager (For reference)",
+  "status": "cached",
+  "dir": "0x7aD5fFa5fdF5__PoolManager_For_reference",
+  "name": "modules/maple-proxy-factory/modules/proxy-factory/contracts/Proxy.sol:Proxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x1bc47a0Dd0FdaB96E9eF982fdf1F34DC6207cfE3",
+  "desc": "WithdrawalManager Queue (For reference)",
+  "status": "cached",
+  "dir": "0x1bc47a0Dd0Fd__WithdrawalManager_Queue_For_reference",
+  "name": "modules/withdrawal-manager-queue/modules/maple-proxy-factory/modules/proxy-factory/contracts/Proxy.sol:Proxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x9e62FE15d0E99cE2b30CE0D256e9Ab7b6893AfF5",
+  "desc": "PoolDelegateCover (For reference)",
+  "status": "cached",
+  "dir": "0x9e62FE15d0E9__PoolDelegateCover_For_reference",
+  "name": "contracts/MaplePoolDelegateCover.sol:MaplePoolDelegateCover",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x6ACEb4cAbA81Fa6a8065059f3A944fb066A10fAc",
+  "desc": "LoanManager (Open-Term For reference)",
+  "status": "cached",
+  "dir": "0x6ACEb4cAbA81__LoanManager_Open-Term_For_reference",
+  "name": "Proxy.sol:Proxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xDA8f7941192590408DCe701A60FB3892455669Ce",
+  "desc": "Loan (Open-Term For reference)",
+  "status": "cached",
+  "dir": "0xDA8f79411925__Loan_Open-Term_For_reference",
+  "name": "Proxy.sol:Proxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x134ccaaa4f1e4552ec8aecb9e4a2360ddcf8df76",
+  "desc": "SyrupRouter",
+  "status": "cached",
+  "dir": "0x134ccaaa4f1e__SyrupRouter",
+  "name": "modules/syrup-router/contracts/SyrupRouter.sol:SyrupRouter",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x01ab799f77F9a9f4dd0D2b6E7C83DCF3F48D5650",
+  "desc": "Aave Strategy Factory",
+  "status": "cached",
+  "dir": "0x01ab799f77F9__Aave_Strategy_Factory",
+  "name": "contracts/proxy/MapleStrategyFactory.sol:MapleStrategyFactory",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xFc8F7F97165d446B02Cc95363d2cA31154BBe9F9",
+  "desc": "Aave Strategy Implementation (V100)",
+  "status": "cached",
+  "dir": "0xFc8F7F97165d__Aave_Strategy_Implementation_V100",
+  "name": "contracts/MapleAaveStrategy.sol:MapleAaveStrategy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x0d2dBb28B1c7d225132722FAdb2402E93A35c1Be",
+  "desc": "Aave Strategy Initializer (V100)",
+  "status": "cached",
+  "dir": "0x0d2dBb28B1c7__Aave_Strategy_Initializer_V100",
+  "name": "contracts/proxy/aaveStrategy/MapleAaveStrategyInitializer.sol:MapleAaveStrategyInitializer",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x27327E08de810c687687F95bfCE92088089b56dB",
+  "desc": "Sky Strategy Factory",
+  "status": "cached",
+  "dir": "0x27327E08de81__Sky_Strategy_Factory",
+  "name": "contracts/proxy/MapleStrategyFactory.sol:MapleStrategyFactory",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xBBEe42621499005Ff0dDEF947BBDeFfBBeE77730",
+  "desc": "Sky Strategy Implementation (V100)",
+  "status": "cached",
+  "dir": "0xBBEe42621499__Sky_Strategy_Implementation_V100",
+  "name": "contracts/MapleSkyStrategy.sol:MapleSkyStrategy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x29199d071717c72baab50eEf9adD6736A18A1d1d",
+  "desc": "Sky Strategy Initializer (V100)",
+  "status": "cached",
+  "dir": "0x29199d071717__Sky_Strategy_Initializer_V100",
+  "name": "contracts/proxy/skyStrategy/MapleSkyStrategyInitializer.sol:MapleSkyStrategyInitializer",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x876D54DBF61473cA169b89B95344A14E81F37afe",
+  "desc": "Basic Strategy Factory",
+  "status": "cached",
+  "dir": "0x876D54DBF614__Basic_Strategy_Factory",
+  "name": "contracts/proxy/MapleStrategyFactory.sol:MapleStrategyFactory",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x7a1E281Ec29F3A861f211a28a23161762BD55B73",
+  "desc": "Basic Strategy Implementation (V100)",
+  "status": "cached",
+  "dir": "0x7a1E281Ec29F__Basic_Strategy_Implementation_V100",
+  "name": "contracts/MapleBasicStrategy.sol:MapleBasicStrategy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x2b9aDDb5244548f126e59FA5483040efc102f69e",
+  "desc": "Basic Strategy Initializer (V100)",
+  "status": "cached",
+  "dir": "0x2b9aDDb52445__Basic_Strategy_Initializer_V100",
+  "name": "contracts/proxy/basicStrategy/MapleBasicStrategyInitializer.sol:MapleBasicStrategyInitializer",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x78c5f240A1150c3c2ebDBDe559d04a0418DFCFF3",
+  "desc": "BorrowerActions (v1)",
+  "status": "cached",
+  "dir": "0x78c5f240A115__BorrowerActions_v1",
+  "name": "contracts/MapleBorrowerActions.sol:MapleBorrowerActions",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x560B3A85Af1cEF113BB60105d0Cf21e1d05F91d4",
+  "desc": "Aave Strategy",
+  "status": "cached",
+  "dir": "0x560B3A85Af1c__Aave_Strategy",
+  "name": "modules/maple-proxy-factory/modules/proxy-factory/contracts/Proxy.sol:Proxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x859C9980931fa0A63765fD8EF2e29918Af5b038C",
+  "desc": "Sky Strategy",
+  "status": "cached",
+  "dir": "0x859C9980931f__Sky_Strategy",
+  "name": "modules/maple-proxy-factory/modules/proxy-factory/contracts/Proxy.sol:Proxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xF95E5722226a1018d058CD757B75F1D10289e967",
+  "desc": "WithdrawalManagerImplementation (v200) (Queue)",
+  "status": "cached",
+  "dir": "0xF95E5722226a__WithdrawalManagerImplementation_v200_Que",
+  "name": "MapleWithdrawalManager.sol:MapleWithdrawalManager",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0xD389BFE4A129525b486B098411336a4fCecF3024",
+  "desc": "WithdrawalManagerInitializer (v200)",
+  "status": "cached",
+  "dir": "0xD389BFE4A129__WithdrawalManagerInitializer_v200",
+  "name": "MapleWithdrawalManagerInitializer.sol:MapleWithdrawalManagerInitializer",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x2eFFf88747EB5a3FF00d4d8d0f0800E306C0426b",
+  "desc": "GovernorTimelock",
+  "status": "cached",
+  "dir": "0x2eFFf88747EB__GovernorTimelock",
+  "name": "contracts/GovernorTimelock.sol:GovernorTimelock",
+  "source": "sourcify"
+ }
+]

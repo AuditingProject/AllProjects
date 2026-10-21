@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Test_OndoOwner",
+ "compiler": "v0.8.22+commit.4fc1097e",
+ "address": "0xbC6D5C103a3f586e68bd475942a49d041b171C3e",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoOwner",
+ "asset_url": "https://etherscan.io/address/0xbC6D5C103a3f586e68bd475942a49d041b171C3e",
+ "files": 40
+}

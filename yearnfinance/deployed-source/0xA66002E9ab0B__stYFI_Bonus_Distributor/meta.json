@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "BonusDistributor",
+ "compiler": "v0.4.2+commit.c216787f",
+ "address": "0xA66002E9ab0BABf46882D0E0cd274f46CEb13116",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Bonus Distributor",
+ "asset_url": "https://etherscan.io/address/0xA66002E9ab0BABf46882D0E0cd274f46CEb13116#code",
+ "files": 1
+}

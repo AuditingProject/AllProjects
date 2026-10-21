@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/DisallowedAdapterIncomingAssetsPolicy.sol:DisallowedAdapterIncomingAssetsPolicy",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xf9ae950b4bb08cb0b239cb3c0c47753ef7df1302",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "DisallowedAdapterIncomingAssetsPolicy",
+ "asset_url": "https://basescan.org/address/0xf9ae950b4bb08cb0b239cb3c0c47753ef7df1302",
+ "files": 12
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TokenomicsProxy",
+ "compiler": "v0.8.18+commit.87f61d96",
+ "address": "0xc096362fa6f4A4B1a9ea68b1043416f3381ce300",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "TokenomicsProxy \u2014 tokenomics. Proxy for the Tokenomics engine. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0xc096362fa6f4A4B1a9ea68b1043416f3381ce300#code",
+ "files": 1
+}

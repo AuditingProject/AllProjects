@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "DeBridgeTokenDeployer",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "deBridgeTokenDeployer ETH",
+ "asset_url": "https://etherscan.io/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+ "files": 22
+}

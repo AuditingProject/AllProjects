@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/fee-manager/fees/ExitRateDirectFee.sol:ExitRateDirectFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x3a09d11c20aa1ad38c77b4f426901d3427f73fbe",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ExitRateDirectFee",
+ "asset_url": "https://etherscan.io/address/0x3a09d11c20aa1ad38c77b4f426901d3427f73fbe",
+ "files": 46
+}

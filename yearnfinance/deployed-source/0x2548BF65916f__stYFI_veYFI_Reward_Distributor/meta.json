@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "VotingEscrowRewardDistributor.vy:VotingEscrowRewardDistributor",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0x2548BF65916fdABB5A5673fC4225011FF29ee884",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI veYFI Reward Distributor",
+ "asset_url": "https://etherscan.io/address/0x2548BF65916fdABB5A5673fC4225011FF29ee884",
+ "files": 1
+}

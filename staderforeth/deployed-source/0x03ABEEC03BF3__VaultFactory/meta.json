@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.9+commit.e5eed63a",
+ "address": "0x03ABEEC03BF39ac5A5C8886cF3496326d8164E1E",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "VaultFactory",
+ "asset_url": "https://etherscan.io/address/0x03ABEEC03BF39ac5A5C8886cF3496326d8164E1E",
+ "files": 14
+}

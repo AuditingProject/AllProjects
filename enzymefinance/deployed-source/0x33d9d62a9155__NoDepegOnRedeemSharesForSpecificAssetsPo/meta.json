@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/current-shareholders/NoDepegOnRedeemSharesForSpecificAssetsPolicy.sol:NoDepegOnRedeemSharesForSpecificAssetsPolicy",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x33d9d62a9155e96202378b80078bf73d4f1317a9",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "NoDepegOnRedeemSharesForSpecificAssetsPolicy",
+ "asset_url": "https://basescan.org/address/0x33d9d62a9155e96202378b80078bf73d4f1317a9",
+ "files": 12
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/limit-order/GMTokenLimitOrder.sol:GMTokenLimitOrder",
+ "compiler": "0.8.24+commit.e11b9ed9",
+ "address": "0x96b525B1a93f31E65F4aAf18C53842eD28525D48",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "GMTokenLimitOrder (BSC)",
+ "asset_url": "https://bscscan.com/address/0x96b525B1a93f31E65F4aAf18C53842eD28525D48",
+ "files": 20
+}

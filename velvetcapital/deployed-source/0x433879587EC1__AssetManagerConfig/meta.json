@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/registry/AssetManagerConfig.sol:AssetManagerConfig",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x433879587EC11845ACE71C9c4061DeDa7a6d17Be",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "AssetManagerConfig",
+ "asset_url": "https://bscscan.com/address/0x433879587EC11845ACE71C9c4061DeDa7a6d17Be",
+ "files": 15
+}

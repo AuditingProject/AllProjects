@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "L1LPTDataCache",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x1d24838b35A9c138Ac157A852e19e948aD6323D7",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "L1LPTDataCache",
+ "asset_url": "https://etherscan.io/address/0x1d24838b35A9c138Ac157A852e19e948aD6323D7#code",
+ "files": 6
+}

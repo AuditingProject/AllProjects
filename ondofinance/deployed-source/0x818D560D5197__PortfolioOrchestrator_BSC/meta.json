@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/external/openzeppelin/contracts/proxy/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0x818D560D5197C6DF7afFc41833289C453aDEE738",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "PortfolioOrchestrator (BSC)",
+ "asset_url": "https://bscscan.com/address/0x818D560D5197C6DF7afFc41833289C453aDEE738",
+ "files": 9
+}

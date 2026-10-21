@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "RootAxelarBridgeAdaptor",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xE2E91C1Ae2873720C3b975a8034e887A35323345",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "L1 Ethereum Mainnet Chain ID 1 - Adapter Implementation",
+ "asset_url": "https://etherscan.io/address/0xE2E91C1Ae2873720C3b975a8034e887A35323345",
+ "files": 28
+}

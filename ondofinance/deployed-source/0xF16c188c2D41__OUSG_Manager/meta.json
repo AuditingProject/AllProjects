@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/ousg/ousgManager.sol:OUSGManager",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xF16c188c2D411627d39655A60409eC6707D3d5e8",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OUSG Manager",
+ "asset_url": "https://etherscan.io/address/0xF16c188c2D411627d39655A60409eC6707D3d5e8",
+ "files": 26
+}

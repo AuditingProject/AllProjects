@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "GnosisSafeProxy.sol:GnosisSafeProxy",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0x249aAbb1d67A76404Cc1197fa37ADAf358B1E212",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "MATIC MultiSig",
+ "asset_url": "https://polygonscan.com/address/0x249aAbb1d67A76404Cc1197fa37ADAf358B1E212#code",
+ "files": 1
+}

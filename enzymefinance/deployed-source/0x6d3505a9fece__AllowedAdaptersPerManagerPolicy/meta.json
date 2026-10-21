@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/AllowedAdaptersPerManagerPolicy.sol:AllowedAdaptersPerManagerPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x6d3505a9fece30cc15514cedc7ae664ab39b2035",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "AllowedAdaptersPerManagerPolicy",
+ "asset_url": "https://basescan.org/address/0x6d3505a9fece30cc15514cedc7ae664ab39b2035",
+ "files": 12
+}

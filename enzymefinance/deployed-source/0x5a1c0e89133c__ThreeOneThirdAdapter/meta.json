@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/ThreeOneThirdAdapter.sol:ThreeOneThirdAdapter",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x5a1c0e89133c4cd844a8b345370565f1368a79a8",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ThreeOneThirdAdapter",
+ "asset_url": "https://etherscan.io/address/0x5a1c0e89133c4cd844a8b345370565f1368a79a8",
+ "files": 20
+}

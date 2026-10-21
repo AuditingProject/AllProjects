@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "deBridgeGate Proxy BSC",
+ "asset_url": "https://bscscan.com/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+ "files": 1
+}

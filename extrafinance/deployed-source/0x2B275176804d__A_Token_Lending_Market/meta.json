@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.optimism.io",
+ "match": "verified",
+ "name": "AToken",
+ "compiler": "v0.8.24+commit.e11b9ed9",
+ "address": "0x2B275176804dd01b6a90d61bDa3c80E3A470662E",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "A_Token (Lending Market)",
+ "asset_url": "https://optimistic.etherscan.io/address/0x2B275176804dd01b6a90d61bDa3c80E3A470662E#code",
+ "files": 21
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "AddressCalculation",
+ "compiler": "v0.8.25+commit.b61c2a91",
+ "address": "0xd1db2c4A9d2BEBd56d42E59F2d90F4136164faD6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AddressCalculation",
+ "asset_url": "https://etherscan.io/address/0xd1db2c4A9d2BEBd56d42E59F2d90F4136164faD6",
+ "files": 39
+}

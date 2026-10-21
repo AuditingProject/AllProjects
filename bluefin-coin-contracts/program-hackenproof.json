@@ -1,0 +1,143 @@
+{
+ "title": "Bluefin Coin Contracts",
+ "logo": "/uploads/bounty_program/logo/684820fd40041ca40d17d5a8/logo.png?timestamp=1792480973",
+ "logoPresent": true,
+ "companyName": "Bluefin",
+ "companySlug": "bluefin",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "13 Jun 2025",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/bluefin-coin-contracts/reports/new",
+ "kycRequired": true,
+ "pocRequired": true,
+ "reputationRequired": null,
+ "minReputation": 100,
+ "submissionFee": 5,
+ "programOfTheWeek": false,
+ "depositAvailable": false,
+ "maxReward": "$15,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 3,
+   "reputation": 4,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/69ee2c6840041c001ec7135d/avatar.png?timestamp=1788907505",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "Ramirez911",
+    "verified": true
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 2,
+   "reputation": 4,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/696df58a40041c4a4374338b/avatar.png?timestamp=1792406729",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "eshaanvikasgupta",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 1,
+   "reputation": 2,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a68e10a40041c4a771680cc/avatar.png?timestamp=1792085321",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "itsdarktoday",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 1,
+   "reputation": 2,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a80e64840041c0010e56c3a/avatar.png?timestamp=1792374304",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "Mabera",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 1,
+   "reputation": 2,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a1d83c340041cf5a6e60a3d/avatar.png?timestamp=1784065451",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "humblegod",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 30,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 15000,
+  "critical_min": 10000,
+  "high_max": 5000,
+  "high_min": 5000,
+  "low_max": null,
+  "low_min": null,
+  "medium_max": 0,
+  "medium_min": 0
+ },
+ "description": "Bluefin is a decentralized spot and derivatives exchange on Sui.",
+ "sla": {
+  "first_response": 3,
+  "resolution_time": 14,
+  "time_to_reward": 3,
+  "time_to_triage": 3
+ },
+ "totalRewards": 0,
+ "submittedReports": 48,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "6a63a29e40041c002c1673d2",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/hackenproof-public/bluefin-coin-contracts",
+   "target_description": "!! Only smart contracts residing in the sources folder are in scope. The rest is there to make testing easier !! Please contact our support team in Discord to get access to scope.",
+   "title": "Smart Contract"
+  }
+ ],
+ "programRules": "* Avoid using web application scanners for automatic vulnerability searching which generates massive traffic\r\n* Make every effort not to damage or restrict the availability of products, services, or infrastructure\r\n* Avoid compromising any personal data, interruption, or degradation of any service\r\n* Don\u2019t access or modify other user data, localize all tests to your accounts\r\n* Perform testing only within the scope\r\n* Don\u2019t exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam\r\n* Don\u2019t spam forms or account creation flows using automated scanners\r\n* In case you find chain vulnerabilities we\u2019ll pay only for vulnerability with the highest severity.\r\n* Don\u2019t break any law and stay in the defined scope\r\n* Any details of found vulnerabilities must not be communicated to anyone who is not a HackenProof Team or an authorized employee of this Company without appropriate permission",
+ "focusArea": "## IN SCOPE VULNERABILITIES (Smart Contracts)\r\n We are looking for evidence and reasons for incorrect behavior of the smart contract, which could cause unintended functionality:\r\n* Stealing or loss of funds\r\n* Unauthorized transaction\r\n* Transaction manipulation\r\n* Attacks on logic (behavior of the code is different from the business description)\r\n* Reentrancy\r\n* Reordering\r\n* Over and underflows\r\n\r\n\r\n## OUT OF SCOPE VULNERABILITIES (Smart Contracts)\r\n* Theoretical vulnerabilities without any proof or demonstration\r\n* Old compiler version\r\n* The compiler version is not locked\r\n* Vulnerabilities in imported contracts\r\n* Code style guide violations\r\n* Redundant code\r\n* Gas optimizations\r\n* Best practice issues\r\n* Vulnerabilities that can be exploited through front-run attacks only",
+ "disclosureGuidelines": "* Do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization\r\n* No vulnerability disclosure, including partial is allowed for the moment.\r\n* Please do NOT publish/discuss bugs",
+ "eligibilityAndCoordinateDisclosure": "We are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:\r\n\r\n* You must be the first reporter of a vulnerability.\r\n* The vulnerability must be a qualifying vulnerability\r\n* Any vulnerability found must be reported no later than 24 hours after discovery and exclusively through hackenproof.com\r\n* You must send a clear textual description of the report along with steps to reproduce the issue, include attachments such as screenshots or proof of concept code as necessary.\r\n* You must not be a former or current employee of us or one of its contractor.\r\n* ONLY USE the EMAIL under which you registered your HackenProof account (in case of violation, no bounty can be awarded)\r\n* Provide detailed but to-the point reproduction steps\r\n* AI-generated reports without runable PoC are not accepted under this program.",
+ "labels": {
+  "types": [
+   "smart contract"
+  ],
+  "languages": [
+   "Move"
+  ],
+  "platforms": [],
+  "project_types": [
+   "Sui Ecosystem"
+  ]
+ },
+ "customBlocks": [],
+ "scopeReview": 292966,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "15000.0",
+ "minBounty": "5000.0"
+}

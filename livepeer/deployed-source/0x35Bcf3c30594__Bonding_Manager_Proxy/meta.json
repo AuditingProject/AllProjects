@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/ManagerProxy.sol:ManagerProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x35Bcf3c30594191d53231E4FF333E8A770453e40",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "Bonding Manager (Proxy)",
+ "asset_url": "https://arbiscan.io/address/0x35Bcf3c30594191d53231E4FF333E8A770453e40#code",
+ "files": 7
+}

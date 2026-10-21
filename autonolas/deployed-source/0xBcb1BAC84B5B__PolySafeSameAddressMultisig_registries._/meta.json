@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/multisigs/GnosisSafeSameAddressMultisig.sol:GnosisSafeSameAddressMultisig",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0xBcb1BAC84B5BcAb350C89c50ADc9064eD15a4485",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "PolySafeSameAddressMultisig \u2014 registries. Polygon same-address multisig update helper. Polygon.",
+ "asset_url": "https://polygonscan.com/address/0xBcb1BAC84B5BcAb350C89c50ADc9064eD15a4485#code",
+ "files": 1
+}

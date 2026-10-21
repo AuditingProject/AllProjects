@@ -1,0 +1,13 @@
+{
+ "source": "tronscan",
+ "match": "name-only",
+ "name": "Comptroller",
+ "compiler": null,
+ "note": "TRONScan does not expose source for this contract; name only.",
+ "address": "TCtzg2CQsAuLkSxrGjFGbHVwKvv95W9C8e",
+ "chain": 728126428,
+ "explorer_host": "tronscan.org",
+ "asset_description": "Comptroller",
+ "asset_url": "https://tronscan.org/#/contract/TCtzg2CQsAuLkSxrGjFGbHVwKvv95W9C8e/code",
+ "files": 0
+}

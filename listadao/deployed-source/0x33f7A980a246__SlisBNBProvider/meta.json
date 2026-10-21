@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x33f7A980a246f9B8FEA2254E3065576E127D4D5f",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "SlisBNBProvider",
+ "asset_url": "https://bscscan.com/address/0x33f7A980a246f9B8FEA2254E3065576E127D4D5f",
+ "files": 9
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/integration-manager/IntegrationManager.sol:IntegrationManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x31329024f1a3e4a4b3336e0b1dfa74cc3fec633e",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "IntegrationManager",
+ "asset_url": "https://etherscan.io/address/0x31329024f1a3e4a4b3336e0b1dfa74cc3fec633e",
+ "files": 23
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "BasicRecipient",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xe9b3c628103580702b465c052f67843cac61fb35",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BasicRecipient - USDC",
+ "asset_url": "https://etherscan.io/address/0xe9b3c628103580702b465c052f67843cac61fb35",
+ "files": 16
+}

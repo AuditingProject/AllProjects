@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/AllowedExternalPositionTypesPerManagerPolicy.sol:AllowedExternalPositionTypesPerManagerPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x31af0ed80bc630522035c114972c3bec574cee60",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "AllowedExternalPositionTypesPerManagerPolicy",
+ "asset_url": "https://basescan.org/address/0x31af0ed80bc630522035c114972c3bec574cee60",
+ "files": 13
+}

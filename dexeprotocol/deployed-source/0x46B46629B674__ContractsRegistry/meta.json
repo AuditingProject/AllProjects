@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/evm/quoters/protocols/ntt/NttQuoterProxy.sol:NttQuoterProxy",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x46B46629B674b4C0b48B111DEeB0eAfd9F84A1c0",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "ContractsRegistry",
+ "asset_url": "https://bscscan.com/address/0x46B46629B674b4C0b48B111DEeB0eAfd9F84A1c0",
+ "files": 9
+}

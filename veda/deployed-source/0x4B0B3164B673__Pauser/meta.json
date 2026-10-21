@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.inkonchain.com",
+ "match": "verified",
+ "name": "Pauser",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0x4B0B3164B6731ACd96e29F13bF6c112204d5f024",
+ "chain": 57073,
+ "explorer_host": "explorer.inkonchain.com",
+ "asset_description": "Pauser",
+ "asset_url": "https://explorer.inkonchain.com/address/0x4B0B3164B6731ACd96e29F13bF6c112204d5f024",
+ "files": 3
+}

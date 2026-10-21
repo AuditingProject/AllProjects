@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/polling/PollCreator.sol:PollCreator",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x8bb50806D60c492c0004DAD5D9627DAA2d9732E6",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "PollCreator",
+ "asset_url": "https://arbiscan.io/address/0x8bb50806D60c492c0004DAD5D9627DAA2d9732E6#code",
+ "files": 2
+}

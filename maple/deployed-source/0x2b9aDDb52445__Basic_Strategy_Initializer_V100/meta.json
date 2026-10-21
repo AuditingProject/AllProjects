@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/proxy/basicStrategy/MapleBasicStrategyInitializer.sol:MapleBasicStrategyInitializer",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x2b9aDDb5244548f126e59FA5483040efc102f69e",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Basic Strategy Initializer (V100)",
+ "asset_url": "https://etherscan.io/address/0x2b9aDDb5244548f126e59FA5483040efc102f69e",
+ "files": 11
+}

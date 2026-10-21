@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/current-shareholders/AllowedRedeemersForSpecificAssetsPolicy.sol:AllowedRedeemersForSpecificAssetsPolicy",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x19abba4ab3134c64abdd17a9073d1ec83663f036",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "AllowedRedeemersForSpecificAssetsPolicy",
+ "asset_url": "https://arbiscan.io/address/0x19abba4ab3134c64abdd17a9073d1ec83663f036",
+ "files": 12
+}

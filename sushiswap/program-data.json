@@ -1,0 +1,163 @@
+{
+ "assets": [
+  {
+   "id": "5TFgF2NoKSQeWTEdlpUGzk",
+   "url": "https://docs.sushi.com/contracts/red-snwapper#deployments",
+   "type": "smart_contract",
+   "addedAt": "2025-10-07T15:42:32.045Z",
+   "revision": 2,
+   "description": "Red Snwapper",
+   "isPrimacyOfImpact": null,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "6B4xxxhUuHtuPjrOciREcp",
+   "url": "https://docs.sushi.com/contracts/cpamm#deployments",
+   "type": "smart_contract",
+   "addedAt": "2025-10-07T15:43:02.712Z",
+   "revision": 1,
+   "description": "cpAMM (SuhiSwap V2)",
+   "isPrimacyOfImpact": null,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "2ZofOr0vchGeyPipicfqKv",
+   "url": "https://docs.sushi.com/contracts/clamm#deployments",
+   "type": "smart_contract",
+   "addedAt": "2025-10-07T15:43:26.110Z",
+   "revision": 1,
+   "description": "clAMM (SuhiSwap V3)",
+   "isPrimacyOfImpact": null,
+   "fund": null,
+   "info": null
+  }
+ ],
+ "rewards": [
+  {
+   "id": 37400,
+   "severity": "critical",
+   "assetType": "smart_contract",
+   "maxReward": 200000,
+   "minReward": 20000,
+   "rewardModel": "range",
+   "rewardCalculationPercentage": 10
+  },
+  {
+   "id": 37401,
+   "severity": "high",
+   "assetType": "smart_contract",
+   "maxReward": 20000,
+   "minReward": 5000,
+   "rewardModel": "range"
+  },
+  {
+   "id": 37402,
+   "severity": "medium",
+   "assetType": "smart_contract",
+   "maxReward": 5000,
+   "minReward": 1000,
+   "rewardModel": "range"
+  },
+  {
+   "id": 37403,
+   "severity": "low",
+   "assetType": "smart_contract",
+   "fixedReward": 1000,
+   "rewardModel": "fixed"
+  }
+ ],
+ "impacts": [
+  {
+   "id": 34,
+   "type": "smart_contract",
+   "severity": "low",
+   "title": "Contract fails to deliver promised returns, but doesn't lose value"
+  },
+  {
+   "id": 322,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Theft of unclaimed inflation"
+  },
+  {
+   "id": 323,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Permanent freezing of unclaimed inflation"
+  },
+  {
+   "id": 27,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Temporary freezing of funds"
+  },
+  {
+   "id": 324,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Block stuffing for profit"
+  },
+  {
+   "id": 31,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
+  },
+  {
+   "id": 32,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Theft of gas"
+  },
+  {
+   "id": 33,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Unbounded gas consumption"
+  },
+  {
+   "id": 15,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
+  },
+  {
+   "id": 17,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Permanent freezing of funds"
+  },
+  {
+   "id": 22,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Protocol insolvency"
+  }
+ ],
+ "knownIssues": null,
+ "programCodebases": [
+  {
+   "id": 596,
+   "url": "https://github.com/sushi-labs",
+   "title": "SushiLabs",
+   "description": "Github repository"
+  },
+  {
+   "id": 597,
+   "url": "https://github.com/sushiswap",
+   "title": "SushiSwap",
+   "description": "Github repository"
+  }
+ ],
+ "maxBounty": 200000,
+ "kyc": false,
+ "updatedDate": "2025-10-16T22:38:56.122Z",
+ "launchDate": "2021-03-26T07:00:00.000Z",
+ "programOverview": "SushiSwap is an automated market-making (AMM) decentralized exchange (DEX) that allows users to provide liquidity for token swaps.\n\nFurther resources regarding SushiSwap can be found on their website, [https://sushi.com](https://sushi.com).\n\nProgram focuses on three sets of contracts:\n  - Constant Product AMM\n  - Concentrated Liquidity AMM\n  - RedSnwapper\n\n\nThe bug bounty program is focused around it's smart contracts for the purpose of preventing the loss of user funds.",
+ "rewardsBody": "$63",
+ "customOutOfScopeInformation": "  - Loss of positive slippage through Sandwich Attacks  \n  - Best practice critiques\n  - Attacks that rely on social engineering\n\n__Bug Bounty FAQ__\n\n__Q:__ Is there a time limit for the Bug Bounty program? \n__A:__ No, the Bug Bounty program currently has no end date, but this can be changed at any time at the discretion of SushiSwap.\n\n__Q:__ Can I submit bugs anonymously and still receive payment? \n__A:__ Yes, if you wish to remain anonymous you can do so and still be eligible for rewards as long as they are for valid bugs. Rewards will be sent to the valid Ethereum address that you provide.",
+ "assetsBodyV2": "__Submission Requirements__\n\nIn order to be considered for a reward, all bug reports must contain the following:\n  - Description of suspected vulnerability\n  - POC demonstrating the vulnerability for reproduction, can be a high-level POC\n  - Steps to reproduce the issue\n  - Your name and/or colleagues if you wish to be later recognized\n  - (Optional) A patch and/or suggestions to resolve the vulnerability\n\n__Ethical Behavior Requirements__\n\nResponsible disclosure is predicated on ethical behavior. These guidelines outline best practices for the community as whole, whether you are reporting, or the recipient of a report. By stating that you adhere to this policy, you\u2019re claiming to handle vulnerability information ethically, and abide by the following:\n\n  - Do not attempt to leverage a vulnerability, or information of its existence as part of a financial trading strategy or otherwise for financial gain.\n  - Do not attempt to compromise systems upon which development of a product relies; including but not limited to compromising development systems, accounts, domains, email, etc..\n  - Do not attempt to sell vulnerability information or exploits.\n  - Do not ask for any form of compensation from an affected party. You may compensate a disclosing party if you would like to after all known vulnerability details have been disclosed.\n  - Do not disclose a bug or vulnerability on mailing lists, public boards, forums, social media or any other channel prior to Responsibly Disclosing to the organizations you have a published relationship with\n  - Do not attempt any illegal acts, including phishing, physical attacks, DDoS, or any attempt to gain access without authorization.\n\n__3rd Party Affected Projects__\n\nIn the case where we become aware of security issues affecting other projects that have never affected SushiSwap, our intention is to inform those projects of security issues on a best effort basis.\n\nIn the case where we fix a security issue in SushiSwap that also affects the following neighboring projects, our intention is to engage in responsible disclosures with them as described in the adopted standard, subject to the deviations described in the deviations section below.\n\n__Deviations from the Standard__\n\nIn the case of a counterfeiting or fund-stealing bug affecting SushiSwap, however, we might decide not to include those details with our reports to partners ahead of coordinated release, as long as we are sure that they are not vulnerable.\n\n__Notes on Expected Behaviors__\n\n  - Any reports that involve tokens outside of ERC20s will not be considered in scope. (i.e. ERC777 tokens)c:",
+ "impactsBody": "When submitting a bug report, please select the severity level you feel best corresponds to the severity classification system."
+}

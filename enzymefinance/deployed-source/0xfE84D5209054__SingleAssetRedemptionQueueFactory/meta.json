@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/single-asset-redemption-queue/SingleAssetRedemptionQueueFactory.sol:SingleAssetRedemptionQueueFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xfE84D5209054254389C9D6a754B821f3a297D56a",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "SingleAssetRedemptionQueueFactory",
+ "asset_url": "https://etherscan.io/address/0xfE84D5209054254389C9D6a754B821f3a297D56a",
+ "files": 4
+}

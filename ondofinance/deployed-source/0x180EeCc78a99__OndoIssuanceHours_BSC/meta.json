@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/tokenManager/issuanceHours/IssuanceHoursAlwaysOpen.sol:IssuanceHoursAlwaysOpen",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0x180EeCc78a99d32E925Ff6a0Ed42adA2AbfdD1bB",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "OndoIssuanceHours (BSC)",
+ "asset_url": "https://bscscan.com/address/0x180EeCc78a99d32E925Ff6a0Ed42adA2AbfdD1bB",
+ "files": 2
+}

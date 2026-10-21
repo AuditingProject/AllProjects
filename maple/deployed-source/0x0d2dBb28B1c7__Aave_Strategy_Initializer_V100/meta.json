@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/proxy/aaveStrategy/MapleAaveStrategyInitializer.sol:MapleAaveStrategyInitializer",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x0d2dBb28B1c7d225132722FAdb2402E93A35c1Be",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Aave Strategy Initializer (V100)",
+ "asset_url": "https://etherscan.io/address/0x0d2dBb28B1c7d225132722FAdb2402E93A35c1Be",
+ "files": 8
+}

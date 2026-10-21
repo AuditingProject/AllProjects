@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-implementations/contracts/libraries/cpmm/CPMMMath.sol:CPMMMath",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xc5fa429C0492821d928D3ba03EB238E903BeBE03",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "CPMMMath",
+ "asset_url": "https://arbiscan.io/address/0xc5fa429C0492821d928D3ba03EB238E903BeBE03#code",
+ "files": 4
+}

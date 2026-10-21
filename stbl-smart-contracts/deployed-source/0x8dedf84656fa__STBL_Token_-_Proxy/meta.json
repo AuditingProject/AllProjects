@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0x8dedf84656fa932157e27c060d8613824e7979e3",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "STBL_Token - Proxy",
+ "asset_url": "https://bscscan.com/address/0x8dedf84656fa932157e27c060d8613824e7979e3#code",
+ "files": 14
+}

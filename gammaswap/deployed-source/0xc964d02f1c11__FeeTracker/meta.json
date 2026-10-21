@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-staking/contracts/FeeTracker.sol:FeeTracker",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xc964d02f1c11e1bb1156e7c270687d6080661e9c",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "FeeTracker",
+ "asset_url": "https://arbiscan.io/address/0xc964d02f1c11e1bb1156e7c270687d6080661e9c#code",
+ "files": 15
+}

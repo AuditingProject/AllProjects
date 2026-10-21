@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/persistent/uint-list-registry/UintListRegistry.sol:UintListRegistry",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x6ffd6fc068e7b365af18da4fdc39d3289159407b",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "UintListRegistry",
+ "asset_url": "https://etherscan.io/address/0x6ffd6fc068e7b365af18da4fdc39d3289159407b",
+ "files": 2
+}

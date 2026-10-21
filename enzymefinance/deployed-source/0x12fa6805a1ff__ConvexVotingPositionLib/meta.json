@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/external-position-manager/external-positions/convex-voting/ConvexVotingPositionLib.sol:ConvexVotingPositionLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x12fa6805a1ff2d21318dcbcf677712bde8a033e1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ConvexVotingPositionLib",
+ "asset_url": "https://etherscan.io/address/0x12fa6805a1ff2d21318dcbcf677712bde8a033e1",
+ "files": 16
+}

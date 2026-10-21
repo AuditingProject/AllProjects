@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ManagerWithMerkleVerification",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0xf9f7969C357ce6dfd7973098Ea0D57173592bCCa",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "LiquidETH - manager",
+ "asset_url": "https://etherscan.io/address/0xf9f7969C357ce6dfd7973098Ea0D57173592bCCa",
+ "files": 19
+}

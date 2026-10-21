@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/fee-manager/fees/EntranceRateDirectFee.sol:EntranceRateDirectFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x88c9a11c7bb8bc274388d0db864ab87c14fb78b8",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "EntranceRateDirectFee",
+ "asset_url": "https://polygonscan.com/address/0x88c9a11c7bb8bc274388d0db864ab87c14fb78b8",
+ "files": 46
+}

@@ -1,0 +1,785 @@
+[
+ {
+  "url": "https://etherscan.io/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+  "desc": "ProxyAdmin ETH",
+  "status": "fetched",
+  "dir": "0xE4427af3555C__ProxyAdmin_ETH",
+  "name": "ProxyAdmin",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 10
+ },
+ {
+  "url": "https://bscscan.com/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+  "desc": "ProxyAdmin BSC",
+  "status": "fetched",
+  "dir": "0xE4427af3555C__ProxyAdmin_BSC",
+  "name": "ProxyAdmin.sol:ProxyAdmin",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://polygonscan.com/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+  "desc": "ProxyAdmin MATIC",
+  "status": "no-verified-source",
+  "host": "polygonscan.com",
+  "chain": 137,
+  "address": "0xE4427af3555CD9303D728C491364FAdFDD7494Fe"
+ },
+ {
+  "url": "https://hecoinfo.com/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+  "desc": "ProxyAdmin HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0xE4427af3555CD9303D728C491364FAdFDD7494Fe"
+ },
+ {
+  "url": "https://arbiscan.io/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+  "desc": "ProxyAdmin ARBI",
+  "status": "fetched",
+  "dir": "0xE4427af3555C__ProxyAdmin_ARBI",
+  "name": "ProxyAdmin.sol:ProxyAdmin",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://snowtrace.io/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+  "desc": "ProxyAdmin AVAX",
+  "status": "fetched",
+  "dir": "0xE4427af3555C__ProxyAdmin_AVAX",
+  "name": "ProxyAdmin",
+  "source": "routescan",
+  "files": 1
+ },
+ {
+  "url": "https://ftmscan.com/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+  "desc": "ProxyAdmin FTM",
+  "status": "no-verified-source",
+  "host": "ftmscan.com",
+  "chain": 250,
+  "address": "0xE4427af3555CD9303D728C491364FAdFDD7494Fe"
+ },
+ {
+  "url": "https://etherscan.io/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+  "desc": "deBridgeGate Proxy ETH",
+  "status": "fetched",
+  "dir": "0x43dE2d77BF80__deBridgeGate_Proxy_ETH",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 7
+ },
+ {
+  "url": "https://bscscan.com/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+  "desc": "deBridgeGate Proxy BSC",
+  "status": "fetched",
+  "dir": "0x43dE2d77BF80__deBridgeGate_Proxy_BSC",
+  "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://polygonscan.com/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+  "desc": "deBridgeGate Proxy MATIC",
+  "status": "no-verified-source",
+  "host": "polygonscan.com",
+  "chain": 137,
+  "address": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+ },
+ {
+  "url": "https://hecoinfo.com/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+  "desc": "deBridgeGate Proxy HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+ },
+ {
+  "url": "https://arbiscan.io/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+  "desc": "deBridgeGate Proxy ARBI",
+  "status": "fetched",
+  "dir": "0x43dE2d77BF80__deBridgeGate_Proxy_ARBI",
+  "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://snowtrace.io/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+  "desc": "deBridgeGate Proxy AVAX",
+  "status": "fetched",
+  "dir": "0x43dE2d77BF80__deBridgeGate_Proxy_AVAX",
+  "name": "TransparentUpgradeableProxy",
+  "source": "routescan",
+  "files": 1
+ },
+ {
+  "url": "https://ftmscan.com/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+  "desc": "deBridgeGate Proxy FTM",
+  "status": "no-verified-source",
+  "host": "ftmscan.com",
+  "chain": 250,
+  "address": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+ },
+ {
+  "url": "https://etherscan.io/address/0x24455aa55ded7728783c9474be8ea2f5c935f8eb",
+  "desc": "deBridgeGate ETH",
+  "status": "fetched",
+  "dir": "0x24455aa55ded__deBridgeGate_ETH",
+  "name": "DeBridgeGate",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 29
+ },
+ {
+  "url": "https://bscscan.com/address/0x24455aa55ded7728783c9474be8ea2f5c935f8eb",
+  "desc": "deBridgeGate BSC",
+  "status": "fetched",
+  "dir": "0x24455aa55ded__deBridgeGate_BSC",
+  "name": "contracts/transfers/DeBridgeGate.sol:DeBridgeGate",
+  "source": "sourcify",
+  "files": 29
+ },
+ {
+  "url": "https://polygonscan.com/address/0xcc7571c12b6f4647c4b8c851b62721f6a373c695",
+  "desc": "deBridgeGate MATIC",
+  "status": "fetched",
+  "dir": "0xcc7571c12b6f__deBridgeGate_MATIC",
+  "name": "contracts/transfers/DeBridgeGate.sol:DeBridgeGate",
+  "source": "sourcify",
+  "files": 29
+ },
+ {
+  "url": "https://hecoinfo.com/address/0x24455aa55ded7728783c9474be8ea2f5c935f8eb",
+  "desc": "deBridgeGate HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0x24455aa55ded7728783c9474be8ea2f5c935f8eb"
+ },
+ {
+  "url": "https://arbiscan.io/address/0x24455aa55ded7728783c9474be8ea2f5c935f8eb",
+  "desc": "deBridgeGate ARBI",
+  "status": "fetched",
+  "dir": "0x24455aa55ded__deBridgeGate_ARBI",
+  "name": "contracts/transfers/DeBridgeGate.sol:DeBridgeGate",
+  "source": "sourcify",
+  "files": 29
+ },
+ {
+  "url": "https://snowtrace.io/address/0xb1a20d1c885fd775df97396397d6f8f07abdd20d",
+  "desc": "deBridgeGate AVAX",
+  "status": "fetched",
+  "dir": "0xb1a20d1c885f__deBridgeGate_AVAX",
+  "name": "DeBridgeGate",
+  "source": "routescan",
+  "files": 29
+ },
+ {
+  "url": "https://ftmscan.com/address/0xb1a20d1c885fd775df97396397d6f8f07abdd20d",
+  "desc": "deBridgeGate FTM",
+  "status": "fetched",
+  "dir": "0xb1a20d1c885f__deBridgeGate_FTM",
+  "name": "contracts/transfers/DeBridgeGate.sol:DeBridgeGate",
+  "source": "sourcify",
+  "files": 29
+ },
+ {
+  "url": "https://etherscan.io/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+  "desc": "deBridgeToken Proxy ETH",
+  "status": "fetched",
+  "dir": "0x8244d6Ffe069__deBridgeToken_Proxy_ETH",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 13
+ },
+ {
+  "url": "https://bscscan.com/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+  "desc": "deBridgeToken Proxy BSC",
+  "status": "fetched",
+  "dir": "0x8244d6Ffe069__deBridgeToken_Proxy_BSC",
+  "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://polygonscan.com/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+  "desc": "deBridgeToken Proxy MATIC",
+  "status": "no-verified-source",
+  "host": "polygonscan.com",
+  "chain": 137,
+  "address": "0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464"
+ },
+ {
+  "url": "https://hecoinfo.com/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+  "desc": "deBridgeToken Proxy HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464"
+ },
+ {
+  "url": "https://arbiscan.io/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+  "desc": "deBridgeToken Proxy ARBI",
+  "status": "fetched",
+  "dir": "0x8244d6Ffe069__deBridgeToken_Proxy_ARBI",
+  "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://snowtrace.io/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+  "desc": "deBridgeToken Proxy AVAX",
+  "status": "fetched",
+  "dir": "0x8244d6Ffe069__deBridgeToken_Proxy_AVAX",
+  "name": "TransparentUpgradeableProxy",
+  "source": "routescan",
+  "files": 1
+ },
+ {
+  "url": "https://ftmscan.com/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+  "desc": "deBridgeToken Proxy FTM",
+  "status": "no-verified-source",
+  "host": "ftmscan.com",
+  "chain": 250,
+  "address": "0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464"
+ },
+ {
+  "url": "https://etherscan.io/address/0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+  "desc": "deBridgeToken ETH",
+  "status": "fetched",
+  "dir": "0xf8A2902c0a5f__deBridgeToken_ETH",
+  "name": "DeBridgeToken",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 15
+ },
+ {
+  "url": "https://bscscan.com/address/0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+  "desc": "deBridgeToken BSC",
+  "status": "fetched",
+  "dir": "0xf8A2902c0a5f__deBridgeToken_BSC",
+  "name": "contracts/periphery/DeBridgeToken.sol:DeBridgeToken",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://polygonscan.com/address/0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+  "desc": "deBridgeToken MATIC",
+  "status": "fetched",
+  "dir": "0xf8A2902c0a5f__deBridgeToken_MATIC",
+  "name": "contracts/periphery/DeBridgeToken.sol:DeBridgeToken",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://hecoinfo.com/address/0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+  "desc": "deBridgeGate Proxy HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b"
+ },
+ {
+  "url": "https://arbiscan.io/address/0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+  "desc": "deBridgeToken ARBI",
+  "status": "fetched",
+  "dir": "0xf8A2902c0a5f__deBridgeToken_ARBI",
+  "name": "contracts/periphery/DeBridgeToken.sol:DeBridgeToken",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://snowtrace.io/address/0xc1656B63D9EEBa6d114f6bE19565177893e5bCBF",
+  "desc": "deBridgeToken AVAX",
+  "status": "fetched",
+  "dir": "0xc1656B63D9EE__deBridgeToken_AVAX",
+  "name": "DeBridgeToken",
+  "source": "routescan",
+  "files": 15
+ },
+ {
+  "url": "https://ftmscan.com/address/0xc1656B63D9EEBa6d114f6bE19565177893e5bCBF",
+  "desc": "deBridgeToken FTM",
+  "status": "fetched",
+  "dir": "0xc1656B63D9EE__deBridgeToken_FTM",
+  "name": "contracts/periphery/DeBridgeToken.sol:DeBridgeToken",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://etherscan.io/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+  "desc": "deBridgeTokenDeployer ETH",
+  "status": "fetched",
+  "dir": "0x4c7CA8fcFFE7__deBridgeTokenDeployer_ETH",
+  "name": "DeBridgeTokenDeployer",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 22
+ },
+ {
+  "url": "https://bscscan.com/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+  "desc": "deBridgeTokenDeployer BSC",
+  "status": "fetched",
+  "dir": "0x4c7CA8fcFFE7__deBridgeTokenDeployer_BSC",
+  "name": "contracts/transfers/DeBridgeTokenDeployer.sol:DeBridgeTokenDeployer",
+  "source": "sourcify",
+  "files": 22
+ },
+ {
+  "url": "https://polygonscan.com/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+  "desc": "deBridgeTokenDeployer MATIC",
+  "status": "fetched",
+  "dir": "0x4c7CA8fcFFE7__deBridgeTokenDeployer_MATIC",
+  "name": "contracts/transfers/DeBridgeTokenDeployer.sol:DeBridgeTokenDeployer",
+  "source": "sourcify",
+  "files": 22
+ },
+ {
+  "url": "https://hecoinfo.com/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+  "desc": "deBridgeTokenDeployer HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491"
+ },
+ {
+  "url": "https://arbiscan.io/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+  "desc": "deBridgeTokenDeployer ARBI",
+  "status": "fetched",
+  "dir": "0x4c7CA8fcFFE7__deBridgeTokenDeployer_ARBI",
+  "name": "contracts/transfers/DeBridgeTokenDeployer.sol:DeBridgeTokenDeployer",
+  "source": "sourcify",
+  "files": 22
+ },
+ {
+  "url": "https://snowtrace.io/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+  "desc": "deBridgeTokenDeployer AVAX",
+  "status": "fetched",
+  "dir": "0x4c7CA8fcFFE7__deBridgeTokenDeployer_AVAX",
+  "name": "DeBridgeTokenDeployer",
+  "source": "routescan",
+  "files": 24
+ },
+ {
+  "url": "https://ftmscan.com/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+  "desc": "deBridgeTokenDeployer FTM",
+  "status": "no-verified-source",
+  "host": "ftmscan.com",
+  "chain": 250,
+  "address": "0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491"
+ },
+ {
+  "url": "https://etherscan.io/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+  "desc": "SignatureVerifier Proxy ETH",
+  "status": "fetched",
+  "dir": "0x949b3B3c0983__SignatureVerifier_Proxy_ETH",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 13
+ },
+ {
+  "url": "https://bscscan.com/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+  "desc": "SignatureVerifier Proxy BSC",
+  "status": "fetched",
+  "dir": "0x949b3B3c0983__SignatureVerifier_Proxy_BSC",
+  "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://polygonscan.com/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+  "desc": "SignatureVerifier Proxy MATIC",
+  "status": "no-verified-source",
+  "host": "polygonscan.com",
+  "chain": 137,
+  "address": "0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c"
+ },
+ {
+  "url": "https://hecoinfo.com/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+  "desc": "SignatureVerifier Proxy HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c"
+ },
+ {
+  "url": "https://arbiscan.io/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+  "desc": "SignatureVerifier Proxy ARBI",
+  "status": "fetched",
+  "dir": "0x949b3B3c0983__SignatureVerifier_Proxy_ARBI",
+  "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://snowtrace.io/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+  "desc": "SignatureVerifier Proxy AVAX",
+  "status": "fetched",
+  "dir": "0x949b3B3c0983__SignatureVerifier_Proxy_AVAX",
+  "name": "TransparentUpgradeableProxy",
+  "source": "routescan",
+  "files": 1
+ },
+ {
+  "url": "https://ftmscan.com/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+  "desc": "SignatureVerifier Proxy FTM",
+  "status": "no-verified-source",
+  "host": "ftmscan.com",
+  "chain": 250,
+  "address": "0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c"
+ },
+ {
+  "url": "https://etherscan.io/address/0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+  "desc": "SignatureVerifier ETH",
+  "status": "fetched",
+  "dir": "0xfE7De3c1e1BD__SignatureVerifier_ETH",
+  "name": "SignatureVerifier",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 12
+ },
+ {
+  "url": "https://bscscan.com/address/0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+  "desc": "SignatureVerifier BSC",
+  "status": "fetched",
+  "dir": "0xfE7De3c1e1BD__SignatureVerifier_BSC",
+  "name": "contracts/transfers/SignatureVerifier.sol:SignatureVerifier",
+  "source": "sourcify",
+  "files": 12
+ },
+ {
+  "url": "https://polygonscan.com/address/0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+  "desc": "SignatureVerifier MATIC",
+  "status": "fetched",
+  "dir": "0xfE7De3c1e1BD__SignatureVerifier_MATIC",
+  "name": "contracts/transfers/SignatureVerifier.sol:SignatureVerifier",
+  "source": "sourcify",
+  "files": 12
+ },
+ {
+  "url": "https://hecoinfo.com/address/0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+  "desc": "SignatureVerifier HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4"
+ },
+ {
+  "url": "https://arbiscan.io/address/0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+  "desc": "SignatureVerifier ARBI",
+  "status": "fetched",
+  "dir": "0xfE7De3c1e1BD__SignatureVerifier_ARBI",
+  "name": "contracts/transfers/SignatureVerifier.sol:SignatureVerifier",
+  "source": "sourcify",
+  "files": 12
+ },
+ {
+  "url": "https://snowtrace.io/address/0x2a3e72ed893b5958690e16c3bbe1bd92137b6250",
+  "desc": "SignatureVerifier AVAX",
+  "status": "fetched",
+  "dir": "0x2a3e72ed893b__SignatureVerifier_AVAX",
+  "name": "SignatureVerifier",
+  "source": "routescan",
+  "files": 12
+ },
+ {
+  "url": "https://ftmscan.com/address/0x2a3e72eD893b5958690e16c3BBe1BD92137b6250",
+  "desc": "SignatureVerifier FTM",
+  "status": "fetched",
+  "dir": "0x2a3e72eD893b__SignatureVerifier_FTM",
+  "name": "contracts/transfers/SignatureVerifier.sol:SignatureVerifier",
+  "source": "sourcify",
+  "files": 12
+ },
+ {
+  "url": "https://etherscan.io/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+  "desc": "CallProxy Proxy ETH",
+  "status": "fetched",
+  "dir": "0x8a0C79F5532f__CallProxy_Proxy_ETH",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 13
+ },
+ {
+  "url": "https://bscscan.com/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+  "desc": "CallProxy Proxy BSC",
+  "status": "fetched",
+  "dir": "0x8a0C79F5532f__CallProxy_Proxy_BSC",
+  "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://polygonscan.com/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+  "desc": "CallProxy Proxy MATIC",
+  "status": "no-verified-source",
+  "host": "polygonscan.com",
+  "chain": 137,
+  "address": "0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824"
+ },
+ {
+  "url": "https://hecoinfo.com/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+  "desc": "CallProxy Proxy HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824"
+ },
+ {
+  "url": "https://arbiscan.io/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+  "desc": "CallProxy Proxy ARBI",
+  "status": "fetched",
+  "dir": "0x8a0C79F5532f__CallProxy_Proxy_ARBI",
+  "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://snowtrace.io/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+  "desc": "CallProxy Proxy AVAX",
+  "status": "fetched",
+  "dir": "0x8a0C79F5532f__CallProxy_Proxy_AVAX",
+  "name": "TransparentUpgradeableProxy",
+  "source": "routescan",
+  "files": 1
+ },
+ {
+  "url": "https://ftmscan.com/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+  "desc": "CallProxy Proxy FTM",
+  "status": "no-verified-source",
+  "host": "ftmscan.com",
+  "chain": 250,
+  "address": "0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824"
+ },
+ {
+  "url": "https://etherscan.io/address/0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+  "desc": "CallProxy ETH",
+  "status": "fetched",
+  "dir": "0xBd3d657AE876__CallProxy_ETH",
+  "name": "CallProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 15
+ },
+ {
+  "url": "https://bscscan.com/address/0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+  "desc": "CallProxy BSC",
+  "status": "fetched",
+  "dir": "0xBd3d657AE876__CallProxy_BSC",
+  "name": "contracts/periphery/CallProxy.sol:CallProxy",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://polygonscan.com/address/0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+  "desc": "CallProxy MATIC",
+  "status": "fetched",
+  "dir": "0xBd3d657AE876__CallProxy_MATIC",
+  "name": "contracts/periphery/CallProxy.sol:CallProxy",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://hecoinfo.com/address/0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+  "desc": "CallProxy HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8"
+ },
+ {
+  "url": "https://arbiscan.io/address/0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+  "desc": "CallProxy ARBI",
+  "status": "fetched",
+  "dir": "0xBd3d657AE876__CallProxy_ARBI",
+  "name": "contracts/periphery/CallProxy.sol:CallProxy",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://snowtrace.io/address/0xD34c2302F497b8A7fe2d07865f31dBE04d5044d6",
+  "desc": "CallProxy AVAX",
+  "status": "fetched",
+  "dir": "0xD34c2302F497__CallProxy_AVAX",
+  "name": "CallProxy",
+  "source": "routescan",
+  "files": 15
+ },
+ {
+  "url": "https://ftmscan.com/address/0x55C93b20Dd2F790AC429D6341a022A781791654A",
+  "desc": "CallProxy FTM",
+  "status": "fetched",
+  "dir": "0x55C93b20Dd2F__CallProxy_FTM",
+  "name": "contracts/periphery/CallProxy.sol:CallProxy",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://etherscan.io/address/0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+  "desc": "SimpleFeeProxy Proxy ETH",
+  "status": "fetched",
+  "dir": "0xC2bAC0DB5B18__SimpleFeeProxy_Proxy_ETH",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 13
+ },
+ {
+  "url": "https://bscscan.com/address/0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+  "desc": "SimpleFeeProxy Proxy BSC",
+  "status": "fetched",
+  "dir": "0xC2bAC0DB5B18__SimpleFeeProxy_Proxy_BSC",
+  "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://polygonscan.com/address/0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+  "desc": "SimpleFeeProxy Proxy MATIC",
+  "status": "no-verified-source",
+  "host": "polygonscan.com",
+  "chain": 137,
+  "address": "0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636"
+ },
+ {
+  "url": "https://hecoinfo.com/address/0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+  "desc": "SimpleFeeProxy Proxy HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636"
+ },
+ {
+  "url": "https://arbiscan.io/address/0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+  "desc": "SimpleFeeProxy Proxy HECO",
+  "status": "fetched",
+  "dir": "0xC2bAC0DB5B18__SimpleFeeProxy_Proxy_HECO",
+  "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://snowtrace.io/address/0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+  "desc": "SimpleFeeProxy Proxy AVAX",
+  "status": "fetched",
+  "dir": "0xC2bAC0DB5B18__SimpleFeeProxy_Proxy_AVAX",
+  "name": "TransparentUpgradeableProxy",
+  "source": "routescan",
+  "files": 1
+ },
+ {
+  "url": "https://ftmscan.com/address/0xc2bac0db5b18b0c3225581ba14bd0b448c623636",
+  "desc": "SimpleFeeProxy Proxy FTM",
+  "status": "no-verified-source",
+  "host": "ftmscan.com",
+  "chain": 250,
+  "address": "0xc2bac0db5b18b0c3225581ba14bd0b448c623636"
+ },
+ {
+  "url": "https://etherscan.io/address/0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+  "desc": "SimpleFeeProxy ETH",
+  "status": "fetched",
+  "dir": "0x37a52ddb753c__SimpleFeeProxy_ETH",
+  "name": "SimpleFeeProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 13
+ },
+ {
+  "url": "https://bscscan.com/address/0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+  "desc": "SimpleFeeProxy BSC",
+  "status": "fetched",
+  "dir": "0x37a52ddb753c__SimpleFeeProxy_BSC",
+  "name": "contracts/periphery/SimpleFeeProxy.sol:SimpleFeeProxy",
+  "source": "sourcify",
+  "files": 13
+ },
+ {
+  "url": "https://polygonscan.com/address/0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+  "desc": "SimpleFeeProxy MATIC",
+  "status": "fetched",
+  "dir": "0x37a52ddb753c__SimpleFeeProxy_MATIC",
+  "name": "contracts/periphery/SimpleFeeProxy.sol:SimpleFeeProxy",
+  "source": "sourcify",
+  "files": 13
+ },
+ {
+  "url": "https://hecoinfo.com/address/0x37a52ddb753c924f8C914de65ef00b5210Caa83C",
+  "desc": "SimpleFeeProxy HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0x37a52ddb753c924f8C914de65ef00b5210Caa83C"
+ },
+ {
+  "url": "https://arbiscan.io/address/0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+  "desc": "SimpleFeeProxy ARBI",
+  "status": "fetched",
+  "dir": "0x37a52ddb753c__SimpleFeeProxy_ARBI",
+  "name": "contracts/periphery/SimpleFeeProxy.sol:SimpleFeeProxy",
+  "source": "sourcify",
+  "files": 13
+ },
+ {
+  "url": "https://snowtrace.io/address/0x27406ebf0b76923d93b4c6c6224bcab7fff11f87",
+  "desc": "SimpleFeeProxy AVAX",
+  "status": "fetched",
+  "dir": "0x27406ebf0b76__SimpleFeeProxy_AVAX",
+  "name": "SimpleFeeProxy",
+  "source": "routescan",
+  "files": 13
+ },
+ {
+  "url": "https://ftmscan.com/address/0x27406EbF0b76923d93b4C6c6224bCaB7fFf11f87",
+  "desc": "SimpleFeeProxy FTM",
+  "status": "fetched",
+  "dir": "0x27406EbF0b76__SimpleFeeProxy_FTM",
+  "name": "contracts/periphery/SimpleFeeProxy.sol:SimpleFeeProxy",
+  "source": "sourcify",
+  "files": 13
+ },
+ {
+  "url": "https://etherscan.io/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+  "desc": "WethGate ETH",
+  "status": "fetched",
+  "dir": "0xFCf83648b8cD__WethGate_ETH",
+  "name": "WethGate",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 3
+ },
+ {
+  "url": "https://bscscan.com/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+  "desc": "WethGate BSC",
+  "status": "fetched",
+  "dir": "0xFCf83648b8cD__WethGate_BSC",
+  "name": "contracts/transfers/WethGate.sol:WethGate",
+  "source": "sourcify",
+  "files": 3
+ },
+ {
+  "url": "https://polygonscan.com/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+  "desc": "WethGate MATIC",
+  "status": "fetched",
+  "dir": "0xFCf83648b8cD__WethGate_MATIC",
+  "name": "contracts/transfers/WethGate.sol:WethGate",
+  "source": "sourcify",
+  "files": 3
+ },
+ {
+  "url": "https://hecoinfo.com/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+  "desc": "WethGate HECO",
+  "status": "no-verified-source",
+  "host": "hecoinfo.com",
+  "chain": 128,
+  "address": "0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59"
+ },
+ {
+  "url": "https://snowtrace.io/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+  "desc": "WethGate AVAX",
+  "status": "fetched",
+  "dir": "0xFCf83648b8cD__WethGate_AVAX",
+  "name": "WethGate",
+  "source": "routescan",
+  "files": 3
+ },
+ {
+  "url": "https://ftmscan.com/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+  "desc": "WethGate FTM",
+  "status": "no-verified-source",
+  "host": "ftmscan.com",
+  "chain": 250,
+  "address": "0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59"
+ }
+]

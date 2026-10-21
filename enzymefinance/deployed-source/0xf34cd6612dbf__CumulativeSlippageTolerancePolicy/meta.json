@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/CumulativeSlippageTolerancePolicy.sol:CumulativeSlippageTolerancePolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xf34cd6612dbfaf771cb961934855870afa384422",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "CumulativeSlippageTolerancePolicy",
+ "asset_url": "https://basescan.org/address/0xf34cd6612dbfaf771cb961934855870afa384422",
+ "files": 17
+}

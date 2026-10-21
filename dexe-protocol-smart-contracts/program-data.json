@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/dexe-network/DeXe-Protocol/tree/master/contracts",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "dexe-protocol-smart-contracts",
+ "maxBounty": "500000.0",
+ "kyc": true
+}

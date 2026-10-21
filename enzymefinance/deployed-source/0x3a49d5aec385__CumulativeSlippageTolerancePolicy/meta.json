@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/CumulativeSlippageTolerancePolicy.sol:CumulativeSlippageTolerancePolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x3a49d5aec385ac1bde99f305316b945c5ee71312",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "CumulativeSlippageTolerancePolicy",
+ "asset_url": "https://etherscan.io/address/0x3a49d5aec385ac1bde99f305316b945c5ee71312",
+ "files": 52
+}

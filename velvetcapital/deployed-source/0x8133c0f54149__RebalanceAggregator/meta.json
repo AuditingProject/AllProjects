@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/rebalance/RebalanceAggregator.sol:RebalanceAggregator",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x8133c0f5414950e3ecd3870732A38D4c3510BdeE",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "RebalanceAggregator",
+ "asset_url": "https://bscscan.com/address/0x8133c0f5414950e3ecd3870732A38D4c3510BdeE",
+ "files": 42
+}

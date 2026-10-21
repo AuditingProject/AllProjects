@@ -1,0 +1,1074 @@
+{
+ "title": "Cronos zkEVM Smart Contracts",
+ "logo": "/uploads/bounty_program/logo/671f4490b77695000d233a66/logo.png?timestamp=1778637648",
+ "logoPresent": true,
+ "companyName": "Cronos",
+ "companySlug": "cronos",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "08 Nov 2024",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/cronos-zkevm-smart-contracts/reports/new",
+ "kycRequired": true,
+ "pocRequired": false,
+ "reputationRequired": null,
+ "minReputation": 0,
+ "submissionFee": null,
+ "programOfTheWeek": false,
+ "depositAvailable": true,
+ "maxReward": "$200,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 3,
+   "reputation": 50,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/689db71840041c6a8d944eeb/avatar.png?timestamp=1775303116",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "odeili",
+    "verified": true
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 5,
+   "reputation": 5,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a0f300e40041c0018c24dfc/avatar.png?timestamp=1790225124",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "infi",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 2,
+   "reputation": 5,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/69bc6e3e40041c000e39a5c6/avatar.png?timestamp=1780069541",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "Federal57",
+    "verified": true
+   }
+  },
+  {
+   "rank": 4,
+   "reports_amount": 1,
+   "reputation": 5,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6818b97b40041c000babb1cf/avatar.png?timestamp=1792093512",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "0xvivekd",
+    "verified": true
+   }
+  },
+  {
+   "rank": 5,
+   "reports_amount": 6,
+   "reputation": 0,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/69342f0940041c00106bcaf1/avatar.png?timestamp=1780911989",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "YFYF",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 144,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 200000,
+  "critical_min": 20000,
+  "high_max": 20000,
+  "high_min": 500,
+  "low_max": 0,
+  "low_min": 0,
+  "medium_max": 0,
+  "medium_min": 0
+ },
+ "description": "This bug bounty program is focused on smart contracts and decentralised applications in Cronos zkEVM blockchain with the emphasis on any vulnerabilities causing unintentional withdrawal/draining of funds/loss of user funds. The program covers  key projects in the Cronos zkEVM ecosystem, including Amply Finance, H2 Finance, and other DeFi projects. Cronos zkEVM is a blockchain network using ZK Stack. It aims to massively scale existing portfolio of Cronos apps and chains.by leveraging cost-efficient zero-knowledge proof system.",
+ "sla": {
+  "first_response": 5,
+  "resolution_time": 3,
+  "time_to_reward": 15,
+  "time_to_triage": 11
+ },
+ "totalRewards": 550,
+ "submittedReports": 264,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "67207be1b77695000b233b03",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xDA59Cc2Ee08ce5F830B1190bfed34415772Ddc57",
+   "target_description": "Amply Finance - PoolAddressesProvider",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67207f89b77695000b233b0e",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x47656eb2A31094b348EBF458Eccb942d471324eD",
+   "target_description": "Amply Finance - PoolDataProvider",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67207f89b77695000b233b0f",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x31D864780Cc862C5F6b7DEfc8627c2593339C59e",
+   "target_description": "Amply Finance - PoolConfigurator-Implementation",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67207f89b77695000b233b10",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x0aCE43a9DA33cA4c3D69D582E70D2Bd84a5a3f19",
+   "target_description": "Amply Finance - ReservesSetupHelper",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67207f89b77695000b233b11",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xE694B71bABaF620f5202afa32e7719E460f2b013",
+   "target_description": "Amply Finance - L2Pool-Implementation",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67207f89b77695000b233b12",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x6C4A080556E003Ed0628024dB814A83164E17891",
+   "target_description": "Amply Finance - ACLManager",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67208113b776950010233b24",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xF43E78E5F1204c5cAB40Dd2825f1bee9451e267e",
+   "target_description": "Amply Finance - AmplyOracle",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67208113b776950010233b25",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xF43E78E5F1204c5cAB40Dd2825f1bee9451e267e",
+   "target_description": "Amply Finance - AmplyOracle",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67208113b776950010233b26",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x5F3e99759962018e4c371128D3cA32E8E5FfE66A",
+   "target_description": "Amply Finance - L2Encoder",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67208113b776950010233b27",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x6806b39B7A63c4FbED56B4680f86142455Cc552B",
+   "target_description": "Amply Finance - EmissionManager",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67208113b776950010233b28",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xEF8f641f054392C636090d0E556131fc8D86130E",
+   "target_description": "Amply Finance - RewardsController-Implementation",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67208113b776950010233b29",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xfEd7ADfbD45907d183bD28523C9EdF1681cA9F24",
+   "target_description": "Amply Finance - PullRewardsTransferStrategy",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d614",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xaBF532439377d71e84feA9e59d19F6142751ce03",
+   "target_description": "Amply Finance - PreAmplyTokenTransferStrategy",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d615",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x669E271F4BF58AB4936A7AAC90EB363579Ef612F",
+   "target_description": "Amply Finance - AToken-Implementation",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d616",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xCF60ea08124066bab2AFbfe6643bEF766232Ab0c",
+   "target_description": "Amply Finance - VariableDebtToken",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d617",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xBdF6d6ccCb90077f34138b75f973fbAc6dc15C2c",
+   "target_description": "Amply Finance - ReserveStrategy-rateStrategyVolatileOne",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d618",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x669E271F4BF58AB4936A7AAC90EB363579Ef612F",
+   "target_description": "Amply Finance - wzkCRO-AToken",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d619",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xCF60ea08124066bab2AFbfe6643bEF766232Ab0c",
+   "target_description": "Amply Finance - wzkCRO-VariableDebtToken",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d61a",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x669E271F4BF58AB4936A7AAC90EB363579Ef612F",
+   "target_description": "Amply Finance - vUSD-AToken",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d61b",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xCF60ea08124066bab2AFbfe6643bEF766232Ab0c",
+   "target_description": "Amply Finance - vUSD-VariableDebtToken",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d61c",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x669E271F4BF58AB4936A7AAC90EB363579Ef612F",
+   "target_description": "Amply Finance - vETH-AToken",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d61d",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xCF60ea08124066bab2AFbfe6643bEF766232Ab0c",
+   "target_description": "Amply Finance - vETH-VariableDebtToken",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d61e",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xC273d6Df2C9b7e337Eb1dDc0067cE778bb8D3955",
+   "target_description": "Amply Finance - WrappedTokenGatewayV3",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d61f",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x2Ce4531CB531B655006D79cc4D3FBc447d2F5913",
+   "target_description": "Amply Finance - WalletBalanceProvider",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d620",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x4BEC5cf1408fffcC2C65fe1061fd7abd22d1BEC8",
+   "target_description": "Amply Finance - UiIncentiveDataProviderV3",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "67213176b77695000b91d621",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xCbD2125264e9F69437845Ea52FB9d23DD31B5fB5",
+   "target_description": "Amply Finance - UiPoolDataProviderV3",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182753",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x1d3B19A1D05dB785A07b64EbcE6782AC180715C2",
+   "target_description": "H2 Finance - H2Earn",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182754",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x1e6c88f9f4b6d4caa010bca6ea6d505b82df83cd",
+   "target_description": "H2 Finance - H2EarnFactory",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182755",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xcaf2fd3f47e7F46E99f74be579b2cc2233f33ef8",
+   "target_description": "H2 Finance - V2Farm - H2Token",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182756",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x9C38F038Fe887f5e37a3a943d85bB67bd4E394C1",
+   "target_description": "H2 Finance - V2Farm - MasterChef",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182757",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xD1821D41F8a55E1043458A834A86c7B749d1d065",
+   "target_description": "H2 Finance - V2Farm - MasterChefAdmin",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182758",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xdfE68fB100C074c838D6e2C5A2D248308dCf090d",
+   "target_description": "H2 Finance - V2Farm - MasterChefV2",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182759",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xe8B64e6b141769D716fA151e72C94cAd21E36A3a",
+   "target_description": "H2 Finance - V3Farm - MasterChefV3",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b77695001018275a",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x33D84485168E89C476074741Ba6830Bbe093eC1a",
+   "target_description": "H2 Finance - V3Farm - H2V3LmPoolDeployer",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b77695001018275b",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x45e149b212b1c4c2618527de767a5844079f9fde",
+   "target_description": "H2 Finance - V2Core - H2Pair",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b77695001018275c",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x50704Ac00064be03CEEd817f41E0Aa61F52ef4DC",
+   "target_description": "H2 Finance - V2Core - H2Factory",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b77695001018275d",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x45e149b212b1c4c2618527de767a5844079f9fde",
+   "target_description": "H2 Finance - V2Core - H2ERC20",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b77695001018275e",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x39aD8C3067281e60045DF041846EE01c1Dd3a853",
+   "target_description": "H2 Finance - H2Router - H2Router",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b77695001018275f",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x301cbe34dd38cf69295bf2698dc9be3b9eecedfa",
+   "target_description": "H2 Finance - V3Core - H2V3Factory",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182760",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xcdf9026aee0425d94a8bdc3af91b66ef5c7bd850",
+   "target_description": "H2 Finance - V3Core - H2V3Pool",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182761",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x4C29cf0CFEa5c9E717aE5e862212ee7174Ea70Cc",
+   "target_description": "H2 Finance - V3Core - H2V3PoolDeployer",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182762",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xfC376EaDbA66385054d6b3A631a30136ba09Ac24",
+   "target_description": "H2 Finance - V3Periphery - NonfungiblePositionManager",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182763",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x99aFec9351691b804cbBFD61975A05bD4B3F46b1",
+   "target_description": "H2 Finance - V3Periphery - NonfungibleTokenPositionDescriptor",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182764",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x33d2394f6Ca43aba6716982d6CB0824Db4A912b2",
+   "target_description": "H2 Finance - V3Periphery - SwapRouter",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182765",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xC145515aA0a9e80e2e4367D48c56A0f14B09dDe4",
+   "target_description": "H2 Finance - V3Periphery - V3Migrator",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182766",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x864E2F278b257c27F6F0974B96F720D8ac51E8cb",
+   "target_description": "H2 Finance - V3SmartRouter- MixedRouteQuoterV1",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182767",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x36FFB624d1B135bec784288e66d4d6a6B96ead25",
+   "target_description": "H2 Finance - V3SmartRouter- TokenValidator",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7568b776950010182768",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x4E792B8c9bcB9E200C3713810C4D6eA8C4230E7c",
+   "target_description": "H2 Finance - V3SmartRouter- SmartRouter.sol",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b1827fe",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xdDDf221d5293619572616574Ff46a2760f162075",
+   "target_description": "Fulcrom - Vault",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b1827ff",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x925C9a84Cc47A0fC43eFfFBE1d8Bb381D61f0333",
+   "target_description": "Fulcrom - Router",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182800",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x31eb925496C9F46f21a333963F564Fae3A884327",
+   "target_description": "Fulcrom - USDG",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182801",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xf33bCB80dd694b85f22F89C99894e622D916F676",
+   "target_description": "Fulcrom - VaultPriceFeed",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182802",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xfeeeb762667054085929C1aEC392aF11cE0c3133",
+   "target_description": "Fulcrom - VaultErrorController",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182803",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xFA7F38321974d304A583d6e21964869ec37786a1",
+   "target_description": "Fulcrom - FLP",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182804",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x5649EBBb8f2784D08f4932a89F9e127b8338a3e5",
+   "target_description": "Fulcrom - FlpManager",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182805",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xcD1fd146F60A266c91439bD750E51eed2b9eBD90",
+   "target_description": "Fulcrom - ShortsTracker",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182806",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x1F1650cc835F28dE73dC425Ffb372A0eFD2Ec572",
+   "target_description": "Fulcrom - OrderBook",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182807",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x770b88688d13C82E72B431744fA37ac92bd265ef",
+   "target_description": "Fulcrom - PositionRouter",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182808",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x822421feeD7Bd922ea0d069fdfC8c9802a168Da5",
+   "target_description": "Fulcrom - PositionManager",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182809",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xB8C34b5c180e13D2F5460F91E47F9dd217Ce77b1",
+   "target_description": "Fulcrom - Reader",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18280a",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xC32358B90131CA682BAEDfF4E86cF26893dd21b6",
+   "target_description": "Fulcrom - OrderBookReader",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18280b",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x89B58b648592C7b5Db134C361F71f10648D0B1aC",
+   "target_description": "Fulcrom - VaultReader",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18280c",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x4dEC9CfE3E8f4f4c34135fF281d7274e970635b8",
+   "target_description": "Fulcrom - FastPriceEvents",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18280d",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x11e3bf3cacC607D4aB3B810d20A43D95092d26ef",
+   "target_description": "Fulcrom - FastPriceFeed",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18280e",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x63ce4d8698A1628e44737E869622F084B24C7c1a",
+   "target_description": "Fulcrom - CronosOracle",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18280f",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x02aB5dB5888cCbA5c9C9c32b55B3393a15ca4B8A",
+   "target_description": "Fulcrom - Timelock",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182810",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x7Baa329293ACa87f31E44d610c0e95065eA024Bc",
+   "target_description": "Fulcrom - VaultUtils",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182811",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xFB3338E2cA713B344D6A45B36525c3db156e492F",
+   "target_description": "Fulcrom - FUL",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182812",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xBF8E3ddf0E64b1a2FD35572F0e36bF17b0316F51",
+   "target_description": "Fulcrom - ES_FUL",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182813",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xE7222f933952bF1B06fc6eD360eE7eD92855Fa91",
+   "target_description": "Fulcrom - BN_FUL",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182814",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x5BCF4A45516176c63448c6Be3cAB9603f1C46dC2",
+   "target_description": "Fulcrom - RewardReader",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182815",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x0366Cf13eFaa80ee7127B63061cD167375541513",
+   "target_description": "Fulcrom - StakedFulTracker",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182816",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x0790F016918aA5d1Ac62938331fEE34D5B043Cd8",
+   "target_description": "Fulcrom - StakedFulDistributor",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182817",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x8D7FF55CA4B85853C0BBBED4D2e2BC4Ef643E433",
+   "target_description": "Fulcrom - BonusFulTracker",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182818",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xF04c42578daa0Be9A5756F667958385DcC159CED",
+   "target_description": "Fulcrom - BonusFulDistributor",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182819",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x2Cf7F3Ae56aF353b2aa1c92439f372c2c75Aa080",
+   "target_description": "Fulcrom - FeeFulTracker",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18281a",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xca4880458d287dE7fc079cE0f4dfD5c10d56a1a5",
+   "target_description": "Fulcrom - FeeFulDistributor",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18281b",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xEeb08cDa02EDef325A86Ee3A3FA2c46da8987a68",
+   "target_description": "Fulcrom - FeeFlpTracker",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18281c",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xdEcddfF446B4bbc01a02B46E1c2712752A31cABb",
+   "target_description": "Fulcrom - FeeFlpDistributor",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18281d",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xbc77810a9258Fbf1AD48aA3C2D695F35d47B0353",
+   "target_description": "Fulcrom - StakedFlpTracker",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18281e",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xA74a066C15873efA7330DBE5E05fe1282bFCC25d",
+   "target_description": "Fulcrom - StakedFlpDistributor",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18281f",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xf53B6BEd5A6FdFd5f12F984DEf19BF284fE41389",
+   "target_description": "Fulcrom - FulVester",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182820",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x26a70f97494776942F32eF52D82e686B35203b6D",
+   "target_description": "Fulcrom - FlpVester",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182821",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x3D0c3D1373010557A5D97b9D3D61C56CE4C74a51",
+   "target_description": "Fulcrom - RewardRouter",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182822",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xC383bB82cDEC5C3f5296aa4e7D3F19c56A0C4D0B",
+   "target_description": "Fulcrom - FeeDistributor",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182823",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x3a93C3c70321E3020a036FFAf4214E15d6AF117E",
+   "target_description": "Fulcrom - CircuitBreaker",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182824",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xa84dd5C68758B7c665006Ae692D210312Fa1515B",
+   "target_description": "Fulcrom - AccessControlMultiCall2",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182825",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xCfd984f26b4B59591F7fa9EeFCe8d1f298BAebfB",
+   "target_description": "Fulcrom - ReferralManager",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182826",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://etherscan.io/address/0xFA59075DfCE274E028b58BdDFcC3D709960F594a",
+   "target_description": "Veno - ybUSD (Ethereum)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182827",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://etherscan.io/address/0x28ff2e4dd1b58efeb0fc138602a28d5ae81e44e2",
+   "target_description": "Veno - zkCRO (Ethereum)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182828",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://etherscan.io/address/0x76bf2D1e6dFda645c0c17440B17Eccc181dfC351",
+   "target_description": "Veno - ybETH (Ethereum)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182829",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://etherscan.io/address/0x8F6B0512e63A644631694178B83419feCd90762D",
+   "target_description": "Veno - ybETHNft (Ethereum)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18282a",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://etherscan.io/address/0x17dacAD8AA962963830136422E2EAa8d27D014f8",
+   "target_description": "Veno - ybUSDBridge (Ethereum)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18282b",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://etherscan.io/address/0xDED4Dd6E03A7CaA6278Ee453BE2C26363f50643D",
+   "target_description": "Veno - ybETHBridge (Ethereum)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18282c",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://etherscan.io/address/0xE69a535730858fd8Dc386B448972A9f801aB4e12",
+   "target_description": "Veno - zkCROMintAndBridge (Ethereum)\r\n",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18282d",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://etherscan.io/address/0x3766Eb5F07DBc60d39a2059A9A29fD9b7D3C356D",
+   "target_description": "Veno - BridgeMiddleware (Ethereum)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18282e",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x5b91e29Ae5A71d9052620Acb813d5aC25eC7a4A2",
+   "target_description": "Veno - vUSD (Cronos zkEVM)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b18282f",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x271602A97027ee1dd03b1E6e5dB153eB659A80b1",
+   "target_description": "Veno - vETH (Cronos zkEVM)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182830",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x5F254945A318f7ca93496320767E6b640aB9f730",
+   "target_description": "Veno - vETHRewarder (Cronos zkEVM)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182831",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0xFcD9cA1968Af3274a5e327dBfa7C80a99a0c0f52",
+   "target_description": "Veno - vUSDRewarder (Cronos zkEVM)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182832",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x898f2aB6E74d91AeA94BEF4316691ac0F43e7463",
+   "target_description": "Veno - TransactionManager (Cronos zkEVM)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182833",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.zkevm.cronos.org/address/0x4bb74A27bFe30AFd8974aC84cFeA62F3e4515a7C",
+   "target_description": "Veno - PerpVaultDeposit (Cronos zkEVM)",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "672a7a7eb77695000b182834",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://cronoscan.com/address/0x28ff2e4dd1b58efeb0fc138602a28d5ae81e44e2",
+   "target_description": "Veno - LCROBridge (Cronos EVM)",
+   "title": "Smart Contract"
+  }
+ ],
+ "programRules": "* Any testing with mainnet or public testnet contracts is prohibited by this bug bounty program; all testing should be done on private testnets\r\n* Any testing with pricing oracles or third party smart contracts is prohibited by this bug bounty program\r\n* Attempting phishing or other social engineering attacks against our employees and/or customers is prohibited by this bug bounty program\r\n* Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks) is prohibited by this bug bounty program\r\n* Public disclosure of an unpatched vulnerability in an embargoed bounty is prohibited by this bug bounty program\r\n* Avoid using web application scanners for automatic vulnerability searching or automated testing of services which generates massive traffic\r\n* Make every effort not to damage or restrict the availability of products, services, or infrastructure\r\n* Avoid compromising any personal data, interruption, or degradation of any service\r\n* Don\u2019t access or modify other user data, localize all tests to your accounts\r\n* Perform testing only within the scope\r\n* Don\u2019t exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam\r\n* Don\u2019t spam forms or account creation flows using automated scanners\r\n* In case you find chain vulnerabilities we\u2019ll pay only for vulnerability with the highest severity\r\n* Don\u2019t break any law and stay in the defined scope\r\n* Any details of found vulnerabilities must not be communicated to anyone who is not a HackenProof Team or an authorized employee of this Company without appropriate permission",
+ "focusArea": "\r\n## Extreme: Up to $250,000\r\nIf a report comes forward that the Cronos team believes deserves a larger reward, perhaps due to the novelty of the attack, the Cronos team will offer an additional $50,000.\r\n\r\n\r\n## IN-SCOPE: SMART CONTRACT VULNERABILITIES\r\nOnly the latest release version deployed to mainnet is considered as in-scope of the bug bounty program. Please note the following are out of scope:\r\nAll folders and files labeled as \u201cMock\u201d or \u201cTest\u201d\r\n\r\n**Impacts in scope**\r\nOnly the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.\r\n\r\n\r\n**Smart Contract**\r\n* Cryptographic flaws - Critical\r\n* Cronos (blockchain), smart contracts and app with the focus on any vulnerabilities causing unintentional withdrawal/draining of funds/loss of user funds - Critical\r\n\r\n\r\n\r\n\r\n## OUT OF SCOPE: SMART CONTRACT VULNERABILITIES\r\nThe following vulnerabilities are excluded from the rewards for this bug bounty program:\r\n* Attacks that the reporter has already exploited themselves, leading to damage\r\n* Attacks that rely on social engineering\r\n* Attacks requiring access to leaked keys/credentials\r\n* Attacks requiring access to privileged addresses\r\n\r\n**Smart Contracts**\r\n\r\n* Incorrect data supplied by third party oracles\r\n* Not to exclude oracle manipulation/flash loan attacks\r\n* Basic economic governance attacks (e.g. 51% attack)\r\n* Lack of liquidity\r\n* Best practice critiques\r\n* Sybil attacks\r\n* Design issues that are not necessarily a security risk .\r\n* Initialization or deployment difficulties solvable via redeployment.\r\n* Reports that are suspected to be generated using automated or generative tools.\r\n* Potential vulnerabilities that require intervention from a third party (e.g., adding a malicious liquidity pool) that is prohibited by existing policies (such as whitelisted pools only).\r\n* Devaluing of protocol incentive rewards but do not result in the loss of user funds.\r\n* Dilutions of protocol incentive rewards but do not result in the loss of user funds.\r\n* Vulnerabilities found within developmental code on GitHub which is not currently in production.\r\n* Assets not declared in the scope.\r\n* Incorrect or missing contract settings that do not lead to user fund losses.\r\n* Gas draining.\r\n* Previously known attack vectors or vulnerabilities (resolved or not) for which a bounty has already been awarded, including those that are similar but not identical. e.g smart contract logic used in DApp1 and DApp2.\r\n* Previously known vulnerabilities (resolved or not) on the Ethereum network (and any other fork of these).\r\n* Previously known vulnerabilities in Tendermint and or/any other fork of these.\r\n* Previously known vulnerabilities in cosmos-sdk and or/any other fork of these.\r\n* Previously known vulnerable libraries without a working Proof of Concept.\r\n* Previously known vulnerabilities in CometBFT and or/any other fork of these.\r\n* Public Zero-day vulnerabilities\r\n* Feature request\r\n* Best practices\r\n* VVS-Bench is Out of Scope\r\n* Denial of service (DoS) / Distributed Denial of Service(DDOS) / Spamming\r\n* Vulnerabilities that rely on pools or vaults with zero shares (empty).\r\n* Issues already listed in the audits for the contracts above\r\n* Rounding errors\r\n* Extreme market turmoil vulnerability\r\n* Gas optimization recommendations",
+ "disclosureGuidelines": "* Do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization\r\n* No vulnerability disclosure, including partial is allowed for the moment\r\n* Please do NOT publish/discuss bugs",
+ "eligibilityAndCoordinateDisclosure": "We are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:\r\n\r\n* You must be the first reporter of a vulnerability\r\n* The vulnerability must be a qualifying vulnerability\r\n* Any vulnerability found must be reported no later than 24 hours after discovery and exclusively through hackenproof.com\r\n* You must send a clear textual description of the report along with steps to reproduce the issue, include attachments such as screenshots or proof of concept code as necessary\r\n* You must not be a former or current employee of us or one of its contractor\r\n* ONLY USE the EMAIL under which you registered your HackenProof account (in case of violation, no bounty can be awarded)",
+ "labels": {
+  "types": [
+   "smart contract"
+  ],
+  "languages": [
+   "Solidity"
+  ],
+  "platforms": [],
+  "project_types": [
+   "L1/L2"
+  ]
+ },
+ "customBlocks": [
+  {
+   "description": "All bug reports must come with a Proof-of-Concept (PoC) in order to be considered for a reward. For web/app bug reports, if the Report does not include a valid (PoC), the qualification of rewards will be decided according to reproducibility and severity of the vulnerability, and the rewards amount may be reduced significantly. The specific amount of the bounty will vary according to:\r\n\r\n* The potential for abuse of the bug\r\n* The detection complexity of an exploit of the bug\r\n* The impact of the bug.\r\n* Whether or not the person who reports the bug suggests a solution to the bug or helps in its resolution.\r\n\r\n\r\nCritical smart contract vulnerabilities are capped at 10% of economic damage, primarily focused on the funds at risk, but also taking into account branding and PR considerations, at the discretion of the team.\r\n\r\nAll vulnerabilities that directly affect the smart contract, and app that directly cause unintentional withdrawals, draining of funds, or loss of user funds, are prioritized. Meaning, the team may choose to apply a temporary fix to the bug (or pause the contract) before resolving the bug report. This to ensure that the affected funds are safe while the team analyse the bug report, and NOT a confirmation of the bug report\u2019s validity.\r\n\r\nThe only web vulnerabilities in scope are those which will directly lead to loss of user funds, or breach of sensitive data, or deletion of site data. For web vulnerabilities, the Cronos team will use CVSS calculator to figure out the severity and based on that they will determine the reward for the bounty.\r\n\r\nCronos team requires KYC to be done for all bug bounty hunters submitting a report and wanting a reward. Once the report is deemed valid, you will need to fill up the KYC form here. The collection of this information will be done by the Cronos team.\r\n\r\nPayouts are handled by Cronos team and are denominated in USD. Payouts are done in USDC and USDT only, with the choice of the ratio at the discretion of the Cronos team.\r\n\r\n## Guidelines for Critical\r\nFor a bug report to be considered for the Critical category under our bug bounty program, a valid Proof of Concept (PoC) will be needed. Please adhere to the following conditions and guidelines:\r\n\r\n* **Proof of Concept (PoC):** Any report considered must include a comprehensive and valid PoC. This should include every step required to perform the attack, including any necessary staging or pre-work.\r\n* **Financial Limit:** The maximum monetary value, unrelated to flash-loans, involved in the PoC should not exceed $300. This amount is assumed to cover gas expenses and is sufficient for executing the attack.\r\n* **Impersonation Restriction:** The impersonation of wallets or contracts having considerable funds in the PoC is strictly forbidden.\r\n* **Specific Details:** To avoid ambiguity, the exact block number utilized in the PoC must be explicitly specified.\r\n* **Staging and Transaction:** Staging activities, such as creating a smart contract for the attack, is permissible. However, the actual exploit must occur within one transaction. The relevance and necessity of staging as part of the attack will ultimately be determined by the project team.\r\n* **Execution Certainty:** Hypotheses that can\u2019t be unequivocally executed, like phishing attacks aimed at obtaining private keys, are exempt from consideration.\r\n* **Damage Calculation:** The potential economic damage caused by the attack in the PoC will be computed as follows:\r\n\r\n     * Damage is gauged based on the net positive value post-attack.\r\n     * This value is derived after deducting any initial capital or flash loans.\r\n     * Non directly quantifiable consequences, such as immediate price drops or rewards dilution, will not be considered when calculating the potential damage scope.\r\n\r\n\r\nThere is also a discretionary bonus of up to $50,000. This is reserved for particularly ingenious findings that exemplify exceptional creativity or unveil significant potential impact on the project.\r\n\r\nHowever, it\u2019s crucial to understand that the award of this bonus is purely under the sole discretion of our project team and thus, may not be available for every qualifying submission. The bonus should not be regarded as a guaranteed reward, but rather a special recognition for exceptional findings.\r\n\r\n",
+   "id": "67212db5b77695000d91d613",
+   "position": 0,
+   "title": "Rewards by Threat Level"
+  },
+  {
+   "description": "Cronos team reserves the ultimate decision and will determine at its discretion whether a vulnerability is eligible for a reward and the amount of the award depending on severity.",
+   "id": "67212db5b77695000d91d614",
+   "position": 0,
+   "title": "Disclaimer"
+  }
+ ],
+ "scopeReview": 285859,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "200000.0",
+ "minBounty": "500.0"
+}

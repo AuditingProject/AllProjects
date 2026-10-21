@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "GuardCM",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0xC0b146D61e2A2C17E024477E01978D1Fcf598c6B",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GuardCM \u2014 governance. Community-multisig guard. Deployed on: Ethereum 0xC0b146D61e2A2C17E024477E01978D1Fcf598c6B.",
+ "asset_url": "https://etherscan.io/address/0xC0b146D61e2A2C17E024477E01978D1Fcf598c6B#code",
+ "files": 3
+}

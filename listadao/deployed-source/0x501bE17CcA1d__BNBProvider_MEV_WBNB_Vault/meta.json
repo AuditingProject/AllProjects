@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x501bE17CcA1d8a009753Da271D6714C18c1A35c9",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "BNBProvider (MEV WBNB Vault)",
+ "asset_url": "https://bscscan.com/address/0x501bE17CcA1d8a009753Da271D6714C18c1A35c9",
+ "files": 9
+}

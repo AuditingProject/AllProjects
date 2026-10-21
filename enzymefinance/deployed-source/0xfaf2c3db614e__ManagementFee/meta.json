@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/fee-manager/fees/ManagementFee.sol:ManagementFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xfaf2c3db614e9d38fe05edc634848be7ff0542b9",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ManagementFee",
+ "asset_url": "https://etherscan.io/address/0xfaf2c3db614e9d38fe05edc634848be7ff0542b9",
+ "files": 46
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/DeltaSwapRouter02.sol:DeltaSwapRouter02",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x5FbE219e88f6c6F214Ce6f5B1fcAa0294F31aE1b",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "DeltaSwapRouter02",
+ "asset_url": "https://arbiscan.io/address/0x5FbE219e88f6c6F214Ce6f5B1fcAa0294F31aE1b#code",
+ "files": 12
+}

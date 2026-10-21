@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xffFb5fB14606EB3a548C113026355020dDF27535",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "PoolFactory and linked contracts",
+ "asset_url": "https://arbiscan.io/address/0xffFb5fB14606EB3a548C113026355020dDF27535",
+ "files": 68
+}

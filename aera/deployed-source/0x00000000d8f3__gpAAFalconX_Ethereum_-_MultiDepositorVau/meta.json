@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MultiDepositorVault",
+ "compiler": "v0.8.29+commit.ab55807c",
+ "address": "0x00000000d8f3d6c5DFeB2D2b5ED2276095f3aF44",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "gpAAFalconX (Ethereum) - MultiDepositorVault",
+ "asset_url": "https://etherscan.io/address/0x00000000d8f3d6c5DFeB2D2b5ED2276095f3aF44",
+ "files": 48
+}

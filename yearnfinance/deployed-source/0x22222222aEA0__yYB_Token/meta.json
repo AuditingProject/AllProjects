@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/YToken.sol:YToken",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x22222222aEA0076fCA927a3f44dc0B4FdF9479D6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "yYB Token",
+ "asset_url": "https://etherscan.io/address/0x22222222aEA0076fCA927a3f44dc0B4FdF9479D6#code",
+ "files": 15
+}

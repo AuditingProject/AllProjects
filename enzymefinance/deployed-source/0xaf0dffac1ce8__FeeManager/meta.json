@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "FeeManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xaf0dffac1ce85c3fce4c2bf50073251f615eefc4",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "FeeManager",
+ "asset_url": "https://etherscan.io/address/0xaf0dffac1ce85c3fce4c2bf50073251f615eefc4",
+ "files": 15
+}

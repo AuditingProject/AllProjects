@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/xManager/OndoFees.sol:OndoFees",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xE1cb24077d77d2fE763fCAC63e5653D97dc8D20C",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoRedemptionFees",
+ "asset_url": "https://etherscan.io/address/0xE1cb24077d77d2fE763fCAC63e5653D97dc8D20C",
+ "files": 11
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-implementations/contracts/strategies/vault/rebalance/VaultRebalanceStrategy.sol:VaultRebalanceStrategy",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x79297AD127f5bA287053789e2FEB4DE5Ba2C71A0",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "VaultRebalanceStrategy",
+ "asset_url": "https://arbiscan.io/address/0x79297AD127f5bA287053789e2FEB4DE5Ba2C71A0#code",
+ "files": 34
+}

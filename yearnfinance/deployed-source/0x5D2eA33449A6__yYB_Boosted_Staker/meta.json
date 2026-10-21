@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "YearnBoostedStaker.sol:YearnBoostedStaker",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x5D2eA33449A60a70E8FCdc5251FDd86a030fAD91",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "yYB Boosted Staker",
+ "asset_url": "https://etherscan.io/address/0x5D2eA33449A60a70E8FCdc5251FDd86a030fAD91#code",
+ "files": 6
+}

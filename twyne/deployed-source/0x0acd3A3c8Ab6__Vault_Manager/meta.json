@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ERC1967Proxy",
+ "compiler": "v0.8.28+commit.7893614a",
+ "address": "0x0acd3A3c8Ab6a5F7b5A594C88DFa28999dA858aC",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Vault Manager",
+ "asset_url": "https://etherscan.io/address/0x0acd3A3c8Ab6a5F7b5A594C88DFa28999dA858aC",
+ "files": 8
+}

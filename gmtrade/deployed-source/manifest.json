@@ -1,0 +1,20 @@
+[
+ {
+  "url": "https://explorer.solana.com/address/Gmso1uvJnLbawvw7yezdfCDcPydwW2s2iqG3w6MDucLo/verified-build",
+  "desc": "Store",
+  "status": "skipped-unsupported",
+  "host": "explorer.solana.com"
+ },
+ {
+  "url": "https://explorer.solana.com/address/LPMWczEVgXyQ3979XaqqEttanCXmYGvtJqPVtw1PvC8/verified-build",
+  "desc": "Liquidity Provider",
+  "status": "skipped-unsupported",
+  "host": "explorer.solana.com"
+ },
+ {
+  "url": "https://explorer.solana.com/address/GTuvYD5SxkTq4FLG6JV1FQ5dkczr1AfgDcBHaFsBdtBg/verified-build",
+  "desc": "Treasury",
+  "status": "skipped-unsupported",
+  "host": "explorer.solana.com"
+ }
+]

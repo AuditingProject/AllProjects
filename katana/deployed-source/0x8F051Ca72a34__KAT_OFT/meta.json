@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.10+commit.fc410830",
+ "address": "0x8F051Ca72a3440d83B18E71C3E59676203aB8f91",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "KAT OFT",
+ "asset_url": "https://etherscan.io/address/0x8F051Ca72a3440d83B18E71C3E59676203aB8f91",
+ "files": 8
+}

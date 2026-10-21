@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/persistent/uint-list-registry/UintListRegistry.sol:UintListRegistry",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x6ddd871c1607348ebb5be250f882255390166519",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "UintListRegistry",
+ "asset_url": "https://polygonscan.com/address/0x6ddd871c1607348ebb5be250f882255390166519",
+ "files": 2
+}

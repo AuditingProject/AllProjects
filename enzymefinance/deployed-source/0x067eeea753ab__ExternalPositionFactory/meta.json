@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/persistent/external-positions/ExternalPositionFactory.sol:ExternalPositionFactory",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x067eeea753aba0ddecca0b80bbb8b7572bf6580d",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ExternalPositionFactory",
+ "asset_url": "https://polygonscan.com/address/0x067eeea753aba0ddecca0b80bbb8b7572bf6580d",
+ "files": 6
+}

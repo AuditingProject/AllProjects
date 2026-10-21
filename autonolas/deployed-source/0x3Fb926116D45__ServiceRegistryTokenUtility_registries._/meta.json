@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ServiceRegistryTokenUtility",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x3Fb926116D454b95c669B6Bf2E7c3bad8d19affA",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ServiceRegistryTokenUtility \u2014 registries. Custom-ERC20 service security deposits/bonds. Deployed on: Ethereum 0x3Fb926116D454b95c669B6Bf2E7c3bad8d19affA; Polygon 0xa45E64d13A30a51b91ae0eb182e88a40e9b18eD8; Gnosis 0xa45E64d13A30a51b91ae0eb182e88a40e9b18eD8; Arbitrum 0x3d77596beb0f130a4415df3D2D8232B3d3D31e44; Optimism 0xBb7e1D6Cb6F243D6bdE81CE92a9f2aFF7Fbe7eac; Base 0x34C895f302D0b5cf52ec0Edd3945321EB0f83dd5; Celo 0x3d77596beb0f130a4415df3D2D8232B3d3D31e44; Mode 0x34C895f302D0b5cf52ec0Edd3945321EB0f83dd5.",
+ "asset_url": "https://etherscan.io/address/0x3Fb926116D454b95c669B6Bf2E7c3bad8d19affA#code",
+ "files": 2
+}

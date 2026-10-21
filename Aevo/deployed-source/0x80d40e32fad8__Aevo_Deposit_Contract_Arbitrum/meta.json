@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/Vault.sol:Vault",
+ "compiler": "0.8.13+commit.abaa5c0e",
+ "address": "0x80d40e32fad8be8da5c6a42b8af1e181984d137c",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "Aevo Deposit Contract Arbitrum",
+ "asset_url": "https://arbiscan.io/address/0x80d40e32fad8be8da5c6a42b8af1e181984d137c",
+ "files": 10
+}

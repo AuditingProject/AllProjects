@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/OnlyUntrackDustOrPricelessAssetsPolicy.sol:OnlyUntrackDustOrPricelessAssetsPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x9f856372f7bd844dac0254c7859b117259b5c9d2",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "OnlyUntrackDustOrPricelessAssetsPolicy",
+ "asset_url": "https://polygonscan.com/address/0x9f856372f7bd844dac0254c7859b117259b5c9d2",
+ "files": 52
+}

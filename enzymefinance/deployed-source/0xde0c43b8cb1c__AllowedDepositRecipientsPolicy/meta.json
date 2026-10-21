@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/new-shareholders/AllowedDepositRecipientsPolicy.sol:AllowedDepositRecipientsPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xde0c43b8cb1cacdec773ef55fcbfbcbe009891f1",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "AllowedDepositRecipientsPolicy",
+ "asset_url": "https://arbiscan.io/address/0xde0c43b8cb1cacdec773ef55fcbfbcbe009891f1",
+ "files": 12
+}

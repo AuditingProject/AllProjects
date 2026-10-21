@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/xManager/tokenManagers/tokenSources/BuidlUSDCSource.sol:BuidlUSDCSource",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x9F205E1aC7698F59EdbAa0a28C4A4c4ed605b722",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BuidlUSDCSource",
+ "asset_url": "https://etherscan.io/address/0x9F205E1aC7698F59EdbAa0a28C4A4c4ed605b722",
+ "files": 20
+}

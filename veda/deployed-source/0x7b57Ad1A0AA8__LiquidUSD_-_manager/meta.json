@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ManagerWithMerkleVerification",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0x7b57Ad1A0AA89583130aCfAD024241170D24C13C",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "LiquidUSD - manager",
+ "asset_url": "https://etherscan.io/address/0x7b57Ad1A0AA89583130aCfAD024241170D24C13C",
+ "files": 19
+}

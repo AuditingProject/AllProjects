@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/limit-order/portfolio/PortfolioTokenLimitOrder.sol:PortfolioTokenLimitOrder",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0xA2aA93cbB069B4BF246258E4D9cD093B914DcDFE",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "PortfolioTokenLimitOrder (BSC)",
+ "asset_url": "https://bscscan.com/address/0xA2aA93cbB069B4BF246258E4D9cD093B914DcDFE",
+ "files": 22
+}

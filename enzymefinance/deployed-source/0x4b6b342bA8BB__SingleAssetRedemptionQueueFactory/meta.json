@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/single-asset-redemption-queue/SingleAssetRedemptionQueueFactory.sol:SingleAssetRedemptionQueueFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x4b6b342bA8BB29E2D1b542532E6b7bE1cAE026b9",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "SingleAssetRedemptionQueueFactory",
+ "asset_url": "https://polygonscan.com/address/0x4b6b342bA8BB29E2D1b542532E6b7bE1cAE026b9",
+ "files": 4
+}

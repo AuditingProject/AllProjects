@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/fee-manager/fees/ExitRateDirectFee.sol:ExitRateDirectFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x6060295a989bf8d1e74dc75273b3ab2a02b0c0e1",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "ExitRateDirectFee",
+ "asset_url": "https://basescan.org/address/0x6060295a989bf8d1e74dc75273b3ab2a02b0c0e1",
+ "files": 15
+}

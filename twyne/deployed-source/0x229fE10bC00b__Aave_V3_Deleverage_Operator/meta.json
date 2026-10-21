@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/operators/AaveV3DeleverageOperator.sol:AaveV3DeleverageOperator",
+ "compiler": "0.8.28+commit.7893614a",
+ "address": "0x229fE10bC00bBE99Ac99703647D4f74F31605e91",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Aave V3 Deleverage Operator",
+ "asset_url": "https://etherscan.io/address/0x229fE10bC00bBE99Ac99703647D4f74F31605e91",
+ "files": 75
+}

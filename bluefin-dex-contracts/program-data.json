@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/hackenproof-public/bluefin-dex-contracts-v3",
+   "type": "smart_contract",
+   "description": "Out of Scope: * Anything outside the sources folder * test_coin.move file in the sources folder * deleverage() function inside exchange.move Please contact our support team in Discord to get access to scope."
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "bluefin-dex-contracts",
+ "maxBounty": "15000.0",
+ "kyc": true
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "YFI.sol:YFI",
+ "compiler": "0.5.17+commit.d19bba13",
+ "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "YFI Token",
+ "asset_url": "https://etherscan.io/address/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e#code",
+ "files": 1
+}

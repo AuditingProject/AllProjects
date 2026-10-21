@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "SimpleFeeProxy Proxy HECO",
+ "asset_url": "https://arbiscan.io/address/0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+ "files": 1
+}

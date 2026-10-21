@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/TransferAssetsAdapter.sol:TransferAssetsAdapter",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x52e83a4c9a123500e8324b9f489a681ffda92a17",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "TransferAssetsAdapter",
+ "asset_url": "https://polygonscan.com/address/0x52e83a4c9a123500e8324b9f489a681ffda92a17#code",
+ "files": 13
+}

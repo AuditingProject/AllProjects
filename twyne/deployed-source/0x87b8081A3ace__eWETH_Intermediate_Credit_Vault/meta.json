@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "BeaconProxy",
+ "compiler": "v0.8.24+commit.e11b9ed9",
+ "address": "0x87b8081A3ace680f35125F469526Ac10f5418Ca7",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "eWETH Intermediate Credit Vault",
+ "asset_url": "https://etherscan.io/address/0x87b8081A3ace680f35125F469526Ac10f5418Ca7",
+ "files": 1
+}

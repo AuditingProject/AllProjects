@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/UniswapV3Adapter.sol:UniswapV3Adapter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xed6a08e05cb4260388dc7cc60bc5fefccfab2793",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "UniswapV3Adapter",
+ "asset_url": "https://etherscan.io/address/0xed6a08e05cb4260388dc7cc60bc5fefccfab2793",
+ "files": 14
+}

@@ -1,0 +1,144 @@
+[
+ {
+  "url": "https://etherscan.io/address/0x7613D202Af490c3d1cE1873b0a7022a34E89815f",
+  "desc": "eWSTETH Intermediate Credit Vault",
+  "status": "fetched",
+  "dir": "0x7613D202Af49__eWSTETH_Intermediate_Credit_Vault",
+  "name": "BeaconProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x75029a47f28550C93Ad5A3BbD2d9b5315204B561",
+  "desc": "aWSTETH Intermediate Credit Vault",
+  "status": "fetched",
+  "dir": "0x75029a47f285__aWSTETH_Intermediate_Credit_Vault",
+  "name": "BeaconProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x87b8081A3ace680f35125F469526Ac10f5418Ca7",
+  "desc": "eWETH Intermediate Credit Vault",
+  "status": "fetched",
+  "dir": "0x87b8081A3ace__eWETH_Intermediate_Credit_Vault",
+  "name": "BeaconProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xB5Eb1d005e389Bef38161691E2083b4d86FF647a",
+  "desc": "Intermediate Vault Factory",
+  "status": "fetched",
+  "dir": "0xB5Eb1d005e38__Intermediate_Vault_Factory",
+  "name": "GenericFactory",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 3
+ },
+ {
+  "url": "https://etherscan.io/address/0xb001f039D76bA48E577A17c04b6940DB37aF8648",
+  "desc": "Euler Oracle Router",
+  "status": "fetched",
+  "dir": "0xb001f039D76b__Euler_Oracle_Router",
+  "name": "EulerRouter",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 11
+ },
+ {
+  "url": "https://etherscan.io/address/0x0acd3A3c8Ab6a5F7b5A594C88DFa28999dA858aC",
+  "desc": "Vault Manager",
+  "status": "fetched",
+  "dir": "0x0acd3A3c8Ab6__Vault_Manager",
+  "name": "ERC1967Proxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 8
+ },
+ {
+  "url": "https://etherscan.io/address/0xa1517cCe0bE75700A8838EA1cEE0dc383cd3A332",
+  "desc": "Collateral Vault Factory",
+  "status": "fetched",
+  "dir": "0xa1517cCe0bE7__Collateral_Vault_Factory",
+  "name": "lib/openzeppelin-contracts-upgradeable/lib/openzeppelin-contracts/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 8
+ },
+ {
+  "url": "https://etherscan.io/address/0xFaBA8f777996C0C28fe9e6554D84cB30ca3e1881",
+  "desc": "awstETH Wrapper",
+  "status": "fetched",
+  "dir": "0xFaBA8f777996__awstETH_Wrapper",
+  "name": "ERC1967Proxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 8
+ },
+ {
+  "url": "https://etherscan.io/address/0x868a21426852A775395d4b90De23B3e3E662bd78",
+  "desc": "Aave V3 Teleport Operator",
+  "status": "fetched",
+  "dir": "0x868a21426852__Aave_V3_Teleport_Operator",
+  "name": "src/operators/AaveV3TeleportOperator.sol:AaveV3TeleportOperator",
+  "source": "sourcify",
+  "files": 75
+ },
+ {
+  "url": "https://etherscan.io/address/0x451949bde57aBe2F5DBD4758Cd50C6DCfC093A4C",
+  "desc": "Aave V3 Leverage Operator",
+  "status": "fetched",
+  "dir": "0x451949bde57a__Aave_V3_Leverage_Operator",
+  "name": "src/operators/AaveV3LeverageOperator.sol:AaveV3LeverageOperator",
+  "source": "sourcify",
+  "files": 75
+ },
+ {
+  "url": "https://etherscan.io/address/0x229fE10bC00bBE99Ac99703647D4f74F31605e91",
+  "desc": "Aave V3 Deleverage Operator",
+  "status": "fetched",
+  "dir": "0x229fE10bC00b__Aave_V3_Deleverage_Operator",
+  "name": "src/operators/AaveV3DeleverageOperator.sol:AaveV3DeleverageOperator",
+  "source": "sourcify",
+  "files": 75
+ },
+ {
+  "url": "https://etherscan.io/address/0xef39D6493884C4C84D38a4bFF879Ce16CEdE702a",
+  "desc": "Twyne EVC",
+  "status": "fetched",
+  "dir": "0xef39D6493884__Twyne_EVC",
+  "name": "EthereumVaultConnector",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 9
+ },
+ {
+  "url": "https://etherscan.io/address/0x79CF33e623555E899d4EE122b9BfA0214fa5A4A1",
+  "desc": "aPT22Oct2026 Intermediate Credit Vault",
+  "status": "fetched",
+  "dir": "0x79CF33e62355__aPT22Oct2026_Intermediate_Credit_Vault",
+  "name": "BeaconProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0x0aF56aFBDDCb140323445BD7211Ba90E54e5FD1C",
+  "desc": "aPT22Oct2026 Wrapper",
+  "status": "fetched",
+  "dir": "0x0aF56aFBDDCb__aPT22Oct2026_Wrapper",
+  "name": "ERC1967Proxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 8
+ },
+ {
+  "url": "https://etherscan.io/address/0xd07e1dd26f415fed3e8c490623a80ab55cf7bdbb",
+  "desc": "Euler Leverage Operator",
+  "status": "no-verified-source",
+  "host": "etherscan.io",
+  "chain": 1,
+  "address": "0xd07e1dd26f415fed3e8c490623a80ab55cf7bdbb"
+ },
+ {
+  "url": "https://etherscan.io/address/0xb7a7Cf5EB16C124562857632F8f86Ed627e6cc35",
+  "desc": "Aave V3 Leverage Operator",
+  "status": "no-verified-source",
+  "host": "etherscan.io",
+  "chain": 1,
+  "address": "0xb7a7Cf5EB16C124562857632F8f86Ed627e6cc35"
+ }
+]

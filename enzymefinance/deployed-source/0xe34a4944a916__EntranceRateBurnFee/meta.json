@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/fee-manager/fees/EntranceRateBurnFee.sol:EntranceRateBurnFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xe34a4944a916330f54fd06508b674219c00725e2",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "EntranceRateBurnFee",
+ "asset_url": "https://basescan.org/address/0xe34a4944a916330f54fd06508b674219c00725e2",
+ "files": 6
+}

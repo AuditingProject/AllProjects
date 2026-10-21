@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/OneInchV5Adapter.sol:OneInchV5Adapter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x2f4a9c0256e4f8e8d65733da1aeb4871f923b457",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "OneInchV5Adapter",
+ "asset_url": "https://polygonscan.com/address/0x2f4a9c0256e4f8e8d65733da1aeb4871f923b457",
+ "files": 15
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/ERC4626Adapter.sol:ERC4626Adapter",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x64Fa106DD89F21d6e687EEbE9384637F7d54f707",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ERC4626Adapter",
+ "asset_url": "https://etherscan.io/address/0x64Fa106DD89F21d6e687EEbE9384637F7d54f707",
+ "files": 16
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "StakingMiddleware",
+ "compiler": "v0.4.2+commit.c216787f",
+ "address": "0x24b267AA3946209ca19231d0f17110577be00A86",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Staking Middleware",
+ "asset_url": "https://etherscan.io/address/0x24b267AA3946209ca19231d0f17110577be00A86",
+ "files": 1
+}

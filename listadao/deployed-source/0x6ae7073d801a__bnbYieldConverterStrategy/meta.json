@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0x6ae7073d801a74ee753f19323df320c8f5fe2dbc",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "bnbYieldConverterStrategy",
+ "asset_url": "https://bscscan.com/address/0x6ae7073d801a74ee753f19323df320c8f5fe2dbc",
+ "files": 1
+}

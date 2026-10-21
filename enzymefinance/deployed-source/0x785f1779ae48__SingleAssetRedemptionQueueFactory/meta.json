@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/single-asset-redemption-queue/SingleAssetRedemptionQueueFactory.sol:SingleAssetRedemptionQueueFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x785f1779ae48bfa8f8d89ce140c62a603c104f36",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "SingleAssetRedemptionQueueFactory",
+ "asset_url": "https://basescan.org/address/0x785f1779ae48bfa8f8d89ce140c62a603c104f36",
+ "files": 4
+}

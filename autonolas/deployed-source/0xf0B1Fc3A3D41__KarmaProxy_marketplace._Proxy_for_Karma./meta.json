@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/proxies/KarmaProxy.sol:KarmaProxy",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0xf0B1Fc3A3D412Ea73136925B831D6203De310650",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "KarmaProxy \u2014 marketplace. Proxy for Karma. Deployed on: Ethereum 0xf0B1Fc3A3D412Ea73136925B831D6203De310650; Gnosis 0x2C602C7B590ABFc148d8c7c5e4d58c56Be1d304a; Base 0x7F69B6783855772d10A4bc2AFAaE650599F040DB; Polygon 0xe625410Cb7C8Ce842c6E23e348B94bD125B211E5; Optimism 0x4aba1Cf7a39a51D75cBa789f5f21cf4882162519; Arbitrum 0x8Bc0a5c5B1612A16983B01ecd7ae130E728390CB; Celo 0x02C26437B292D86c5F4F21bbCcE0771948274f84.",
+ "asset_url": "https://etherscan.io/address/0xf0B1Fc3A3D412Ea73136925B831D6203De310650#code",
+ "files": 1
+}

@@ -1,0 +1,128 @@
+[
+ {
+  "url": "https://lora.algokit.io/mainnet/application/971350278",
+  "desc": "Pool Manager",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/971353536",
+  "desc": "Deposits Escrow",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/971368268",
+  "desc": "ALGO Pool",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/2611131944",
+  "desc": "xALGO Pool",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/971372237",
+  "desc": "USDC Pool",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/971373361",
+  "desc": "goBTC Pool",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/1258524099",
+  "desc": "SILVER$ Pool",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/1258515734",
+  "desc": "GOLD$ Pool",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/971373611",
+  "desc": "goETH Pool",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/3343137163",
+  "desc": "FOLKS Pool (Isolated)",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/3514794123",
+  "desc": "WBTC Pool",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/3514795114",
+  "desc": "WETH POOL",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/3184317016",
+  "desc": "ALGO Pool (Isolated)",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/3184324594",
+  "desc": "USDC Pool (Isolated)",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/3184325123",
+  "desc": "TINY Pool (Isolated)",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/971388781",
+  "desc": "General Loan Type",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/971389489",
+  "desc": "ALGO Efficiency Loan Type",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/3184333108",
+  "desc": "Algorand Ecosystem Loan Type",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/971333964",
+  "desc": "Oracle Adapter",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/1040271396",
+  "desc": "Oracle",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ },
+ {
+  "url": "https://lora.algokit.io/mainnet/application/1134695678",
+  "desc": "xALGO",
+  "status": "skipped-unsupported",
+  "host": "lora.algokit.io"
+ }
+]

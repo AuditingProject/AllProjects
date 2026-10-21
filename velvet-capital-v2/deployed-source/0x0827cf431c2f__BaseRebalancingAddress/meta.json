@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/rebalance/Rebalancing.sol:Rebalancing",
+ "compiler": "0.8.17+commit.8df45f5f",
+ "address": "0x0827cf431c2f2a4f12584fddb6f01ab0e26ccbe0",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "BaseRebalancingAddress",
+ "asset_url": "https://basescan.org/address/0x0827cf431c2f2a4f12584fddb6f01ab0e26ccbe0",
+ "files": 32
+}

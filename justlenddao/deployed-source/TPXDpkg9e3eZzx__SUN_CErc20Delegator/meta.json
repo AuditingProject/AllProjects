@@ -1,0 +1,13 @@
+{
+ "source": "tronscan",
+ "match": "name-only",
+ "name": "CErc20Delegator",
+ "compiler": null,
+ "note": "TRONScan does not expose source for this contract; name only.",
+ "address": "TPXDpkg9e3eZzxqxAUyke9S4z4pGJBJw9e",
+ "chain": 728126428,
+ "explorer_host": "tronscan.org",
+ "asset_description": "SUN CErc20Delegator",
+ "asset_url": "https://tronscan.org/#/contract/TPXDpkg9e3eZzxqxAUyke9S4z4pGJBJw9e/code",
+ "files": 0
+}

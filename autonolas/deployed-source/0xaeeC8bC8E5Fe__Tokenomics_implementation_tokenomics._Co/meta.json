@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Tokenomics",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0xaeeC8bC8E5Fe28BC4dF2e9586b222924b8a0d5e9",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Tokenomics (implementation) \u2014 tokenomics. Core tokenomics engine (v1.3.0, behind TokenomicsProxy at 0xc096362fa6f4A4B1a9ea68b1043416f3381ce300). Ethereum.",
+ "asset_url": "https://etherscan.io/address/0xaeeC8bC8E5Fe28BC4dF2e9586b222924b8a0d5e9#code",
+ "files": 27
+}

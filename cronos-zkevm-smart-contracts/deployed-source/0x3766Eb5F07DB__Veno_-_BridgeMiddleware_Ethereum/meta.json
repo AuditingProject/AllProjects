@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/BridgeMiddleware.sol:BridgeMiddleware",
+ "compiler": "0.8.24+commit.e11b9ed9",
+ "address": "0x3766Eb5F07DBc60d39a2059A9A29fD9b7D3C356D",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Veno - BridgeMiddleware (Ethereum)",
+ "asset_url": "https://etherscan.io/address/0x3766Eb5F07DBc60d39a2059A9A29fD9b7D3C356D",
+ "files": 19
+}

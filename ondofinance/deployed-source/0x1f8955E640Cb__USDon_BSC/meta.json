@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/Proxy.sol:TokenProxy",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x1f8955E640Cbd9abc3C3Bb408c9E2E1f5F20DfE6",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "USDon (BSC)",
+ "asset_url": "https://bscscan.com/address/0x1f8955E640Cbd9abc3C3Bb408c9E2E1f5F20DfE6",
+ "files": 9
+}

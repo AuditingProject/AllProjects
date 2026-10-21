@@ -1,0 +1,253 @@
+{
+ "assets": [
+  {
+   "id": "39I4UubBcljARlt90OaRGQ",
+   "url": "https://etherscan.io/address/0x4aa42145Aa6Ebf72e164C9bBC74fbD3788045016",
+   "type": "smart_contract",
+   "addedAt": "2022-05-10T15:42:40.006Z",
+   "revision": 0,
+   "description": "XDaiForeignBridge: DAI-xDAI TokenBridge contract on the Ethereum Mainnet ",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "6VGumskpUySCP01OvbYYMn",
+   "url": "https://blockscout.com/xdai/mainnet/address/0x7301CFA0e1756B71869E93d4e4Dca5c7d0eb0AA6",
+   "type": "smart_contract",
+   "addedAt": "2022-05-10T15:42:40.965Z",
+   "revision": 0,
+   "description": "HomeBridgeErcToNative: DAI-xDAI TokenBridge contract on the Gnosis chain",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "4oQoN6nat7OLKqL8ib88eC",
+   "url": "https://etherscan.io/address/0x88ad09518695c6c3712AC10a214bE5109a655671",
+   "type": "smart_contract",
+   "addedAt": "2022-05-10T15:42:42.104Z",
+   "revision": 0,
+   "description": "ForeignOmnibridge: OmniBridge contract on the Ethereum Mainnet",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "1TEVjuzA8DmpOMImDZWzs3",
+   "url": "https://blockscout.com/xdai/mainnet/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d",
+   "type": "smart_contract",
+   "addedAt": "2022-05-10T15:42:43.182Z",
+   "revision": 0,
+   "description": "HomeOmnibridge: OmniBridge contract on the Gnosis chain",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  }
+ ],
+ "rewards": [
+  {
+   "id": 51562,
+   "primacy": null,
+   "severity": "critical",
+   "assetType": "smart_contract",
+   "maxReward": 2000000,
+   "minReward": 50000,
+   "rewardModel": "range",
+   "rewardCalculationPercentage": 10
+  },
+  {
+   "id": 51563,
+   "primacy": null,
+   "severity": "high",
+   "assetType": "smart_contract",
+   "maxReward": 50000,
+   "minReward": 10000,
+   "rewardModel": "range"
+  },
+  {
+   "id": 51564,
+   "primacy": null,
+   "severity": "medium",
+   "assetType": "smart_contract",
+   "maxReward": 10000,
+   "minReward": 1000,
+   "rewardModel": "range"
+  }
+ ],
+ "impacts": [
+  {
+   "id": 56,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Temporary freezing of funds for at least  1 week"
+  },
+  {
+   "id": 57,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Temporary freezing NFTs for at least  1 week"
+  },
+  {
+   "id": 58,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Miner-extractable value (MEV)"
+  },
+  {
+   "id": 59,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Block stuffing for profit"
+  },
+  {
+   "id": 60,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Any governance voting result manipulation"
+  },
+  {
+   "id": 15,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
+  },
+  {
+   "id": 16,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties"
+  },
+  {
+   "id": 17,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Permanent freezing of funds"
+  },
+  {
+   "id": 18,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Permanent freezing of NFTs"
+  },
+  {
+   "id": 19,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Unauthorized minting of NFTs"
+  },
+  {
+   "id": 20,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Predictable or manipulable RNG that results in abuse of the principal or NFT"
+  },
+  {
+   "id": 21,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Unintended alteration of what the NFT represents (e.g. token URI, payload, artistic content)"
+  },
+  {
+   "id": 23,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Theft of unclaimed yield"
+  },
+  {
+   "id": 24,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Theft of unclaimed royalties"
+  },
+  {
+   "id": 25,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Permanent freezing of unclaimed yield"
+  },
+  {
+   "id": 26,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Permanent freezing of unclaimed royalties"
+  },
+  {
+   "id": 29,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Smart contract unable to operate due to lack of token funds"
+  },
+  {
+   "id": 31,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
+  },
+  {
+   "id": 32,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Theft of gas"
+  },
+  {
+   "id": 33,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Unbounded gas consumption"
+  }
+ ],
+ "knownIssues": [
+  {
+   "description": "callback through onTokenBridged() is not checked for success. Any failure in onTokenBridged() is silently swallowed.",
+   "link": "https://immunefi.com/bug-bounty/gnosischain/information/",
+   "lastUpdatedAt": "2026-09-09T00:00:00.000Z",
+   "relatedImpactInScope": "smart_contract"
+  },
+  {
+   "description": "Validator signature collection on Home uses a static validator set defined at the time of transaction execution while signature verification uses the currently active validator set (potentially updated).",
+   "link": "https://immunefi.com/bug-bounty/gnosischain/information/",
+   "lastUpdatedAt": "2026-09-09T00:00:00.000Z",
+   "relatedImpactInScope": "smart_contract"
+  },
+  {
+   "description": "Omnibridge onTokenTransfer() function does not verify msg.sender and anyone can call this function to create fake bridge token.",
+   "link": "https://immunefi.com/bug-bounty/gnosischain/information/",
+   "lastUpdatedAt": "2026-09-09T00:00:00.000Z",
+   "relatedImpactInScope": "smart_contract"
+  },
+  {
+   "description": "The minter allowance granted by tokens to the USDCTransmuter can be exhausted to prevent successful USDC.e and EURC.e transfers.",
+   "link": "https://immunefi.com/bug-bounty/gnosischain/information/",
+   "lastUpdatedAt": "2026-09-09T00:00:00.000Z",
+   "relatedImpactInScope": "smart_contract"
+  }
+ ],
+ "programCodebases": [
+  {
+   "id": 165,
+   "url": "https://github.com/gnosischain/omnibridge/tree/master",
+   "title": "Gnosis Chain Smart Contracts",
+   "description": "Smart Contracts regarding arbitrary ERC20 bridging"
+  },
+  {
+   "id": 732,
+   "url": "https://github.com/gnosischain/tokenbridge-contracts/tree/xdaibridge",
+   "title": "Gnosis Chain Smart Contracts",
+   "description": "Smart Contract regarding native xDAI bridging"
+  }
+ ],
+ "maxBounty": 2000000,
+ "kyc": false,
+ "updatedDate": "2026-10-09T12:38:06.358Z",
+ "launchDate": "2022-02-11T04:00:00.000Z",
+ "programOverview": "Gnosis Chain is an EVM compatible, community-owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. Secured by over 165k validators around the world, Gnosis Chain has all the tooling you are used to and trust-minimized bridges to mainnet.\n\nFor more information about Gnosis Chain, please visit [https://www.gnosis.io/](https://www.gnosis.io/).\n\nThis bug bounty program is focused on the bridges smart contracts that move assets in between Mainnet and Gnosis chain. The xDai bridge is used to bridge DAI on mainnet and the native xDai coin on Gnosis chain. For more information see [https://docs.gnosischain.com/bridges/tokenbridge/xdai-bridge](https://docs.gnosischain.com/bridges/tokenbridge/xdai-bridge). The OmniBridge is a native token bridge that mints the canonical representation of bridged assets on Gnosis. For more information see [https://docs.gnosischain.com/bridges/tokenbridge/omnibridge](https://docs.gnosischain.com/bridges/tokenbridge/omnibridge).\n\n__Disclosure of Information relating to Bug Reports:__ Security researchers may not publish any information about their bug reports (even after any vulnerabilities have been fixed and the security researcher has been paid) unless Gnosis provides written consent in the bug report submission thread.",
+ "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll smart contract bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward.\n\nCritical and High smart contract vulnerabilities are capped at 10% of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects, at the discretion of the team.\n\nPayouts are handled by the __Gnosis Chain__ team directly and are denominated in __USD__. However, payouts are done in __USDC or xDAI__.",
+ "customOutOfScopeInformation": "- Best practice critiques\n- The minter allowance granted by tokens to the `USDCTransmuter` can be exhausted to prevent successful USDC.e and EURC.e transfers.\n- Omnibridge `onTokenTransfer()` function does not verify `msg.sender` and anyone can call this function to create fake bridge token.\n- Validator signature collection on Home uses a static validator set defined at the time of transaction execution while signature verification uses the currently active validator set (potentially updated).\n- callback through `onTokenBridged()` is not checked for success. Any failure in `onTokenBridged()` is silently swallowed.\n\ntest",
+ "assetsBodyV2": "The smart contract regarding native xDAI bridging (XDaiForeignBridge and HomeBridgeErcToNative)  can be found at [https://github.com/gnosischain/tokenbridge-contracts/tree/xdaibridge](https://github.com/gnosischain/tokenbridge-contracts/tree/xdaibridge). The smart contracts regarding arbitrary ERC20 bridging (ForeignOmnibridge and HomeOmnibridge) can be found at [https://github.com/gnosischain/omnibridge/tree/master](https://github.com/gnosischain/omnibridge/tree/master).\n\nOnly those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nIf an impact can be caused to any other asset managed by Gnosis that isn\u2019t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project.",
+ "impactsBody": null
+}

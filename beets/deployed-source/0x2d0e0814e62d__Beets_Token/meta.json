@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/token/Beets.sol:Beets",
+ "compiler": "0.8.28+commit.7893614a",
+ "address": "0x2d0e0814e62d80056181f5cd932274405966e4f0",
+ "chain": 146,
+ "explorer_host": "sonicscan.org",
+ "asset_description": "Beets Token",
+ "asset_url": "https://sonicscan.org/address/0x2d0e0814e62d80056181f5cd932274405966e4f0#code",
+ "files": 21
+}

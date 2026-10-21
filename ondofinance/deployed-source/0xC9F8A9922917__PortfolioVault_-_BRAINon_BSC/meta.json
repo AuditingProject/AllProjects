@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/portfolioToken/portfolioVault/PortfolioVault.sol:PortfolioVault",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0xC9F8A9922917731f8a8ED21F6F131655B9cfd5Fe",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "PortfolioVault - BRAINon (BSC)",
+ "asset_url": "https://bscscan.com/address/0xC9F8A9922917731f8a8ED21F6F131655B9cfd5Fe",
+ "files": 15
+}

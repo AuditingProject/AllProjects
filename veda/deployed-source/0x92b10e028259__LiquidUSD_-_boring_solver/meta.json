@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "BoringSolver",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0x92b10e02825986bAc2375BdACaFA3e89E3f612aA",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "LiquidUSD - boring_solver",
+ "asset_url": "https://etherscan.io/address/0x92b10e02825986bAc2375BdACaFA3e89E3f612aA",
+ "files": 25
+}

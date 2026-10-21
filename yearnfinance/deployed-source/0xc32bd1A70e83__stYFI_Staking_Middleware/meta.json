@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "StakingMiddleware.vy:StakingMiddleware",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0xc32bd1A70e831c43956Ff2f5F23f2Ee45a04C020",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Staking Middleware",
+ "asset_url": "https://etherscan.io/address/0xc32bd1A70e831c43956Ff2f5F23f2Ee45a04C020",
+ "files": 1
+}

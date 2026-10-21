@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/persistent/protocol-fee-reserve/ProtocolFeeReserveProxy.sol:ProtocolFeeReserveProxy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xb7460593bd222e24a2bf4393aa6416bd373995e0",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ProtocolFeeReserveProxy",
+ "asset_url": "https://etherscan.io/address/0xb7460593bd222e24a2bf4393aa6416bd373995e0",
+ "files": 3
+}

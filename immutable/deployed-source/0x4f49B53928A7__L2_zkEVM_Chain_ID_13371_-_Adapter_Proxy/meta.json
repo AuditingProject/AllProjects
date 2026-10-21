@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.immutable.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.19+commit.7dd6d404",
+ "address": "0x4f49B53928A71E553bB1B0F66a5BcB54Fd4E8932",
+ "chain": 13371,
+ "explorer_host": "explorer.immutable.com",
+ "asset_description": "L2 zkEVM Chain ID 13371 - Adapter Proxy",
+ "asset_url": "https://explorer.immutable.com/address/0x4f49B53928A71E553bB1B0F66a5BcB54Fd4E8932",
+ "files": 9
+}

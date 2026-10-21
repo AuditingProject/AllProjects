@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/peripheral/UnpermissionedActionsWrapper.sol:UnpermissionedActionsWrapper",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x1648cc031a1b6d60b5585ae21dae507a69d2b17b",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "UnpermissionedActionsWrapper",
+ "asset_url": "https://polygonscan.com/address/0x1648cc031a1b6d60b5585ae21dae507a69d2b17b",
+ "files": 34
+}

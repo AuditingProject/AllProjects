@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "Weight_aggregator.vy:Weight_aggregator",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0x6973CF85d479b9253E13E71F377E8CD2c2dfECd7",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Weight Aggregator",
+ "asset_url": "https://etherscan.io/address/0x6973CF85d479b9253E13E71F377E8CD2c2dfECd7",
+ "files": 1
+}

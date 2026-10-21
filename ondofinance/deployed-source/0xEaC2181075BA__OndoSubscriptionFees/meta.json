@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OndoFees",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xEaC2181075BA0FC53D5141B17943Ea9F913954e6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoSubscriptionFees",
+ "asset_url": "https://etherscan.io/address/0xEaC2181075BA0FC53D5141B17943Ea9F913954e6",
+ "files": 11
+}

@@ -1,0 +1,18 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/polytope-labs/hyperbridge",
+   "type": "smart_contract",
+   "description": "Bridge"
+  },
+  {
+   "url": "https://github.com/polytope-labs/solidity-merkle-trees",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "hyperbridge-protocol",
+ "maxBounty": "50000.0",
+ "kyc": false
+}

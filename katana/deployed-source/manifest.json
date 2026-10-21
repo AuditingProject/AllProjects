@@ -1,0 +1,188 @@
+[
+ {
+  "url": "https://katanascan.com/address/0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
+  "desc": "KAT",
+  "status": "fetched",
+  "dir": "0x7f1f4b4b29f5__KAT",
+  "name": "src/KatToken.sol:KatToken",
+  "source": "sourcify",
+  "files": 21
+ },
+ {
+  "url": "https://katanascan.com/address/0xEE7D8BCFb72bC1880D0Cf19822eB0A2e6577aB62",
+  "desc": "WETH (aka vbETH)",
+  "status": "fetched",
+  "dir": "0xEE7D8BCFb72b__WETH_aka_vbETH",
+  "name": "contracts/v2/lib/TokenWrappedTransparentProxy.sol:TokenWrappedTransparentProxy",
+  "source": "sourcify",
+  "files": 10
+ },
+ {
+  "url": "https://katanascan.com/address/0x0913DA6Da4b42f538B445599b46Bb4622342Cf52",
+  "desc": "WBTC (aka vbWBTC)",
+  "status": "fetched",
+  "dir": "0x0913DA6Da4b4__WBTC_aka_vbWBTC",
+  "name": "contracts/v2/lib/TokenWrappedTransparentProxy.sol:TokenWrappedTransparentProxy",
+  "source": "sourcify",
+  "files": 10
+ },
+ {
+  "url": "https://katanascan.com/address/0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
+  "desc": "USDC (aka vbUSDC)",
+  "status": "fetched",
+  "dir": "0x203A662b0BD2__USDC_aka_vbUSDC",
+  "name": "contracts/v2/lib/TokenWrappedTransparentProxy.sol:TokenWrappedTransparentProxy",
+  "source": "sourcify",
+  "files": 10
+ },
+ {
+  "url": "https://katanascan.com/address/0x2DCa96907fde857dd3D816880A0df407eeB2D2F2",
+  "desc": "USDT (aka vbUSDT)",
+  "status": "fetched",
+  "dir": "0x2DCa96907fde__USDT_aka_vbUSDT",
+  "name": "contracts/v2/lib/TokenWrappedTransparentProxy.sol:TokenWrappedTransparentProxy",
+  "source": "sourcify",
+  "files": 10
+ },
+ {
+  "url": "https://katanascan.com/address/0x62D6A123E8D19d06d68cf0d2294F9A3A0362c6b3",
+  "desc": "USDS (aka vbUSDS)",
+  "status": "no-verified-source",
+  "host": "katanascan.com",
+  "chain": 747474,
+  "address": "0x62D6A123E8D19d06d68cf0d2294F9A3A0362c6b3"
+ },
+ {
+  "url": "https://katanascan.com/address/0xa6b0db1293144ebe9478b6a84f75dd651e45914a",
+  "desc": "NativeConverter vbETH",
+  "status": "fetched",
+  "dir": "0xa6b0db129314__NativeConverter_vbETH",
+  "name": "dependencies/@openzeppelin-contracts-5.1.0/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 12
+ },
+ {
+  "url": "https://katanascan.com/address/0x97a3500083348A147F419b8a65717909762c389f",
+  "desc": "NativeConverter vbUSDC",
+  "status": "no-verified-source",
+  "host": "katanascan.com",
+  "chain": 747474,
+  "address": "0x97a3500083348A147F419b8a65717909762c389f"
+ },
+ {
+  "url": "https://katanascan.com/address/0x053FA9b934b83E1E0ffc7e98a41aAdc3640bB462",
+  "desc": "NativeConverter vbUSDT",
+  "status": "no-verified-source",
+  "host": "katanascan.com",
+  "chain": 747474,
+  "address": "0x053FA9b934b83E1E0ffc7e98a41aAdc3640bB462"
+ },
+ {
+  "url": "https://katanascan.com/address/0xb00aa68b87256E2F22058fB2Ba3246EEc54A44fc",
+  "desc": "NativeConverter vbWBTC",
+  "status": "no-verified-source",
+  "host": "katanascan.com",
+  "chain": 747474,
+  "address": "0xb00aa68b87256E2F22058fB2Ba3246EEc54A44fc"
+ },
+ {
+  "url": "https://katanascan.com/address/0x639f13D5f30B47c792b6851238c05D0b623C77DE",
+  "desc": "NativeConverter",
+  "status": "no-verified-source",
+  "host": "katanascan.com",
+  "chain": 747474,
+  "address": "0x639f13D5f30B47c792b6851238c05D0b623C77DE"
+ },
+ {
+  "url": "https://katana.network/",
+  "desc": "Primacy of Impact",
+  "status": "skipped-unsupported",
+  "host": "katana.network"
+ },
+ {
+  "url": "https://katanascan.com/address/0x2a3DD3EB832aF982ec71669E178424b10Dca2EDe",
+  "desc": "Agglayer Bridge",
+  "status": "no-verified-source",
+  "host": "katanascan.com",
+  "chain": 747474,
+  "address": "0x2a3DD3EB832aF982ec71669E178424b10Dca2EDe"
+ },
+ {
+  "url": "https://katanascan.com/address/0x7231dbaCdFc968E07656D12389AB20De82FbfCeB",
+  "desc": "avKAT",
+  "status": "fetched",
+  "dir": "0x7231dbaCdFc9__avKAT",
+  "name": "lib/ve-governance/lib/openzeppelin-contracts/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 8
+ },
+ {
+  "url": "https://katanascan.com/address/0x6C16E26013f2431e8B2e1Ba7067ECCcad0Db6C52",
+  "desc": "Jitosol OFT",
+  "status": "no-verified-source",
+  "host": "katanascan.com",
+  "chain": 747474,
+  "address": "0x6C16E26013f2431e8B2e1Ba7067ECCcad0Db6C52"
+ },
+ {
+  "url": "https://katanascan.com/address/0x8f051ca72a3440d83b18e71c3e59676203ab8f91",
+  "desc": "KAT OFT Adapter",
+  "status": "no-verified-source",
+  "host": "katanascan.com",
+  "chain": 747474,
+  "address": "0x8f051ca72a3440d83b18e71c3e59676203ab8f91"
+ },
+ {
+  "url": "https://etherscan.io/address/0x8F051Ca72a3440d83B18E71C3E59676203aB8f91",
+  "desc": "KAT OFT",
+  "status": "fetched",
+  "dir": "0x8F051Ca72a34__KAT_OFT",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 8
+ },
+ {
+  "url": "https://basescan.org/address/0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da",
+  "desc": "KAT OFT",
+  "status": "fetched",
+  "dir": "0xD5390300c5DB__KAT_OFT",
+  "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 16
+ },
+ {
+  "url": "https://katanascan.com/address/0x4d6fC15Ca6258b168225D283262743C623c13Ead",
+  "desc": "vKAT escrow",
+  "status": "fetched",
+  "dir": "0x4d6fC15Ca625__vKAT_escrow",
+  "name": "lib/ve-governance/lib/openzeppelin-contracts/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+  "source": "sourcify",
+  "files": 8
+ },
+ {
+  "url": "https://etherscan.io/address/0x250D30c523104bf0a06825e7eAdE4Dc46EdfE40E",
+  "desc": "OptimismPortal",
+  "status": "fetched",
+  "dir": "0x250D30c52310__OptimismPortal",
+  "name": "Proxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 3
+ },
+ {
+  "url": "https://etherscan.io/address/0x100d3ca4f97776a40a7d93db4abf0fea34230666",
+  "desc": "Aggchain FEP",
+  "status": "fetched",
+  "dir": "0x100d3ca4f977__Aggchain_FEP",
+  "name": "PolygonTransparentProxy",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 12
+ },
+ {
+  "url": "https://katanascan.com/address/0x106F7D67Ea25Cb9eFf5064CF604ebf6259Ff296d",
+  "desc": "vKAT",
+  "status": "no-verified-source",
+  "host": "katanascan.com",
+  "chain": 747474,
+  "address": "0x106F7D67Ea25Cb9eFf5064CF604ebf6259Ff296d"
+ }
+]

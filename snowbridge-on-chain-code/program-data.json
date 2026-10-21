@@ -1,0 +1,18 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/Snowfork/snowbridge",
+   "type": "smart_contract",
+   "description": "Ethereum Contracts which cover our Beefy Light Client, Parachain Light Client, Gateway, Agent, Messaging Protocol and Asset transfer functionality"
+  },
+  {
+   "url": "https://github.com/paritytech/polkadot-sdk/tree/master/bridges/snowbridge",
+   "type": "smart_contract",
+   "description": "Pallets and support crates that are deployed to the BridgeHub parachain"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "snowbridge-on-chain-code",
+ "maxBounty": "75000.0",
+ "kyc": true
+}

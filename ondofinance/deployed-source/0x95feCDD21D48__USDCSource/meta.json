@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "BasicSource",
+ "compiler": "v0.8.16+commit.07a7930e",
+ "address": "0x95feCDD21D48426d3bAd195c6A3f0686e6b4d635",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "USDCSource",
+ "asset_url": "https://etherscan.io/address/0x95feCDD21D48426d3bAd195c6A3f0686e6b4d635",
+ "files": 16
+}

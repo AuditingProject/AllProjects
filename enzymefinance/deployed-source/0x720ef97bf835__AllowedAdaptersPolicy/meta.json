@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/AllowedAdaptersPolicy.sol:AllowedAdaptersPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x720ef97bf835699fcf07591952cd2b132d63a6c0",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AllowedAdaptersPolicy",
+ "asset_url": "https://etherscan.io/address/0x720ef97bf835699fcf07591952cd2b132d63a6c0",
+ "files": 33
+}

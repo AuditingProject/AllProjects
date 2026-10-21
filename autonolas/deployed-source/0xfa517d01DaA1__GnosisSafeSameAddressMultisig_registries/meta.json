@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/multisigs/GnosisSafeSameAddressMultisig.sol:GnosisSafeSameAddressMultisig",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xfa517d01DaA100cB1932FA4345F68874f7E7eF46",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GnosisSafeSameAddressMultisig \u2014 registries. Same-address multisig update helper. Deployed on: Ethereum 0xfa517d01DaA100cB1932FA4345F68874f7E7eF46; Polygon 0xd8BCC126ff31d2582018715d5291A508530587b0; Gnosis 0x6e7f594f680f7aBad18b7a63de50F0FeE47dfD06; Arbitrum 0xBb7e1D6Cb6F243D6bdE81CE92a9f2aFF7Fbe7eac; Optimism 0xb09CcF0Dbf0C178806Aaee28956c74bd66d21f73; Base 0xFbBEc0C8b13B38a9aC0499694A69a10204c5E2aB; Celo 0xBb7e1D6Cb6F243D6bdE81CE92a9f2aFF7Fbe7eac; Mode 0xFbBEc0C8b13B38a9aC0499694A69a10204c5E2aB.",
+ "asset_url": "https://etherscan.io/address/0xfa517d01DaA100cB1932FA4345F68874f7E7eF46#code",
+ "files": 1
+}

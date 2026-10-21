@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "L1Migrator",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x2a69191B43c9DB47C927bD7287F9C93838d07759",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "L1Migrator",
+ "asset_url": "https://etherscan.io/address/0x2a69191B43c9DB47C927bD7287F9C93838d07759#code",
+ "files": 17
+}

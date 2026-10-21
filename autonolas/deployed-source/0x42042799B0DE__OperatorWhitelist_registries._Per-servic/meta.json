@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OperatorWhitelist",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x42042799B0DE38AdD2a70dc996f69f98E1a85260",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OperatorWhitelist \u2014 registries. Per-service operator allowlist. Deployed on: Ethereum 0x42042799B0DE38AdD2a70dc996f69f98E1a85260; Polygon 0x526E064cB694E8f5B7DB299158e17F33055B3943; Gnosis 0x526E064cB694E8f5B7DB299158e17F33055B3943; Arbitrum 0x3C1fF68f5aa342D296d4DEe4Bb1cACCA912D95fE; Optimism 0x63e66d7ad413C01A7b49C7FF4e3Bb765C4E4bd1b; Base 0x3d77596beb0f130a4415df3D2D8232B3d3D31e44; Celo 0x3C1fF68f5aa342D296d4DEe4Bb1cACCA912D95fE; Mode 0x3d77596beb0f130a4415df3D2D8232B3d3D31e44.",
+ "asset_url": "https://etherscan.io/address/0x42042799B0DE38AdD2a70dc996f69f98E1a85260#code",
+ "files": 1
+}

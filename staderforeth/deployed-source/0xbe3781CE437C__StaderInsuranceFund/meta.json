@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.9+commit.e5eed63a",
+ "address": "0xbe3781CE437Cc3fC8c8167913B4d462347D11F20",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "StaderInsuranceFund",
+ "asset_url": "https://etherscan.io/address/0xbe3781CE437Cc3fC8c8167913B4d462347D11F20",
+ "files": 14
+}

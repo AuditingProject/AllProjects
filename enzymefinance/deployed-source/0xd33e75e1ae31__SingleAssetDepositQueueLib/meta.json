@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/single-asset-deposit-queue/SingleAssetDepositQueueLib.sol:SingleAssetDepositQueueLib",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xd33e75e1ae3185aa72d4365e1022ef23cd71233a",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "SingleAssetDepositQueueLib",
+ "asset_url": "https://polygonscan.com/address/0xd33e75e1ae3185aa72d4365e1022ef23cd71233a",
+ "files": 14
+}

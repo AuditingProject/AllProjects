@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/tokenManager/sanityCheckOracle/OndoSanityCheckOracle.sol:OndoSanityCheckOracle",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x14032815B65f6B65f23d2532ad5F5DFf7BE48C03",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "OndoSanityCheckOracle (BSC)",
+ "asset_url": "https://bscscan.com/address/0x14032815B65f6B65f23d2532ad5F5DFf7BE48C03",
+ "files": 11
+}

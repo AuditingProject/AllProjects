@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/FeeModel.sol:FeeModel",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xd12D39E682715a40dbC860fa07F02bF48841294e",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "FeeModel",
+ "asset_url": "https://etherscan.io/address/0xd12D39E682715a40dbC860fa07F02bF48841294e",
+ "files": 17
+}

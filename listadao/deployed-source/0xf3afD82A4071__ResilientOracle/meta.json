@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xf3afD82A4071f272F403dC176916141f44E6c750",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "ResilientOracle",
+ "asset_url": "https://bscscan.com/address/0xf3afD82A4071f272F403dC176916141f44E6c750",
+ "files": 112
+}

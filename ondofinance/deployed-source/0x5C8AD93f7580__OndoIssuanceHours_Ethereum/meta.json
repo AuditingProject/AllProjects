@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/tokenManager/issuanceHours/IssuanceHoursAlwaysOpen.sol:IssuanceHoursAlwaysOpen",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0x5C8AD93f75805FB504FAc767378A170420671c32",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoIssuanceHours (Ethereum)",
+ "asset_url": "https://etherscan.io/address/0x5C8AD93f75805FB504FAc767378A170420671c32",
+ "files": 2
+}

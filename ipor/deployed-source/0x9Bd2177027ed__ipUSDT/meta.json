@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "IpTokenUsdt.sol:IpTokenUsdt",
+ "compiler": "0.8.15+commit.e14f2714",
+ "address": "0x9Bd2177027edEE300DC9F1fb88F24DB6e5e1edC6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ipUSDT",
+ "asset_url": "https://etherscan.io/address/0x9Bd2177027edEE300DC9F1fb88F24DB6e5e1edC6",
+ "files": 1
+}

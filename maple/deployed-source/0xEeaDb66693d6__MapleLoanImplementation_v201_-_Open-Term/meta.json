@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MapleLoan",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xEeaDb66693d63cFCF3E4D942D2812D4aE9443Fc1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MapleLoanImplementation (v201 - Open-Term)",
+ "asset_url": "https://etherscan.io/address/0xEeaDb66693d63cFCF3E4D942D2812D4aE9443Fc1",
+ "files": 16
+}

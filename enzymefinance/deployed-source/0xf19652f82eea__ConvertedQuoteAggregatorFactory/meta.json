@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/infrastructure/price-feeds/primitives/factories/ConvertedQuoteAggregatorFactory.sol:ConvertedQuoteAggregatorFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xf19652f82eeacc4ec2c4284a3632c0e27d76857d",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ConvertedQuoteAggregatorFactory",
+ "asset_url": "https://polygonscan.com/address/0xf19652f82eeacc4ec2c4284a3632c0e27d76857d",
+ "files": 6
+}

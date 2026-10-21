@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/Dexalot/contracts/tree/cd/removeAuction",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "dexalot-smart-contracts-2",
+ "maxBounty": "20000.0",
+ "kyc": false
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:rootstock.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.9+commit.e5eed63a",
+ "address": "0x779dED0C9e1022225F8e0630b35A9B54Be713736",
+ "chain": 30,
+ "explorer_host": "rootstock.blockscout.com",
+ "asset_description": "USDT0 Rootstock",
+ "asset_url": "https://rootstock.blockscout.com/address/0x779dED0C9e1022225F8e0630b35A9B54Be713736",
+ "files": 14
+}

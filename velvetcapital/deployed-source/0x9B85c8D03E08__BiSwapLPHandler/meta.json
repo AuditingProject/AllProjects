@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/handler/BiSwapLP/BiSwapLPHandler.sol:BiSwapLPHandler",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x9B85c8D03E082365AB48230761BFaD28D4e45B37",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "BiSwapLPHandler",
+ "asset_url": "https://bscscan.com/address/0x9B85c8D03E082365AB48230761BFaD28D4e45B37",
+ "files": 26
+}

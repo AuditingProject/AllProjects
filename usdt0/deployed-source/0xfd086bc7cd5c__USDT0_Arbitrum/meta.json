@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "USDT0 Arbitrum",
+ "asset_url": "https://arbiscan.io/address/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+ "files": 1
+}

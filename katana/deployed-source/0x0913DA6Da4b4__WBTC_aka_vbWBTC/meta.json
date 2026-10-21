@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/v2/lib/TokenWrappedTransparentProxy.sol:TokenWrappedTransparentProxy",
+ "compiler": "0.8.28+commit.7893614a",
+ "address": "0x0913DA6Da4b42f538B445599b46Bb4622342Cf52",
+ "chain": 747474,
+ "explorer_host": "katanascan.com",
+ "asset_description": "WBTC (aka vbWBTC)",
+ "asset_url": "https://katanascan.com/address/0x0913DA6Da4b42f538B445599b46Bb4622342Cf52",
+ "files": 10
+}

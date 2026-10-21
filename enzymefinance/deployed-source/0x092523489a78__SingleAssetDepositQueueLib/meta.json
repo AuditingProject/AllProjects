@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/single-asset-deposit-queue/SingleAssetDepositQueueLib.sol:SingleAssetDepositQueueLib",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x092523489a789b0984adf41e83371eb1e3c49d63",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "SingleAssetDepositQueueLib",
+ "asset_url": "https://basescan.org/address/0x092523489a789b0984adf41e83371eb1e3c49d63",
+ "files": 14
+}

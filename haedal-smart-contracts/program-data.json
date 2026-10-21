@@ -1,0 +1,18 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/hackenproof-public/hasui-bug-bounty",
+   "type": "smart_contract",
+   "description": "* Participation: Invite-only - https://discord.gg/g7u4afaYu7\r\n* KYC Required"
+  },
+  {
+   "url": "https://github.com/hackenproof-public/hawal-bug-bounty",
+   "type": "smart_contract",
+   "description": "* Participation: Invite-only - https://discord.gg/g7u4afaYu7\r\n* KYC Required"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "haedal-smart-contracts",
+ "maxBounty": "200000.0",
+ "kyc": true
+}

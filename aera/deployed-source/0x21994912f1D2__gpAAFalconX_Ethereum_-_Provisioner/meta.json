@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Provisioner",
+ "compiler": "v0.8.29+commit.ab55807c",
+ "address": "0x21994912f1D286995c4d4961303cBB8E44939944",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "gpAAFalconX (Ethereum) - Provisioner",
+ "asset_url": "https://etherscan.io/address/0x21994912f1D286995c4d4961303cBB8E44939944",
+ "files": 28
+}

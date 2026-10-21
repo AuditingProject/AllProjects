@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/Whitelist.sol:Whitelist",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0xdDfd960a7150520548dD1F6E53CC2f201b364692",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "Base - Whitelist",
+ "asset_url": "https://basescan.org/address/0xdDfd960a7150520548dD1F6E53CC2f201b364692",
+ "files": 8
+}

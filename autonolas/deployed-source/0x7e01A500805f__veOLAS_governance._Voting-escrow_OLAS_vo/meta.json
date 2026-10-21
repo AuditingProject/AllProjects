@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "veOLAS",
+ "compiler": "0.8.15+commit.e14f2714",
+ "address": "0x7e01A500805f8A52Fad229b3015AD130A332B7b3",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "veOLAS \u2014 governance. Voting-escrow OLAS (vote-locking). Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x7e01A500805f8A52Fad229b3015AD130A332B7b3#code",
+ "files": 5
+}

@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP3YCQZYWQR0CA6TT35301B28DV9D926VBZBBJWR7.dao-multisig",
+ "compiler": "clarity4",
+ "address": "0xcb9f16912e5045c61ad2cdada636a244b9c021deb21d9c742547db5a71af14ca",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Smart Contract - dao-multisig",
+ "asset_url": "https://explorer.hiro.so/txid/0xcb9f16912e5045c61ad2cdada636a244b9c021deb21d9c742547db5a71af14ca?chain=mainnet",
+ "files": 1
+}

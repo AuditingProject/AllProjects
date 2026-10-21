@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/new-shareholders/MinMaxInvestmentPolicy.sol:MinMaxInvestmentPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x542812a43334634213877fbfde33ecbef5234c9d",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "MinMaxInvestmentPolicy",
+ "asset_url": "https://arbiscan.io/address/0x542812a43334634213877fbfde33ecbef5234c9d",
+ "files": 5
+}

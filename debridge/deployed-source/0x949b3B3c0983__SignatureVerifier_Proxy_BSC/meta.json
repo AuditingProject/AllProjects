@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "SignatureVerifier Proxy BSC",
+ "asset_url": "https://bscscan.com/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+ "files": 1
+}

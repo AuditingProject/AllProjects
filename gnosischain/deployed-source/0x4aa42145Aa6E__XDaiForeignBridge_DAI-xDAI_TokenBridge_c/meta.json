@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "EternalStorageProxy",
+ "compiler": "v0.4.24+commit.e67f0147",
+ "address": "0x4aa42145Aa6Ebf72e164C9bBC74fbD3788045016",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "XDaiForeignBridge: DAI-xDAI TokenBridge contract on the Ethereum Mainnet",
+ "asset_url": "https://etherscan.io/address/0x4aa42145Aa6Ebf72e164C9bBC74fbD3788045016",
+ "files": 1
+}

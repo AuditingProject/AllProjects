@@ -1,0 +1,170 @@
+{
+ "title": "Arcadia Finance Smart Contracts",
+ "logo": "/uploads/bounty_program/logo/6a0de4df40041c0021c244a6/logo.png?timestamp=1792443447",
+ "logoPresent": true,
+ "companyName": "Arcadia Finance",
+ "companySlug": "arcadia-finance",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "10 Jun 2026",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/arcadia-finance-company-smart-contracts/reports/new",
+ "kycRequired": true,
+ "pocRequired": true,
+ "reputationRequired": null,
+ "minReputation": 50,
+ "submissionFee": 5,
+ "programOfTheWeek": false,
+ "depositAvailable": false,
+ "maxReward": "$25,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 2,
+   "reputation": 35,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a1c1fed40041c002ae617b1/avatar.png?timestamp=1792140307",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "pakfa4",
+    "verified": true
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 7,
+   "reputation": 24,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/69ea5f6840041c001ec709cb/avatar.png?timestamp=1792424724",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "dieking2000",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 4,
+   "reputation": 17,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/63b417befd180475b4c179a0/avatar.png?timestamp=1792403120",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "Surprise",
+    "verified": true
+   }
+  },
+  {
+   "rank": 4,
+   "reports_amount": 6,
+   "reputation": 15,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a89d2d240041c000d585763/avatar.png?timestamp=1789505118",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "GuardianDan",
+    "verified": false
+   }
+  },
+  {
+   "rank": 5,
+   "reports_amount": 2,
+   "reputation": 15,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6412ac44fd1804155fb445aa/avatar.png?timestamp=1789659915",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "sahuang",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 86,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 25000,
+  "critical_min": 0,
+  "high_max": 7500,
+  "high_min": 0,
+  "low_max": 0,
+  "low_min": 0,
+  "medium_max": 2000,
+  "medium_min": 0
+ },
+ "description": "Arcadia is a non-custodial composable margin protocol on Base, Optimism, and Unichain for leveraged yield strategies on AMM liquidity positions.",
+ "sla": {
+  "first_response": 3,
+  "resolution_time": 14,
+  "time_to_reward": 3,
+  "time_to_triage": 3
+ },
+ "totalRewards": 1250,
+ "submittedReports": 146,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "6a43eccc40041c0022014de5",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/arcadia-finance/accounts-v2",
+   "target_description": "",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "6a43eccc40041c0022014de6",
+   "out_of_scope": false,
+   "position": 1,
+   "target": "https://github.com/arcadia-finance/lending-v2",
+   "target_description": "",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "6a43eccc40041c0022014de7",
+   "out_of_scope": false,
+   "position": 2,
+   "target": "https://github.com/arcadia-finance/asset-managers",
+   "target_description": "",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Low",
+   "id": "6a43eccc40041c0022014de8",
+   "out_of_scope": true,
+   "position": 3,
+   "target": "https://github.com/arcadia-finance/accounts-v2/blob/main/src/accounts/helpers/SpotToMarginMigrator.sol",
+   "target_description": "",
+   "title": "Smart Contract"
+  }
+ ],
+ "programRules": "* Avoid using web application scanners for automatic vulnerability searching which generates massive traffic\n* Make every effort not to damage or restrict the availability of products, services, or infrastructure\n* Avoid compromising any personal data, interruption, or degradation of any service\n* Don\u2019t access or modify other user data, localize all tests to your accounts\n* Perform testing only within the scope\n* Don\u2019t exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam\n* Don\u2019t spam forms or account creation flows using automated scanners\n* In case you find chain vulnerabilities we\u2019ll pay only for vulnerability with the highest severity.\n* Don\u2019t break any law and stay in the defined scope\n* Any details of found vulnerabilities must not be communicated to anyone who is not a HackenProof Team or an authorized employee of this Company without appropriate permission\n* Do not over-inflate the severity of your reports. Reports will be rejected without further comment should it be obviously be over-inflated.\n* **All communication regarding the program must take place exclusively through the HackenProof platform.\nContacting the project team directly through support channels, social media, or any other external communication channels is strictly prohibited.\nResearchers who violate this rule may be disqualified from the program and may face account suspension.**",
+ "focusArea": "## IN SCOPE VULNERABILITIES: Smart Contracts\n\nAll targets are deployed on Base, Optimism, Robinhood Chain and/or Unichain. Deployed contract addresses: https://docs.arcadia.finance/developers/contract-addresses\nOnly the Arcadia-developed code of the deployed contracts is in scope. Everything else (tests, pre-deployment code, mocks, scripts, deployment tooling, and third-party dependencies/imports) is out of scope.\n\nThe Max reward tier is the highest payout available for an asset, not a floor; each report's severity is set solely by its demonstrated impact.\n\n## Severity Classification & In-Scope Impacts\n\nThis program follows the **Primacy of Impact** principle. A report is valid only if it demonstrates **(a)** one of the in-scope impacts below **AND (b)** a defect in contract logic that diverges from the protocol's intended, documented design. A bug class (reentrancy, overflow, reordering, etc.) is a root cause, not an impact. An outcome the protocol is designed to produce is not a vulnerability, even when it loses funds. Losses from market risk, asset volatility, or the normal operation of the liquidation, interest, or pricing mechanisms do not qualify.\n\nSeverity is assigned by demonstrated impact and blast radius, not by category. Definitions are illustrative, not exhaustive:\n\n1. **Critical:** a largely single-transaction (atomic) exploit causing theft, permanent (irreversible) loss, or permanent freezing of all or a significant portion of all/many users' funds (protocol-wide/systemic). Also full protocol insolvency or catastrophic bad debt borne by users caused by a logic defect (not market risk), and unauthorized minting/burning/modification of balances at scale. Reserved for permanent, irreversible, systemic loss.\n2. **High:** a largely single-transaction (atomic) exploit causing theft, permanent loss, or permanent freezing of all or a significant portion of a single user's funds, not extending to the wider protocol.\n3. **Medium:** a one-off exploit with limited user-fund loss, foregone/unclaimable yield, or a significant continuous/permanent protocol-side loss from a logic defect (e.g. permanently preventing the protocol/treasury from recovering funds owed); or permanent, irreversible DoS with no remedy and no user-fund loss. Unrealistic/low-probability preconditions are Medium at most.\n4. **Low / Informational (out of scope):** a one-off loss of protocol-/treasury-controlled funds; any issue with no material or no demonstrable fund impact; and any exposure-cap/concentration-limit issue (`maxExposure`/`maxUsdExposure` undercount, bypass, or accounting discrepancy) with no realized loss of funds.\n\n### Program-Specific Severity Rules (overrides the above)\n\n- **Recoverable/reversible is never Critical, and recoverable/temporary DoS is Low.** If funds can be recovered or the impact reversed (admin action, pausing, timelock, rescue), or a lock/DoS is cleared by a trusted-role action, ordinary protocol operation (a later bid, time, the Dutch price decay, a retry after a config fix), or any remedy, it is not \"permanent.\"\n- **Single-user vs. systemic.** Loss confined to a single user (or small set) is capped at High.\n- **Protocol-/treasury-controlled funds** are not user funds: a one-off such loss is Low, a significant continuous/permanent such loss is Medium at most. Never High/Critical.\n- **Trusted roles and trusted third parties** are an accepted trust assumption and out of scope: (i) anything a privileged/trusted role (admin, owner, governance, guardian, keeper, risk manager, asset-manager initiator) can do, including actions causing loss/freezing, plus centralization and governance vectors; and (ii) any trusted external party/integration (Chainlink oracles/sequencer feeds, the CoW Protocol settlement layer and its bonded solvers, ...) behaving maliciously, being compromised, or malfunctioning. Reports requiring such a role/party to misbehave, or describing what they could do, are not valid.\n- **The liquidation, interest, and pricing mechanisms operating as documented are never a logic defect.** In particular, the Dutch auction freezes asset shares and `startDebt` at auction start and prices partial bids on those frozen values with no live re-valuation; a bidder may buy any subset of assets; the auction does not pool one asset's surplus to cover another's shortfall; bidders buy at a discount to live value; and an auction may reach cutoff and have remaining assets bought-in for manual handling. Any shortfall/bad-debt/leak whose existence depends on a post-snapshot price change is market risk, even if the account's live aggregate value transiently exceeds its debt mid-auction. Arguments mixing valuation domains (live spot vs frozen share, or \"live solvency\" vs amounts the mechanism intentionally does not use) do not show a defect.\n- **Live on-chain state is the sole reference for \"present/realistic.\"** Any impact depending on a configuration or risk-parameter value differing from current on-chain state (collateral/liquidation factors, exposure caps, allowed-asset list, auction parameters, account recipients, tranche setup, oracle/sequencer config) is out of scope. The reporter must show the precondition holds on a live, operational creditor/pool. Pre-launch/unconfigured states do not count.\n- **These program rules may be clarified and/or amended at any time, every submission is evaluated against the rules in effect at the time of judging.**\n- **No qualifying impact, no reward.**\n\n### Submission Requirements\n\nInclude a clear description, the affected contract/function, the in-scope impact, and reproduction steps. A runnable Foundry PoC is mandatory for all Critical/High submissions, run against the in-scope commit or a mainnet fork, reproducing the qualifying impact **against the live on-chain configuration (or a faithful fork), not a hand-constructed config that does not match deployed state.** Asserted impact without a runnable PoC is out of scope. AI-generated reports without a runnable PoC are not accepted.\n\n### Out of Scope\n\n- Theoretical issues with no demonstrated qualifying impact, or not present/realistic on the live protocol.\n- Any designed outcome, even if it loses funds (bad debt + terminal tranche or pool state, under-collateralization, liquidation shortfalls) from market risk, collateral volatility, or a steep price drop (see Severity rules above).\n- Impacts that only materialize if otherwise-incentivized third parties do not act (e.g. assuming no bidder participates in a profitable auction), or that require time, interest accrual, market movement, or multiple blocks to materialize: not atomic, so Medium at most, or Low/Info where no live-config fund loss is shown.\n- A documented unsupported configuration, pool, or position type failing or reverting in an optional/peripheral helper (compounder, rebalancer, yield claimer, ...): an atomic revert with no state change is not fund loss, an inferior revert reason is Low/Info, and inability to use a convenience workflow while funds remain safe and withdrawable is Low/Info.\n- Issues already reported in, or covered by, prior audits or prior disclosures.\n- Issues requiring unrealistic/external preconditions: a compromised/malfunctioning third-party oracle (e.g. Chainlink), malicious or non-standard (fee-on-transfer, rebasing, ...) tokens not on the supported-asset list, validator/miner collusion beyond simple reordering, or unrealistic gas-price conditions.\n- Generic mempool front-running with no resulting fund impact.\n- Vulnerabilities in imported/third-party contracts and libraries (e.g. OpenZeppelin, Solmate) not modified by Arcadia.\n- Incorrect, missing, or misleading event emissions with no fund impact.\n- Blacklisting actions of ERC20\n- Rounding or ERC-4626-style share issues that net no material loss of funds.\n- Old/unlocked compiler version, code-style violations, redundant code, gas optimizations, best-practice issues.\n- Issues in test files, mocks, scripts, or deployment tooling.\n\n### Common reported findings which are out of scope\n\n- Malicious or over-fee asset managers or initiators that have been set by the Account Owner (including initiator-supplied prices or slippage bounds, and fees above expectations).\n- Tranches other than the most junior one (if multiple tranches are deployed) accepting deposits or withdrawals during ongoing liquidations.\n- Capped LP fee-values disregarded during liquidation.\n- Interest accruals and auction timing (price decay, cutoff) continuing during protocol pause, whether fully or partially paused.\n- The actionTarget state (including balances), as the actionTarget is an untrusted contract.\n- Flows not related to Arcadia, such as users intentionally sending tokens to a contract, which may be withdrawn by another user through a public skim-like function.\n- `factory.createAccount()` salt & create2, including pre-funded addresses before Account deployment at such addresses.\n- Any intentionally bad configuration or approval by the Account Owner (including stale settings after receiving/transferring an Account or re-enabling an asset manager) that loses only that Account's own funds without impacting global accounting or the protocol. Any user action losing their own funds is not applicable (withdrawing to a malicious address, ...).\n- CowSwapper returning the EIP-1271 magic value on idle state.\n- A repaid or recovered Account bought in at cutoff: anyone can call `endAuction()` before cutoff, for a reward.\n- Donations (`donateToTranche()`) or first-depositor share inflation on a tranche without shares.\n- Chainlink feed behaviour: stale/inactive feeds reverting flows, zero or min/max answers, update timing across multi-hop routes.\n- Sequencer outages: grace periods, bids, or auction restarts around a sequencer recovery.\n- Trading fees of staked Slipstream positions (mint/burn, compounder restaking): staked liquidity earns gauge rewards only.\n- uint128 reward accumulator overflows, which need a near-empty gauge or pool.",
+ "disclosureGuidelines": "* Do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization.\r\n* No vulnerability disclosure, including partial is allowed for the moment.\r\n* Platform-Only Disclosure: Disclosure is only possible through the HackenProof Disclosure function. \r\n * Researchers may request disclosure (Limited or Full) within the report ticket;\r\n * We reserve the right to approve, redact, or deny disclosure requests at our sole discretion.\r\n* Mutual Required: Any publication requires explicit mutual agreement. Reports must remain Private until the status is officially changed to \"Public\" on the HackenProof platform by the team.",
+ "eligibilityAndCoordinateDisclosure": "We are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:\r\n\r\n* You must be the first reporter of a vulnerability.\r\n* The vulnerability must be a qualifying vulnerability.\r\n* Any vulnerability found must be reported no later than 24 hours after discovery and exclusively through hackenproof.com\r\n* You must send a clear textual description of the report along with steps to reproduce the issue, include attachments such as screenshots or proof of concept code as necessary.\r\n* You must not be a former or current employee of us or one of its contractor.\r\n* ONLY USE the EMAIL under which you registered your HackenProof account (in case of violation, no bounty can be awarded).\r\n* Provide detailed but to-the point reproduction steps.\r\n* AI-generated reports without runable PoC are not accepted under this program.",
+ "labels": {
+  "types": [
+   "smart contract"
+  ],
+  "languages": [
+   "Solidity"
+  ],
+  "platforms": [],
+  "project_types": [
+   "DeFi"
+  ]
+ },
+ "customBlocks": [],
+ "scopeReview": 309200,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "25000.0",
+ "minBounty": "0.0"
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/peripheral/DepositWrapper.sol:DepositWrapper",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x41d82e0512d77508ad486d6800059f3d936910db",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "DepositWrapper",
+ "asset_url": "https://arbiscan.io/address/0x41d82e0512d77508ad486d6800059f3d936910db",
+ "files": 17
+}

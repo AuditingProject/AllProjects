@@ -1,0 +1,152 @@
+{
+ "assets": [
+  {
+   "id": "4oNazZ5s1oygbVspZ7iQoo",
+   "url": "https://explorer.solana.com/address/6EZAJVrNQdnBJU6ULxXSDaEoK6fN7C3iXTCkZKRWDdGM?cluster=devnet",
+   "type": "smart_contract",
+   "addedAt": "2025-05-05T13:26:31.107Z",
+   "revision": 0,
+   "description": "Solana staker and whitelist contracts on testnet",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "100248",
+   "url": "https://github.com/TruFin-io/smart-contracts-solana-public",
+   "type": "smart_contract",
+   "addedAt": "2026-06-25T18:27:58.911Z",
+   "revision": 0,
+   "description": "Solana staker and whitelist contracts on GitHub",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  }
+ ],
+ "rewards": [
+  {
+   "id": 51507,
+   "primacy": "primacy_of_rules",
+   "severity": "critical",
+   "assetType": "smart_contract",
+   "fixedReward": 20000,
+   "rewardModel": "fixed",
+   "rewardCalculationPercentage": 0
+  },
+  {
+   "id": 51508,
+   "primacy": "primacy_of_rules",
+   "severity": "high",
+   "assetType": "smart_contract",
+   "fixedReward": 10000,
+   "rewardModel": "fixed"
+  },
+  {
+   "id": 51509,
+   "primacy": "primacy_of_rules",
+   "severity": "medium",
+   "assetType": "smart_contract",
+   "fixedReward": 3000,
+   "rewardModel": "fixed"
+  }
+ ],
+ "impacts": [
+  {
+   "id": 23,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Theft of unclaimed yield"
+  },
+  {
+   "id": 24,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Theft of unclaimed royalties"
+  },
+  {
+   "id": 25,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Permanent freezing of unclaimed yield"
+  },
+  {
+   "id": 26,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Permanent freezing of unclaimed royalties"
+  },
+  {
+   "id": 27,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Temporary freezing of funds"
+  },
+  {
+   "id": 29,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Smart contract unable to operate due to lack of token funds"
+  },
+  {
+   "id": 30,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Block stuffing"
+  },
+  {
+   "id": 31,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
+  },
+  {
+   "id": 32,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Theft of gas"
+  },
+  {
+   "id": 33,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Unbounded gas consumption"
+  },
+  {
+   "id": 14,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Manipulation of governance voting result deviating from voted outcome and resulting in a direct change from intended effect of original results"
+  },
+  {
+   "id": 15,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
+  },
+  {
+   "id": 17,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Permanent freezing of funds"
+  },
+  {
+   "id": 22,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Protocol insolvency"
+  }
+ ],
+ "knownIssues": null,
+ "programCodebases": null,
+ "maxBounty": 20000,
+ "kyc": true,
+ "updatedDate": "2026-10-08T09:55:04.398Z",
+ "launchDate": "2023-09-27T14:00:00.000Z",
+ "programOverview": "The TruFin Protocol builds institutional-grade DeFi primitives that can be used as the foundational building blocks for complex digital asset strategies to reduce risk while generating rewards, securely on-chain.\n\nTruStake vaults provide access to liquid staking on the Solana network. In exchange for depositing assets in a TruStake vault, users receive the liquid staking token TruSOL.\n\nThis bug bounty program covers the TruStake smart contracts and whitelists listed in scope, and is primarily concerned with the loss of user funds. The program follows the Primacy of Rules: only the assets and impacts listed in scope are eligible.\n\nRewards are allocated based on the severity of the bug disclosed. The scope, terms and rewards are at the sole discretion of the TruFin Protocol.\n\nFor more information about TruFin, please visit https://trufin.io.\n\nTruFin provides rewards in USDC. For more details about the payment process, please view the Rewards by Threat Level section.\n\n\n__Primacy of Rules__\n\nThis program adheres to the Primacy of Rules. Only the assets and impacts listed in the Scope section of this program are eligible for a reward, and every report is bound by the terms of this bug bounty program.\n\n- A report is eligible only if it affects an in-scope asset and demonstrates an in-scope impact.\n- Assets owned by TruFin that are not listed as in-scope are not covered, even if the impact is critical.\n- Other TruFin projects are not covered by this program. Check whether they have their own bug bounty program on Immunefi.\n- Testnet and mock files are not covered.\n- Rewards are determined by the severity classification and terms set out in this program, at the sole discretion of TruFin Protocol.\n\n\n__Immunefi Standard Badge__\n\nTruFin has satisfied the requirements for the [Immunefi Standard Badge,](https://immunefisupport.zendesk.com/hc/en-us/articles/6427157117713-The-Immunefi-Standard-Badge-) which is given to projects that adhere to our best practices.",
+ "rewardsBody": "Rewards are distributed according to the impact the vulnerability could otherwise cause based on the Impacts in Scope table further below. \n\n__Repeatable Attack Limitations__\n\nIn cases of repeatable attacks for smart contract bugs, only the first attack will be counted, regardless of whether the smart contract is upgradable, pausable, or killable.\n\n__Public Disclosure of Known Issues__\n\nBug reports covering previously discovered bugs acknowledged below are not eligible for any reward through the bug bounty program. \n\n- Slashing is only enabled for Injective. Any issue related to slashing for other stakers will not be considered.\n- Apart from the Solana staker, all TruFin stakers offer an allocation feature that enables a user to allocate rewards from the staked token. The amount allocated may exceed the total value currently staked by the user, which is fine. The user will still be required to have enough tokens in their wallet at the point at which distributions are made, hence no issue related to users not having enough to cover allocation\u2019s distributions will be considered a bug.\n\n\n__Proof of Concept (PoC) Requirements__\n\nA PoC is required for the following severity levels:\n- Smart Contract - Critical\n- Smart Contract - High\n- Smart Contract - Medium\n\nAll PoCs submitted must comply with the Immunefi-wide [PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules) Bug report submissions without a PoC when a PoC is required will not be provided with a reward.\n\n__Reward Payment Terms__\n\nPayouts are handled by the Trufin team directly and are denominated in USD. However, payments are done in USDC.64",
+ "customOutOfScopeInformation": "- Impacts caused by bugs found in external libraries used by the contract\n- Best practice recommendations",
+ "assetsBodyV2": null,
+ "impactsBody": null
+}

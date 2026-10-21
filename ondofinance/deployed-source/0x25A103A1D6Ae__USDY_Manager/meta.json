@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/usdy/USDYManager.sol:USDYManager",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x25A103A1D6AeC5967c1A4fe2039cdc514886b97e",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "USDY Manager",
+ "asset_url": "https://etherscan.io/address/0x25A103A1D6AeC5967c1A4fe2039cdc514886b97e",
+ "files": 28
+}

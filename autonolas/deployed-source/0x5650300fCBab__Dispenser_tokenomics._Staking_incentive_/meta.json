@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Dispenser",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x5650300fCBab43A0D7D02F8Cb5d0f039402593f0",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Dispenser \u2014 tokenomics. Staking incentive distribution orchestrator. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x5650300fCBab43A0D7D02F8Cb5d0f039402593f0#code",
+ "files": 1
+}

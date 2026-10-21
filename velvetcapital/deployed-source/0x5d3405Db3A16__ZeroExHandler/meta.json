@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/handler/ExternalSwapHandler/ZeroExHandler.sol:ZeroExHandler",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x5d3405Db3A16Cd9C545DBac651ab5D9456C14B73",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "ZeroExHandler",
+ "asset_url": "https://bscscan.com/address/0x5d3405Db3A16Cd9C545DBac651ab5D9456C14B73",
+ "files": 20
+}

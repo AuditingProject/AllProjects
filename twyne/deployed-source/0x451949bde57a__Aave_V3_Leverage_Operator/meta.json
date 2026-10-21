@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/operators/AaveV3LeverageOperator.sol:AaveV3LeverageOperator",
+ "compiler": "0.8.28+commit.7893614a",
+ "address": "0x451949bde57aBe2F5DBD4758Cd50C6DCfC093A4C",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Aave V3 Leverage Operator",
+ "asset_url": "https://etherscan.io/address/0x451949bde57aBe2F5DBD4758Cd50C6DCfC093A4C",
+ "files": 75
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "NodeELRewardVault",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x97c92752DD8a8947cE453d3e35D2cad5857367af",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "NodeELRewardVault",
+ "asset_url": "https://etherscan.io/address/0x97c92752DD8a8947cE453d3e35D2cad5857367af",
+ "files": 10
+}

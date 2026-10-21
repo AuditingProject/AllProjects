@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/external-position-manager/external-positions/uniswap-v3-liquidity/UniswapV3LiquidityPositionLib.sol:UniswapV3LiquidityPositionLib",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0x20a2d4765be139475c34db7b7d856dcf25092c26",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "UniswapV3LiquidityPositionLib",
+ "asset_url": "https://etherscan.io/address/0x20a2d4765be139475c34db7b7d856dcf25092c26",
+ "files": 40
+}

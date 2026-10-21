@@ -1,0 +1,29 @@
+[
+ {
+  "url": "https://etherscan.io/address/0x8A32f49FFbA88aba6EFF96F45D8BD1D4b3f35c7D",
+  "desc": "Aave v2 Lending Rate Oracle",
+  "status": "fetched",
+  "dir": "0x8A32f49FFbA8__Aave_v2_Lending_Rate_Oracle",
+  "name": "LendingRateOracle.sol:LendingRateOracle",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://etherscan.io/address/0xEFFC18fC3b7eb8E676dac549E0c693ad50D1Ce31",
+  "desc": "Aave v2 WrappedTokenGatewayV2",
+  "status": "fetched",
+  "dir": "0xEFFC18fC3b7e__Aave_v2_WrappedTokenGatewayV2",
+  "name": "contracts/WrappedTokenGatewayV2.sol:WrappedTokenGatewayV2",
+  "source": "sourcify",
+  "files": 17
+ },
+ {
+  "url": "https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c",
+  "desc": "Aave v2 Collector",
+  "status": "fetched",
+  "dir": "0x464C71f6c2F7__Aave_v2_Collector",
+  "name": "browser/tests/Proxy.sol:InitializableAdminUpgradeabilityProxy",
+  "source": "sourcify",
+  "files": 1
+ }
+]

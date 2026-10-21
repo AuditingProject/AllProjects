@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/periphery/DeBridgeToken.sol:DeBridgeToken",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xc1656B63D9EEBa6d114f6bE19565177893e5bCBF",
+ "chain": 250,
+ "explorer_host": "ftmscan.com",
+ "asset_description": "deBridgeToken FTM",
+ "asset_url": "https://ftmscan.com/address/0xc1656B63D9EEBa6d114f6bE19565177893e5bCBF",
+ "files": 15
+}

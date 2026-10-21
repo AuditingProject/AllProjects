@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/hackenproof-public/mmt-v3-core",
+   "type": "smart_contract",
+   "description": "* Participation: Invite-only - https://discord.gg/g7u4afaYu7\r\n* KYC Required"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "momentum-smart-contracts",
+ "maxBounty": "200000.0",
+ "kyc": true
+}

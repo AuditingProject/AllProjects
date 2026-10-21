@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/current-shareholders/AllowedRedeemersForSpecificAssetsPolicy.sol:AllowedRedeemersForSpecificAssetsPolicy",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xEd4AA74490843E7ad64B445eF18CecE8A0562433",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AllowedRedeemersForSpecificAssetsPolicy",
+ "asset_url": "https://etherscan.io/address/0xEd4AA74490843E7ad64B445eF18CecE8A0562433",
+ "files": 12
+}

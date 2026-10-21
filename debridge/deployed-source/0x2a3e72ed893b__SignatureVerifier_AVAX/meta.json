@@ -1,0 +1,12 @@
+{
+ "source": "routescan",
+ "match": "verified",
+ "name": "SignatureVerifier",
+ "compiler": "v0.8.7+commit.e28d00a7",
+ "address": "0x2a3e72ed893b5958690e16c3bbe1bd92137b6250",
+ "chain": 43114,
+ "explorer_host": "snowtrace.io",
+ "asset_description": "SignatureVerifier AVAX",
+ "asset_url": "https://snowtrace.io/address/0x2a3e72ed893b5958690e16c3bbe1bd92137b6250",
+ "files": 12
+}

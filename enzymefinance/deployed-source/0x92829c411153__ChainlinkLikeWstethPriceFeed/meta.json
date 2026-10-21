@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/infrastructure/price-feeds/primitives/ChainlinkLikeWstethPriceFeed.sol:ChainlinkLikeWstethPriceFeed",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x92829c41115311ca43d5c9f722f0e9e7b9fcd30a",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ChainlinkLikeWstethPriceFeed",
+ "asset_url": "https://etherscan.io/address/0x92829c41115311ca43d5c9f722f0e9e7b9fcd30a",
+ "files": 3
+}

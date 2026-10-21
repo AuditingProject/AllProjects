@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "RewardClaimer.vy:RewardClaimer",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0xA82454009E01Ae697012a73cB232d85e61B05e50",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Reward Claimer",
+ "asset_url": "https://etherscan.io/address/0xA82454009E01Ae697012a73cB232d85e61B05e50",
+ "files": 1
+}

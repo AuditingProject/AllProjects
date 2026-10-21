@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "AgentRegistry",
+ "compiler": "0.8.15+commit.e14f2714",
+ "address": "0x2F1f7D38e4772884b88f3eCd8B6b9faCdC319112",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AgentRegistry \u2014 registries. ERC-721 registry of canonical agents. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x2F1f7D38e4772884b88f3eCd8B6b9faCdC319112#code",
+ "files": 6
+}

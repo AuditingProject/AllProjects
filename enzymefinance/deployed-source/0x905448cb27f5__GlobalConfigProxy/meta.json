@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/persistent/global-config/GlobalConfigProxy.sol:GlobalConfigProxy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x905448cb27f51d9a663fb18d57d76c49d19be837",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "GlobalConfigProxy",
+ "asset_url": "https://polygonscan.com/address/0x905448cb27f51d9a663fb18d57d76c49d19be837",
+ "files": 3
+}

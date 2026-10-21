@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/utils/0.8.19/dispatcher-owned-beacon/DispatcherOwnedBeaconFactory.sol:DispatcherOwnedBeaconFactory",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xd6e8b30214ef909421eb1d20e5b281777810004a",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "DispatcherOwnedBeaconFactory (AaveV3FlashLoanAssetManagerLib)",
+ "asset_url": "https://etherscan.io/address/0xd6e8b30214ef909421eb1d20e5b281777810004a",
+ "files": 12
+}

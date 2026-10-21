@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/HashflowRouter.sol:HashflowRouter",
+ "compiler": "0.8.18+commit.87f61d96",
+ "address": "0x55084eE0fEf03f14a305cd24286359A35D735151",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Hashflow Router",
+ "asset_url": "https://etherscan.io/address/0x55084eE0fEf03f14a305cd24286359A35D735151",
+ "files": 27
+}

@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.hermetica-interface-hbtc-v1",
+ "compiler": "clarity4",
+ "address": "0xc1c3face1d66819ce2cd6f28876b07577c252812c4c43b2145ac89af61819117",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Hermetica Interface",
+ "asset_url": "https://explorer.hiro.so/txid/0xc1c3face1d66819ce2cd6f28876b07577c252812c4c43b2145ac89af61819117?chain=mainnet",
+ "files": 1
+}

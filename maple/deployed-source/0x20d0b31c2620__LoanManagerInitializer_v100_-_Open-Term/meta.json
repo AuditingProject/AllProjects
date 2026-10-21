@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/LoanManagerInitializer.sol:LoanManagerInitializer",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x20d0b31c2620c28d22489babfef9445c7d952921",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "LoanManagerInitializer (v100 - Open-Term)",
+ "asset_url": "https://etherscan.io/address/0x20d0b31c2620c28d22489babfef9445c7d952921",
+ "files": 5
+}

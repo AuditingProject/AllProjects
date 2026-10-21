@@ -1,0 +1,23 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/arcadia-finance/accounts-v2",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  },
+  {
+   "url": "https://github.com/arcadia-finance/lending-v2",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  },
+  {
+   "url": "https://github.com/arcadia-finance/asset-managers",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "arcadia-finance-company-smart-contracts",
+ "maxBounty": "25000.0",
+ "kyc": true
+}

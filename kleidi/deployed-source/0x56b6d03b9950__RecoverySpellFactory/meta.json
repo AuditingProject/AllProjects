@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.optimism.io",
+ "match": "verified",
+ "name": "RecoverySpellFactory",
+ "compiler": "v0.8.25+commit.b61c2a91",
+ "address": "0x56b6d03b995022A612aF6a212C74902f233F52Cc",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "RecoverySpellFactory",
+ "asset_url": "https://optimistic.etherscan.io/address/0x56b6d03b995022A612aF6a212C74902f233F52Cc",
+ "files": 31
+}

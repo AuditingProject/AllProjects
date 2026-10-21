@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/rebalance/OffChainRebalance.sol:OffChainRebalance",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x1d2bA92e2227377fCD3c047CCdF1D4389c98f29B",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "OffChainRebalance",
+ "asset_url": "https://bscscan.com/address/0x1d2bA92e2227377fCD3c047CCdF1D4389c98f29B",
+ "files": 43
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/fee-manager/fees/ExitRateBurnFee.sol:ExitRateBurnFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x8bdb929f16c2ce833c3c3176ba5c607e20949010",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ExitRateBurnFee",
+ "asset_url": "https://arbiscan.io/address/0x8bdb929f16c2ce833c3c3176ba5c607e20949010",
+ "files": 6
+}

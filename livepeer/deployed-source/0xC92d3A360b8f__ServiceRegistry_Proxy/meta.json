@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/ManagerProxy.sol:ManagerProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xC92d3A360b8f9e083bA64DE15d95Cf8180897431",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ServiceRegistry (Proxy)",
+ "asset_url": "https://arbiscan.io/address/0xC92d3A360b8f9e083bA64DE15d95Cf8180897431#code",
+ "files": 7
+}

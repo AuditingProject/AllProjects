@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TeamRegistry.vy:TeamRegistry",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0x9da431b8A5b5962ebFF1d1876DdB0f336a372F29",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Team Registry",
+ "asset_url": "https://etherscan.io/address/0x9da431b8A5b5962ebFF1d1876DdB0f336a372F29#code",
+ "files": 1
+}

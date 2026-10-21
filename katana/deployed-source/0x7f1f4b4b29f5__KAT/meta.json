@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/KatToken.sol:KatToken",
+ "compiler": "0.8.28+commit.7893614a",
+ "address": "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
+ "chain": 747474,
+ "explorer_host": "katanascan.com",
+ "asset_description": "KAT",
+ "asset_url": "https://katanascan.com/address/0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
+ "files": 21
+}

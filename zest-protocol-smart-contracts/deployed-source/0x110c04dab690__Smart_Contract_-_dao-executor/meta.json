@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP3YCQZYWQR0CA6TT35301B28DV9D926VBZBBJWR7.dao-executor",
+ "compiler": "clarity4",
+ "address": "0x110c04dab690e12be239ebd41df6b8a4e71a55782c2c592cbb3350c31e1bdb19",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Smart Contract - dao-executor",
+ "asset_url": "https://explorer.hiro.so/txid/0x110c04dab690e12be239ebd41df6b8a4e71a55782c2c592cbb3350c31e1bdb19?chain=mainnet",
+ "files": 1
+}

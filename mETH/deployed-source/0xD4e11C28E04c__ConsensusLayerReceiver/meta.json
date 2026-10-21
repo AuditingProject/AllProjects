@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xD4e11C28E04c0c2bf370b7a9989498B7eA02493f",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ConsensusLayerReceiver",
+ "asset_url": "https://etherscan.io/address/0xD4e11C28E04c0c2bf370b7a9989498B7eA02493f",
+ "files": 9
+}

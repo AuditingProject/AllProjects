@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xF53330104B4943bBf6e3f366FE11270183f93A46",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "CollateralListaDistributor(USDF)",
+ "asset_url": "https://bscscan.com/address/0xF53330104B4943bBf6e3f366FE11270183f93A46",
+ "files": 112
+}

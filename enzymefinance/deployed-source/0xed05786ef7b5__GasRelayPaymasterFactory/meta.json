@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/infrastructure/gas-relayer/GasRelayPaymasterFactory.sol:GasRelayPaymasterFactory",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xed05786ef7b5e5bf909512f0ad46eb8f22cdc4ca",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "GasRelayPaymasterFactory",
+ "asset_url": "https://polygonscan.com/address/0xed05786ef7b5e5bf909512f0ad46eb8f22cdc4ca",
+ "files": 6
+}

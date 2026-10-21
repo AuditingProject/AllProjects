@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "Vyper_contract.vy:Vyper_contract",
+ "compiler": "0.3.7+commit.6020b8bb",
+ "address": "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "yCRV contract",
+ "asset_url": "https://etherscan.io/address/0xFCc5c47bE19d06BF83eB04298b026F81069ff65b#code",
+ "files": 1
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/FBTC.sol:FBTC",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+ "chain": 5000,
+ "explorer_host": "explorer.mantle.xyz",
+ "asset_description": "FToken",
+ "asset_url": "https://explorer.mantle.xyz/address/0xC96dE26018A54D51c097160568752c4E3BD6C364",
+ "files": 21
+}

@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP3YCQZYWQR0CA6TT35301B28DV9D926VBZBBJWR7.vault-traits",
+ "compiler": "clarity4",
+ "address": "0xaa6dc8f25dee3cda1bf2fca6c7b65a8c230f9e2dae2f0c6d4f377b19e1189645",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Smart Contract - vault-traits",
+ "asset_url": "https://explorer.hiro.so/txid/0xaa6dc8f25dee3cda1bf2fca6c7b65a8c230f9e2dae2f0c6d4f377b19e1189645?chain=mainnet",
+ "files": 1
+}

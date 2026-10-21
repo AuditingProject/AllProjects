@@ -1,0 +1,68 @@
+{
+ "assets": [
+  {
+   "url": "https://monadscan.com/address/0x4b8057e5cdFAf53222580DFAc54f327fE11C2078#code",
+   "type": "smart_contract",
+   "description": "Monad: `AmplePerspective`"
+  },
+  {
+   "url": "https://monadscan.com/address/0x9881464ade08eaea838d1ba06073a0c8f972b185#code",
+   "type": "smart_contract",
+   "description": "Monad: `AmpleEarnFactory`"
+  },
+  {
+   "url": "https://monadscan.com/address/0xc9086278b317d6316151945d720ce7b602fbe463#code",
+   "type": "smart_contract",
+   "description": "Monad: `AmpleEarnCrossChainRouter`"
+  },
+  {
+   "url": "https://basescan.org/address/0x801ad3167d1578d5035a25425796b79cb4a31cba#code",
+   "type": "smart_contract",
+   "description": "Base: `AmplePerspective`"
+  },
+  {
+   "url": "https://basescan.org/address/0x62b304519ee30e205621920454c2802fb99dca67#code",
+   "type": "smart_contract",
+   "description": "Base: `AmpleEarnFactory`"
+  },
+  {
+   "url": "https://basescan.org/address/0xf132654d677034c804cfb6432d27526088deb0c5#code",
+   "type": "smart_contract",
+   "description": "Base: `AmpleEarnCrossChainRouter`"
+  },
+  {
+   "url": "https://arbiscan.io/address/0x4b8057e5cdfaf53222580dfac54f327fe11c2078#code",
+   "type": "smart_contract",
+   "description": "Arbitrum: `AmplePerspective`"
+  },
+  {
+   "url": "https://arbiscan.io/address/0x9881464ade08eaea838d1ba06073a0c8f972b185#code",
+   "type": "smart_contract",
+   "description": "Arbitrum: ``AmpleEarnFactory`"
+  },
+  {
+   "url": "https://arbiscan.io/address/0xcab6a41090e274efe7fe64cf0ec906f413686d36#code",
+   "type": "smart_contract",
+   "description": "Arbitrum: `AmpleEarnCrossChainRouter`"
+  },
+  {
+   "url": "https://katanascan.com/address/0x4b8057e5cdfaf53222580dfac54f327fe11c2078#code",
+   "type": "smart_contract",
+   "description": "Katana: `AmplePerspective`"
+  },
+  {
+   "url": "https://katanascan.com/address/0x9881464ade08eaea838d1ba06073a0c8f972b185#code",
+   "type": "smart_contract",
+   "description": "Katana: `AmpleEarnFactory`"
+  },
+  {
+   "url": "https://katanascan.com/address/0x7beb2204fd629bf686ce85c640a5bcd66b392e65#code",
+   "type": "smart_contract",
+   "description": "Katana: `AmpleEarnCrossChainRouter`"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "ample-smart-contracts",
+ "maxBounty": "20000.0",
+ "kyc": false
+}

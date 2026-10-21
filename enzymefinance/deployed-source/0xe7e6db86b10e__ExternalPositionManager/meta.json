@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/external-position-manager/ExternalPositionManager.sol:ExternalPositionManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xe7e6db86b10e2cf1f409eb635998de81c841330f",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "ExternalPositionManager",
+ "asset_url": "https://basescan.org/address/0xe7e6db86b10e2cf1f409eb635998de81c841330f",
+ "files": 19
+}

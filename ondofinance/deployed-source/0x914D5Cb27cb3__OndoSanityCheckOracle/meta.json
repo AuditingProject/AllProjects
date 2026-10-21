@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OndoSanityCheckOracle",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x914D5Cb27cb30E80BdE8215ff577eD63Eb986B79",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoSanityCheckOracle",
+ "asset_url": "https://etherscan.io/address/0x914D5Cb27cb30E80BdE8215ff577eD63Eb986B79",
+ "files": 11
+}

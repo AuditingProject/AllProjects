@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/smart-accounts/share-price-throttled-asset-manager/SharePriceThrottledAssetManagerLib.sol:SharePriceThrottledAssetManagerLib",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xFdE8c198BeF60D026332a671F64c34D65C60C935",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "SharePriceThrottledAssetManagerLib",
+ "asset_url": "https://etherscan.io/address/0xFdE8c198BeF60D026332a671F64c34D65C60C935",
+ "files": 9
+}

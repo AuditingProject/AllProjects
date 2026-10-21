@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.9+commit.e5eed63a",
+ "address": "0x4ABEF2263d5A5ED582FC9A9789a41D85b68d69DB",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "StaderConfig",
+ "asset_url": "https://etherscan.io/address/0x4ABEF2263d5A5ED582FC9A9789a41D85b68d69DB",
+ "files": 14
+}

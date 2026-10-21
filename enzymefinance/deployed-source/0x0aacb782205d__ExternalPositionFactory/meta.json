@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/persistent/external-positions/ExternalPositionFactory.sol:ExternalPositionFactory",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x0aacb782205dde9eff4862ace9849dce1ca3409f",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ExternalPositionFactory",
+ "asset_url": "https://etherscan.io/address/0x0aacb782205dde9eff4862ace9849dce1ca3409f",
+ "files": 6
+}

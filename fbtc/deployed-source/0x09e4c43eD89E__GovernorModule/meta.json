@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/FBTCGovernorModule.sol:FBTCGovernorModule",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x09e4c43eD89E5972df026d94FdA3a7680637c59A",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GovernorModule",
+ "asset_url": "https://etherscan.io/address/0x09e4c43eD89E5972df026d94FdA3a7680637c59A",
+ "files": 29
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TeamAccountant.vy:TeamAccountant",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0x1c221980AAb2E52Ccc02180E0c171Ca5E5ffDFD6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Team Accountant",
+ "asset_url": "https://etherscan.io/address/0x1c221980AAb2E52Ccc02180E0c171Ca5E5ffDFD6",
+ "files": 1
+}

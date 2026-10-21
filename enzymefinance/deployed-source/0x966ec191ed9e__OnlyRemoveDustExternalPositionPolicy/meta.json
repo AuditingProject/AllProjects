@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OnlyRemoveDustExternalPositionPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x966ec191ed9e026cb6f7e22bb2a284bad6a2838d",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OnlyRemoveDustExternalPositionPolicy",
+ "asset_url": "https://etherscan.io/address/0x966ec191ed9e026cb6f7e22bb2a284bad6a2838d",
+ "files": 52
+}

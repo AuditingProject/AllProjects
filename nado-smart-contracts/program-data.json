@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/nadohq/nado-contracts",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "nado-smart-contracts",
+ "maxBounty": "500000.0",
+ "kyc": false
+}

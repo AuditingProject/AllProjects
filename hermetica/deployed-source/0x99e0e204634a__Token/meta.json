@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.token-hbtc",
+ "compiler": "clarity4",
+ "address": "0x99e0e204634af511074897cae5d7b79602a808b1b4569a7f900fedb0ec2af245",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Token",
+ "asset_url": "https://explorer.hiro.so/txid/0x99e0e204634af511074897cae5d7b79602a808b1b4569a7f900fedb0ec2af245?chain=mainnet",
+ "files": 1
+}

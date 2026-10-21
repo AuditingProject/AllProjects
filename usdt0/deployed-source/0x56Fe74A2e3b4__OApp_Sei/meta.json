@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.10+commit.fc410830",
+ "address": "0x56Fe74A2e3b484b921c447357203431a3485CC60",
+ "chain": 1329,
+ "explorer_host": "seitrace.com",
+ "asset_description": "OApp Sei",
+ "asset_url": "https://seitrace.com/token/0x56Fe74A2e3b484b921c447357203431a3485CC60?chain=pacific-1",
+ "files": 16
+}

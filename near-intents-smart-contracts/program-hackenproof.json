@@ -1,0 +1,158 @@
+{
+ "title": "NEAR Intents: Smart Contracts",
+ "logo": "/uploads/bounty_program/logo/6850718c40041c000d1634b6/logo.png?timestamp=1779099999",
+ "logoPresent": true,
+ "companyName": "Near",
+ "companySlug": "near",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "08 Sep 2025",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/near-intents-smart-contracts/reports/new",
+ "kycRequired": true,
+ "pocRequired": true,
+ "reputationRequired": null,
+ "minReputation": null,
+ "submissionFee": 5,
+ "programOfTheWeek": false,
+ "depositAvailable": false,
+ "maxReward": "$300,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 2,
+   "reputation": 102,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/695a6fb540041c000ff8d03a/avatar.png?timestamp=1787575519",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "InfiniteSec",
+    "verified": true
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 5,
+   "reputation": 8,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/67fd9f8f40041cc43b289b37/avatar.png?timestamp=1791194422",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "fromeo016",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 4,
+   "reputation": 8,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6879be6640041c2871f33a51/avatar.png?timestamp=1792097125",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "nathan47",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 4,
+   "reputation": 8,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/68db2a7440041c000d70a053/avatar.png?timestamp=1786100421",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "tatsuya",
+    "verified": true
+   }
+  },
+  {
+   "rank": 5,
+   "reports_amount": 1,
+   "reputation": 7,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6934886e40041c000e6bcb82/avatar.png?timestamp=1768033617",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "Eeshan",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 192,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 300000,
+  "critical_min": 100000,
+  "high_max": 100000,
+  "high_min": 20000,
+  "low_max": 1000,
+  "low_min": 100,
+  "medium_max": 20000,
+  "medium_min": 1000
+ },
+ "description": "NEAR Intents is a smart contract developed for the NEAR blockchain. It facilitates atomic P2P transactions among peers, by allow trustless transactions in the smart contract.\r\n\r\n\r\n",
+ "sla": {
+  "first_response": 3,
+  "resolution_time": 90,
+  "time_to_reward": 30,
+  "time_to_triage": 5
+ },
+ "totalRewards": 500200,
+ "submittedReports": 352,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "6850739840041c000d1634be",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/near/intents",
+   "target_description": "",
+   "title": "Smart Contract"
+  },
+  {
+   "criticality": "Critical",
+   "id": "698ca11140041c000d180af1",
+   "out_of_scope": true,
+   "position": 0,
+   "target": "https://github.com/near/intents/tree/main/escrow-swap",
+   "target_description": "",
+   "title": "Smart Contract"
+  }
+ ],
+ "programRules": "* Make every effort not to damage or restrict the availability of products, services, or infrastructure\r\n* Avoid compromising any personal data, interruption, or degradation of any service\r\n* Don\u2019t access or modify other user data, localize all tests to your accounts\r\n* Perform testing only within the scope\r\n* Don\u2019t exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam\r\n* In case you find chain vulnerabilities we\u2019ll pay only for vulnerability with the highest severity.\r\n* Don\u2019t break any law and stay in the defined scope\r\n* Any details of found vulnerabilities must not be communicated to anyone who is not a HackenProof Team or an authorized employee of this Company without appropriate permission\r\n* Please note: company is entitled to make the payment in their native NEAR token vested over 1 year.\r\n* In case that your finding is valid you might be asked for extra KYC verification to proceed with payments\r\n* Perform testing on a private testnet wherever possible\r\n* The total maximum reward for High and Critical severity bugs is capped at 10% of the funds that are practically affected by the discovered vulnerability: maxReward = min(10% TVL, maxSeverityBudget).\r\n\r\nAll findings are limited by top reward in their severity:\r\n* Low - up to $1000\r\n* Medium - up to $20 000\r\n* High - up to $100 000\r\n* Critical - up to $ 300 000",
+ "focusArea": "Please note that the main smart contract in the repository, under the directory defuse, is referred to as the \"Verifier\" in the ecosystem. Near Intents contains more components that work in tandem to achieve its purpose. Nevertheless, this smart contract, the Verifier, can be used independently without needing anything else.\r\n\r\n**Documentation:**\r\n* For more information on how to use the Intents ecosystem, please refer to the [documentation](https://dashboard.hackenproof.com/redirect?url=https://docs.near-intents.org/near-intents).\r\n* For technical information about the Verifier smart contract programming primitives (and other smart contracts here), please refer to the [cargo documentation page](https://dashboard.hackenproof.com/redirect?url=https://near.github.io/intents/defuse/index.html).\r\n\r\n\r\n## IN-SCOPE VULNERABILITIES\r\nThe list is not limited to the following submissions but it gives an overview of what issues we care about:\r\n\r\n* Stealing or loss of funds\r\n* Unauthorized transaction\r\n* Transaction manipulation\r\n* Price manipulation\r\n* Fee payment bypass\r\n* Balance manipulation\r\n* Contracts execution flows\r\n* Cryptographic flaws\r\n\r\n## OUT-OF-SCOPE VULNERABILITIES\r\n* Unbounded gas or storage consumption\r\n* Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)\r\n* Network-level DoS\r\n* Vulnerabilities in the protocol that are unrelated to smart contract execution\r\n\r\nIf an impact can be caused to any other asset or service that isn\u2019t in Scope, you are encouraged to submit it for the consideration by the project.",
+ "disclosureGuidelines": "* Do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization\r\n* No vulnerability disclosure, including partial is allowed for the moment.\r\n* Please do NOT publish/discuss bugs",
+ "eligibilityAndCoordinateDisclosure": "\r\nWe are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:\r\n* You must be the first reporter of a vulnerability.\r\n* The vulnerability must be a qualifying vulnerability\r\n* Any vulnerability found must be reported no later than 24 hours after discovery and exclusively through hackenproof.com\r\n* You must send a clear textual description of the report along with steps to reproduce the issue, include attachments such as screenshots or proof of concept code as necessary.\r\n* ONLY USE YOUR HackenProof ADDRESS (in case of violation, no bounty can be awarded)\r\n* Provide detailed but to-the point reproduction steps\r\n* Employees, spouses, partners, or families of employees, and former employees of Pagoda, Near, and the Near Foundation, Aurora, Defuse Labs and any subsidiaries or contractors, are not eligible to participate in the Bug Bounty program.",
+ "labels": {
+  "types": [
+   "smart contract",
+   "blockchain",
+   "other"
+  ],
+  "languages": [
+   "Rust",
+   "Wasm"
+  ],
+  "platforms": [],
+  "project_types": [
+   "DEX",
+   "Bridge",
+   "Execution environment/engine",
+   "dApp"
+  ]
+ },
+ "customBlocks": [],
+ "scopeReview": 312883,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "300000.0",
+ "minBounty": "100.0"
+}

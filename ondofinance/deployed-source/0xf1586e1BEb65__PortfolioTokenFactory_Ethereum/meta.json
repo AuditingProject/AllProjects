@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/globalMarkets/portfolioToken/portfolioTokenFactory/PortfolioTokenFactory.sol:PortfolioTokenFactory",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0xf1586e1BEb654435E320a5fd0263F174Af71f03E",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PortfolioTokenFactory (Ethereum)",
+ "asset_url": "https://etherscan.io/address/0xf1586e1BEb654435E320a5fd0263F174Af71f03E",
+ "files": 44
+}

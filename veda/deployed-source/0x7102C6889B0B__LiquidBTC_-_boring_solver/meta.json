@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:scroll.blockscout.com",
+ "match": "verified",
+ "name": "BoringSolver",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0x7102C6889B0BB93Acf4A895f3EbeB17080D91d29",
+ "chain": 534352,
+ "explorer_host": "scrollscan.com",
+ "asset_description": "LiquidBTC - boring_solver",
+ "asset_url": "https://scrollscan.com/address/0x7102C6889B0BB93Acf4A895f3EbeB17080D91d29",
+ "files": 25
+}

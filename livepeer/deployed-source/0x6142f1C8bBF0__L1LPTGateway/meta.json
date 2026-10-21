@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "L1LPTGateway",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x6142f1C8bBF02E6A6bd074E8d564c9A5420a0676",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "L1LPTGateway",
+ "asset_url": "https://etherscan.io/address/0x6142f1C8bBF02E6A6bd074E8d564c9A5420a0676#code",
+ "files": 16
+}

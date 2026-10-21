@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/external/openzeppelin/contracts/proxy/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0x54aC0E5f60EC257385f134D5Fa490A00e5ddD17c",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PortfolioTokenManager (Ethereum)",
+ "asset_url": "https://etherscan.io/address/0x54aC0E5f60EC257385f134D5Fa490A00e5ddD17c",
+ "files": 9
+}

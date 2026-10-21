@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/hackenproof-public/predictstreet-dd",
+   "type": "smart_contract",
+   "description": "- Invite-only - [Request Access to Repository](https://discord.com/channels/918595597769015397/1485699362012004352) \r\n- **KYC Required**"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "adi-predictstreet-smart-contracts",
+ "maxBounty": "10000.0",
+ "kyc": true
+}

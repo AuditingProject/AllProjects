@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/portfolioToken/portfolioVault/PortfolioVault.sol:PortfolioVault",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0x058d2EFcD3C09E5c34Fd55D038Cc84f6B978F84F",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "PortfolioVault - BLKHIon (BSC)",
+ "asset_url": "https://bscscan.com/address/0x058d2EFcD3C09E5c34Fd55D038Cc84f6B978F84F",
+ "files": 15
+}

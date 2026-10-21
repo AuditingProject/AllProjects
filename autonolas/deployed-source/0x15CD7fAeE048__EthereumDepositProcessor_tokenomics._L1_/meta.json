@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "EthereumDepositProcessor",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x15CD7fAeE048c7673aB818C9e582630F1a924593",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "EthereumDepositProcessor \u2014 tokenomics. L1 staking incentive processor for Ethereum. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x15CD7fAeE048c7673aB818C9e582630F1a924593#code",
+ "files": 1
+}

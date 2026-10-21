@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.inkonchain.com",
+ "match": "verified",
+ "name": "RolesAuthority",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0x3E8B0ee1D05267fE9F8d2b1f8CB48F2e23d69c6B",
+ "chain": 57073,
+ "explorer_host": "explorer.inkonchain.com",
+ "asset_description": "RolesAuthority",
+ "asset_url": "https://explorer.inkonchain.com/address/0x3E8B0ee1D05267fE9F8d2b1f8CB48F2e23d69c6B",
+ "files": 2
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0x64bef4478942d8fd62be281707076442aa2d055e",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "STBL_PT1_Vault-OUSG - Proxy",
+ "asset_url": "https://etherscan.io/address/0x64bef4478942d8fd62be281707076442aa2d055e#code",
+ "files": 14
+}

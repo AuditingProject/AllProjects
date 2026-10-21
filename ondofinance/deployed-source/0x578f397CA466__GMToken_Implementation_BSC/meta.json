@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/globalMarkets/GMToken.sol:GMToken",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x578f397CA4661D1dB4D9a65065D6B284A1A850fd",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "GMToken Implementation (BSC)",
+ "asset_url": "https://bscscan.com/address/0x578f397CA4661D1dB4D9a65065D6B284A1A850fd",
+ "files": 20
+}

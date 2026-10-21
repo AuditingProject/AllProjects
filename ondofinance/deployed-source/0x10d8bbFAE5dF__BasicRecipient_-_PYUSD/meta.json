@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/xManager/tokenManagers/tokenRecipients/BasicRecipient.sol:BasicRecipient",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x10d8bbFAE5dF091DC1646A95685F7aFAe0c853E7",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BasicRecipient - PYUSD",
+ "asset_url": "https://etherscan.io/address/0x10d8bbFAE5dF091DC1646A95685F7aFAe0c853E7",
+ "files": 16
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/utils/Bridge2BurnerArbitrum.sol:Bridge2BurnerArbitrum",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0xA123748Ce7609F507060F947b70298D0bde621E6",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "Bridge2BurnerArbitrum \u2014 tokenomics. Bridge-then-burn for Arbitrum. Arbitrum.",
+ "asset_url": "https://arbiscan.io/address/0xA123748Ce7609F507060F947b70298D0bde621E6#code",
+ "files": 2
+}

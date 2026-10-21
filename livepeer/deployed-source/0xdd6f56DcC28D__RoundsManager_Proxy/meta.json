@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/ManagerProxy.sol:ManagerProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xdd6f56DcC28D3F5f27084381fE8Df634985cc39f",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "RoundsManager (Proxy)",
+ "asset_url": "https://arbiscan.io/address/0xdd6f56DcC28D3F5f27084381fE8Df634985cc39f#code",
+ "files": 7
+}

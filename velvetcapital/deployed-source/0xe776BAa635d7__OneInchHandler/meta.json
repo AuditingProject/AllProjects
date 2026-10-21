@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/handler/ExternalSwapHandler/OneInchHandler.sol:OneInchHandler",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xe776BAa635d7FA9D2a62371A180895F016eD4045",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "OneInchHandler",
+ "asset_url": "https://bscscan.com/address/0xe776BAa635d7FA9D2a62371A180895F016eD4045",
+ "files": 20
+}

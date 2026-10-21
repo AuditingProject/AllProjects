@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xa3BCE2dEf1823A551A407b14572C54D2aDB0Fd45",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "BorrowListaDistributor(mCake)",
+ "asset_url": "https://bscscan.com/address/0xa3BCE2dEf1823A551A407b14572C54D2aDB0Fd45",
+ "files": 112
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Karma",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0xB01B4154047e51F01b22017079367341ea73d744",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Karma \u2014 marketplace. Mech / requester reputation accounting (implementation behind KarmaProxy). Deployed on: Ethereum 0xB01B4154047e51F01b22017079367341ea73d744; Gnosis 0xe3fd2799DBe6847b9161229e7F346F73b270E6A4; Base 0x1f84F8F70dE0651C2d51Bf8850FE9D0289Ba3B3A; Polygon 0x7fc0ddf4DFB61CfA5519db2A5eE7B2Eb02De0140; Optimism 0xd2ff4Cf0927c3cFbF3BB27391044dBaf6f4ca7b9; Arbitrum 0x4aba1Cf7a39a51D75cBa789f5f21cf4882162519; Celo 0x8Bb87107CDAdE4cD7f470DC90CD58Ba1595B1D64.",
+ "asset_url": "https://etherscan.io/address/0xB01B4154047e51F01b22017079367341ea73d744#code",
+ "files": 1
+}

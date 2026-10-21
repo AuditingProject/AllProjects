@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/RateLimiter.sol:RateLimiter",
+ "compiler": "0.8.22+commit.4fc1097e",
+ "address": "0x2ced30744edcF9eDe5799eb07a0A29CE4f012a0c",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "RateLimiter (OFTs) (BSC)",
+ "asset_url": "https://bscscan.com/address/0x2ced30744edcF9eDe5799eb07a0A29CE4f012a0c",
+ "files": 4
+}

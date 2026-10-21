@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-staking/contracts/Vester.sol:Vester",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xC4993bf95fB30E5930C7Dc73604829993bb51243",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "Vester",
+ "asset_url": "https://arbiscan.io/address/0xC4993bf95fB30E5930C7Dc73604829993bb51243#code",
+ "files": 14
+}

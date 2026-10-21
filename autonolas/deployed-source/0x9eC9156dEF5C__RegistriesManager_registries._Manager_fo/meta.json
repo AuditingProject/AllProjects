@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "RegistriesManager",
+ "compiler": "0.8.15+commit.e14f2714",
+ "address": "0x9eC9156dEF5C613B2a7D4c46C383F9B58DfcD6fE",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "RegistriesManager \u2014 registries. Manager for component/agent registries. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x9eC9156dEF5C613B2a7D4c46C383F9B58DfcD6fE#code",
+ "files": 4
+}

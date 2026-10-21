@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "LiquidityManagerProxy",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x83Adc54B2828E99a6DA3A11263C75E38E0A1a215",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "LiquidityManagerProxy \u2014 tokenomics. Proxy for LiquidityManager. Deployed on: Ethereum 0x83Adc54B2828E99a6DA3A11263C75E38E0A1a215; Optimism 0x1f84F8F70dE0651C2d51Bf8850FE9D0289Ba3B3A; Base 0x2ACD313B892C9922E470e4950e907d5EAa70fC2a.",
+ "asset_url": "https://etherscan.io/address/0x83Adc54B2828E99a6DA3A11263C75E38E0A1a215#code",
+ "files": 1
+}

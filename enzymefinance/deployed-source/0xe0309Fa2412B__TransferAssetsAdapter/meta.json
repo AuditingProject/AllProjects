@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/TransferAssetsAdapter.sol:TransferAssetsAdapter",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xe0309Fa2412B811a0BD40A73297093707259217f",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "TransferAssetsAdapter",
+ "asset_url": "https://etherscan.io/address/0xe0309Fa2412B811a0BD40A73297093707259217f#code",
+ "files": 13
+}

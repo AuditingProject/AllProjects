@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MapleGlobals",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x9BeAbb1B6F3ad1DdB87b65148BA5Eb6102334956",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MapleGlobalsImplementation (v301)",
+ "asset_url": "https://etherscan.io/address/0x9BeAbb1B6F3ad1DdB87b65148BA5Eb6102334956",
+ "files": 5
+}

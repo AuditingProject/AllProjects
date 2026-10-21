@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/fee-manager/fees/MinSharesSupplyFee.sol:MinSharesSupplyFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xa32d9085c8c56515a1a03648b5c417badbe7732d",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "MinSharesSupplyFee",
+ "asset_url": "https://basescan.org/address/0xa32d9085c8c56515a1a03648b5c417badbe7732d",
+ "files": 5
+}

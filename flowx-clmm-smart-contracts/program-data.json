@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/hackenproof-public/flowx-clmm",
+   "type": "smart_contract",
+   "description": "* Participation: Invite-only - https://discord.gg/g7u4afaYu7\r\n* KYC Required\r\n\r\n!! Only smart contracts residing in the sources folder and dependencies are in scope. The rest is there to make testing easier !!"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "flowx-clmm-smart-contracts",
+ "maxBounty": "5000.0",
+ "kyc": true
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.optimism.io",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.10+commit.fc410830",
+ "address": "0xF03b4d9AC1D5d1E7c4cEf54C2A313b9fe051A0aD",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "OApp Optimism",
+ "asset_url": "https://optimistic.etherscan.io/address/0xF03b4d9AC1D5d1E7c4cEf54C2A313b9fe051A0aD",
+ "files": 8
+}

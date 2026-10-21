@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/handler/PancakeSwapHandler.sol:PancakeSwapHandler",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x5c2Cd133c766ea78F7BEA635fcfFff3191bD5F56",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "PancakeSwapHandler",
+ "asset_url": "https://bscscan.com/address/0x5c2Cd133c766ea78F7BEA635fcfFff3191bD5F56",
+ "files": 13
+}

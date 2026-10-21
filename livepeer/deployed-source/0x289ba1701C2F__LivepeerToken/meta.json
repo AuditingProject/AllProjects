@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/L2/token/LivepeerToken.sol:LivepeerToken",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "LivepeerToken",
+ "asset_url": "https://arbiscan.io/address/0x289ba1701C2F088cf0faf8B3705246331cB8A839#code",
+ "files": 16
+}

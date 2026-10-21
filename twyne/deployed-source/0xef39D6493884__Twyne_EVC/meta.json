@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "EthereumVaultConnector",
+ "compiler": "v0.8.24+commit.e11b9ed9",
+ "address": "0xef39D6493884C4C84D38a4bFF879Ce16CEdE702a",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Twyne EVC",
+ "asset_url": "https://etherscan.io/address/0xef39D6493884C4C84D38a4bFF879Ce16CEdE702a",
+ "files": 9
+}

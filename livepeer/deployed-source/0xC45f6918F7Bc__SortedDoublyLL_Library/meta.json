@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/libraries/SortedDoublyLL.sol:SortedDoublyLL",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xC45f6918F7Bcac7aBc8fe05302b3cDF39776cdeb",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "SortedDoublyLL (Library)",
+ "asset_url": "https://arbiscan.io/address/0xC45f6918F7Bcac7aBc8fe05302b3cDF39776cdeb#code",
+ "files": 2
+}

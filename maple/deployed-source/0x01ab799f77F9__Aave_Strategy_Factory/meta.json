@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/proxy/MapleStrategyFactory.sol:MapleStrategyFactory",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x01ab799f77F9a9f4dd0D2b6E7C83DCF3F48D5650",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Aave Strategy Factory",
+ "asset_url": "https://etherscan.io/address/0x01ab799f77F9a9f4dd0D2b6E7C83DCF3F48D5650",
+ "files": 11
+}

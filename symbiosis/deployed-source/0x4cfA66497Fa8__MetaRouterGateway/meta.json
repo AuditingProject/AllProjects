@@ -1,0 +1,12 @@
+{
+ "source": "routescan",
+ "match": "verified",
+ "name": "MetaRouterGateway",
+ "compiler": "v0.8.7+commit.e28d00a7",
+ "address": "0x4cfA66497Fa84D739a0f785FBcEe9196f1C64e4a",
+ "chain": 43114,
+ "explorer_host": "snowtrace.io",
+ "asset_description": "MetaRouterGateway",
+ "asset_url": "https://snowtrace.io/address/0x4cfA66497Fa84D739a0f785FBcEe9196f1C64e4a#code",
+ "files": 2
+}

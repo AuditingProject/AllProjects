@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-implementations/contracts/strategies/vault/liquidation/VaultBatchLiquidationStrategy.sol:VaultBatchLiquidationStrategy",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xFF0C5047C6a96dD211C849fbDADD6729D016Dd04",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "VaultBatchLiquidationStrategy",
+ "asset_url": "https://arbiscan.io/address/0xFF0C5047C6a96dD211C849fbDADD6729D016Dd04#code",
+ "files": 43
+}

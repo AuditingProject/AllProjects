@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "EulerRouter",
+ "compiler": "v0.8.24+commit.e11b9ed9",
+ "address": "0xb001f039D76bA48E577A17c04b6940DB37aF8648",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Euler Oracle Router",
+ "asset_url": "https://etherscan.io/address/0xb001f039D76bA48E577A17c04b6940DB37aF8648",
+ "files": 11
+}

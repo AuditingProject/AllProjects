@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "GenericBondCalculator",
+ "compiler": "0.8.18+commit.87f61d96",
+ "address": "0x1521918961bDBC9Ed4C67a7103D5999e4130E6CB",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GenericBondCalculator \u2014 tokenomics. LP-bond payout pricing. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x1521918961bDBC9Ed4C67a7103D5999e4130E6CB#code",
+ "files": 5
+}

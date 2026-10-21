@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/core/fund/vault/VaultLib.sol:VaultLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x944d01bf533ed041d9947826429f086bf56c5856",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "VaultLib",
+ "asset_url": "https://basescan.org/address/0x944d01bf533ed041d9947826429f086bf56c5856",
+ "files": 35
+}

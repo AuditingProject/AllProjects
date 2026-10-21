@@ -1,0 +1,81 @@
+[
+ {
+  "url": "https://zkevm.polygonscan.com/address/0x65A4b8A0927c7FD899aed24356BF83810f7b9A3f#code",
+  "desc": "zkEVM Bridge",
+  "status": "no-verified-source",
+  "host": "zkevm.polygonscan.com",
+  "chain": 1101,
+  "address": "0x65A4b8A0927c7FD899aed24356BF83810f7b9A3f"
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0x0bCa65bf4b4c8803d2f0B49353ed57CAAF3d66Dc",
+  "desc": "Smart-Contract Optimism Bridge",
+  "status": "fetched",
+  "dir": "0x0bCa65bf4b4c__Smart-Contract_Optimism_Bridge",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:explorer.optimism.io",
+  "files": 13
+ },
+ {
+  "url": "https://bscscan.com/address/0xB80A582fa430645A043bB4f6135321ee01005fEf#code",
+  "desc": "BSC Bridge",
+  "status": "fetched",
+  "dir": "0xB80A582fa430__BSC_Bridge",
+  "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://arbiscan.io/address/0x15ca1fC728Cce7cd06151C8007e89dEe70260228#code",
+  "desc": "ARB MultiSig",
+  "status": "fetched",
+  "dir": "0x15ca1fC728Cc__ARB_MultiSig",
+  "name": "GnosisSafeProxy.sol:GnosisSafeProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://polygonscan.com/address/0xba4eee20f434bc3908a0b18da496348657133a7e#code",
+  "desc": "MATIC Bridge",
+  "status": "fetched",
+  "dir": "0xba4eee20f434__MATIC_Bridge",
+  "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://arbiscan.io/address/0x10417734001162ea139e8b044dfe28dbb8b28ad0#code",
+  "desc": "ARB Bridge",
+  "status": "fetched",
+  "dir": "0x104177340011__ARB_Bridge",
+  "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://explorer.zksync.io/address/0x1fa66e2B38d0cC496ec51F81c3e05E6A6708986F#contract",
+  "desc": "zkSync Bridge",
+  "status": "no-verified-source",
+  "host": "explorer.zksync.io",
+  "chain": 324,
+  "address": "0x1fa66e2B38d0cC496ec51F81c3e05E6A6708986F"
+ },
+ {
+  "url": "https://bscscan.com/address/0x7Af3828c0B061552AF3479806Add982eEf04f0c8#code",
+  "desc": "BSC MultiSig",
+  "status": "fetched",
+  "dir": "0x7Af3828c0B06__BSC_MultiSig",
+  "name": "GnosisSafeProxy.sol:GnosisSafeProxy",
+  "source": "sourcify",
+  "files": 1
+ },
+ {
+  "url": "https://polygonscan.com/address/0x249aAbb1d67A76404Cc1197fa37ADAf358B1E212#code",
+  "desc": "MATIC MultiSig",
+  "status": "fetched",
+  "dir": "0x249aAbb1d67A__MATIC_MultiSig",
+  "name": "GnosisSafeProxy.sol:GnosisSafeProxy",
+  "source": "sourcify",
+  "files": 1
+ }
+]

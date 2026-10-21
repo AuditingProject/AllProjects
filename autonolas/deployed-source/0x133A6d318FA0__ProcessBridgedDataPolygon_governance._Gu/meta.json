@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ProcessBridgedDataPolygon",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x133A6d318FA0C9413A70C149E7f630015044Dec3",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ProcessBridgedDataPolygon \u2014 governance. GuardCM L1 delegatecall payload verifier for Polygon-bound governance messages. Deployed on: Ethereum 0x133A6d318FA0C9413A70C149E7f630015044Dec3.",
+ "asset_url": "https://etherscan.io/address/0x133A6d318FA0C9413A70C149E7f630015044Dec3#code",
+ "files": 3
+}

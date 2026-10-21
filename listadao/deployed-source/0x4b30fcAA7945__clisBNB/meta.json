@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0x4b30fcAA7945fE9fDEFD2895aae539ba102Ed6F6",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "clisBNB",
+ "asset_url": "https://bscscan.com/address/0x4b30fcAA7945fE9fDEFD2895aae539ba102Ed6F6",
+ "files": 1
+}

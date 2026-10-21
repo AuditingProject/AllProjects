@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.10+commit.fc410830",
+ "address": "0xc07bE8994D035631c36fb4a89C918CeFB2f03EC3",
+ "chain": 130,
+ "explorer_host": "unichain.blockscout.com",
+ "asset_description": "OApp Unichain",
+ "asset_url": "https://unichain.blockscout.com/address/0xc07bE8994D035631c36fb4a89C918CeFB2f03EC3",
+ "files": 16
+}

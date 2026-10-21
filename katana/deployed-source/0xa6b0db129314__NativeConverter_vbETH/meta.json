@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "dependencies/@openzeppelin-contracts-5.1.0/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0xa6b0db1293144ebe9478b6a84f75dd651e45914a",
+ "chain": 747474,
+ "explorer_host": "katanascan.com",
+ "asset_description": "NativeConverter vbETH",
+ "asset_url": "https://katanascan.com/address/0xa6b0db1293144ebe9478b6a84f75dd651e45914a",
+ "files": 12
+}

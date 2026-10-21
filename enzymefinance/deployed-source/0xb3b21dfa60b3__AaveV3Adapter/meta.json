@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/AaveV3Adapter.sol:AaveV3Adapter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xb3b21dfa60b399ad00587b845aef7476a1659e9f",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "AaveV3Adapter",
+ "asset_url": "https://polygonscan.com/address/0xb3b21dfa60b399ad00587b845aef7476a1659e9f",
+ "files": 36
+}

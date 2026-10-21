@@ -1,0 +1,143 @@
+{
+ "title": "Unitus V2 Smart Contracts ",
+ "logo": "/uploads/bounty_program/logo/663bae8bfd1804149dfa2992/logo.png?timestamp=1792212358",
+ "logoPresent": true,
+ "companyName": "Unitus",
+ "companySlug": "unitus",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "10 May 2024",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/unitus-v2-smart-contracts/reports/new",
+ "kycRequired": false,
+ "pocRequired": true,
+ "reputationRequired": null,
+ "minReputation": 100,
+ "submissionFee": null,
+ "programOfTheWeek": false,
+ "depositAvailable": true,
+ "maxReward": "$50,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 4,
+   "reputation": 17,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/68bb5c7440041c7a7acfdc5e/avatar.png?timestamp=1790445906",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "IamSalted",
+    "verified": true
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 5,
+   "reputation": 16,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/69baf6ae40041c000e8b5a5c/avatar.png?timestamp=1791301540",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "hakimmy",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 3,
+   "reputation": 12,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/64c8640dfd18042fd9aa9ead/avatar.png?timestamp=1790131108",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "jonscott",
+    "verified": true
+   }
+  },
+  {
+   "rank": 4,
+   "reports_amount": 2,
+   "reputation": 10,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6a0315d840041c002cfbe41f/avatar.png?timestamp=1786977938",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "mundur",
+    "verified": true
+   }
+  },
+  {
+   "rank": 4,
+   "reports_amount": 2,
+   "reputation": 10,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/67b93fef40041c000fad8e46/avatar.png?timestamp=1792093513",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "rashmor",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 143,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 50000,
+  "critical_min": 50000,
+  "high_max": 5000,
+  "high_min": 5000,
+  "low_max": 1000,
+  "low_min": 1000,
+  "medium_max": 2000,
+  "medium_min": 2000
+ },
+ "description": "The next-generation multi-chain money market connecting assets, bridging Chains.\r\n\r\nUnitus aims to become a cross-chain and omni money market, connecting liquidity across the globe, encompassing both crypto and real-world assets, and spanning the realms of on-chain and off-chain ecosystems.\r\n\r\nFor more details, please visit https://unitus.finance/, https://app.unitus.finance",
+ "sla": {
+  "first_response": 3,
+  "resolution_time": 14,
+  "time_to_reward": 3,
+  "time_to_triage": 3
+ },
+ "totalRewards": 0,
+ "submittedReports": 278,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "663bae8bfd1804149dfa2991",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/UnitusLabs/Contracts/wiki/Deployments#base-contracts",
+   "target_description": "This bounty program is limited to contracts and their corresponding functions that have already been deployed on-chain and are currently active. Unitus reserves the right of final interpretation regarding the scope.",
+   "title": "Smart Contract"
+  }
+ ],
+ "programRules": "* Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\r\n* Any testing with pricing oracles or third party smart contracts\r\n* Attempting phishing or other social engineering attacks against our employees and/or customers\r\n* Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\r\n* Any denial of service attacks\r\n* Automated testing of services that generates significant amounts of traffic\r\n* Public disclosure of an unpatched vulnerability in an embargoed bounty\r\n* Avoid using web application scanners for automatic vulnerability searching which generates massive traffic\r\n* Make every effort not to damage or restrict the availability of products, services, or infrastructure\r\n* Avoid compromising any personal data, interruption, or degradation of any service\r\n* Don\u2019t access or modify other user data, localize all tests to your accounts\r\n* Perform testing only within the scope\r\n* Don\u2019t exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam\r\n* Don\u2019t spam forms or account creation flows using automated scanners\r\n* In case you find chain vulnerabilities we\u2019ll pay only for vulnerability with the highest severity.\r\n* Don\u2019t break any law and stay in the defined scope\r\n* Any details of found vulnerabilities must not be communicated to anyone who is not a HackenProof Team or an authorized employee of this Company without appropriate permission",
+ "focusArea": "## Introduction\r\nUnitus has emerged as a pioneering lending protocol across our supported networks, boasting novel features such as sustainable tokenomics and an improved multi-chain user experience. With the growing mainstream adoption of DeFi, the demand for advanced lending solutions \u2014 offering efficiency, security, and flexibility \u2014 has reached unprecedented levels. In light of this, we are thrilled to announce the upcoming V2 of our protocol, which introduces a suite of innovative features aimed at enhancing capital efficiency and tailored risk management.\r\n## Key Features\r\nUnitus V2 introduces several new innovative features, for more details can be found in https://unitus.medium.com/introducing-unitus-v2-a-new-paradigm-for-dynamic-multichain-lending-protocol-a19c13eda600\r\n\r\n### Segregated Mode\r\nSegregated Mode creates markets where users can collateralize their supply to borrow exclusively from certain segregated markets.\r\n### Supercharged Mode\r\nSupercharged Mode is designed to maximize capital efficiency in scenarios where collateral and borrowed assets exhibit correlated prices.\r\n### Time-Locked Withdrawal (Not activated, deprecated)\r\nTime-locked withdrawal adds an extra layer of protection by introducing a delay mechanism for certain transactions, reducing the likelihood of unauthorized access or malicious activities.\r\n\r\n## Bounty Program on Base Mainnet\r\n* More resources regarding the Unitus can be found on their website https://app.unitus.finance\r\nThe bug bounty program is focused around its smart contracts and infrastructure and is mostly concerned with issues stated in the\r\n\r\n**Impacts in Scope section.**\r\n\r\n**All bug reports must come with a PoC in order to be considered for a reward, bug reports without a PoC will be rejected.**\r\n\r\n* Critical vulnerabilities for smart contracts are further defined by the following conditions. All need to be met in order to get the classification of critical. Allow attacker(s) to take away collateral tokens for at least 10% in dollar value of collateral tokens from the system.\r\n * Are applied to a real situation and triggered through an attack vector rather than theory or hypothesis.\r\n * Occur in operation mode or emergency shutdown mode, excluding those occurring during or shortly after the deployment when the system is yet to become fully activated.\r\n\r\nPlease note this Bug Bounty Program does not cover vulnerabilities pertaining to 1) protocols built by third-party developers (i.e., smart contract wallet); 2) ownership of an admin key.\r\n\r\nThe reward of critical smart contract vulnerabilities is capped at 10% of economic damage, primarily taking into account the funds at risk. The Unitus team may, at their discretion, decide to increase the reward based on PR and branding aspects.\r\n\r\n**Payouts are handled by the Unitus team directly and are denominated in USD.**\r\n\r\nThe target asset is a link of Github which lists all major contracts of Unitus suitable for bounty.\r\n\r\nIn addition to the smart contracts in this table, the following information has been provided for reference. However, only the smart contracts in the table will be considered as in-scope: https://github.com/UnitusLabs/Contracts, https://github.com/UnitusLabs/Oracle\r\n\r\n## Impacts in scope\r\nOnly the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.\r\n\r\n### Description Severity Level\r\n### Critical\r\n* Major manipulation of governance voting results deviating from voted outcome, whenever protection mechanisms can\u2019t mitigate the damage.\r\n* Direct theft of any user funds classified as the principal, whether at-rest or in-motion\r\n* Permanent locking of user funds classified as the principal or funds of the treasury\r\n* Protocol insolvency\r\n\r\n### High\r\n* Direct theft of any funds in the Treasury\r\n* Theft of yield, defined as funds not classified as the principal (not including yield yet to be earned)\r\n* Permanent locking of unclaimed yield of users, defined as funds not classified as the principal (not including yield yet to be earned)\r\n* Temporary locking of funds classified as the principal or funds of the treasury\r\n\r\n### Medium\r\n* Smart contract unable to operate due to lack of token funds\r\n* Manipulation of interest rates (supply or borrow) with mechanisms not intended or limited by design\r\n* Unexpected infrastructural behavior\r\n\r\n### Low\r\n* Contract fails to deliver promised returns, but doesn't lose value\r\n* Imprecision on accounting (balances, rates)\r\n* Theft of gas\r\n\r\n## Out of Scope & Rules\r\nThe following vulnerabilities are excluded from the rewards for this bug bounty program:\r\n* Attacks that the reporter has already exploited themselves, leading to damage\r\n* Attacks requiring access to leaked keys/credential\r\n* Attacks requiring access to privileged addresses (e.g. governance, strategist, multi-sig wallet, etc).\r\n\r\n**Smart Contracts and Blockchain:**\r\n\r\n* Incorrect data supplied by third party oracles\r\n* Not to exclude oracle manipulation/flash loan attacks\r\n* Basic economic governance attacks (e.g. 51% attack)\r\n* Lack of liquidity\r\n* Sybil attacks\r\n\r\n## Disclaimer & Known Issues\r\nCheck the following link for disclaimer and known issues. Please keep in mind, we will continue to update the known issues list, but we cannot guarantee that we will cover every aspect. Please do your own research before submitting any reports.\r\n\r\nhttps://github.com/UnitusLabs/Contracts/wiki/Bounty-Program-Disclaimers-&-Scope-Clarification\r\n\r\n",
+ "disclosureGuidelines": "* Do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization\r\n* No vulnerability disclosure, including partial is allowed for the moment.\r\n* Please do NOT publish/discuss bugs ",
+ "eligibilityAndCoordinateDisclosure": "We are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:\r\n\r\n* You must be the first reporter of a vulnerability.\r\n* The vulnerability must be a qualifying vulnerability\r\n* Any vulnerability found must be reported no later than 24 hours after discovery and exclusively through hackenproof.com\r\n* You must send a clear textual description of the report along with steps to reproduce the issue, include attachments such as screenshots or proof of concept code as necessary.\r\n* You must not be a former or current employee of us or one of its contractor.\r\n* ONLY USE the EMAIL under which you registered your HackenProof account (in case of violation, no bounty can be awarded)\r\n* Provide detailed but to-the point reproduction steps\r\n",
+ "labels": {
+  "types": [
+   "smart contract"
+  ],
+  "languages": [
+   "Solidity"
+  ],
+  "platforms": [],
+  "project_types": [
+   "Lending"
+  ]
+ },
+ "customBlocks": [],
+ "scopeReview": 277442,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "50000.0",
+ "minBounty": "1000.0"
+}

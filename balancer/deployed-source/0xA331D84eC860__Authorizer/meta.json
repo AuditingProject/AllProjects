@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Authorizer",
+ "compiler": "0.7.1+commit.f4a555be",
+ "address": "0xA331D84eC860Bf466b4CdCcFb4aC09a1B43F3aE6",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Authorizer",
+ "asset_url": "https://etherscan.io/address/0xA331D84eC860Bf466b4CdCcFb4aC09a1B43F3aE6#code",
+ "files": 8
+}

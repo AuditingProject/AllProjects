@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/single-asset-deposit-queue/SingleAssetDepositQueueLib.sol:SingleAssetDepositQueueLib",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x969ea85f65677daa9552b8530a47511286894a5a",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "SingleAssetDepositQueueLib",
+ "asset_url": "https://arbiscan.io/address/0x969ea85f65677daa9552b8530a47511286894a5a",
+ "files": 14
+}

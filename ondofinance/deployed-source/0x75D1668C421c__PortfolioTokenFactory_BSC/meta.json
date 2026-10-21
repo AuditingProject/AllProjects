@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/globalMarkets/portfolioToken/portfolioTokenFactory/PortfolioTokenFactory.sol:PortfolioTokenFactory",
+ "compiler": "0.8.33+commit.64118f21",
+ "address": "0x75D1668C421c33D7Ae91072cf81D5f57a20bC3E1",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "PortfolioTokenFactory (BSC)",
+ "asset_url": "https://bscscan.com/address/0x75D1668C421c33D7Ae91072cf81D5f57a20bC3E1",
+ "files": 44
+}

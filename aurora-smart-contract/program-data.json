@@ -1,0 +1,78 @@
+{
+ "assets": [
+  {
+   "url": "https://explorer.near.org/accounts/aurora",
+   "type": "smart_contract",
+   "description": "Aurora"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/aurora-engine/tree/master/engine",
+   "type": "smart_contract",
+   "description": "Engine Master"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/aurora-engine/tree/develop/engine",
+   "type": "smart_contract",
+   "description": "Engine Dev"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/aurora-engine/tree/master/engine-precompiles",
+   "type": "smart_contract",
+   "description": "Engine Master Precompiles"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-precompiles",
+   "type": "smart_contract",
+   "description": "EngineDevPrecompiles"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/aurora-engine/tree/master/engine-sdk",
+   "type": "smart_contract",
+   "description": "Engine Master SDK"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-sdk",
+   "type": "smart_contract",
+   "description": "Engine Dev SDK"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/aurora-engine/tree/master/engine-transactions",
+   "type": "smart_contract",
+   "description": "Engine Master Transactions"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-transactions",
+   "type": "smart_contract",
+   "description": "Engine Dev Transactions"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/aurora-engine/tree/master/engine-types",
+   "type": "smart_contract",
+   "description": "Master Engine Types"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-types",
+   "type": "smart_contract",
+   "description": "Dev Engine Types"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/aurora-engine/tree/master/etc/eth-contracts",
+   "type": "smart_contract",
+   "description": "Master Eth Contracts"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/aurora-engine/tree/develop/etc/eth-contracts",
+   "type": "smart_contract",
+   "description": "Dev Eth Contracts"
+  },
+  {
+   "url": "https://github.com/aurora-is-near/sputnikvm",
+   "type": "smart_contract",
+   "description": "Sputnik EVM"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "aurora-smart-contract",
+ "maxBounty": "300000.0",
+ "kyc": true
+}

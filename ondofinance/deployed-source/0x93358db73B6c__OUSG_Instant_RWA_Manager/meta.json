@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/xManager/rwaManagers/OUSG_InstantManager.sol:OUSG_InstantManager",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x93358db73B6cd4b98D89c8F5f230E81a95c2643a",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OUSG Instant RWA Manager",
+ "asset_url": "https://etherscan.io/address/0x93358db73B6cd4b98D89c8F5f230E81a95c2643a",
+ "files": 47
+}

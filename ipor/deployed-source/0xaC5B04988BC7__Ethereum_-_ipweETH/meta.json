@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "IpToken.sol:IpToken",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0xaC5B04988BC71bEE96f8D93040777Db3ef166125",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Ethereum - ipweETH",
+ "asset_url": "https://etherscan.io/address/0xaC5B04988BC71bEE96f8D93040777Db3ef166125",
+ "files": 1
+}

@@ -1,0 +1,260 @@
+[
+ {
+  "url": "https://basescan.org/address/0x6e5430C10fce10e5c6F67dC54506e4564dD7A6E5",
+  "desc": "Base - TransferBlacklistHook",
+  "status": "fetched",
+  "dir": "0x6e5430C10fce__Base_-_TransferBlacklistHook",
+  "name": "src/periphery/hooks/transfer/TransferBlacklistHook.sol:TransferBlacklistHook",
+  "source": "sourcify",
+  "files": 7
+ },
+ {
+  "url": "https://basescan.org/address/0x69dd4d44eed6bbc33b8a0bdfe17897ab9044372e",
+  "desc": "gtUSDa (Base) - PriceAndFeeCalculator",
+  "status": "fetched",
+  "dir": "0x69dd4d44eed6__gtUSDa_Base_-_PriceAndFeeCalculator",
+  "name": "src/core/PriceAndFeeCalculator.sol:PriceAndFeeCalculator",
+  "source": "sourcify",
+  "files": 22
+ },
+ {
+  "url": "https://basescan.org/address/0x000000000001CdB57E58Fa75Fe420a0f4D6640D5",
+  "desc": "gtUSDa (Base) - MultiDepositorVault",
+  "status": "fetched",
+  "dir": "0x000000000001__gtUSDa_Base_-_MultiDepositorVault",
+  "name": "src/core/MultiDepositorVault.sol:MultiDepositorVault",
+  "source": "sourcify",
+  "files": 48
+ },
+ {
+  "url": "https://basescan.org/address/0x18cf8d963e1a727f9bbf3aeffa0bd04fb4dbda07",
+  "desc": "gtUSDa (Base) - Provisioner",
+  "status": "fetched",
+  "dir": "0x18cf8d963e1a__gtUSDa_Base_-_Provisioner",
+  "name": "src/core/Provisioner.sol:Provisioner",
+  "source": "sourcify",
+  "files": 28
+ },
+ {
+  "url": "https://basescan.org/address/0xdDfd960a7150520548dD1F6E53CC2f201b364692",
+  "desc": "Base - Whitelist",
+  "status": "fetched",
+  "dir": "0xdDfd960a7150__Base_-_Whitelist",
+  "name": "src/core/Whitelist.sol:Whitelist",
+  "source": "sourcify",
+  "files": 8
+ },
+ {
+  "url": "https://arbiscan.io/address/0xCe7Ea99545A6d0744a52Da9017729451Ec92A62C",
+  "desc": "Arbitrum - TransferBlacklistHook",
+  "status": "fetched",
+  "dir": "0xCe7Ea99545A6__Arbitrum_-_TransferBlacklistHook",
+  "name": "src/periphery/hooks/transfer/TransferBlacklistHook.sol:TransferBlacklistHook",
+  "source": "sourcify",
+  "files": 7
+ },
+ {
+  "url": "https://arbiscan.io/address/0x8bFcD1088fFa41B46329567ae5c4Cd872AB38c0f",
+  "desc": "Arbitrum - Whitelist",
+  "status": "fetched",
+  "dir": "0x8bFcD1088fFa__Arbitrum_-_Whitelist",
+  "name": "src/core/Whitelist.sol:Whitelist",
+  "source": "sourcify",
+  "files": 8
+ },
+ {
+  "url": "https://arbiscan.io/address/0x000000001DC8bd45d7E7829fb1c969cbe4D0D1eC",
+  "desc": "gtUSDa (Arbitrum) - MultiDepositorVault",
+  "status": "fetched",
+  "dir": "0x000000001DC8__gtUSDa_Arbitrum_-_MultiDepositorVault",
+  "name": "src/core/MultiDepositorVault.sol:MultiDepositorVault",
+  "source": "sourcify",
+  "files": 48
+ },
+ {
+  "url": "https://arbiscan.io/address/0xDd4a42603E6d8E515C3468789375A98c376821b3",
+  "desc": "gtUSDa (Arbitrum) - Provisioner",
+  "status": "fetched",
+  "dir": "0xDd4a42603E6d__gtUSDa_Arbitrum_-_Provisioner",
+  "name": "src/core/Provisioner.sol:Provisioner",
+  "source": "sourcify",
+  "files": 28
+ },
+ {
+  "url": "https://arbiscan.io/address/0xD61ecfB5cEd67Ef4F01E0dfae591c838BfA33932",
+  "desc": "gtUSDa (Arbitrum) - PriceAndFeeCalculator",
+  "status": "fetched",
+  "dir": "0xD61ecfB5cEd6__gtUSDa_Arbitrum_-_PriceAndFeeCalculator",
+  "name": "src/core/PriceAndFeeCalculator.sol:PriceAndFeeCalculator",
+  "source": "sourcify",
+  "files": 22
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0xCe7Ea99545A6d0744a52Da9017729451Ec92A62C",
+  "desc": "Optimism - TransferBlacklistHook",
+  "status": "fetched",
+  "dir": "0xCe7Ea99545A6__Optimism_-_TransferBlacklistHook",
+  "name": "src/periphery/hooks/transfer/TransferBlacklistHook.sol:TransferBlacklistHook",
+  "source": "sourcify",
+  "files": 7
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0x8bFcD1088fFa41B46329567ae5c4Cd872AB38c0f",
+  "desc": "Optimism - Whitelist",
+  "status": "fetched",
+  "dir": "0x8bFcD1088fFa__Optimism_-_Whitelist",
+  "name": "src/core/Whitelist.sol:Whitelist",
+  "source": "sourcify",
+  "files": 8
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0x000000001DC8bd45d7E7829fb1c969cbe4D0D1eC",
+  "desc": "gtUSDa (Optimism) - MultiDepositorVault",
+  "status": "fetched",
+  "dir": "0x000000001DC8__gtUSDa_Optimism_-_MultiDepositorVault",
+  "name": "src/core/MultiDepositorVault.sol:MultiDepositorVault",
+  "source": "sourcify",
+  "files": 48
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0xCC923371F0d3A9cA75d98E767Df9dE1cdf5799Ef",
+  "desc": "gtUSDa (Optimism) - Provisioner",
+  "status": "fetched",
+  "dir": "0xCC923371F0d3__gtUSDa_Optimism_-_Provisioner",
+  "name": "src/core/Provisioner.sol:Provisioner",
+  "source": "sourcify",
+  "files": 28
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0xFB6De307b11C50D8B8A0790cd5c82c620D574440",
+  "desc": "gtUSDa (Optimism) - PriceAndFeeCalculator",
+  "status": "fetched",
+  "dir": "0xFB6De307b11C__gtUSDa_Optimism_-_PriceAndFeeCalculator",
+  "name": "src/core/PriceAndFeeCalculator.sol:PriceAndFeeCalculator",
+  "source": "sourcify",
+  "files": 22
+ },
+ {
+  "url": "https://etherscan.io/address/0x1703a1B0fee4D507CA8a743f04E168BCd4862d24",
+  "desc": "Ethereum - TransferBlacklistHook",
+  "status": "fetched",
+  "dir": "0x1703a1B0fee4__Ethereum_-_TransferBlacklistHook",
+  "name": "TransferBlacklistHook",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 7
+ },
+ {
+  "url": "https://etherscan.io/address/0xdDfd960a7150520548dD1F6E53CC2f201b364692",
+  "desc": "Ethereum - Whitelist",
+  "status": "fetched",
+  "dir": "0xdDfd960a7150__Ethereum_-_Whitelist",
+  "name": "Whitelist",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 8
+ },
+ {
+  "url": "https://etherscan.io/address/0x3bd9248048df95Db4fBD748C6CD99C1bAa40bAD0",
+  "desc": "gtUSDa (Ethereum) - MultiDepositorVault",
+  "status": "fetched",
+  "dir": "0x3bd9248048df__gtUSDa_Ethereum_-_MultiDepositorVault",
+  "name": "src/core/MultiDepositorVault.sol:MultiDepositorVault",
+  "source": "sourcify",
+  "files": 48
+ },
+ {
+  "url": "https://etherscan.io/address/0x74C4A66CE4F4779B11E7c63D42e51EEef3A80D11",
+  "desc": "gtUSDa (Ethereum) - Provisioner",
+  "status": "fetched",
+  "dir": "0x74C4A66CE4F4__gtUSDa_Ethereum_-_Provisioner",
+  "name": "src/core/Provisioner.sol:Provisioner",
+  "source": "sourcify",
+  "files": 28
+ },
+ {
+  "url": "https://etherscan.io/address/0x8F3FfA11CD5915f0E869192663b905504A2Ef4a5",
+  "desc": "gtUSDa (Ethereum) - PriceAndFeeCalculator",
+  "status": "fetched",
+  "dir": "0x8F3FfA11CD59__gtUSDa_Ethereum_-_PriceAndFeeCalculator",
+  "name": "src/core/PriceAndFeeCalculator.sol:PriceAndFeeCalculator",
+  "source": "sourcify",
+  "files": 22
+ },
+ {
+  "url": "https://explorer.morphl2.io/address/0xBCB62B29a1B982C51d57A44745b694CAA1ed2Bf2",
+  "desc": "Morph - Whitelist",
+  "status": "fetched",
+  "dir": "0xBCB62B29a1B9__Morph_-_Whitelist",
+  "name": "src/core/Whitelist.sol:Whitelist",
+  "source": "sourcify",
+  "files": 15
+ },
+ {
+  "url": "https://explorer.morphl2.io/address/0x85A1D961F1D1bbD9b4A6D96106c5bF9ae91f0510",
+  "desc": "bgBTC (Morph) - MultiDepositorVault",
+  "status": "no-verified-source",
+  "host": "explorer.morphl2.io",
+  "chain": 2818,
+  "address": "0x85A1D961F1D1bbD9b4A6D96106c5bF9ae91f0510"
+ },
+ {
+  "url": "https://explorer.morphl2.io/address/0x047623636f1c7997F5B49ecaADb865681734D89A",
+  "desc": "bgBTC (Morph) - Provisioner",
+  "status": "no-verified-source",
+  "host": "explorer.morphl2.io",
+  "chain": 2818,
+  "address": "0x047623636f1c7997F5B49ecaADb865681734D89A"
+ },
+ {
+  "url": "https://explorer.morphl2.io/address/0x89963FF339C4A6194eA77381c204884e4503F8FB",
+  "desc": "bgBTC (Morph) - PriceAndFeeCalculator",
+  "status": "no-verified-source",
+  "host": "explorer.morphl2.io",
+  "chain": 2818,
+  "address": "0x89963FF339C4A6194eA77381c204884e4503F8FB"
+ },
+ {
+  "url": "https://etherscan.io/address/0xefF0AE5b39271b33f448cD408b51DC8aA72a672b",
+  "desc": "gtBTC (Ethereum) - MultiDepositorVault",
+  "status": "fetched",
+  "dir": "0xefF0AE5b3927__gtBTC_Ethereum_-_MultiDepositorVault",
+  "name": "MultiDepositorVault",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 48
+ },
+ {
+  "url": "https://etherscan.io/address/0xD580c26F7bD8A8a66fd32a97Df2308C083b65d9c",
+  "desc": "gtBTC (Ethereum) - Provisioner",
+  "status": "fetched",
+  "dir": "0xD580c26F7bD8__gtBTC_Ethereum_-_Provisioner",
+  "name": "Provisioner",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 28
+ },
+ {
+  "url": "https://etherscan.io/address/0x811C6f0eF2E8f8A409306DAE242ba70Bd4f2467D",
+  "desc": "gtBTC (Ethereum) - PriceAndFeeCalculator",
+  "status": "fetched",
+  "dir": "0x811C6f0eF2E8__gtBTC_Ethereum_-_PriceAndFeeCalculator",
+  "name": "PriceAndFeeCalculator",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 22
+ },
+ {
+  "url": "https://etherscan.io/address/0x00000000d8f3d6c5DFeB2D2b5ED2276095f3aF44",
+  "desc": "gpAAFalconX (Ethereum) - MultiDepositorVault",
+  "status": "fetched",
+  "dir": "0x00000000d8f3__gpAAFalconX_Ethereum_-_MultiDepositorVau",
+  "name": "MultiDepositorVault",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 48
+ },
+ {
+  "url": "https://etherscan.io/address/0x21994912f1D286995c4d4961303cBB8E44939944",
+  "desc": "gpAAFalconX (Ethereum) - Provisioner",
+  "status": "fetched",
+  "dir": "0x21994912f1D2__gpAAFalconX_Ethereum_-_Provisioner",
+  "name": "Provisioner",
+  "source": "blockscout:eth.blockscout.com",
+  "files": 28
+ }
+]

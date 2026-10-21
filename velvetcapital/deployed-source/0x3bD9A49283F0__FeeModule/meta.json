@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/fee/FeeModule.sol:FeeModule",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x3bD9A49283F059b3faa7DdBD7515e2E82dce02b1",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "FeeModule",
+ "asset_url": "https://bscscan.com/address/0x3bD9A49283F059b3faa7DdBD7515e2E82dce02b1",
+ "files": 34
+}

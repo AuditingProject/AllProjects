@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.vault-hbtc-v1-1",
+ "compiler": "clarity4",
+ "address": "0xb8e567a6f918e041e1fa5a9ca317fdf3048d14f57b0fefdd836cba9da14d3c6e",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Vault",
+ "asset_url": "https://explorer.hiro.so/txid/0xb8e567a6f918e041e1fa5a9ca317fdf3048d14f57b0fefdd836cba9da14d3c6e?chain=mainnet",
+ "files": 1
+}

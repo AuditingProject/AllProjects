@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/ample/AmpleEarnFactory.sol:AmpleEarnFactory",
+ "compiler": "0.8.26+commit.8a97fa7a",
+ "address": "0x9881464ade08eaea838d1ba06073a0c8f972b185",
+ "chain": 747474,
+ "explorer_host": "katanascan.com",
+ "asset_description": "Katana: `AmpleEarnFactory`",
+ "asset_url": "https://katanascan.com/address/0x9881464ade08eaea838d1ba06073a0c8f972b185#code",
+ "files": 48
+}

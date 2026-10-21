@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/Integration-manager/IntegrationManager.sol:IntegrationManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x55df97aca98c2a708721f28ea1ca42a2be7ff934",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "IntegrationManager",
+ "asset_url": "https://arbiscan.io/address/0x55df97aca98c2a708721f28ea1ca42a2be7ff934",
+ "files": 29
+}

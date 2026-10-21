@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/ample/AmpleEarnCrossChainRouter.sol:AmpleEarnCrossChainRouter",
+ "compiler": "0.8.26+commit.8a97fa7a",
+ "address": "0xcab6a41090e274efe7fe64cf0ec906f413686d36",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "Arbitrum: `AmpleEarnCrossChainRouter`",
+ "asset_url": "https://arbiscan.io/address/0xcab6a41090e274efe7fe64cf0ec906f413686d36#code",
+ "files": 29
+}

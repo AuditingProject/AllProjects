@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/external-positions/ExternalPositionFactory.sol:ExternalPositionFactory",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xd44256acea2193d4a50a9ad879a531666729962c",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ExternalPositionFactory",
+ "asset_url": "https://arbiscan.io/address/0xd44256acea2193d4a50a9ad879a531666729962c",
+ "files": 7
+}

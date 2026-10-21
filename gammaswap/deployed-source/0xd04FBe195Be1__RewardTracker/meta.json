@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-staking/contracts/RewardTracker.sol:RewardTracker",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0xd04FBe195Be1313fc816D59E3c457eb6e0aD4088",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "RewardTracker",
+ "asset_url": "https://arbiscan.io/address/0xd04FBe195Be1313fc816D59E3c457eb6e0aD4088#code",
+ "files": 13
+}

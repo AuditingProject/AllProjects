@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "GlobalConfigLib",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x6682e70860d48a039f52daccda917250349a3fb3",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GlobalConfigLib",
+ "asset_url": "https://etherscan.io/address/0x6682e70860d48a039f52daccda917250349a3fb3",
+ "files": 10
+}

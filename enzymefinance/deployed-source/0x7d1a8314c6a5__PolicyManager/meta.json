@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "AssetManager/contracts/release/extensions/policy-manager/PolicyManager.sol:PolicyManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x7d1a8314c6a56a8312053bfd5a3b9e4c768e8d24",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "PolicyManager",
+ "asset_url": "https://basescan.org/address/0x7d1a8314c6a56a8312053bfd5a3b9e4c768e8d24",
+ "files": 42
+}

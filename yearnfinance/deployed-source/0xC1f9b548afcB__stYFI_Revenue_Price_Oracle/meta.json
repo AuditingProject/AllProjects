@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "RevenuePriceOracle.vy:RevenuePriceOracle",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0xC1f9b548afcBe850f2BEbA8a50E55d86f4ABaE2E",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI Revenue Price Oracle",
+ "asset_url": "https://etherscan.io/address/0xC1f9b548afcBe850f2BEbA8a50E55d86f4ABaE2E",
+ "files": 1
+}

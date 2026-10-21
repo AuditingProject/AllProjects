@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ComplementaryServiceMetadata",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x0561cE39A1ab785B02DE0D9903125702559993A1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ComplementaryServiceMetadata \u2014 registries. Complementary service metadata store. Deployed on: Ethereum 0x0561cE39A1ab785B02DE0D9903125702559993A1; Polygon 0xDC175E77d11246c79B23D7088750eb59160DD6b7; Gnosis 0x0598081D48FB80B0A7E52FAD2905AE9beCd6fC69; Arbitrum 0x02C26437B292D86c5F4F21bbCcE0771948274f84; Optimism 0x11949cBC85d8793B360029E26b18ae759708e28b; Base 0x28C1edC7CEd549F7f80B732fDC19f0370160707d; Celo 0xc096362fa6f4A4B1a9ea68b1043416f3381ce300.",
+ "asset_url": "https://etherscan.io/address/0x0561cE39A1ab785B02DE0D9903125702559993A1#code",
+ "files": 1
+}

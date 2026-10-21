@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "StableLPOracleFactory",
+ "compiler": "v0.8.27+commit.40a35a09",
+ "address": "0x765ce16dbb3D7e89a9beBc834C5D6894e7fAA93c",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "StableLPOracleFactory (V2)",
+ "asset_url": "https://etherscan.io/address/0x765ce16dbb3D7e89a9beBc834C5D6894e7fAA93c#code",
+ "files": 61
+}

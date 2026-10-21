@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransferBlacklistHook",
+ "compiler": "v0.8.29+commit.ab55807c",
+ "address": "0x1703a1B0fee4D507CA8a743f04E168BCd4862d24",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Ethereum - TransferBlacklistHook",
+ "asset_url": "https://etherscan.io/address/0x1703a1B0fee4D507CA8a743f04E168BCd4862d24",
+ "files": 7
+}

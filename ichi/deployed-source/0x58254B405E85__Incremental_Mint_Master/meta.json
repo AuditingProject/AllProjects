@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Incremental",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0x58254B405E85359Fc7Eb3b8856bA82A4dD7C82E2",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Incremental Mint Master",
+ "asset_url": "https://etherscan.io/address/0x58254B405E85359Fc7Eb3b8856bA82A4dD7C82E2",
+ "files": 19
+}

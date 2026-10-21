@@ -1,0 +1,366 @@
+[
+ {
+  "url": "https://megaeth.blockscout.com/address/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+  "desc": "USDT0 MegaEth",
+  "status": "cached",
+  "dir": "0xB8CE59FC3717__USDT0_MegaEth",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:megaeth.blockscout.com"
+ },
+ {
+  "url": "https://megaeth.blockscout.com/address/0x9151434b16b9763660705744891fA906F660EcC5",
+  "desc": "OApp MegaEth",
+  "status": "cached",
+  "dir": "0x9151434b16b9__OApp_MegaEth",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:megaeth.blockscout.com"
+ },
+ {
+  "url": "https://flarescan.com/address/0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+  "desc": "USDT0 Flare",
+  "status": "cached",
+  "dir": "0xe7cd86e13AC4__USDT0_Flare",
+  "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0xF03b4d9AC1D5d1E7c4cEf54C2A313b9fe051A0aD",
+  "desc": "OApp Optimism",
+  "status": "cached",
+  "dir": "0xF03b4d9AC1D5__OApp_Optimism",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:explorer.optimism.io"
+ },
+ {
+  "url": "https://monadscan.com/address/0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+  "desc": "USDT0 Monad",
+  "status": "no-verified-source",
+  "host": "monadscan.com",
+  "chain": 143,
+  "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D"
+ },
+ {
+  "url": "https://plasmascan.to/address/0x02ca37966753bDdDf11216B73B16C1dE756A7CF9",
+  "desc": "OApp Plasma",
+  "status": "cached",
+  "dir": "0x02ca37966753__OApp_Plasma",
+  "name": "TransparentUpgradeableProxy",
+  "source": "routescan"
+ },
+ {
+  "url": "https://purrsec.com/address/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+  "desc": "USDT0 HyperEVM (HyperliquidExtension)",
+  "status": "no-verified-source",
+  "host": "purrsec.com",
+  "chain": 999,
+  "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb"
+ },
+ {
+  "url": "https://arbiscan.io/address/0x14E4A1B13bf7F943c8ff7C51fb60FA964A298D92",
+  "desc": "OApp Arbitrum Contract",
+  "status": "cached",
+  "dir": "0x14E4A1B13bf7__OApp_Arbitrum_Contract",
+  "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://monadscan.com/address/0x9151434b16b9763660705744891fA906F660EcC5",
+  "desc": "OApp Monad",
+  "status": "cached",
+  "dir": "0x9151434b16b9__OApp_Monad",
+  "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://cornscan.io/address/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb/contract/21000000/readContract",
+  "desc": "USDT0 Corn",
+  "status": "cached",
+  "dir": "0xB8CE59FC3717__USDT0_Corn",
+  "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://seitrace.com/token/0x56Fe74A2e3b484b921c447357203431a3485CC60?chain=pacific-1",
+  "desc": "OApp Sei",
+  "status": "cached",
+  "dir": "0x56Fe74A2e3b4__OApp_Sei",
+  "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://explorer.inkonchain.com/address/0x0200C29006150606B650577BBE7B6248F58470c1",
+  "desc": "USDT0 INK",
+  "status": "cached",
+  "dir": "0x0200C2900615__USDT0_INK",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:explorer.inkonchain.com"
+ },
+ {
+  "url": "https://mantlescan.xyz/address/0xcb768e263FB1C62214E7cab4AA8d036D76dc59CC",
+  "desc": "OApp Mantle",
+  "status": "no-verified-source",
+  "host": "mantlescan.xyz",
+  "chain": 5000,
+  "address": "0xcb768e263FB1C62214E7cab4AA8d036D76dc59CC"
+ },
+ {
+  "url": "https://arbiscan.io/address/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+  "desc": "USDT0 Arbitrum",
+  "status": "cached",
+  "dir": "0xfd086bc7cd5c__USDT0_Arbitrum",
+  "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://polygonscan.com/address/0x6BA10300f0DC58B7a1e4c0e41f5daBb7D7829e13",
+  "desc": "OApp Polygon",
+  "status": "cached",
+  "dir": "0x6BA10300f0DC__OApp_Polygon",
+  "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://www.oklink.com/x-layer/address/0x94bcca6bdfd6a61817ab0e960bfede4984505554",
+  "desc": "OApp X-Layer",
+  "status": "no-verified-source",
+  "host": "www.oklink.com",
+  "chain": null,
+  "address": "0x94bcca6bdfd6a61817ab0e960bfede4984505554"
+ },
+ {
+  "url": "https://flarescan.com/address/0x567287d2A9829215a37e3B88843d32f9221E7588",
+  "desc": "OApp Flare",
+  "status": "cached",
+  "dir": "0x567287d2A982__OApp_Flare",
+  "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://explorer.inkonchain.com/address/0x1cB6De532588fCA4a21B7209DE7C456AF8434A65",
+  "desc": "OApp INKSmart Contract",
+  "status": "cached",
+  "dir": "0x1cB6De532588__OApp_INKSmart_Contract",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:explorer.inkonchain.com"
+ },
+ {
+  "url": "https://seitrace.com/token/0x9151434b16b9763660705744891fA906F660EcC5?chain=pacific-1",
+  "desc": "USDT0 Sei",
+  "status": "cached",
+  "dir": "0x9151434b16b9__USDT0_Sei",
+  "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://stablescan.xyz/address/0xedaba024be4d87974d5aB11C6Dd586963CcCB027",
+  "desc": "OApp Stable",
+  "status": "no-verified-source",
+  "host": "stablescan.xyz",
+  "chain": null,
+  "address": "0xedaba024be4d87974d5aB11C6Dd586963CcCB027"
+ },
+ {
+  "url": "https://rootstock.blockscout.com/address/0x779dED0C9e1022225F8e0630b35A9B54Be713736",
+  "desc": "USDT0 Rootstock",
+  "status": "cached",
+  "dir": "0x779dED0C9e10__USDT0_Rootstock",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:rootstock.blockscout.com"
+ },
+ {
+  "url": "https://www.oklink.com/x-layer/address/0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+  "desc": "USDT0 X-Layer",
+  "status": "no-verified-source",
+  "host": "www.oklink.com",
+  "chain": null,
+  "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736"
+ },
+ {
+  "url": "https://berascan.com/address/0x3Dc96399109df5ceb2C226664A086140bD0379cB",
+  "desc": "OApp Berachain",
+  "status": "no-verified-source",
+  "host": "berascan.com",
+  "chain": 80094,
+  "address": "0x3Dc96399109df5ceb2C226664A086140bD0379cB"
+ },
+ {
+  "url": "https://cornscan.io/address/0x3f82943338a8a76c35BFA0c1828aA27fd43a34E4",
+  "desc": "OApp Corn",
+  "status": "cached",
+  "dir": "0x3f82943338a8__OApp_Corn",
+  "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://mantlescan.xyz/address/0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+  "desc": "USDT0 Mantle",
+  "status": "cached",
+  "dir": "0x779Ded0c9e10__USDT0_Mantle",
+  "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://polygonscan.com/address/0xc2132D05D31c914a87C6611C10748AEb04B58e8F#code",
+  "desc": "USDT0 Polygon",
+  "status": "cached",
+  "dir": "0xc2132D05D31c__USDT0_Polygon",
+  "name": "UChildERC20Proxy.sol:UChildERC20Proxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://purrsec.com/address/0x904861a24F30EC96ea7CFC3bE9EA4B476d237e98/contract",
+  "desc": "OApp HyperEVM",
+  "status": "no-verified-source",
+  "host": "purrsec.com",
+  "chain": 999,
+  "address": "0x904861a24F30EC96ea7CFC3bE9EA4B476d237e98"
+ },
+ {
+  "url": "https://stablescan.xyz/address/0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+  "desc": "USDT0 Stable",
+  "status": "no-verified-source",
+  "host": "stablescan.xyz",
+  "chain": null,
+  "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736"
+ },
+ {
+  "url": "https://evm.confluxscan.net/address/0xaf37e8b6c9ed7f6318979f56fc287d76c30847ff",
+  "desc": "USDT0 Conflux",
+  "status": "no-verified-source",
+  "host": "evm.confluxscan.net",
+  "chain": 1030,
+  "address": "0xaf37e8b6c9ed7f6318979f56fc287d76c30847ff"
+ },
+ {
+  "url": "https://unichain.blockscout.com/address/0x9151434b16b9763660705744891fA906F660EcC5",
+  "desc": "USDT0 Unichain",
+  "status": "cached",
+  "dir": "0x9151434b16b9__USDT0_Unichain",
+  "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://optimistic.etherscan.io/address/0x01bFF41798a0BcF287b996046Ca68b395DbC1071",
+  "desc": "USDT0 Optimism",
+  "status": "cached",
+  "dir": "0x01bFF41798a0__USDT0_Optimism",
+  "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://plasmascan.to/address/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+  "desc": "USDT0 Plasma",
+  "status": "cached",
+  "dir": "0xB8CE59FC3717__USDT0_Plasma",
+  "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://evm.confluxscan.net/address/0xc57efa1c7113d98bda6f9f249471704ece5dd84a",
+  "desc": "OApp Conflux",
+  "status": "no-verified-source",
+  "host": "evm.confluxscan.net",
+  "chain": 1030,
+  "address": "0xc57efa1c7113d98bda6f9f249471704ece5dd84a"
+ },
+ {
+  "url": "https://rootstock.blockscout.com/address/0x1a594d5d5d1c426281C1064B07f23F57B2716B61",
+  "desc": "OApp Rootstock",
+  "status": "cached",
+  "dir": "0x1a594d5d5d1c__OApp_Rootstock",
+  "name": "TransparentUpgradeableProxy",
+  "source": "blockscout:rootstock.blockscout.com"
+ },
+ {
+  "url": "https://unichain.blockscout.com/address/0xc07bE8994D035631c36fb4a89C918CeFB2f03EC3",
+  "desc": "OApp Unichain",
+  "status": "cached",
+  "dir": "0xc07bE8994D03__OApp_Unichain",
+  "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://etherscan.io/address/0x6c96de32cea08842dcc4058c14d3aaad7fa41dee",
+  "desc": "OApp Adapter Ethereum",
+  "status": "cached",
+  "dir": "0x6c96de32cea0__OApp_Adapter_Ethereum",
+  "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://beratrail.io/token/0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+  "desc": "USDT0 Berachain",
+  "status": "cached",
+  "dir": "0x779Ded0c9e10__USDT0_Berachain",
+  "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://explorer.morph.network/address/0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+  "desc": "USDT0 Morph",
+  "status": "no-verified-source",
+  "host": "explorer.morph.network",
+  "chain": 2818,
+  "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D"
+ },
+ {
+  "url": "https://explorer.morph.network/address/0xcb768e263FB1C62214E7cab4AA8d036D76dc59CC",
+  "desc": "OApp Morph",
+  "status": "no-verified-source",
+  "host": "explorer.morph.network",
+  "chain": 2818,
+  "address": "0xcb768e263FB1C62214E7cab4AA8d036D76dc59CC"
+ },
+ {
+  "url": "https://hashscan.io/mainnet/contract/0xe3119e23fC2371d1E6b01775ba312035425A53d6",
+  "desc": "OApp Hedera",
+  "status": "cached",
+  "dir": "0xe3119e23fC23__OApp_Hedera",
+  "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://explore.mainnet.tempo.xyz/address/0xaf37E8B6C9ED7f6318979f56Fc287d76c30847ff",
+  "desc": "OApp Tempo",
+  "status": "no-verified-source",
+  "host": "explore.mainnet.tempo.xyz",
+  "chain": null,
+  "address": "0xaf37E8B6C9ED7f6318979f56Fc287d76c30847ff"
+ },
+ {
+  "url": "https://stellar.expert/explorer/public/contract/CA3GUWLOS3QKN6WNRAELSUDSKLDTVTWEDJ3KLGAJG3SIWGA5L3KZYWGJ",
+  "desc": "SAC Manager Stellar",
+  "status": "skipped-unsupported",
+  "host": "stellar.expert"
+ },
+ {
+  "url": "https://stellar.expert/explorer/public/contract/CBOWOLFSDM5PZXNFIVDMP5NZ7U2GSIHED6H6R446QOHF266XINKUMMF6",
+  "desc": "OApp Stellar",
+  "status": "skipped-unsupported",
+  "host": "stellar.expert"
+ },
+ {
+  "url": "https://etherscan.io/address/0xAEf027F94008430BF4Fc27FFABB49ea6F1dd3414",
+  "desc": "OApp Adapter Ethereum (IOTA)",
+  "status": "cached",
+  "dir": "0xAEf027F94008__OApp_Adapter_Ethereum_IOTA",
+  "name": "solc_0.8/openzeppelin/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+  "source": "sourcify"
+ },
+ {
+  "url": "https://explorer.iota.org/object/0xe6a11eb6a514b5510d731e5ed9d8e9294bcaad3b4696fa5d45406d11560b5902?network=mainnet",
+  "desc": "OApp IOTA",
+  "status": "no-verified-source",
+  "host": "explorer.iota.org",
+  "chain": null,
+  "address": "0xe6a11eb6a514b5510d731e5ed9d8e9294bcaad3b"
+ },
+ {
+  "url": "https://explorer.iota.org/object/0x25afeacdd3b0e757ae40aa4b9852261003e1dffeeb37d2c4f2904bb809807ac9?network=mainnet",
+  "desc": "USDT0 IOTA",
+  "status": "no-verified-source",
+  "host": "explorer.iota.org",
+  "chain": null,
+  "address": "0x25afeacdd3b0e757ae40aa4b9852261003e1dffe"
+ }
+]

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ValueInterpreter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xd7b0610db501b15bfb9b7ddad8b3869de262a327",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ValueInterpreter",
+ "asset_url": "https://etherscan.io/address/0xd7b0610db501b15bfb9b7ddad8b3869de262a327",
+ "files": 13
+}

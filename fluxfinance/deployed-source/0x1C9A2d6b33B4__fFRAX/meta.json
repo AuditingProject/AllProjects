@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "CErc20DelegatorKYC",
+ "compiler": "v0.5.17+commit.d19bba13",
+ "address": "0x1C9A2d6b33B4826757273D47ebEe0e2DddcD978B",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "fFRAX",
+ "asset_url": "https://etherscan.io/address/0x1C9A2d6b33B4826757273D47ebEe0e2DddcD978B",
+ "files": 1
+}

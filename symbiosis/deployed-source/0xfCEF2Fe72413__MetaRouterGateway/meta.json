@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MetaRouterGateway",
+ "compiler": "v0.8.7+commit.e28d00a7",
+ "address": "0xfCEF2Fe72413b65d3F393d278A714caD87512bcd",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MetaRouterGateway",
+ "asset_url": "https://etherscan.io/address/0xfCEF2Fe72413b65d3F393d278A714caD87512bcd#code",
+ "files": 2
+}

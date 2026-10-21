@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/uint-list-registry/UintListRegistry.sol:UintListRegistry",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x305357dbb4f4a65601751eb25d275ad071466cd2",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "UintListRegistry",
+ "asset_url": "https://basescan.org/address/0x305357dbb4f4a65601751eb25d275ad071466cd2",
+ "files": 3
+}

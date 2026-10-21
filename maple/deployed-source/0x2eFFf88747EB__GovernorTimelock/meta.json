@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/GovernorTimelock.sol:GovernorTimelock",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x2eFFf88747EB5a3FF00d4d8d0f0800E306C0426b",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GovernorTimelock",
+ "asset_url": "https://etherscan.io/address/0x2eFFf88747EB5a3FF00d4d8d0f0800E306C0426b",
+ "files": 4
+}

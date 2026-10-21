@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.9+commit.e5eed63a",
+ "address": "0xcf5EA1b38380f6aF39068375516Daf40Ed70D299",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Stader Stake Pool Manager",
+ "asset_url": "https://etherscan.io/address/0xcf5EA1b38380f6aF39068375516Daf40Ed70D299",
+ "files": 14
+}

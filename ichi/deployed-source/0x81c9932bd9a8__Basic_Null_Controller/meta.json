@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "NullController",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0x81c9932bd9a87e454710ef83551ac32dd808630e",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Basic Null Controller",
+ "asset_url": "https://etherscan.io/address/0x81c9932bd9a87e454710ef83551ac32dd808630e",
+ "files": 5
+}

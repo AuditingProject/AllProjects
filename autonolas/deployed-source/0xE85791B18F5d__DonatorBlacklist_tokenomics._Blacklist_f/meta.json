@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "DonatorBlacklist",
+ "compiler": "v0.8.18+commit.87f61d96",
+ "address": "0xE85791B18F5df42163092Acc5C9da1c479AFEa9d",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "DonatorBlacklist \u2014 tokenomics. Blacklist for protocol donations. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0xE85791B18F5df42163092Acc5C9da1c479AFEa9d#code",
+ "files": 1
+}

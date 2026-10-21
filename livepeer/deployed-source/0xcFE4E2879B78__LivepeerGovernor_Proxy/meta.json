@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/ManagerProxy.sol:ManagerProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xcFE4E2879B786C3aa075813F0E364bb5acCb6aa0",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "LivepeerGovernor (Proxy)",
+ "asset_url": "https://arbiscan.io/address/0xcFE4E2879B786C3aa075813F0E364bb5acCb6aa0",
+ "files": 7
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/fee/FeeModule.sol:FeeModule",
+ "compiler": "0.8.17+commit.8df45f5f",
+ "address": "0xc05d2e4bbe442172c649faa1fdc503e627062bd3",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "FeeModuleImplementationAddress",
+ "asset_url": "https://basescan.org/address/0xc05d2e4bbe442172c649faa1fdc503e627062bd3",
+ "files": 29
+}

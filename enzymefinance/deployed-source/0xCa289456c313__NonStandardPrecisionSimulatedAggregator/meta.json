@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/infrastructure/price-feeds/primitives/NonStandardPrecisionSimulatedAggregator.sol:NonStandardPrecisionSimulatedAggregator",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0xCa289456c31392074a804A7Db0AAc918fB36cf36",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "NonStandardPrecisionSimulatedAggregator",
+ "asset_url": "https://etherscan.io/address/0xCa289456c31392074a804A7Db0AAc918fB36cf36",
+ "files": 3
+}

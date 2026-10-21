@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-staking/contracts/BonusDistributor.sol:BonusDistributor",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x878269d2ee6417edcdc030961618cc5259229367",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "BonusDistributor",
+ "asset_url": "https://arbiscan.io/address/0x878269d2ee6417edcdc030961618cc5259229367#code",
+ "files": 14
+}

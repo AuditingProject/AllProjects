@@ -1,0 +1,14 @@
+[
+ {
+  "url": "https://solscan.io/account/extaykYu5AQcDm3qZAbiDN3yp6skqn6Nssj7veUUGZw",
+  "desc": "USDK Extension Program",
+  "status": "skipped-unsupported",
+  "host": "solscan.io"
+ },
+ {
+  "url": "https://solscan.io/account/extMahs9bUFMYcviKCvnSRaXgs5PcqmMzcnHRtTqE85",
+  "desc": "USDKY Extension Program",
+  "status": "skipped-unsupported",
+  "host": "solscan.io"
+ }
+]

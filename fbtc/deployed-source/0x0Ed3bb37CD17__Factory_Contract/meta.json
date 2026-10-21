@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "lib/openzeppelin-contracts/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x0Ed3bb37CD17d17bD18dB0D36558D57520D76292",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "Factory Contract",
+ "asset_url": "https://bscscan.com/address/0x0Ed3bb37CD17d17bD18dB0D36558D57520D76292#code",
+ "files": 17
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/Operator.sol:Operator",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x1111111Ecd5Ae05422aeCe517072ec33Dbf34af9",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "yYB Operator",
+ "asset_url": "https://etherscan.io/address/0x1111111Ecd5Ae05422aeCe517072ec33Dbf34af9#code",
+ "files": 11
+}

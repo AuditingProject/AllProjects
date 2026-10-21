@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/integration-manager/IntegrationManager.sol:IntegrationManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x92fcde09790671cf085864182b9670c77da0884b",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "IntegrationManager",
+ "asset_url": "https://polygonscan.com/address/0x92fcde09790671cf085864182b9670c77da0884b",
+ "files": 23
+}

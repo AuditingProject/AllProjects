@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/bundle/DepositBatch.sol:DepositBatch",
+ "compiler": "0.8.17+commit.8df45f5f",
+ "address": "0x6e3e0fe13dae2c42cca7ae2e849b0976e2e63e05",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "DepositBatch",
+ "asset_url": "https://basescan.org/address/0x6e3e0fe13dae2c42cca7ae2e849b0976e2e63e05",
+ "files": 16
+}

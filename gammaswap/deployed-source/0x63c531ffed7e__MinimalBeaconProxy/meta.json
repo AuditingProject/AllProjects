@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "MinimalBeaconProxy.sol:MinimalBeaconProxy",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x63c531ffed7e17f8adca4ed490837838f6fa1b66",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "MinimalBeaconProxy",
+ "asset_url": "https://arbiscan.io/address/0x63c531ffed7e17f8adca4ed490837838f6fa1b66#code",
+ "files": 1
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Inspector",
+ "compiler": "v0.8.22+commit.4fc1097e",
+ "address": "0x0b34233a94c3433092009D8903080553039bB7a1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Inspector",
+ "asset_url": "https://etherscan.io/address/0x0b34233a94c3433092009D8903080553039bB7a1",
+ "files": 4
+}

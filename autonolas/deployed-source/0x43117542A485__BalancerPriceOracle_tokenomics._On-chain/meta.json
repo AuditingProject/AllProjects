@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/oracles/BalancerPriceOracle.sol:BalancerPriceOracle",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x43117542A48588be59018A16443Ae75942ffDe91",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "BalancerPriceOracle \u2014 tokenomics. On-chain TWAP price oracle for OLAS (Balancer). Deployed on: Polygon 0x43117542A48588be59018A16443Ae75942ffDe91; Gnosis 0x7c2E4027C81ce72E59dFb947Cd45dBF6c2737AeC; Arbitrum 0x93111f6C267068A5d7356114D61d0f09bFD53a54; Optimism 0x887A511e3DfE4dDa77c0b1783c01d9920351A83D; Base 0x36DAD4628D5e406Dc85c4b2261888952aaE254A2.",
+ "asset_url": "https://polygonscan.com/address/0x43117542A48588be59018A16443Ae75942ffDe91#code",
+ "files": 1
+}

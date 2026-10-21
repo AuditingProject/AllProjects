@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/handler/Beefy/BeefyLPHandler.sol:BeefyLPHandler",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x5Dec110904701E1888ff740362231f735b4D0487",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "BeefyLPHandler",
+ "asset_url": "https://bscscan.com/address/0x5Dec110904701E1888ff740362231f735b4D0487",
+ "files": 30
+}

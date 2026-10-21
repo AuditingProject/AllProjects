@@ -1,0 +1,13 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/near/intents",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "near-intents-smart-contracts",
+ "maxBounty": "300000.0",
+ "kyc": true
+}

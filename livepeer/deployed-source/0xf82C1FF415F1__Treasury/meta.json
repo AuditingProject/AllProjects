@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/treasury/Treasury.sol:Treasury",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xf82C1FF415F1fCf582554fDba790E27019c8E8C4",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "Treasury",
+ "asset_url": "https://arbiscan.io/address/0xf82C1FF415F1fCf582554fDba790E27019c8E8C4",
+ "files": 14
+}

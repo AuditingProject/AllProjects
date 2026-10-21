@@ -1,0 +1,262 @@
+{
+ "title": "Aurora Smart Contract",
+ "logo": "/uploads/bounty_program/logo/62cfe3f4fd18041b1999ad69/logo.png?timestamp=1790236818",
+ "logoPresent": true,
+ "companyName": "Aurora",
+ "companySlug": "aurora",
+ "isTriaged": true,
+ "isAudit": false,
+ "isUnending": true,
+ "endDate": null,
+ "startDate": "01 Apr 2023",
+ "submitUrl": "https://dashboard.hackenproof.com/user/programs/aurora-smart-contract/reports/new",
+ "kycRequired": true,
+ "pocRequired": true,
+ "reputationRequired": null,
+ "minReputation": 100,
+ "submissionFee": null,
+ "programOfTheWeek": false,
+ "depositAvailable": true,
+ "maxReward": "$300,000",
+ "hackerRanks": [
+  {
+   "rank": 1,
+   "reports_amount": 2,
+   "reputation": 32,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6886e5d640041c000d942757/avatar.png?timestamp=1792493113",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "hellnia",
+    "verified": true
+   }
+  },
+  {
+   "rank": 2,
+   "reports_amount": 18,
+   "reputation": 25,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/69426c8f40041c00106c0376/avatar.png?timestamp=1792089908",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "0x0001",
+    "verified": true
+   }
+  },
+  {
+   "rank": 3,
+   "reports_amount": 22,
+   "reputation": 23,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/67fd9f8f40041cc43b289b37/avatar.png?timestamp=1791194422",
+    "avatar_present": true,
+    "kyc": true,
+    "nickname": "fromeo016",
+    "verified": true
+   }
+  },
+  {
+   "rank": 4,
+   "reports_amount": 12,
+   "reputation": 19,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6979754040041c000e9fb5eb/avatar.png?timestamp=1792089908",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "Coffinxp",
+    "verified": false
+   }
+  },
+  {
+   "rank": 5,
+   "reports_amount": 4,
+   "reputation": 19,
+   "user": {
+    "avatar": "/uploads/user_profile/avatar/6970bf0840041c000d4fe5b0/avatar.png?timestamp=1791783920",
+    "avatar_present": true,
+    "kyc": false,
+    "nickname": "Umbreon",
+    "verified": true
+   }
+  }
+ ],
+ "hackerRanksCount": 235,
+ "repoLink": "",
+ "poolUrl": "",
+ "reportUrl": "",
+ "state": "published",
+ "status": "LIVE",
+ "rewards": {
+  "critical_max": 300000,
+  "critical_min": 300000,
+  "high_max": 100000,
+  "high_min": 100000,
+  "low_max": 1000,
+  "low_min": 1000,
+  "medium_max": 10000,
+  "medium_min": 10000
+ },
+ "description": "Aurora Labs have created the Aurora Engine: an EVM layer that interconnects Ethereum and NEAR ecosystems.",
+ "sla": {
+  "first_response": 3,
+  "resolution_time": 30,
+  "time_to_reward": 5,
+  "time_to_triage": 3
+ },
+ "totalRewards": 14500,
+ "submittedReports": 635,
+ "scopes": [
+  {
+   "criticality": "Critical",
+   "id": "62cfe839fd18041b1999adc5",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://explorer.near.org/accounts/aurora",
+   "target_description": "Aurora",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfe839fd18041b1999adc6",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/aurora-engine/tree/master/engine",
+   "target_description": "Engine Master",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfe839fd18041b1999adc7",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/aurora-engine/tree/develop/engine",
+   "target_description": "Engine Dev",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfe839fd18041b1999adc8",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/aurora-engine/tree/master/engine-precompiles",
+   "target_description": "Engine Master Precompiles",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfe839fd18041b1999adc9",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-precompiles",
+   "target_description": "EngineDevPrecompiles",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfe839fd18041b1999adca",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/aurora-engine/tree/master/engine-sdk",
+   "target_description": "Engine Master SDK",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfe839fd18041b1999adcb",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-sdk",
+   "target_description": "Engine Dev SDK",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfe8c3fd18041b1999ae38",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/aurora-engine/tree/master/engine-transactions",
+   "target_description": "Engine Master Transactions",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfed1efd18041b1999ae61",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-transactions",
+   "target_description": "Engine Dev Transactions",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfed1efd18041b1999ae62",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/aurora-engine/tree/master/engine-types",
+   "target_description": "Master Engine Types",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfed1efd18041b1999ae63",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-types",
+   "target_description": "Dev Engine Types",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfedc6fd18041b1999ae85",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/aurora-engine/tree/master/etc/eth-contracts",
+   "target_description": "Master Eth Contracts",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfedc6fd18041b1999ae86",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/aurora-engine/tree/develop/etc/eth-contracts",
+   "target_description": "Dev Eth Contracts",
+   "title": "Engine"
+  },
+  {
+   "criticality": "Critical",
+   "id": "62cfedc6fd18041b1999ae89",
+   "out_of_scope": false,
+   "position": 0,
+   "target": "https://github.com/aurora-is-near/sputnikvm",
+   "target_description": "Sputnik EVM",
+   "title": "Engine"
+  }
+ ],
+ "programRules": "The following activities are prohibited by this bug bounty program:\r\n* Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\r\n* Any testing with pricing oracles or third party smart contracts\r\n* Attempting phishing or other social engineering attacks against our employees and/or customers\r\n* Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\r\n* Any denial of service attacks\r\n* Automated testing of services that generates significant amounts of traffic\r\n* Public disclosure of an unpatched vulnerability in an embargoed bounty\r\n",
+ "focusArea": "## GENERAL\r\n* NOTE! Aurora is entitled to make payments in AURORA tokens - locked distribution within 1 year linearly unlock.\r\n* All smart contracts of Aurora can be found at https://github.com/aurora-is-near. However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program. \r\n* The Aurora team aims to communicate any changes to the Assets in Scope table with HackenProof  as soon as possible.\r\n* If an impact can be caused to any other asset managed by Aurora that isn\u2019t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project. This only applies to Critical impacts.\r\n* Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.\r\n* The total maximum reward for High and Critical severity bugs is capped at 10% of the funds that are practically affected by the discovered vulnerability: maxReward = min(10% TVL, maxSeverityBudget)\r\n* All findings are limited by top reward in their severity:  \r\n\t\t  -- Low - up to $1000  \r\n\t\t  -- Medium - up to $10 000  \r\n\t\t  -- High - up to $100 000  \r\n\t\t  -- Critical - up to $1 000 000  \r\n\r\n\r\n## IN-SCOPE \u2013 SMART CONTRACT VULNERABILITIES\r\n Only the following impacts are accepted within this bug bounty program. All other impacts are not considered  as in-scope, even if they affect something in the assets in scope table.\r\n \r\n* Any governance voting result manipulation\r\n* Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield\r\n* Permanent freezing of funds\r\n* Insolvency\r\n* Theft of unclaimed yield\r\n* Permanent freezing of unclaimed yield\r\n* Temporary freezing of funds\r\n* Smart contract unable to operate due to lack of funds\r\n* Block stuffing for profit\r\n* Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)\r\n* Theft of gas\r\n* Unbounded gas consumption\r\n* Smart contract fails to deliver promised returns, but doesn\u2019t lose value\r\n\r\n## OUT OF SCOPE \u2013 SMART CONTRACT AND BLOCKCHAIN\r\n* Incorrect data supplied by third party oracles\r\n* Not to exclude oracle manipulation/flash loan attacks\r\n* Basic economic governance attacks (e.g. 51% attack)\r\n* Lack of liquidity\r\n* Best practice critiques\r\n* Sybil attacks\r\n* Centralization risks\r\n",
+ "disclosureGuidelines": "* As this is a private program, please do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization\r\n* No vulnerability disclosure, including partial, is allowed for the moment.\r\n* Please do NOT publish/discuss bugs \r\n",
+ "eligibilityAndCoordinateDisclosure": "We are happy to thank everyone who submits valid reports, which help us improve the security. However, only those who meet the following eligibility requirements may receive a monetary reward:\r\n* You must be the first vulnerability reporter.\r\n* The vulnerability must be a qualifying vulnerability\r\n* Any vulnerability found must be reported no later than 24 hours after discovery, and exclusively through hackenproof.com\r\n* You must send a clear textual description of the report along with steps to reproduce the issue, including attachments such as screenshots or proof of concept code as necessary.\r\n* You must not be a former or current employee of us or one of its contractors.\r\n* ONLY USE YOUR HackenProof ADDRESS (in case of violation, no bounty can be awarded)\r\n* Provide detailed but to-the-point reproduction steps, proof of concept is mandatory for all severity types of smart contract and webapp vulnerabilities.\r\n* Hacker must successfully pass KYC in order to be eligible for the reward.\r\n",
+ "labels": {
+  "types": [
+   "smart contract"
+  ],
+  "languages": [
+   "Rust",
+   "Solidity"
+  ],
+  "platforms": [],
+  "project_types": [
+   "Bridge",
+   "L1/L2"
+  ]
+ },
+ "customBlocks": [],
+ "scopeReview": 320324,
+ "activityStatus": {
+  "name": "Active",
+  "downtime": null
+ },
+ "maxBounty": "300000.0",
+ "minBounty": "500.0"
+}

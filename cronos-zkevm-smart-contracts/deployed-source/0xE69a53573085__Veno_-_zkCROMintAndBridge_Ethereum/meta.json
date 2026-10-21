@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/ZkCroMintAndBridge.sol:ZkCroMintAndBridge",
+ "compiler": "0.8.24+commit.e11b9ed9",
+ "address": "0xE69a535730858fd8Dc386B448972A9f801aB4e12",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Veno - zkCROMintAndBridge (Ethereum)",
+ "asset_url": "https://etherscan.io/address/0xE69a535730858fd8Dc386B448972A9f801aB4e12",
+ "files": 18
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/fee-manager/fees/ExitRateDirectFee.sol:ExitRateDirectFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x769c732a17f6e72d7ba0fe79ad01a31b27bbcb3d",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ExitRateDirectFee",
+ "asset_url": "https://arbiscan.io/address/0x769c732a17f6e72d7ba0fe79ad01a31b27bbcb3d",
+ "files": 14
+}

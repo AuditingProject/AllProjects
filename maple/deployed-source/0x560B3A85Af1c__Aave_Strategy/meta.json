@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "modules/maple-proxy-factory/modules/proxy-factory/contracts/Proxy.sol:Proxy",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x560B3A85Af1cEF113BB60105d0Cf21e1d05F91d4",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Aave Strategy",
+ "asset_url": "https://etherscan.io/address/0x560B3A85Af1cEF113BB60105d0Cf21e1d05F91d4",
+ "files": 3
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/external-position-manager/external-positions/aave-v3-debt/AaveV3DebtPositionParser.sol:AaveV3DebtPositionParser",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x03acc0a48e0d6d24756481ff60b34af8f5def881",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "AaveV3DebtPositionParser",
+ "asset_url": "https://polygonscan.com/address/0x03acc0a48e0d6d24756481ff60b34af8f5def881",
+ "files": 11
+}

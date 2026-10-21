@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/address-list-registry/address-list-owners/AaveV3ATokenListOwner.sol:AaveV3ATokenListOwner",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x575af64231a91b3a954d5e45a57187ace6549c81",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "AaveV3ATokenListOwner",
+ "asset_url": "https://arbiscan.io/address/0x575af64231a91b3a954d5e45a57187ace6549c81",
+ "files": 13
+}

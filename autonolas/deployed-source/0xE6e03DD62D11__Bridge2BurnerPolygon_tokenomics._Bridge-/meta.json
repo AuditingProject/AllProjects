@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/utils/Bridge2BurnerPolygon.sol:Bridge2BurnerPolygon",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0xE6e03DD62D11f88A11D65663B398ED2B3Be2070c",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "Bridge2BurnerPolygon \u2014 tokenomics. Bridge-then-burn for Polygon. Polygon.",
+ "asset_url": "https://polygonscan.com/address/0xE6e03DD62D11f88A11D65663B398ED2B3Be2070c#code",
+ "files": 2
+}

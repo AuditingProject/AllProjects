@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/staking/PolygonTargetDispenserL2.sol:PolygonTargetDispenserL2",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x17d96ba4532fe91809326092fE4D5606A7B7a0d8",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "PolygonTargetDispenserL2 \u2014 tokenomics. L2 staking incentive target dispenser. Polygon.",
+ "asset_url": "https://polygonscan.com/address/0x17d96ba4532fe91809326092fE4D5606A7B7a0d8#code",
+ "files": 5
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@spherex-xyz/engine-contracts/src/SphereXEngine.sol:SphereXEngine",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x41260f637a993ce714Ece1ee9875F489e483e9b3",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "SphereXEngine",
+ "asset_url": "https://bscscan.com/address/0x41260f637a993ce714Ece1ee9875F489e483e9b3",
+ "files": 14
+}

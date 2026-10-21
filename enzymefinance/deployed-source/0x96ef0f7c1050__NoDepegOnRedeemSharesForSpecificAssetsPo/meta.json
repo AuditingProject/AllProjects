@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "NoDepegOnRedeemSharesForSpecificAssetsPolicy",
+ "compiler": "v0.8.19+commit.7dd6d404",
+ "address": "0x96ef0f7c10505460fa39c57a037a5ec2520b8b25",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "NoDepegOnRedeemSharesForSpecificAssetsPolicy",
+ "asset_url": "https://etherscan.io/address/0x96ef0f7c10505460fa39c57a037a5ec2520b8b25",
+ "files": 12
+}

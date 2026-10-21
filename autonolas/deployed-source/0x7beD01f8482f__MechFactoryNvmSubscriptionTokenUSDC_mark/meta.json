@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/mechs/nevermined_token/usdc/MechFactoryNvmSubscriptionTokenUSDC.sol:MechFactoryNvmSubscriptionTokenUSDC",
+ "compiler": "0.8.28+commit.7893614a",
+ "address": "0x7beD01f8482fF686F025628e7780ca6C1f0559fc",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "MechFactoryNvmSubscriptionTokenUSDC \u2014 marketplace. Factory deploying Nevermined-subscription USDC mech instances. Deployed on: Base 0x7beD01f8482fF686F025628e7780ca6C1f0559fc; Polygon 0x43fB32f25dce34EB76c78C7A42C8F40F84BCD237; Optimism 0x02C26437B292D86c5F4F21bbCcE0771948274f84.",
+ "asset_url": "https://basescan.org/address/0x7beD01f8482fF686F025628e7780ca6C1f0559fc#code",
+ "files": 28
+}

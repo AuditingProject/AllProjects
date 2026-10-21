@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/bridges/FxGovernorTunnel.sol:FxGovernorTunnel",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x9338b5153AE39BB89f50468E608eD9d764B755fD",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "FxGovernorTunnel \u2014 governance. L2 governance message receiver. Polygon.",
+ "asset_url": "https://polygonscan.com/address/0x9338b5153AE39BB89f50468E608eD9d764B755fD#code",
+ "files": 1
+}

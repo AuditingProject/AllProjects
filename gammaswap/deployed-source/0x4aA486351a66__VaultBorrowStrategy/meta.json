@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@gammaswap/v1-implementations/contracts/strategies/vault/lending/VaultBorrowStrategy.sol:VaultBorrowStrategy",
+ "compiler": "0.8.21+commit.d9974bed",
+ "address": "0x4aA486351a665921175E3ca1C328e90266cC3E10",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "VaultBorrowStrategy",
+ "asset_url": "https://arbiscan.io/address/0x4aA486351a665921175E3ca1C328e90266cC3E10#code",
+ "files": 35
+}

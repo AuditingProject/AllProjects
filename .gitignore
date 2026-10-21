@@ -1,0 +1,27 @@
+# Your own audit work folders (kept local)
+_hacks_scanned
+_hunt
+_hunt2
+_reports
+_rejected_folder
+_scanned_folder
+
+.DS_Store
+
+# ---------------------------------------------------------------------------
+# Cloned upstream repositories are NOT pushed.
+# They are third-party code, and every one is reproducible: each program's
+# SCOPE.md records the clone URL, the checked-out ref and the HEAD commit.
+#
+# This ignores everything one level inside a program folder, then re-includes
+# only the files this collection produced.
+# ---------------------------------------------------------------------------
+*/*
+
+# ...but keep the collection output:
+!*/SCOPE.md
+!*/program-data.json
+!*/program-hackenproof.json
+
+# ...and the explorer-verified contract source we fetched (~130 MB):
+!*/deployed-source/

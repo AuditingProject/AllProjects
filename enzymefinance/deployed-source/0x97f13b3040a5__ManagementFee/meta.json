@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/fee-manager/fees/ManagementFee.sol:ManagementFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x97f13b3040a565be791d331b0edd4b1b58dbd843",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ManagementFee",
+ "asset_url": "https://polygonscan.com/address/0x97f13b3040a565be791d331b0edd4b1b58dbd843",
+ "files": 46
+}

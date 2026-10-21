@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/synth-core/metarouter/MetaRouterGateway.sol:MetaRouterGateway",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xAb83653fd41511D638b69229afBf998Eb9B0F30c",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "MetaRouterGateway",
+ "asset_url": "https://polygonscan.com/address/0xAb83653fd41511D638b69229afBf998Eb9B0F30c#code",
+ "files": 2
+}

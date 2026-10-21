@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/PriceAndFeeCalculator.sol:PriceAndFeeCalculator",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0xFB6De307b11C50D8B8A0790cd5c82c620D574440",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "gtUSDa (Optimism) - PriceAndFeeCalculator",
+ "asset_url": "https://optimistic.etherscan.io/address/0xFB6De307b11C50D8B8A0790cd5c82c620D574440",
+ "files": 22
+}

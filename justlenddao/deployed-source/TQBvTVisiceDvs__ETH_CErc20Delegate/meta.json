@@ -1,0 +1,13 @@
+{
+ "source": "tronscan",
+ "match": "name-only",
+ "name": "CErc20Delegate",
+ "compiler": null,
+ "note": "TRONScan does not expose source for this contract; name only.",
+ "address": "TQBvTVisiceDvsQVbLbcYyWQGWP7wtaQnc",
+ "chain": 728126428,
+ "explorer_host": "tronscan.org",
+ "asset_description": "ETH CErc20Delegate",
+ "asset_url": "https://tronscan.org/#/contract/TQBvTVisiceDvsQVbLbcYyWQGWP7wtaQnc/code",
+ "files": 0
+}

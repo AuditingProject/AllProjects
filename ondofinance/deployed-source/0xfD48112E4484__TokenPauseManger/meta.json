@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TokenPauseManager",
+ "compiler": "v0.8.16+commit.07a7930e",
+ "address": "0xfD48112E448417CA79305a518c4186dF4b0A200a",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "TokenPauseManger",
+ "asset_url": "https://etherscan.io/address/0xfD48112E448417CA79305a518c4186dF4b0A200a",
+ "files": 11
+}

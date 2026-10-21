@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "BytesHelper",
+ "compiler": "v0.8.25+commit.b61c2a91",
+ "address": "0x146dfd96Da039FDE3B58D5964feF8E8357df2028",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "BytesHelper",
+ "asset_url": "https://etherscan.io/address/0x146dfd96Da039FDE3B58D5964feF8E8357df2028",
+ "files": 1
+}

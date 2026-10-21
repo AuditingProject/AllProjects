@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ManualValueOracleFactory",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x0edbb060a8f00f5967eecfc87c8559fa65501a3d",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ManualValueOracleFactory",
+ "asset_url": "https://etherscan.io/address/0x0edbb060a8f00f5967eecfc87c8559fa65501a3d",
+ "files": 6
+}

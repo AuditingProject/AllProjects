@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/external-position-manager/ExternalPositionManager.sol:ExternalPositionManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x9513b3a49fc9ae8b76942c94fb6f660c41fd7f47",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "ExternalPositionManager",
+ "asset_url": "https://polygonscan.com/address/0x9513b3a49fc9ae8b76942c94fb6f660c41fd7f47",
+ "files": 19
+}

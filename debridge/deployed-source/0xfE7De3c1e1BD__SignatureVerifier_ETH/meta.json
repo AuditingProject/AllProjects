@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "SignatureVerifier",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "SignatureVerifier ETH",
+ "asset_url": "https://etherscan.io/address/0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+ "files": 12
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/limit-order/GMTokenLimitOrder.sol:GMTokenLimitOrder",
+ "compiler": "0.8.24+commit.e11b9ed9",
+ "address": "0xf0Bc39Fc911F6437C84d16188dD8294F7110f451",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GMTokenLimitOrder",
+ "asset_url": "https://etherscan.io/address/0xf0Bc39Fc911F6437C84d16188dD8294F7110f451",
+ "files": 20
+}

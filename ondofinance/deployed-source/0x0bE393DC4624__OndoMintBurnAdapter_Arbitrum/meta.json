@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/layerZeroBridge/OndoMintBurnAdapter.sol:OndoMintBurnAdapter",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x0bE393DC46248E4285dc5CAcA3084bc7e9bfbB41",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "OndoMintBurnAdapter (Arbitrum)",
+ "asset_url": "https://arbiscan.io/address/0x0bE393DC46248E4285dc5CAcA3084bc7e9bfbB41#code",
+ "files": 43
+}

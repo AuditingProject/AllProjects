@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/fee-manager/fees/EntranceRateDirectFee.sol:EntranceRateDirectFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xfb8df7d5e320020cd8047226b81cf6d68f3e3c19",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "EntranceRateDirectFee",
+ "asset_url": "https://etherscan.io/address/0xfb8df7d5e320020cd8047226b81cf6d68f3e3c19",
+ "files": 46
+}

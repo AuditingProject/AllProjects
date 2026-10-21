@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MinSharesSupplyFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xbc9da8edde80ffb1294852d23ee1b385ea2d4929",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MinSharesSupplyFee",
+ "asset_url": "https://etherscan.io/address/0xbc9da8edde80ffb1294852d23ee1b385ea2d4929",
+ "files": 8
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/fee-manager/FeeManager.sol:FeeManager",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xa9928195a36ef1c238b1b8b5912b9fbce7554f73",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "FeeManager",
+ "asset_url": "https://basescan.org/address/0xa9928195a36ef1c238b1b8b5912b9fbce7554f73",
+ "files": 16
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x96D33bCF84DdE326014248E2896F79bbb9c13D6d",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PoolFactory and linked contracts",
+ "asset_url": "https://etherscan.io/address/0x96D33bCF84DdE326014248E2896F79bbb9c13D6d",
+ "files": 14
+}

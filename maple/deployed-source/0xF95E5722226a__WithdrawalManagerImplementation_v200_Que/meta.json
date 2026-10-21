@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "MapleWithdrawalManager.sol:MapleWithdrawalManager",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xF95E5722226a1018d058CD757B75F1D10289e967",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "WithdrawalManagerImplementation (v200) (Queue)",
+ "asset_url": "https://etherscan.io/address/0xF95E5722226a1018d058CD757B75F1D10289e967",
+ "files": 1
+}

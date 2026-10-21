@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "UniswapV3LiquidityPositionParser",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0x23805fed4b73a7b77c28f2823733736951c49d6c",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "UniswapV3LiquidityPositionParser",
+ "asset_url": "https://etherscan.io/address/0x23805fed4b73a7b77c28f2823733736951c49d6c",
+ "files": 19
+}

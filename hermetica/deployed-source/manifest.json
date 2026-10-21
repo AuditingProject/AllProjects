@@ -1,0 +1,116 @@
+[
+ {
+  "url": "https://explorer.hiro.so/txid/0x834662426960938e9d483ebfb7ecae90a6c5c0d4327e2cb4011700387d2167bf?chain=mainnet",
+  "desc": "HQ",
+  "status": "fetched",
+  "dir": "0x834662426960__HQ",
+  "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.hq-v1",
+  "source": "hiro-stacks-tx",
+  "files": 1
+ },
+ {
+  "url": "https://explorer.hiro.so/txid/0x0f1ad52bafc2099b9b75ecff15933546dc09a4c60ed93f902998c7eb570563e9?chain=mainnet",
+  "desc": "Blacklist",
+  "status": "fetched",
+  "dir": "0x0f1ad52bafc2__Blacklist",
+  "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.blacklist-v1",
+  "source": "hiro-stacks-tx",
+  "files": 1
+ },
+ {
+  "url": "https://explorer.hiro.so/txid/0x99e0e204634af511074897cae5d7b79602a808b1b4569a7f900fedb0ec2af245?chain=mainnet",
+  "desc": "Token",
+  "status": "fetched",
+  "dir": "0x99e0e204634a__Token",
+  "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.token-hbtc",
+  "source": "hiro-stacks-tx",
+  "files": 1
+ },
+ {
+  "url": "https://explorer.hiro.so/txid/0x49512dd2cf400a9b1ace64687d386b3d3d1ad40444de83f6dda1c29cebe01919?chain=mainnet",
+  "desc": "State",
+  "status": "fetched",
+  "dir": "0x49512dd2cf40__State",
+  "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.state-hbtc-v1",
+  "source": "hiro-stacks-tx",
+  "files": 1
+ },
+ {
+  "url": "https://explorer.hiro.so/txid/0xdd73e479841dbedba4fa6eee29be9dcef5d64e6093b905016ec1ba74dabba2ba?chain=mainnet",
+  "desc": "Reserve Fund",
+  "status": "fetched",
+  "dir": "0xdd73e479841d__Reserve_Fund",
+  "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.reserve-fund-hbtc-v1",
+  "source": "hiro-stacks-tx",
+  "files": 1
+ },
+ {
+  "url": "https://explorer.hiro.so/txid/0xb8ce9c1fb139bc4338ae3b6d6c5fa4525fafb87ed9f9ce515b213a0cc0022449?chain=mainnet",
+  "desc": "Reserve",
+  "status": "fetched",
+  "dir": "0xb8ce9c1fb139__Reserve",
+  "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.reserve-hbtc-v1",
+  "source": "hiro-stacks-tx",
+  "files": 1
+ },
+ {
+  "url": "https://explorer.hiro.so/txid/0x8a6cfafb63b1fb9549d42789cf2b9a160bcf5859257f4c578451d77dafd0a2e0?chain=mainnet",
+  "desc": "Controller",
+  "status": "fetched",
+  "dir": "0x8a6cfafb63b1__Controller",
+  "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.controller-hbtc-v1",
+  "source": "hiro-stacks-tx",
+  "files": 1
+ },
+ {
+  "url": "https://explorer.hiro.so/txid/0x87f8c3bc9625579280050678cdddf46b00f678009be32aab76e5d9beca4e7056?chain=mainnet",
+  "desc": "Fee Collector",
+  "status": "fetched",
+  "dir": "0x87f8c3bc9625__Fee_Collector",
+  "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.fee-collector-hbtc-v1",
+  "source": "hiro-stacks-tx",
+  "files": 1
+ },
+ {
+  "url": "https://explorer.hiro.so/txid/0xc1c3face1d66819ce2cd6f28876b07577c252812c4c43b2145ac89af61819117?chain=mainnet",
+  "desc": "Hermetica Interface",
+  "status": "fetched",
+  "dir": "0xc1c3face1d66__Hermetica_Interface",
+  "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.hermetica-interface-hbtc-v1",
+  "source": "hiro-stacks-tx",
+  "files": 1
+ },
+ {
+  "url": "https://explorer.hiro.so/txid/0x570b90c20a3b63e431a387a50ee3c9f6a3a709527731a8cbde75b731e9c7369a?chain=mainnet",
+  "desc": "Zest Interface",
+  "status": "fetched",
+  "dir": "0x570b90c20a3b__Zest_Interface",
+  "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.zest-interface-hbtc-v1",
+  "source": "hiro-stacks-tx",
+  "files": 1
+ },
+ {
+  "url": "https://explorer.hiro.so/txid/0x9e2cd7bdd7cc29cf30750835155060a42ebd26943c1f35d2a83b8e6e81f90a35?chain=mainnet",
+  "desc": "Trading",
+  "status": "fetched",
+  "dir": "0x9e2cd7bdd7cc__Trading",
+  "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.trading-hbtc-v1",
+  "source": "hiro-stacks-tx",
+  "files": 1
+ },
+ {
+  "url": "https://hermetica.fi/",
+  "desc": "Primacy of Impact",
+  "status": "skipped-unsupported",
+  "host": "hermetica.fi"
+ },
+ {
+  "url": "https://explorer.hiro.so/txid/0xb8e567a6f918e041e1fa5a9ca317fdf3048d14f57b0fefdd836cba9da14d3c6e?chain=mainnet",
+  "desc": "Vault",
+  "status": "fetched",
+  "dir": "0xb8e567a6f918__Vault",
+  "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.vault-hbtc-v1-1",
+  "source": "hiro-stacks-tx",
+  "files": 1
+ }
+]

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/proxy/ManagerProxy.sol:ManagerProxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x148D5b6B4df9530c7C76A810bd1Cdf69EC4c2085",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "L2Migrator (Proxy)",
+ "asset_url": "https://arbiscan.io/address/0x148D5b6B4df9530c7C76A810bd1Cdf69EC4c2085#code",
+ "files": 5
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MintedTokenCappedCrowdsaleExtv1",
+ "compiler": "0.7.6+commit.7338295f",
+ "address": "0xc9d7bd1Fad7D5621DdA20335818E9575Ae07Ea03",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MintedTokenCappedCrowdsaleExtv1",
+ "asset_url": "https://etherscan.io/address/0xc9d7bd1Fad7D5621DdA20335818E9575Ae07Ea03",
+ "files": 15
+}

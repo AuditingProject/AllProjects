@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/AllowedExternalPositionTypesPerManagerPolicy.sol:AllowedExternalPositionTypesPerManagerPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x38673bace2ae5e90d4936d0d90b58a3577795205",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "AllowedExternalPositionTypesPerManagerPolicy",
+ "asset_url": "https://arbiscan.io/address/0x38673bace2ae5e90d4936d0d90b58a3577795205",
+ "files": 13
+}

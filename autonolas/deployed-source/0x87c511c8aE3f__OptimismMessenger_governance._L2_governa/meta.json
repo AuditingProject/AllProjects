@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/bridges/OptimismMessenger.sol:OptimismMessenger",
+ "compiler": "0.8.23+commit.f704f362",
+ "address": "0x87c511c8aE3fAF0063b3F3CF9C6ab96c4AA5C60c",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "OptimismMessenger \u2014 governance. L2 governance message receiver (OP-stack). Deployed on: Optimism 0x87c511c8aE3fAF0063b3F3CF9C6ab96c4AA5C60c; Base 0xE49CB081e8d96920C38aA7AB90cb0294ab4Bc8EA; Celo 0xC14E191A64a7FB0e5790a8a0B9a58683dFFce04d; Mode 0x9338b5153AE39BB89f50468E608eD9d764B755fD.",
+ "asset_url": "https://optimistic.etherscan.io/address/0x87c511c8aE3fAF0063b3F3CF9C6ab96c4AA5C60c#code",
+ "files": 3
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/transfers/DeBridgeGate.sol:DeBridgeGate",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xcc7571c12b6f4647c4b8c851b62721f6a373c695",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "deBridgeGate MATIC",
+ "asset_url": "https://polygonscan.com/address/0xcc7571c12b6f4647c4b8c851b62721f6a373c695",
+ "files": 29
+}

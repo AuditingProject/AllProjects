@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/mechs/nevermined/MechFactoryNvmSubscriptionNative.sol:MechFactoryNvmSubscriptionNative",
+ "compiler": "0.8.28+commit.7893614a",
+ "address": "0x65fd74C29463afe08c879a3020323DD7DF02DA57",
+ "chain": 100,
+ "explorer_host": "gnosisscan.io",
+ "asset_description": "MechFactoryNvmSubscriptionNative \u2014 marketplace. Factory deploying Nevermined-subscription native-token mech instances. Deployed on: Gnosis 0x65fd74C29463afe08c879a3020323DD7DF02DA57; Base 0x847bBE8b474e0820215f818858e23F5f5591855A.",
+ "asset_url": "https://gnosisscan.io/address/0x65fd74C29463afe08c879a3020323DD7DF02DA57#code",
+ "files": 28
+}

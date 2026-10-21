@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "FixedPriceLBPoolFactory",
+ "compiler": "v0.8.27+commit.40a35a09",
+ "address": "0xeb1aa94421aecfb1dc17ddb1068e4609c4be8758",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "FixedPriceLBPoolFactory",
+ "asset_url": "https://etherscan.io/address/0xeb1aa94421aecfb1dc17ddb1068e4609c4be8758#code",
+ "files": 80
+}

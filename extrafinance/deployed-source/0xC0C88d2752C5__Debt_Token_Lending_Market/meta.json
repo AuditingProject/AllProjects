@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.optimism.io",
+ "match": "verified",
+ "name": "VariableDebtToken",
+ "compiler": "v0.8.24+commit.e11b9ed9",
+ "address": "0xC0C88d2752C58263c2b7F4Ac6ecBedC78eDD5d5E",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "Debt_Token (Lending Market)",
+ "asset_url": "https://optimistic.etherscan.io/address/0xC0C88d2752C58263c2b7F4Ac6ecBedC78eDD5d5E#code",
+ "files": 22
+}

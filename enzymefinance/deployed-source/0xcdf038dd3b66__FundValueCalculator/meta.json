@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/off-chain/FundValueCalculator.sol:FundValueCalculator",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xcdf038dd3b66506d2e5378aee185b2f0084b7a33",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "FundValueCalculator",
+ "asset_url": "https://polygonscan.com/address/0xcdf038dd3b66506d2e5378aee185b2f0084b7a33",
+ "files": 54
+}

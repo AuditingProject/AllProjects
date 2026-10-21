@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/ERC1967.sol:ERC1967Proxy",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x9fae23a2700feecd5b93e43fdbc03c76aa7c08a6",
+ "chain": 25,
+ "explorer_host": "explorer.cronos.com",
+ "asset_description": "Smart Contract - VNO - LCRO",
+ "asset_url": "https://explorer.cronos.com/address/0x9fae23a2700feecd5b93e43fdbc03c76aa7c08a6",
+ "files": 1
+}

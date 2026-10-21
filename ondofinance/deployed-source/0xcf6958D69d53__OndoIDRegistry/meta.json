@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.16+commit.07a7930e",
+ "address": "0xcf6958D69d535FD03BD6Df3F4fe6CDcd127D97df",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoIDRegistry",
+ "asset_url": "https://etherscan.io/address/0xcf6958D69d535FD03BD6Df3F4fe6CDcd127D97df",
+ "files": 8
+}

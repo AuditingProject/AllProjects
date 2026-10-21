@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.immutable.com",
+ "match": "verified",
+ "name": "ChildERC20Bridge",
+ "compiler": "v0.8.19+commit.7dd6d404",
+ "address": "0xb4c3597e6b090A2f6117780cEd103FB16B071A84",
+ "chain": 13371,
+ "explorer_host": "explorer.immutable.com",
+ "asset_description": "L2 zkEVM Chain ID 13371 - Bridge Implementation",
+ "asset_url": "https://explorer.immutable.com/address/0xb4c3597e6b090A2f6117780cEd103FB16B071A84",
+ "files": 1
+}

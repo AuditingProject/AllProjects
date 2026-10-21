@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.inkonchain.com",
+ "match": "verified",
+ "name": "BoringOnChainQueue",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0x406E63323EF5d39D41C6fD895Ef9665AF926184c",
+ "chain": 57073,
+ "explorer_host": "explorer.inkonchain.com",
+ "asset_description": "BoringOnChainQueue",
+ "asset_url": "https://explorer.inkonchain.com/address/0x406E63323EF5d39D41C6fD895Ef9665AF926184c",
+ "files": 21
+}

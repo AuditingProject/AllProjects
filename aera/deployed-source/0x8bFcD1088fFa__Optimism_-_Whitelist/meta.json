@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "src/core/Whitelist.sol:Whitelist",
+ "compiler": "0.8.29+commit.ab55807c",
+ "address": "0x8bFcD1088fFa41B46329567ae5c4Cd872AB38c0f",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "Optimism - Whitelist",
+ "asset_url": "https://optimistic.etherscan.io/address/0x8bFcD1088fFa41B46329567ae5c4Cd872AB38c0f",
+ "files": 8
+}

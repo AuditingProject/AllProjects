@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.optimism.io",
+ "match": "verified",
+ "name": "VeloPositionManager",
+ "compiler": "0.8.18+commit.87f61d96",
+ "address": "0xf9cfb8a62f50e10adde5aa888b44cf01c5957055",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "VeloPositionManage (LYF)",
+ "asset_url": "https://optimistic.etherscan.io/address/0xf9cfb8a62f50e10adde5aa888b44cf01c5957055",
+ "files": 20
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/xManager/OndoOracle/OndoOracle.sol:OndoOracle",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x9Cad45a8BF0Ed41Ff33074449B357C7a1fAb4094",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoOracle",
+ "asset_url": "https://etherscan.io/address/0x9Cad45a8BF0Ed41Ff33074449B357C7a1fAb4094",
+ "files": 13
+}

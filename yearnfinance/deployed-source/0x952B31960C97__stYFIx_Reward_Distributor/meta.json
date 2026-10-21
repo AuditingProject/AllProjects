@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "DelegatedStakingRewardDistributor.vy:DelegatedStakingRewardDistributor",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0x952B31960C97E76362Ac340D07D183aDa15e3d6E",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFIx Reward Distributor",
+ "asset_url": "https://etherscan.io/address/0x952B31960C97E76362Ac340D07D183aDa15e3d6E",
+ "files": 1
+}

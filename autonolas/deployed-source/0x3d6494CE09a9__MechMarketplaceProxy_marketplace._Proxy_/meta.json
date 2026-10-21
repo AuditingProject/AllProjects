@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "MechMarketplaceProxy",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x3d6494CE09a9f40c0B5a92BdBD7c7A9b0e3912b1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MechMarketplaceProxy \u2014 marketplace. Proxy for MechMarketplace. Deployed on: Ethereum 0x3d6494CE09a9f40c0B5a92BdBD7c7A9b0e3912b1; Gnosis 0x735FAAb1c4Ec41128c367AFb5c3baC73509f70bB; Base 0xf24eE42edA0fc9b33B7D41B06Ee8ccD2Ef7C5020; Polygon 0x343F2B005cF6D70bA610CD9F1F1927049414B582; Optimism 0x46C0D07F55d4F9B5Eed2Fc9680B5953e5fd7b461; Arbitrum 0xf76953444C35F1FcE2F6CA1b167173357d3F5C17; Celo 0x17d96ba4532fe91809326092fE4D5606A7B7a0d8.",
+ "asset_url": "https://etherscan.io/address/0x3d6494CE09a9f40c0B5a92BdBD7c7A9b0e3912b1#code",
+ "files": 1
+}

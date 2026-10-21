@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/bridges/HomeMediator.sol:HomeMediator",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x15bd56669F57192a97dF41A2aa8f4403e9491776",
+ "chain": 100,
+ "explorer_host": "gnosisscan.io",
+ "asset_description": "HomeMediator \u2014 governance. L2 governance message receiver. Gnosis.",
+ "asset_url": "https://gnosisscan.io/address/0x15bd56669F57192a97dF41A2aa8f4403e9491776#code",
+ "files": 1
+}

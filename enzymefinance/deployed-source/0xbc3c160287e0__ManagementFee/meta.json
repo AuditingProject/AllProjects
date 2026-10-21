@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/fee-manager/fees/ManagementFee.sol:ManagementFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xbc3c160287e0ea7ce4c1a0312cc02b94e4e03bff",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "ManagementFee",
+ "asset_url": "https://basescan.org/address/0xbc3c160287e0ea7ce4c1a0312cc02b94e4e03bff",
+ "files": 16
+}

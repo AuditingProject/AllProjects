@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "UChildERC20Proxy.sol:UChildERC20Proxy",
+ "compiler": "0.6.6+commit.6c089d02",
+ "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "USDT0 Polygon",
+ "asset_url": "https://polygonscan.com/address/0xc2132D05D31c914a87C6611C10748AEb04B58e8F#code",
+ "files": 1
+}

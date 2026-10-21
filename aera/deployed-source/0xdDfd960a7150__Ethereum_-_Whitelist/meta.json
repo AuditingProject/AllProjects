@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Whitelist",
+ "compiler": "v0.8.29+commit.ab55807c",
+ "address": "0xdDfd960a7150520548dD1F6E53CC2f201b364692",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Ethereum - Whitelist",
+ "asset_url": "https://etherscan.io/address/0xdDfd960a7150520548dD1F6E53CC2f201b364692",
+ "files": 8
+}

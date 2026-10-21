@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "lisUSD",
+ "asset_url": "https://bscscan.com/address/0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+ "files": 1
+}

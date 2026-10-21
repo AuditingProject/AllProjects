@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/persistent/uint-list-registry/UintListRegistry.sol:UintListRegistry",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xc438e48f5d2f99eb4a2b9865f8cccfc9915f227a",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "UintListRegistry",
+ "asset_url": "https://arbiscan.io/address/0xc438e48f5d2f99eb4a2b9865f8cccfc9915f227a",
+ "files": 3
+}

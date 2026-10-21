@@ -1,0 +1,12 @@
+{
+ "source": "hiro-stacks-tx",
+ "match": "on-chain",
+ "name": "SP1S1HSFH0SQQGWKB69EYFNY0B1MHRMGXR3J1FH4D.blacklist-v1",
+ "compiler": "clarity4",
+ "address": "0x0f1ad52bafc2099b9b75ecff15933546dc09a4c60ed93f902998c7eb570563e9",
+ "chain": null,
+ "explorer_host": "explorer.hiro.so",
+ "asset_description": "Blacklist",
+ "asset_url": "https://explorer.hiro.so/txid/0x0f1ad52bafc2099b9b75ecff15933546dc09a4c60ed93f902998c7eb570563e9?chain=mainnet",
+ "files": 1
+}

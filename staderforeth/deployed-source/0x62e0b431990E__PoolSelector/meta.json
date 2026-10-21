@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.9+commit.e5eed63a",
+ "address": "0x62e0b431990Ea128fe685E764FB04e7d604603B0",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PoolSelector",
+ "asset_url": "https://etherscan.io/address/0x62e0b431990Ea128fe685E764FB04e7d604603B0",
+ "files": 14
+}

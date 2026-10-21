@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0x10417734001162ea139e8b044dfe28dbb8b28ad0",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "ARB Bridge",
+ "asset_url": "https://arbiscan.io/address/0x10417734001162ea139e8b044dfe28dbb8b28ad0#code",
+ "files": 15
+}

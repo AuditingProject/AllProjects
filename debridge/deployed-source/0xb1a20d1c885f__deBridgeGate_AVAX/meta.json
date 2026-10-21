@@ -1,0 +1,12 @@
+{
+ "source": "routescan",
+ "match": "verified",
+ "name": "DeBridgeGate",
+ "compiler": "v0.8.7+commit.e28d00a7",
+ "address": "0xb1a20d1c885fd775df97396397d6f8f07abdd20d",
+ "chain": 43114,
+ "explorer_host": "snowtrace.io",
+ "asset_description": "deBridgeGate AVAX",
+ "asset_url": "https://snowtrace.io/address/0xb1a20d1c885fd775df97396397d6f8f07abdd20d",
+ "files": 29
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0x5e61a079A178f0E5784107a4963baAe0c5a680c6",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "PoolFactory and linked contracts",
+ "asset_url": "https://optimistic.etherscan.io/address/0x5e61a079A178f0E5784107a4963baAe0c5a680c6",
+ "files": 1
+}

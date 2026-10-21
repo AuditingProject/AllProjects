@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.optimism.io",
+ "match": "verified",
+ "name": "VeToken",
+ "compiler": "0.8.18+commit.87f61d96",
+ "address": "0xe0bec4f45aef64cec9dcb9010d4beffb13e91466",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "VeToken (LYF)",
+ "asset_url": "https://optimistic.etherscan.io/address/0xe0bec4f45aef64cec9dcb9010d4beffb13e91466",
+ "files": 1
+}

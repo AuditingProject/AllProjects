@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/Proxy.sol:TokenProxy",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "USDY Token",
+ "asset_url": "https://etherscan.io/address/0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
+ "files": 9
+}

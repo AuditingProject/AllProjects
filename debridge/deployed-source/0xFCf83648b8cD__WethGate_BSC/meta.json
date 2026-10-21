@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/transfers/WethGate.sol:WethGate",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "WethGate BSC",
+ "asset_url": "https://bscscan.com/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+ "files": 3
+}

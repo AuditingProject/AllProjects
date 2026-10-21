@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "NonTransparentProxy",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x804a6F5F667170F545Bf14e5DDB48C70B788390C",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "MapleGlobalsProxy (v2)",
+ "asset_url": "https://etherscan.io/address/0x804a6F5F667170F545Bf14e5DDB48C70B788390C",
+ "files": 2
+}

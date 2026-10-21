@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "MaplePool.sol:MaplePool",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Pool (For reference)",
+ "asset_url": "https://etherscan.io/address/0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
+ "files": 1
+}

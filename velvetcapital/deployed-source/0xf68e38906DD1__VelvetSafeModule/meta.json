@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/vault/VelvetSafeModule.sol:VelvetSafeModule",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0xf68e38906DD101f0617A6fB4A0FA25694620C013",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "VelvetSafeModule",
+ "asset_url": "https://bscscan.com/address/0xf68e38906DD101f0617A6fB4A0FA25694620C013",
+ "files": 15
+}

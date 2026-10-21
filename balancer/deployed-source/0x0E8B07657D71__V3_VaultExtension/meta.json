@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "VaultExtension",
+ "compiler": "0.8.26+commit.8a97fa7a",
+ "address": "0x0E8B07657D719B86e06bF0806D6729e3D528C9A9",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "V3 VaultExtension",
+ "asset_url": "https://etherscan.io/address/0x0E8B07657D719B86e06bF0806D6729e3D528C9A9",
+ "files": 62
+}

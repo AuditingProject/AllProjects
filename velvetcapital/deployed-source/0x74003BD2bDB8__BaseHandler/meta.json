@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/handler/BaseHandler.sol:BaseHandler",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x74003BD2bDB88EE4D6b55F88FB88616686a6f214",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "BaseHandler",
+ "asset_url": "https://bscscan.com/address/0x74003BD2bDB88EE4D6b55F88FB88616686a6f214",
+ "files": 10
+}

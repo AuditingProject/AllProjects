@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/policy-manager/policies/current-shareholders/AllowedAssetsForRedemptionPolicy.sol:AllowedAssetsForRedemptionPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x0637460015fdb07bc7e4cf58dc52f8159272c7e0",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "AllowedAssetsForRedemptionPolicy",
+ "asset_url": "https://basescan.org/address/0x0637460015fdb07bc7e4cf58dc52f8159272c7e0",
+ "files": 12
+}

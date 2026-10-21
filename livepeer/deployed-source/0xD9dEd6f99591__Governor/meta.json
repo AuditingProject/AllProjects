@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/governance/Governor.sol:Governor",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0xD9dEd6f9959176F0A04dcf88a0d2306178A736a6",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "Governor",
+ "asset_url": "https://arbiscan.io/address/0xD9dEd6f9959176F0A04dcf88a0d2306178A736a6#code",
+ "files": 2
+}

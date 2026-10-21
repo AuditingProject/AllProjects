@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "OndoTokenRouter",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x99B8d1D1c17a10CD1A878d1A44c11fd7E4daD7bC",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OndoTokenRouter",
+ "asset_url": "https://etherscan.io/address/0x99B8d1D1c17a10CD1A878d1A44c11fd7E4daD7bC",
+ "files": 19
+}

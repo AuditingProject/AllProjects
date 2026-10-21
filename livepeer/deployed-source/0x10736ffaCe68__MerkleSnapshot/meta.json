@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/snapshots/MerkleSnapshot.sol:MerkleSnapshot",
+ "compiler": "0.8.9+commit.e5eed63a",
+ "address": "0x10736ffaCe687658F88a46D042631d182C7757f7",
+ "chain": 42161,
+ "explorer_host": "arbiscan.io",
+ "asset_description": "MerkleSnapshot",
+ "asset_url": "https://arbiscan.io/address/0x10736ffaCe687658F88a46D042631d182C7757f7#code",
+ "files": 7
+}

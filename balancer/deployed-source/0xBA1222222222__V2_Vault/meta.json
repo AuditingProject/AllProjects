@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Vault",
+ "compiler": "0.7.1+commit.f4a555be",
+ "address": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "V2 Vault",
+ "asset_url": "https://etherscan.io/address/0xBA12222222228d8Ba445958a75a0704d566BF2C8#code",
+ "files": 45
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/persistent/dispatcher/Dispatcher.sol:Dispatcher",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x2e25271297537b8124b8f883a92ffd95c4032733",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "Dispatcher",
+ "asset_url": "https://polygonscan.com/address/0x2e25271297537b8124b8f883a92ffd95c4032733",
+ "files": 6
+}

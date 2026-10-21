@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "src/Auctions/AuctionFactory.sol:AuctionFactory",
+ "compiler": "0.8.18+commit.87f61d96",
+ "address": "0xbC587a495420aBB71Bbd40A0e291B64e80117526",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Auction Factory",
+ "asset_url": "https://etherscan.io/address/0xbC587a495420aBB71Bbd40A0e291B64e80117526",
+ "files": 17
+}

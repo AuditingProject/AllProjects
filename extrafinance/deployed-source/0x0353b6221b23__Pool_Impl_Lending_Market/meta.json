@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.optimism.io",
+ "match": "verified",
+ "name": "Pool",
+ "compiler": "v0.8.24+commit.e11b9ed9",
+ "address": "0x0353b6221b23b8320202320ca450eeb9fb0de9e5",
+ "chain": 10,
+ "explorer_host": "optimistic.etherscan.io",
+ "asset_description": "Pool_Impl (Lending Market)",
+ "asset_url": "https://optimistic.etherscan.io/address/0x0353b6221b23b8320202320ca450eeb9fb0de9e5#code",
+ "files": 46
+}

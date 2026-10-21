@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "Yearn_Builder_Collective.vy:Yearn_Builder_Collective",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0xd6AFd78C05f0d425F2b46359746dD44991dCB315",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI YBC",
+ "asset_url": "https://etherscan.io/address/0xd6AFd78C05f0d425F2b46359746dD44991dCB315",
+ "files": 1
+}

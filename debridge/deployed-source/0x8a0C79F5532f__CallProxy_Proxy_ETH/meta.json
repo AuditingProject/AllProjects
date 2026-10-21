@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.2+commit.661d1103",
+ "address": "0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "CallProxy Proxy ETH",
+ "asset_url": "https://etherscan.io/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+ "files": 13
+}

@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "Workbench.sol:Workbench",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x6a2d178585806de5a2e5e7f9acfce44680637284",
+ "chain": 25,
+ "explorer_host": "explorer.cronos.com",
+ "asset_description": "Smart Contract - VVS - Workbench",
+ "asset_url": "https://explorer.cronos.com/address/0x6a2d178585806de5a2e5e7f9acfce44680637284",
+ "files": 1
+}

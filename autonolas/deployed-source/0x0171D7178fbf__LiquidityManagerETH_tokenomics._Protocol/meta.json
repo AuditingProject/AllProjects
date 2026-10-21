@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "LiquidityManagerETH",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x0171D7178fbf3B48E75675DEE2EA3EfecEf775C1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "LiquidityManagerETH \u2014 tokenomics. Protocol-owned-liquidity manager implementation (Ethereum). Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x0171D7178fbf3B48E75675DEE2EA3EfecEf775C1#code",
+ "files": 14
+}

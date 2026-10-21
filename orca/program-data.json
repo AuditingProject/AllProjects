@@ -1,0 +1,147 @@
+{
+ "assets": [
+  {
+   "id": "5GqtMqeW4q31b6gOZBfTrJ",
+   "url": "https://solscan.io/account/StaKE6XNKVVhG8Qu9hDJBqCW3eRe7MDGLz17nJZetLT",
+   "type": "smart_contract",
+   "addedAt": "2026-01-08T09:23:34.111Z",
+   "revision": 0,
+   "description": "xORCA",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "3eLgXbnQaKA6kNzm6CeYYJ",
+   "url": "https://solscan.io/account/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+   "type": "smart_contract",
+   "addedAt": "2025-08-12T07:01:18.898Z",
+   "revision": 0,
+   "description": "Orca Whirlpools",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  }
+ ],
+ "rewards": [
+  {
+   "id": 50149,
+   "primacy": null,
+   "severity": "critical",
+   "assetType": "smart_contract",
+   "maxReward": 500000,
+   "rewardModel": "up_to",
+   "rewardCalculationPercentage": 10
+  },
+  {
+   "id": 50150,
+   "primacy": null,
+   "severity": "high",
+   "assetType": "smart_contract",
+   "fixedReward": 50000,
+   "rewardModel": "fixed"
+  },
+  {
+   "id": 50151,
+   "primacy": null,
+   "severity": "medium",
+   "assetType": "smart_contract",
+   "fixedReward": 10000,
+   "rewardModel": "fixed"
+  }
+ ],
+ "impacts": [
+  {
+   "id": 2676,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Bugs that could temporarily freeze user funds or incorrectly assign value to user funds"
+  },
+  {
+   "id": 2677,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Temporary freezing of unclaimed yield for any amount of time"
+  },
+  {
+   "id": 23,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Theft of unclaimed yield"
+  },
+  {
+   "id": 29,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Smart contract unable to operate due to lack of token funds"
+  },
+  {
+   "id": 2678,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Block stuffing for profit"
+  },
+  {
+   "id": 31,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
+  },
+  {
+   "id": 32,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Theft of gas"
+  },
+  {
+   "id": 33,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Unbounded gas consumption"
+  },
+  {
+   "id": 2679,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Bugs that freeze user funds or drain the contract's holdings or involve theft of funds without user signatures"
+  },
+  {
+   "id": 15,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
+  },
+  {
+   "id": 17,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Permanent freezing of funds"
+  }
+ ],
+ "knownIssues": null,
+ "programCodebases": [
+  {
+   "id": 636,
+   "url": "https://github.com/orca-so/xorca",
+   "title": "xORCA",
+   "description": "xORCA Staking Smart Contract"
+  },
+  {
+   "id": 388,
+   "url": "https://github.com/orca-so/whirlpools",
+   "title": "Orca Whirlpools",
+   "description": "Orca Whirlpools Smart Contract"
+  }
+ ],
+ "maxBounty": 500000,
+ "kyc": false,
+ "updatedDate": "2026-08-18T05:06:10.250Z",
+ "launchDate": "2022-05-19T17:30:00.000Z",
+ "programOverview": "Orca is one of the first general-purpose AMMs launched on Solana. Users can swap assets, provide liquidity, and earn yield through an easy-to-use interface. Orca has created custom smart contracts for its concentrated liquidity product, [Whirlpools](https://www.orca.so/whirlpools). In traditional AMM liquidity pools, a user provides liquidity across the entire continuous price curve. With Whirlpools, each user can specify the price range where they will provide liquidity.\n\nFor more information on Orca, please visit [https://orca.so/](https://orca.so/) or [Orca\u2019s Twitter](https://twitter.com/orca_so).",
+ "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nRewards for critical smart contract vulnerabilities can be further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum reward of __USD 100 000__ for Critical smart contract bug reports. \n\nPayouts are handled by the __Orca__ team directly and are denominated in USD. Payouts of up to __USD 250 000__ are done in __ORCA__ or __USDC__ (SPL Version) at the discretion of the team. Payouts above __USD 250 000__ will be done in __ORCA__ and will be vested monthly over a 12-month period.",
+ "customOutOfScopeInformation": "  - Best practice critiques",
+ "assetsBodyV2": "However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nIf any Critical/High severity impact can be caused to any other asset managed by Orca that isn\u2019t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project.",
+ "impactsBody": null
+}

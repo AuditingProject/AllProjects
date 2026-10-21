@@ -1,0 +1,157 @@
+{
+ "assets": [
+  {
+   "id": "2kByIvctLMNAuAwWrRtuiG",
+   "url": "https://arbiscan.io/address/0x80d40e32fad8be8da5c6a42b8af1e181984d137c",
+   "type": "smart_contract",
+   "addedAt": "2024-09-17T15:21:20.097Z",
+   "revision": 0,
+   "description": "Aevo Deposit Contract Arbitrum",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "4CXFz2CNif1kiWpFkhvOkz",
+   "url": "https://etherscan.io/address/0x4082C9647c098a6493fb499EaE63b5ce3259c574",
+   "type": "smart_contract",
+   "addedAt": "2024-09-17T15:21:36.394Z",
+   "revision": 0,
+   "description": "Aevo Deposit Contract Ethereum",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  }
+ ],
+ "rewards": [
+  {
+   "id": 49428,
+   "primacy": null,
+   "severity": "critical",
+   "assetType": "smart_contract",
+   "maxReward": 300000,
+   "minReward": 50000,
+   "rewardModel": "range",
+   "rewardCalculationPercentage": 0
+  },
+  {
+   "id": 49429,
+   "primacy": null,
+   "severity": "high",
+   "assetType": "smart_contract",
+   "maxReward": 50000,
+   "minReward": 10000,
+   "rewardModel": "range"
+  },
+  {
+   "id": 49430,
+   "primacy": null,
+   "severity": "medium",
+   "assetType": "smart_contract",
+   "maxReward": 25000,
+   "minReward": 5000,
+   "rewardModel": "range"
+  },
+  {
+   "id": 49431,
+   "primacy": null,
+   "severity": "low",
+   "assetType": "smart_contract",
+   "fixedReward": 1000,
+   "rewardModel": "fixed"
+  }
+ ],
+ "impacts": [
+  {
+   "id": 34,
+   "type": "smart_contract",
+   "severity": "low",
+   "title": "Contract fails to deliver promised returns, but doesn't lose value"
+  },
+  {
+   "id": 23,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Theft of unclaimed yield"
+  },
+  {
+   "id": 25,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Permanent freezing of unclaimed yield"
+  },
+  {
+   "id": 27,
+   "type": "smart_contract",
+   "severity": "high",
+   "title": "Temporary freezing of funds"
+  },
+  {
+   "id": 29,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Smart contract unable to operate due to lack of token funds"
+  },
+  {
+   "id": 276,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Block stuffing for profit"
+  },
+  {
+   "id": 32,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Theft of gas"
+  },
+  {
+   "id": 33,
+   "type": "smart_contract",
+   "severity": "medium",
+   "title": "Unbounded gas consumption"
+  },
+  {
+   "id": 277,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Any governance voting result manipulation"
+  },
+  {
+   "id": 15,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
+  },
+  {
+   "id": 17,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Permanent freezing of funds"
+  },
+  {
+   "id": 278,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Miner-extractable value (MEV)"
+  },
+  {
+   "id": 22,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Protocol insolvency"
+  }
+ ],
+ "knownIssues": null,
+ "programCodebases": null,
+ "maxBounty": 300000,
+ "kyc": false,
+ "updatedDate": "2026-07-23T08:56:16.945Z",
+ "launchDate": "2021-04-12T07:00:00.000Z",
+ "programOverview": "Aevo is a new protocol that creates crypto structured products for DeFi. Structured products are packaged financial instruments that use a\ncombination of derivatives to achieve some specific risk-return objective, such as betting on volatility, enhancing yields or principal protection.  \n\nThe bug bounty program is focused around its smart contracts and is mostly concerned with the loss of user funds.\n\nFor more information about Aevo, please visit https://aevo.xyz",
+ "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on\nthe [Immunefi Vulnerability Severity Classification System](/severity-system/). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nSmart Contracts Critical:\n  - Loss of user funds:\n    - 1% of all assets at risk, minimum __50 000 USD__, maximum __300 000 USD__\n  - Loss of non-user funds (e.g. treasury):\n    - 1% of assets at risk, minimum __50 000 USD__ , maximum __150 000 USD__\n\nSmart Contracts High:\n  - 1% of all assets at risk when attack persists for 1 month minimum __10 000 USD__, maximum of __50 000 USD__\n\nSmart Contracts Medium:\n  - 1% of all assets at risk when attack persists for 1 month minimum __5 000 USD__, maximum __25 000 USD__\n\nSmart Contracts Low:\n  - __2 000 USD__\n\nPayouts are handled by the **Aevo** team directly and are denominated in USD. However, payouts are done in **USDC**.",
+ "customOutOfScopeInformation": "- Best practice critiques\n \n-  Oracle failure/manipulation\n- Novel governance attacks \n- Congestion and scalability\n  - including running out of gas\n  - including block stuffing\n  - including susceptibility to frontrunning\n- Consensus failures\n- Cryptography problems\n  - Signature malleability\n  - Susceptibility to replay attacks\n  - Weak randomness\n- Weak encryption",
+ "assetsBodyV2": null,
+ "impactsBody": null
+}

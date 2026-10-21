@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/FeeModel.sol:FeeModel",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x84cFc251F9cC8B2cf9cc1D6EaB3D2bEAA2C128F5",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "FeeModel",
+ "asset_url": "https://bscscan.com/address/0x84cFc251F9cC8B2cf9cc1D6EaB3D2bEAA2C128F5",
+ "files": 17
+}

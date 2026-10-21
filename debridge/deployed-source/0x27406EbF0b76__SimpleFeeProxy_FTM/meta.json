@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/periphery/SimpleFeeProxy.sol:SimpleFeeProxy",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x27406EbF0b76923d93b4C6c6224bCaB7fFf11f87",
+ "chain": 250,
+ "explorer_host": "ftmscan.com",
+ "asset_description": "SimpleFeeProxy FTM",
+ "asset_url": "https://ftmscan.com/address/0x27406EbF0b76923d93b4C6c6224bCaB7fFf11f87",
+ "files": 13
+}

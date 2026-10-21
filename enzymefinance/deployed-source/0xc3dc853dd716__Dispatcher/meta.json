@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/persistent/dispatcher/Dispatcher.sol:Dispatcher",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xc3dc853dd716bd5754f421ef94fdcbac3902ab32",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Dispatcher",
+ "asset_url": "https://etherscan.io/address/0xc3dc853dd716bd5754f421ef94fdcbac3902ab32",
+ "files": 6
+}

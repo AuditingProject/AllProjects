@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "0.8.20+commit.a1b79de6",
+ "address": "0x92e56d2146D54d5AEcB25CA36c89D027a6ea0D90",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "OracleQuorumManager",
+ "asset_url": "https://etherscan.io/address/0x92e56d2146D54d5AEcB25CA36c89D027a6ea0D90",
+ "files": 9
+}

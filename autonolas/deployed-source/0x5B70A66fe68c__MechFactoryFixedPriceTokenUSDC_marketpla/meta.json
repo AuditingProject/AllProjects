@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/mechs/token/usdc/MechFactoryFixedPriceTokenUSDC.sol:MechFactoryFixedPriceTokenUSDC",
+ "compiler": "0.8.30+commit.73712a01",
+ "address": "0x5B70A66fe68c4c86FFd724B58cc56049c70e9D3D",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "MechFactoryFixedPriceTokenUSDC \u2014 marketplace. USDC-specific factory variant for fixed-price mech instances (Solidity 0.8.30). Deployed on: Base 0x5B70A66fe68c4c86FFd724B58cc56049c70e9D3D; Polygon 0x85899f9d8C058A5BBBaF344ea0f0b63c0CcBe851; Optimism 0x93111f6C267068A5d7356114D61d0f09bFD53a54.",
+ "asset_url": "https://basescan.org/address/0x5B70A66fe68c4c86FFd724B58cc56049c70e9D3D#code",
+ "files": 29
+}

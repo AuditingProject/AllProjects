@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/MaplePoolDelegateCover.sol:MaplePoolDelegateCover",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x9e62FE15d0E99cE2b30CE0D256e9Ab7b6893AfF5",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "PoolDelegateCover (For reference)",
+ "asset_url": "https://etherscan.io/address/0x9e62FE15d0E99cE2b30CE0D256e9Ab7b6893AfF5",
+ "files": 4
+}

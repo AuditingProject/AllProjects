@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/external-position-manager/external-positions/aave-v3-debt/AaveV3DebtPositionParser.sol:AaveV3DebtPositionParser",
+ "compiler": "0.8.19+commit.7dd6d404",
+ "address": "0x211b9327c66f621c0b7248bfa6828ea8644f1f7c",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "AaveV3DebtPositionParser",
+ "asset_url": "https://basescan.org/address/0x211b9327c66f621c0b7248bfa6828ea8644f1f7c",
+ "files": 11
+}

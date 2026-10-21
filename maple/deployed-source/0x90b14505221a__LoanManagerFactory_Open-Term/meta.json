@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/LoanManagerFactory.sol:LoanManagerFactory",
+ "compiler": "0.8.7+commit.e28d00a7",
+ "address": "0x90b14505221a24039a2d11ad5862339db97cc160",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "LoanManagerFactory (Open-Term)",
+ "asset_url": "https://etherscan.io/address/0x90b14505221a24039a2d11ad5862339db97cc160",
+ "files": 12
+}

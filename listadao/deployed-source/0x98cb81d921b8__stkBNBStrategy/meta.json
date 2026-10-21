@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "TransparentUpgradeableProxy.sol:TransparentUpgradeableProxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0x98cb81d921b8f5020983a46e96595471ad4e60be",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "stkBNBStrategy",
+ "asset_url": "https://bscscan.com/address/0x98cb81d921b8f5020983a46e96595471ad4e60be",
+ "files": 1
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.inkonchain.com",
+ "match": "verified",
+ "name": "TransparentUpgradeableProxy",
+ "compiler": "v0.8.9+commit.e5eed63a",
+ "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+ "chain": 57073,
+ "explorer_host": "explorer.inkonchain.com",
+ "asset_description": "USDT0 INK",
+ "asset_url": "https://explorer.inkonchain.com/address/0x0200C29006150606B650577BBE7B6248F58470c1",
+ "files": 14
+}

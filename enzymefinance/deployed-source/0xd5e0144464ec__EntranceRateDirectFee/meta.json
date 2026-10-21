@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/fee-manager/fees/EntranceRateDirectFee.sol:EntranceRateDirectFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xd5e0144464ec160ed2b4ce27f734a975bad2d938",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "EntranceRateDirectFee",
+ "asset_url": "https://basescan.org/address/0xd5e0144464ec160ed2b4ce27f734a975bad2d938",
+ "files": 14
+}

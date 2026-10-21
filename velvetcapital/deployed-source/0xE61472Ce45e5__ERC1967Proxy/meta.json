@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.11+commit.d7f03943",
+ "address": "0xE61472Ce45e559830ECF12F6a215Cd732F4D798B",
+ "chain": 56,
+ "explorer_host": "bscscan.com",
+ "asset_description": "ERC1967Proxy",
+ "asset_url": "https://bscscan.com/address/0xE61472Ce45e559830ECF12F6a215Cd732F4D798B",
+ "files": 8
+}

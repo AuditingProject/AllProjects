@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "GnosisDepositProcessorL1",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x48d4631f24dAce505c04D5A39458BED209e80A3c",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "GnosisDepositProcessorL1 \u2014 tokenomics. L1 staking incentive deposit processor for Gnosis. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x48d4631f24dAce505c04D5A39458BED209e80A3c#code",
+ "files": 3
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "VoteWeighting",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x95418b46d5566D3d1ea62C12Aea91227E566c5c1",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "VoteWeighting \u2014 governance. Gauge weight voting for staking nominees. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0x95418b46d5566D3d1ea62C12Aea91227E566c5c1#code",
+ "files": 1
+}

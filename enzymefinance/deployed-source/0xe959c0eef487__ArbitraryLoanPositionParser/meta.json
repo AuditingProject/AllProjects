@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "ArbitraryLoanPositionParser",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xe959c0eef487f7ee098ad10998d9dfcf4fa1d1af",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "ArbitraryLoanPositionParser",
+ "asset_url": "https://etherscan.io/address/0xe959c0eef487f7ee098ad10998d9dfcf4fa1d1af",
+ "files": 12
+}

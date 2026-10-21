@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "StakingVerifier",
+ "compiler": "0.8.25+commit.b61c2a91",
+ "address": "0x4503b79d468e81Ad2d4bd6Db991810da269bA777",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "StakingVerifier \u2014 registries. Verifier of staking contract parameters. Deployed on: Ethereum 0x4503b79d468e81Ad2d4bd6Db991810da269bA777; Polygon 0x8Bc0a5c5B1612A16983B01ecd7ae130E728390CB; Gnosis 0x1D59DadE4FAeA7771eC7221420012d413175404C; Arbitrum 0x7Fd1F4b764fA41d19fe3f63C85d12bf64d2bbf68; Optimism 0x526E064cB694E8f5B7DB299158e17F33055B3943; Base 0x10c5525F77F13b28f42c5626240c001c2D57CAd4; Celo 0x4aba1Cf7a39a51D75cBa789f5f21cf4882162519; Mode 0x87c511c8aE3fAF0063b3F3CF9C6ab96c4AA5C60c.",
+ "asset_url": "https://etherscan.io/address/0x4503b79d468e81Ad2d4bd6Db991810da269bA777#code",
+ "files": 1
+}

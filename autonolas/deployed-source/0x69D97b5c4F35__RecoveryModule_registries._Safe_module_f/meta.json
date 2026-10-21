@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "RecoveryModule",
+ "compiler": "v0.8.30+commit.73712a01",
+ "address": "0x69D97b5c4F35fd3A72FA83b6B1eB911c6A8a2e3c",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "RecoveryModule \u2014 registries. Safe module for service multisig recovery. Deployed on: Ethereum 0x69D97b5c4F35fd3A72FA83b6B1eB911c6A8a2e3c; Polygon 0x02C26437B292D86c5F4F21bbCcE0771948274f84; Gnosis 0x0Cb12457ed26d572c5e4A50f30b6f7A904662a72; Arbitrum 0xD0863340f947bE329c67e196e192705e53A1338f; Optimism 0x6e7f594f680f7aBad18b7a63de50F0FeE47dfD06; Base 0x359d53C326388D24037b3b1590d217fdb5EEE74c; Celo 0x24F792D51b398928459Dfbb4181bDb4D5d2CD472; Mode 0x1d79e0a600B61FAC1B8F40c27347e48962Ed2f23.",
+ "asset_url": "https://etherscan.io/address/0x69D97b5c4F35fd3A72FA83b6B1eB911c6A8a2e3c#code",
+ "files": 2
+}

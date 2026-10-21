@@ -1,0 +1,48 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/1inch/limit-order-protocol/tree/4.3.4",
+   "type": "smart_contract",
+   "description": "Limit order protocol"
+  },
+  {
+   "url": "https://github.com/1inch/fusion-protocol/tree/3.1.1",
+   "type": "smart_contract",
+   "description": "Limit order settlement"
+  },
+  {
+   "url": "https://github.com/1inch/token-plugins/tree/2.0.0",
+   "type": "smart_contract",
+   "description": "Token-plugins"
+  },
+  {
+   "url": "https://github.com/1inch/farming/tree/4.0.0",
+   "type": "smart_contract",
+   "description": "Farming contracts"
+  },
+  {
+   "url": "https://github.com/1inch/delegating/tree/2.0.0",
+   "type": "smart_contract",
+   "description": "Delegating contracts"
+  },
+  {
+   "url": "https://github.com/1inch/solana-crosschain-protocol/tree/1.1.0",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  },
+  {
+   "url": "https://github.com/1inch/solana-crosschain-protocol",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  },
+  {
+   "url": "https://github.com/1inch/solana-fusion/tree/1.0.0-release",
+   "type": "smart_contract",
+   "description": "Smart Contract"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "1inch-smart-contract",
+ "maxBounty": "500000.0",
+ "kyc": true
+}

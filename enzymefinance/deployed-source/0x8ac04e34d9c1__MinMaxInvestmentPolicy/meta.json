@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/new-shareholders/MinMaxInvestmentPolicy.sol:MinMaxInvestmentPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x8ac04e34d9c1d0bd5a440157538cc6fbb0dbbc9a",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "MinMaxInvestmentPolicy",
+ "asset_url": "https://polygonscan.com/address/0x8ac04e34d9c1d0bd5a440157538cc6fbb0dbbc9a",
+ "files": 4
+}

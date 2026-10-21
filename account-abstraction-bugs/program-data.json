@@ -1,0 +1,23 @@
+{
+ "assets": [
+  {
+   "url": "https://github.com/eth-infinitism/account-abstraction",
+   "type": "smart_contract",
+   "description": "Only includes `core` and `utils` folders"
+  },
+  {
+   "url": "https://github.com/ethereum/ercs/blob/master/ERCS/erc-4337.md",
+   "type": "smart_contract",
+   "description": "Protocol"
+  },
+  {
+   "url": "https://github.com/ethereum/ercs/blob/master/ERCS/erc-7562.md",
+   "type": "smart_contract",
+   "description": "Protocol"
+  }
+ ],
+ "platform": "hackenproof",
+ "slug": "account-abstraction-bugs",
+ "maxBounty": "250000.0",
+ "kyc": true
+}

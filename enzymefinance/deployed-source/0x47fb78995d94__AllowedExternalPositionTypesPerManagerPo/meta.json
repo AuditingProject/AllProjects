@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/policy-manager/policies/asset-managers/AllowedExternalPositionTypesPerManagerPolicy.sol:AllowedExternalPositionTypesPerManagerPolicy",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x47fb78995d945d501f6f9bad343d7ce7d3db54ab",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AllowedExternalPositionTypesPerManagerPolicy",
+ "asset_url": "https://etherscan.io/address/0x47fb78995d945d501f6f9bad343d7ce7d3db54ab",
+ "files": 46
+}

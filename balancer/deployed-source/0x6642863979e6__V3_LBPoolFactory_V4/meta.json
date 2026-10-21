@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "LBPoolFactory",
+ "compiler": "v0.8.27+commit.40a35a09",
+ "address": "0x6642863979e66d995717A2B836A121700595069A",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "V3 LBPoolFactory (V4)",
+ "asset_url": "https://etherscan.io/address/0x6642863979e66d995717A2B836A121700595069A#code",
+ "files": 81
+}

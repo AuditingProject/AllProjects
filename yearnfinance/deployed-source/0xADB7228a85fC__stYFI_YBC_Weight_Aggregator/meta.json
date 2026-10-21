@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "YBC_Weight_Aggregator.vy:YBC_Weight_Aggregator",
+ "compiler": "0.4.2+commit.c216787f",
+ "address": "0xADB7228a85fCD24E3Cfc8C58E2d4b9F03E1468D9",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "stYFI YBC Weight Aggregator",
+ "asset_url": "https://etherscan.io/address/0xADB7228a85fCD24E3Cfc8C58E2d4b9F03E1468D9#code",
+ "files": 1
+}

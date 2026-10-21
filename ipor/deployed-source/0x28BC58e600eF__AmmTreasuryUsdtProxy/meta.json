@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "ERC1967Proxy.sol:ERC1967Proxy",
+ "compiler": "0.8.2+commit.661d1103",
+ "address": "0x28BC58e600eF718B9E97d294098abecb8c96b687",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AmmTreasuryUsdtProxy",
+ "asset_url": "https://etherscan.io/address/0x28BC58e600eF718B9E97d294098abecb8c96b687",
+ "files": 1
+}

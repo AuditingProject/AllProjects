@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:explorer.inkonchain.com",
+ "match": "verified",
+ "name": "AccountantWithYieldStreaming",
+ "compiler": "v0.8.21+commit.d9974bed",
+ "address": "0x9c2477D4Ea17d3cCC45e6b1087c94d14926F54C9",
+ "chain": 57073,
+ "explorer_host": "explorer.inkonchain.com",
+ "asset_description": "AccountantWithYieldStreaming",
+ "asset_url": "https://explorer.inkonchain.com/address/0x9c2477D4Ea17d3cCC45e6b1087c94d14926F54C9",
+ "files": 17
+}

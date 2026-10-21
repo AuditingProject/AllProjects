@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/release/extensions/fee-manager/fees/PerformanceFee.sol:PerformanceFee",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0x072d99cf2a75aadf605b9970ccba0352e7c4947c",
+ "chain": 8453,
+ "explorer_host": "basescan.org",
+ "asset_description": "PerformanceFee",
+ "asset_url": "https://basescan.org/address/0x072d99cf2a75aadf605b9970ccba0352e7c4947c",
+ "files": 15
+}

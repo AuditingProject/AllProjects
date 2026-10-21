@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "exact_match",
+ "name": "contracts/release/extensions/integration-manager/integrations/adapters/UniswapV3Adapter.sol:UniswapV3Adapter",
+ "compiler": "0.6.12+commit.27d51765",
+ "address": "0xe11f3f7ac24a0839b3a3b13bd7eb5bc5e65e2483",
+ "chain": 137,
+ "explorer_host": "polygonscan.com",
+ "asset_description": "UniswapV3Adapter",
+ "asset_url": "https://polygonscan.com/address/0xe11f3f7ac24a0839b3a3b13bd7eb5bc5e65e2483",
+ "files": 14
+}

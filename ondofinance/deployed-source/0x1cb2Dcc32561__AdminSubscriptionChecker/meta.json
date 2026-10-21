@@ -1,0 +1,12 @@
+{
+ "source": "sourcify",
+ "match": "match",
+ "name": "contracts/xManager/rwaManagers/AdminSubscriptionChecker.sol:AdminSubscriptionChecker",
+ "compiler": "0.8.16+commit.07a7930e",
+ "address": "0x1cb2Dcc325615d02ae384941149d1dA6521fa018",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "AdminSubscriptionChecker",
+ "asset_url": "https://etherscan.io/address/0x1cb2Dcc325615d02ae384941149d1dA6521fa018",
+ "files": 11
+}

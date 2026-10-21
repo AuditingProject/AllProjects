@@ -1,0 +1,95 @@
+{
+ "assets": [
+  {
+   "id": "3s1cHutA02JIUYEZAOX6Zn",
+   "url": "https://etherscan.io/address/0xfCEF2Fe72413b65d3F393d278A714caD87512bcd#code",
+   "type": "smart_contract",
+   "addedAt": "2022-08-04T20:39:32.451Z",
+   "revision": 0,
+   "description": "MetaRouterGateway",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "1giLh98n7NjgKqIOdSRENy",
+   "url": "https://bscscan.com/address/0x5c97D726bf5130AE15408cE32bc764e458320D2f#code",
+   "type": "smart_contract",
+   "addedAt": "2022-08-04T20:40:56.454Z",
+   "revision": 0,
+   "description": "MetaRouterGateway",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "2xg5EsZfGkR3uZevqmREnl",
+   "url": "https://snowtrace.io/address/0x4cfA66497Fa84D739a0f785FBcEe9196f1C64e4a#code",
+   "type": "smart_contract",
+   "addedAt": "2022-08-04T20:41:41.370Z",
+   "revision": 0,
+   "description": "MetaRouterGateway",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  },
+  {
+   "id": "2nJ8klFdFbAD3QmYs1swfa",
+   "url": "https://polygonscan.com/address/0xAb83653fd41511D638b69229afBf998Eb9B0F30c#code",
+   "type": "smart_contract",
+   "addedAt": "2022-08-04T20:42:26.355Z",
+   "revision": 0,
+   "description": "MetaRouterGateway",
+   "isSafeHarbor": false,
+   "isPrimacyOfImpact": false,
+   "fund": null,
+   "info": null
+  }
+ ],
+ "rewards": [
+  {
+   "id": 51312,
+   "primacy": null,
+   "severity": "critical",
+   "assetType": "smart_contract",
+   "fixedReward": 100000,
+   "rewardModel": "fixed",
+   "rewardCalculationPercentage": 10
+  }
+ ],
+ "impacts": [
+  {
+   "id": 3083,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Direct theft of any user funds (ERC-20 tokens), whether at-rest or in-motion, other than unclaimed yield"
+  },
+  {
+   "id": 3084,
+   "type": "smart_contract",
+   "severity": "critical",
+   "title": "Permanent freezing of funds (ERC-20 tokens)"
+  }
+ ],
+ "knownIssues": null,
+ "programCodebases": [
+  {
+   "id": 136,
+   "url": "https://github.com/symbiosis-finance",
+   "title": "Symbiosis Codebase",
+   "description": "Program Codebase"
+  }
+ ],
+ "maxBounty": 100000,
+ "kyc": false,
+ "updatedDate": "2026-10-01T13:27:31.076Z",
+ "launchDate": "2022-08-18T09:30:00.000Z",
+ "programOverview": "Symbiosis stands out as a platform that utilizes cross-chain swaps without a need to perform numerous transactions. It additionally aggregates liquidity from various Automated Market Makers (AMM) and Decentralized Exchanges (DEX) across multiple EVM and non-EVM chains.\n\nSymbiosis leverages a decentralized Relayers Network - an off-chain ecosystem of relayer node runners that verify and transfer information across blockchains. Relayers network nodes ensure the smooth and secure data transfer and enhance the platform\u2019s security and resilience against central points of failure. Relayers Network nodes have to stake SIS to participate in consensus and process swaps.\n\nFor more information about Symbiosis, please visit [https://symbiosis.finance](https://symbiosis.finance/).",
+ "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported. \n\nAll Critical severity bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required. In addition, all Critical severity bug reports must also come with a suggestion for a fix to be considered for a reward. \n\nAll known issues previously highlighted in the following audit reports are considered out of scope: \n  - [https://github.com/symbiosis-finance/audits](https://github.com/symbiosis-finance/audits) \n\nPayouts are handled by the __Symbiosis__ team directly and are denominated in USD. However, payouts are done in __USDT__(ERC20), __USDT__(BEP20), __USDC__(ERC20) or __USDC__(Polygon), at the discretion of the bug report submitter.",
+ "customOutOfScopeInformation": "  - Best practice critiques",
+ "assetsBodyV2": "Only those in the Assets in Scope table are considered as in-scope of the bug bounty program.",
+ "impactsBody": null
+}

@@ -1,0 +1,12 @@
+{
+ "source": "blockscout:eth.blockscout.com",
+ "match": "verified",
+ "name": "Treasury",
+ "compiler": "v0.8.18+commit.87f61d96",
+ "address": "0xa0DA53447C0f6C4987964d8463da7e6628B30f82",
+ "chain": 1,
+ "explorer_host": "etherscan.io",
+ "asset_description": "Treasury \u2014 tokenomics. Holds OLAS/ETH; epoch reward rebalancing. Ethereum.",
+ "asset_url": "https://etherscan.io/address/0xa0DA53447C0f6C4987964d8463da7e6628B30f82#code",
+ "files": 6
+}
